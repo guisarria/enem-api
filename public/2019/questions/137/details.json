@@ -1,43 +1,50 @@
 {
-    "title": "Questão 137 - ENEM 2019",
-    "index": 137,
-    "year": 2019,
-    "language": null,
-    "discipline": "matematica",
-    "context": "A _Hydrangea macrophyila_ é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a _Hydrangea_ cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8.\n\nSabe-se que pH = – log10x, em que x é a concentração de íon hidrogênio (H+).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Para produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Qualquer valor acima de 10^{-8}10​−8    \t​​.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Qualquer valor positivo inferior a 10^{-7}10​−7​​.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Valores maiores que 7 e menores que 8.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Valores maiores que 70 e menores que 80.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Valores maiores que 10^{-8}10​−8​​ e menores que 10^{-7}10​−7​​.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2019:137",
+  "variantKey": "137",
+  "title": "Questão 137 - ENEM 2019",
+  "index": 137,
+  "year": 2019,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "A _Hydrangea macrophyila_ é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH &lt; 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH &gt; 7) a flor é rosa. Considere que a _Hydrangea_ cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8.\n\nSabe-se que pH = – log10x, em que x é a concentração de íon hidrogênio (H+).",
+  "alternativesIntroductionMarkdown": "Para produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2019:137:A",
+      "letter": "A",
+      "textMarkdown": "Qualquer valor acima de 10^{-8}10​−8    \t​​.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:137:B",
+      "letter": "B",
+      "textMarkdown": "Qualquer valor positivo inferior a 10^{-7}10​−7​​.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:137:C",
+      "letter": "C",
+      "textMarkdown": "Valores maiores que 7 e menores que 8.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:137:D",
+      "letter": "D",
+      "textMarkdown": "Valores maiores que 70 e menores que 80.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:137:E",
+      "letter": "E",
+      "textMarkdown": "Valores maiores que 10^{-8}10​−8​​ e menores que 10^{-7}10​−7​​.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

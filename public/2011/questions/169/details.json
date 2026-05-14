@@ -1,46 +1,65 @@
 {
-    "title": "Questão 169 - ENEM 2011",
-    "index": 169,
-    "year": 2011,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png)\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![](https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png)",
-    "files": [
-        "https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png",
-        "https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:169",
+  "variantKey": "169",
+  "title": "Questão 169 - ENEM 2011",
+  "index": 169,
+  "year": 2011,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png)\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![](/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png)",
+  "alternativesIntroductionMarkdown": "A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
+  "assets": [
+    {
+      "id": "2011:169:asset:0",
+      "path": "/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2011:169:asset:1",
+      "path": "/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2011:169:A",
+      "letter": "A",
+      "textMarkdown": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:169:B",
+      "letter": "B",
+      "textMarkdown": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:169:C",
+      "letter": "C",
+      "textMarkdown": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:169:D",
+      "letter": "D",
+      "textMarkdown": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:169:E",
+      "letter": "E",
+      "textMarkdown": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

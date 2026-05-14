@@ -1,43 +1,50 @@
 {
-    "title": "Questão 104 - ENEM 2012",
-    "index": 104,
-    "year": 2012,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Com o texto eletrônico, enfim, parece estar ao alcance de nossos olhos e de nossas mãos um sonho muito antigo da humanidade, que se poderia resumir em duas palavras, universalidade e interatividade.  \nAs luzes, que pensavam que Gutenberg tinha propiciado aos homens uma promessa universal, cultivavam um modo de utopia. Elas imaginavam poder, a partir das práticas privadas de cada um, construir um espaço de intercâmbio crítico das ideias e opiniões. O sonho de Kant era que cada um fosse ao mesmo tempo leitor e autor, que emitisse juízos sobre as instituições de seu tempo, quaisquer que elas fossem e que, ao mesmo tempo, pudesse refletir sobre o juízo emitido pelos outros. Aquilo que outrora só era permitido pela comunicação manuscrita ou a circulação dos impressos encontra hoje um suporte poderoso com o texto eletrônico.\n\nCHARTIER, R. **A aventura do livro**: do leitor ao navegador. São Paulo: Imprensa Oficial do Estado de São Paulo; Unesp, 1998.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No trecho apresentado, o sociólogo Roger Chartier caracteriza o texto eletrônico como um poderoso suporte que coloca ao alcance da humanidade o antigo sonho de universalidade e interatividade, uma vez que cada um passa a ser, nesse espaço de interação social, leitor e autor ao mesmo tempo. A universalidade e a interatividade que o texto eletrônico possibilita estão diretamente relacionadas à função social da internet de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Propiciar o livre e imediato acesso às informações e ao intercâmbio de julgamentos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Globalizar a rede de informações e democratizar o acesso aos saberes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Expandir as relações interpessoais e dar visibilidade aos interesses pessoais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Propiciar entretenimento e acesso a produtos e serviços.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Expandir os canais de publicidade e o espaço mercadológico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:104",
+  "variantKey": "104",
+  "title": "Questão 104 - ENEM 2012",
+  "index": 104,
+  "year": 2012,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Com o texto eletrônico, enfim, parece estar ao alcance de nossos olhos e de nossas mãos um sonho muito antigo da humanidade, que se poderia resumir em duas palavras, universalidade e interatividade.  \nAs luzes, que pensavam que Gutenberg tinha propiciado aos homens uma promessa universal, cultivavam um modo de utopia. Elas imaginavam poder, a partir das práticas privadas de cada um, construir um espaço de intercâmbio crítico das ideias e opiniões. O sonho de Kant era que cada um fosse ao mesmo tempo leitor e autor, que emitisse juízos sobre as instituições de seu tempo, quaisquer que elas fossem e que, ao mesmo tempo, pudesse refletir sobre o juízo emitido pelos outros. Aquilo que outrora só era permitido pela comunicação manuscrita ou a circulação dos impressos encontra hoje um suporte poderoso com o texto eletrônico.\n\nCHARTIER, R. **A aventura do livro**: do leitor ao navegador. São Paulo: Imprensa Oficial do Estado de São Paulo; Unesp, 1998.",
+  "alternativesIntroductionMarkdown": "No trecho apresentado, o sociólogo Roger Chartier caracteriza o texto eletrônico como um poderoso suporte que coloca ao alcance da humanidade o antigo sonho de universalidade e interatividade, uma vez que cada um passa a ser, nesse espaço de interação social, leitor e autor ao mesmo tempo. A universalidade e a interatividade que o texto eletrônico possibilita estão diretamente relacionadas à função social da internet de",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2012:104:A",
+      "letter": "A",
+      "textMarkdown": "Propiciar o livre e imediato acesso às informações e ao intercâmbio de julgamentos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:104:B",
+      "letter": "B",
+      "textMarkdown": "Globalizar a rede de informações e democratizar o acesso aos saberes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:104:C",
+      "letter": "C",
+      "textMarkdown": "Expandir as relações interpessoais e dar visibilidade aos interesses pessoais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:104:D",
+      "letter": "D",
+      "textMarkdown": "Propiciar entretenimento e acesso a produtos e serviços.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:104:E",
+      "letter": "E",
+      "textMarkdown": "Expandir os canais de publicidade e o espaço mercadológico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

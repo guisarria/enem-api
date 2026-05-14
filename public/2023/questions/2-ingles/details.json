@@ -1,43 +1,50 @@
 {
-    "title": "Questão 2 - ENEM 2023",
-    "index": 2,
-    "year": 2023,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "No man is an island,  \nEntire of itself;  \nEvery man is a piece of the continent,  \nA part of the main.  \n\\[…\\]  \nAny man’s death diminishes me,  \nBecause I am involved in mankind.\n\nDONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Nesse poema, a expressão “No man is an island” ressalta o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Medo da morte.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ideia de conexão.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Conceito de solidão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Risco de devastação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Necessidade de empatia.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:2-ingles",
+  "variantKey": "2-ingles",
+  "title": "Questão 2 - ENEM 2023",
+  "index": 2,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "No man is an island,  \nEntire of itself;  \nEvery man is a piece of the continent,  \nA part of the main.  \n[…]  \nAny man’s death diminishes me,  \nBecause I am involved in mankind.\n\nDONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).",
+  "alternativesIntroductionMarkdown": "Nesse poema, a expressão “No man is an island” ressalta o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2023:2-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Medo da morte.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Ideia de conexão.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:2-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Conceito de solidão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Risco de devastação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Necessidade de empatia.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

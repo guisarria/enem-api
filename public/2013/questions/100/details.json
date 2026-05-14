@@ -1,43 +1,50 @@
 {
-    "title": "Questão 100 - ENEM 2013",
-    "index": 100,
-    "year": 2013,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Até quando?**\n\nNão adianta olhar pro céu  \nCom muita fé e pouca luta  \nLevanta aí que você tem muito protesto pra fazer  \nE muita greve, você pode, você deve, pode crer  \nNão adianta olhar pro chão  \nVirar a cara pra não ver  \nSe liga aí que te botaram numa cruz e só porque Jesus  \nSofreu não quer dizer que você tenha que sofrer!\n\nGABRIEL, O PENSADOR. **Seja você mesmo (mas não seja sempre o mesmo)**. Rio de Janeiro: Sony Music, 2001 (fragmento).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "As escolhas linguísticas feitas pelo autor conferem ao texto",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Caráter atual, pelo uso de linguagem própria da internet.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Cunho apelativo, pela predominância de imagens metafóricas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Tom de diálogo, pela recorrência de gírias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Espontaneidade, pelo uso da linguagem coloquial.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Originalidade, pela concisão da linguagem.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2013",
+  "index": 100,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Até quando?**\n\nNão adianta olhar pro céu  \nCom muita fé e pouca luta  \nLevanta aí que você tem muito protesto pra fazer  \nE muita greve, você pode, você deve, pode crer  \nNão adianta olhar pro chão  \nVirar a cara pra não ver  \nSe liga aí que te botaram numa cruz e só porque Jesus  \nSofreu não quer dizer que você tenha que sofrer!\n\nGABRIEL, O PENSADOR. **Seja você mesmo (mas não seja sempre o mesmo)**. Rio de Janeiro: Sony Music, 2001 (fragmento).",
+  "alternativesIntroductionMarkdown": "As escolhas linguísticas feitas pelo autor conferem ao texto",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:100:A",
+      "letter": "A",
+      "textMarkdown": "Caráter atual, pelo uso de linguagem própria da internet.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:100:B",
+      "letter": "B",
+      "textMarkdown": "Cunho apelativo, pela predominância de imagens metafóricas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:100:C",
+      "letter": "C",
+      "textMarkdown": "Tom de diálogo, pela recorrência de gírias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:100:D",
+      "letter": "D",
+      "textMarkdown": "Espontaneidade, pelo uso da linguagem coloquial.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:100:E",
+      "letter": "E",
+      "textMarkdown": "Originalidade, pela concisão da linguagem.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

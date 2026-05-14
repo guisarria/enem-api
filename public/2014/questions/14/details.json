@@ -1,43 +1,50 @@
 {
-    "title": "Questão 14 - ENEM 2014",
-    "index": 14,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\n\n_HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989._",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Segundo Habermas, a validez de uma norma deve ser estabelecida pelo(a):",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Liberdade humana, que consagra a vontade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Razão comunicativa, que requer um consenso.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Conhecimento filosófico, que expressa a verdade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Técnica científica, que aumento o poder do homem.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Poder político, que se concentra no sistema partidário.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:14",
+  "variantKey": "14",
+  "title": "Questão 14 - ENEM 2014",
+  "index": 14,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\n\n_HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989._",
+  "alternativesIntroductionMarkdown": "Segundo Habermas, a validez de uma norma deve ser estabelecida pelo(a):",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:14:A",
+      "letter": "A",
+      "textMarkdown": "Liberdade humana, que consagra a vontade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:14:B",
+      "letter": "B",
+      "textMarkdown": "Razão comunicativa, que requer um consenso.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:14:C",
+      "letter": "C",
+      "textMarkdown": "Conhecimento filosófico, que expressa a verdade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:14:D",
+      "letter": "D",
+      "textMarkdown": "Técnica científica, que aumento o poder do homem.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:14:E",
+      "letter": "E",
+      "textMarkdown": "Poder político, que se concentra no sistema partidário.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

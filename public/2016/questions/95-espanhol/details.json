@@ -1,45 +1,58 @@
 {
-    "title": "Questão 95 - ENEM 2016",
-    "index": 95,
-    "year": 2016,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg)\n\nACCIÓN POÉTICA LIMA. Disponível em: https://twitter.com. Acesso em: 30 maio 2016.",
-    "files": [
-        "https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Nesse grafite, realizado por um grupo que faz intervenções artísticas na cidade de Lima, há um jogo de palavras como verbo “poner”. Na primeira ocorrência, o verbo equivale a “vestir uma roupa”, já na segunda, indica",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Início de ação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Mudança de estado.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Conclusão de ideia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Simultaneidade de fatos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Continuidade de processo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:95-espanhol",
+  "variantKey": "95-espanhol",
+  "title": "Questão 95 - ENEM 2016",
+  "index": 95,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "![](/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg)\n\nACCIÓN POÉTICA LIMA. Disponível em: https://twitter.com. Acesso em: 30 maio 2016.",
+  "alternativesIntroductionMarkdown": "Nesse grafite, realizado por um grupo que faz intervenções artísticas na cidade de Lima, há um jogo de palavras como verbo “poner”. Na primeira ocorrência, o verbo equivale a “vestir uma roupa”, já na segunda, indica",
+  "assets": [
+    {
+      "id": "2016:95-espanhol:asset:0",
+      "path": "/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:95-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Início de ação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:95-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Mudança de estado.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:95-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Conclusão de ideia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:95-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Simultaneidade de fatos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:95-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Continuidade de processo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

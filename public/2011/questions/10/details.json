@@ -1,43 +1,50 @@
 {
-    "title": "Questão 10 - ENEM 2011",
-    "index": 10,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O professor Paulo Saldiva pedala 6 km em 22 minutos de casa para o trabalho, todos os dias. Nunca foi atingido por um carro. Mesmo assim, é vítima diária do trânsito de São Paulo: a cada minuto sobre a bicicleta, seus pulmões são envenenados com 3,3 microgramas de poluição particulada – poeira, fumaça, fuligem, partículas de metal em suspensão, sulfatos, nitratos, carbono, compostos orgânicos e outras substâncias nocivas.\n\nESCOBAR, H. Sem Ar. **O Estado de São Paulo.** Ago. 2008.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A população de uma metrópole brasileira que vive nas mesmas condições socioambientais das do professor citado no texto apresentará uma tendência de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ampliação da taxa de fecundidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Diminuição da expectativa de vida.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Elevação do crescimento vegetativo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aumento na participação relativa de idosos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Redução na proporção de jovens na sociedade.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:10",
+  "variantKey": "10",
+  "title": "Questão 10 - ENEM 2011",
+  "index": 10,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O professor Paulo Saldiva pedala 6 km em 22 minutos de casa para o trabalho, todos os dias. Nunca foi atingido por um carro. Mesmo assim, é vítima diária do trânsito de São Paulo: a cada minuto sobre a bicicleta, seus pulmões são envenenados com 3,3 microgramas de poluição particulada – poeira, fumaça, fuligem, partículas de metal em suspensão, sulfatos, nitratos, carbono, compostos orgânicos e outras substâncias nocivas.\n\nESCOBAR, H. Sem Ar. **O Estado de São Paulo.** Ago. 2008.",
+  "alternativesIntroductionMarkdown": "A população de uma metrópole brasileira que vive nas mesmas condições socioambientais das do professor citado no texto apresentará uma tendência de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2011:10:A",
+      "letter": "A",
+      "textMarkdown": "Ampliação da taxa de fecundidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:10:B",
+      "letter": "B",
+      "textMarkdown": "Diminuição da expectativa de vida.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:10:C",
+      "letter": "C",
+      "textMarkdown": "Elevação do crescimento vegetativo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:10:D",
+      "letter": "D",
+      "textMarkdown": "Aumento na participação relativa de idosos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:10:E",
+      "letter": "E",
+      "textMarkdown": "Redução na proporção de jovens na sociedade.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

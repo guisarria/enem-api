@@ -1,43 +1,50 @@
 {
-    "title": "Questão 86 - ENEM 2017",
-    "index": 86,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O terremoto de 8,8 na escala Richter que atingiu a costa oeste do Chile, em fevereiro, provocou mudanças significativas no mapa da região. Segundo uma análise preliminar, toda a cidade de Concepción se deslocou pelo menos três metros para o oeste. Buenos Aires moveu-se cerca de 2,5 centímetros para oeste, enquanto Santiago, mais próxima do local do evento, deslocou-se quase 30 centímetros para o oeste-sudoeste. As cidades de Valparaíso, no Chile, e Mendoza, na Argentina, também tiveram suas posições alteradas significativamente (13,4 centímetros e 8,8 centímetros, respectivamente).\n\n**Revista InfoGNSS**, Curitiba, ano 6, n. 31, 2010.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "No texto, destaca-se um tipo de evento geológico frequente em determinadas partes da superfície terrestre. Esses eventos estão concentrados em",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Áreas vulcânicas, onde o material magmático se eleva, formando cordilheiras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Faixas costeiras, onde o assoalho oceânico recebe sedimentos, provocando tsunamis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Estreitas faixas de intensidade sísmica, no contato das placas tectônicas, próximas a dobramentos modernos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Escudos cristalinos, onde as rochas são submetidas aos processos de intemperismo, com alterações bruscas de temperatura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Áreas de bacias sedimentares antigas, localizadas no centro das placas tectônicas, em regiões conhecidas como pontos quentes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:86",
+  "variantKey": "86",
+  "title": "Questão 86 - ENEM 2017",
+  "index": 86,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O terremoto de 8,8 na escala Richter que atingiu a costa oeste do Chile, em fevereiro, provocou mudanças significativas no mapa da região. Segundo uma análise preliminar, toda a cidade de Concepción se deslocou pelo menos três metros para o oeste. Buenos Aires moveu-se cerca de 2,5 centímetros para oeste, enquanto Santiago, mais próxima do local do evento, deslocou-se quase 30 centímetros para o oeste-sudoeste. As cidades de Valparaíso, no Chile, e Mendoza, na Argentina, também tiveram suas posições alteradas significativamente (13,4 centímetros e 8,8 centímetros, respectivamente).\n\n**Revista InfoGNSS**, Curitiba, ano 6, n. 31, 2010.",
+  "alternativesIntroductionMarkdown": "No texto, destaca-se um tipo de evento geológico frequente em determinadas partes da superfície terrestre. Esses eventos estão concentrados em",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:86:A",
+      "letter": "A",
+      "textMarkdown": "Áreas vulcânicas, onde o material magmático se eleva, formando cordilheiras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:86:B",
+      "letter": "B",
+      "textMarkdown": "Faixas costeiras, onde o assoalho oceânico recebe sedimentos, provocando tsunamis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:86:C",
+      "letter": "C",
+      "textMarkdown": "Estreitas faixas de intensidade sísmica, no contato das placas tectônicas, próximas a dobramentos modernos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:86:D",
+      "letter": "D",
+      "textMarkdown": "Escudos cristalinos, onde as rochas são submetidas aos processos de intemperismo, com alterações bruscas de temperatura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:86:E",
+      "letter": "E",
+      "textMarkdown": "Áreas de bacias sedimentares antigas, localizadas no centro das placas tectônicas, em regiões conhecidas como pontos quentes.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

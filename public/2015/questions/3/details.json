@@ -1,43 +1,50 @@
 {
-    "title": "Questão 3 - ENEM 2015",
-    "index": 3,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.\n\nFREIRE, P. **Educação como prática da liberdade**. Rio de Janeiro: Paz e Terra, 2011.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Paulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Desenvolvimento do pensamento autônomo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Obtenção de qualificação profissional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Resgate de valores tradicionais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Realização de desejos pessoais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aumento da renda familiar.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:3",
+  "variantKey": "3",
+  "title": "Questão 3 - ENEM 2015",
+  "index": 3,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.\n\nFREIRE, P. **Educação como prática da liberdade**. Rio de Janeiro: Paz e Terra, 2011.",
+  "alternativesIntroductionMarkdown": "Paulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:3:A",
+      "letter": "A",
+      "textMarkdown": "Desenvolvimento do pensamento autônomo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:3:B",
+      "letter": "B",
+      "textMarkdown": "Obtenção de qualificação profissional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:3:C",
+      "letter": "C",
+      "textMarkdown": "Resgate de valores tradicionais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:3:D",
+      "letter": "D",
+      "textMarkdown": "Realização de desejos pessoais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:3:E",
+      "letter": "E",
+      "textMarkdown": "Aumento da renda familiar.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 87 - ENEM 2015",
-    "index": 87,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Em um mesmo organismo, a diferenciação dessas células ocorre por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Produzirem mutações específicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Possuírem DNA mitocondrial diferentes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Apresentarem conjunto de genes distintos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Expressarem porções distintas do genoma.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Terem um número distinto de cromossomos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:87",
+  "variantKey": "87",
+  "title": "Questão 87 - ENEM 2015",
+  "index": 87,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.",
+  "alternativesIntroductionMarkdown": "Em um mesmo organismo, a diferenciação dessas células ocorre por",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:87:A",
+      "letter": "A",
+      "textMarkdown": "Produzirem mutações específicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:87:B",
+      "letter": "B",
+      "textMarkdown": "Possuírem DNA mitocondrial diferentes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:87:C",
+      "letter": "C",
+      "textMarkdown": "Apresentarem conjunto de genes distintos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:87:D",
+      "letter": "D",
+      "textMarkdown": "Expressarem porções distintas do genoma.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:87:E",
+      "letter": "E",
+      "textMarkdown": "Terem um número distinto de cromossomos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

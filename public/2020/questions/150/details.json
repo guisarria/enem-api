@@ -1,46 +1,65 @@
 {
-    "title": "Questão 150 - ENEM 2020",
-    "index": 150,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: ![](https://enem.dev/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png) em que t é o tempo, medido em ano, Q(t) é a quantidade de carbono 14 medida no instante t e Q0 é a quantidade de carbono 14 no ser vivo correspondente.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a  \nquantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.\n\n![](https://enem.dev/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg)",
-    "files": [
-        "https://enem.dev/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png",
-        "https://enem.dev/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O fóssil mais antigo encontrado nessa expedição foi",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:150",
+  "variantKey": "150",
+  "title": "Questão 150 - ENEM 2020",
+  "index": 150,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: ![](/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png) em que t é o tempo, medido em ano, Q(t) é a quantidade de carbono 14 medida no instante t e Q0 é a quantidade de carbono 14 no ser vivo correspondente.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a  \nquantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.\n\n![](/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg)",
+  "alternativesIntroductionMarkdown": "O fóssil mais antigo encontrado nessa expedição foi",
+  "assets": [
+    {
+      "id": "2020:150:asset:0",
+      "path": "/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2020:150:asset:1",
+      "path": "/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2020:150:A",
+      "letter": "A",
+      "textMarkdown": "1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:150:B",
+      "letter": "B",
+      "textMarkdown": "2.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:150:C",
+      "letter": "C",
+      "textMarkdown": "3.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:150:D",
+      "letter": "D",
+      "textMarkdown": "4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:150:E",
+      "letter": "E",
+      "textMarkdown": "5.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

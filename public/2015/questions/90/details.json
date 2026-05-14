@@ -1,45 +1,58 @@
 {
-    "title": "Questão 90 - ENEM 2015",
-    "index": 90,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png)",
-    "files": [
-        "https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Etapa única na síntese.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Obtenção do produto puro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ausência de reagentes oxidantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Ausência de elementos metálicos no processo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Gasto de energia nulo na separação do produto.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:90",
+  "variantKey": "90",
+  "title": "Questão 90 - ENEM 2015",
+  "index": 90,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png)",
+  "alternativesIntroductionMarkdown": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
+  "assets": [
+    {
+      "id": "2015:90:asset:0",
+      "path": "/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:90:A",
+      "letter": "A",
+      "textMarkdown": "Etapa única na síntese.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:90:B",
+      "letter": "B",
+      "textMarkdown": "Obtenção do produto puro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:90:C",
+      "letter": "C",
+      "textMarkdown": "Ausência de reagentes oxidantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:90:D",
+      "letter": "D",
+      "textMarkdown": "Ausência de elementos metálicos no processo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:90:E",
+      "letter": "E",
+      "textMarkdown": "Gasto de energia nulo na separação do produto.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

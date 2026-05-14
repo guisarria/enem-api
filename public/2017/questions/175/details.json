@@ -1,43 +1,96 @@
 {
-    "title": "Questão 175 - ENEM 2017",
-    "index": 175,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/175/76855355-588b-40de-adfa-78c67373b3cd.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/175/f0b54cb7-a0b0-4661-a2e2-afda4b8d2135.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/175/b7396163-6b89-41cf-b08b-473d800ef585.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/175/486162c7-f43b-49a2-9476-dddf8af7bdf4.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/175/744d3069-d18a-4930-9697-45171bee53b2.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:175",
+  "variantKey": "175",
+  "title": "Questão 175 - ENEM 2017",
+  "index": 175,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
+  "assets": [
+    {
+      "id": "2017:175:asset:0",
+      "path": "/2017/questions/175/76855355-588b-40de-adfa-78c67373b3cd.png",
+      "role": "alternative",
+      "position": 0,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2017:175:asset:1",
+      "path": "/2017/questions/175/f0b54cb7-a0b0-4661-a2e2-afda4b8d2135.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2017:175:asset:2",
+      "path": "/2017/questions/175/b7396163-6b89-41cf-b08b-473d800ef585.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2017:175:asset:3",
+      "path": "/2017/questions/175/486162c7-f43b-49a2-9476-dddf8af7bdf4.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2017:175:asset:4",
+      "path": "/2017/questions/175/744d3069-d18a-4930-9697-45171bee53b2.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2017:175:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:175:asset:0"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:175:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:175:asset:1"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:175:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:175:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:175:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:175:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:175:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:175:asset:4"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

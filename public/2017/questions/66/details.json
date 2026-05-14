@@ -1,43 +1,50 @@
 {
-    "title": "Questão 66 - ENEM 2017",
-    "index": 66,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma conversação de tal natureza transforma o ouvinte; o contato de Sócrates paralisa e embaraça; leva a refletir sobre si mesmo, a imprimir à atenção uma direção incomum: os temperamentais, como Alcibíades, sabem que encontrarão junto dele todo o bem de que são capazes, mas fogem porque receiam essa imfuência poderosa, que os leva a se censurarem. É sobretudo a esses jovens, muitos quase crianças, que ele tenta imprimir sua orientação.\n\nBRÉHIER,E. História da filosofia. São Paulo: Mestre Jou, 1977.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O texto evidencia características do modo de vida socrático, que se baseava na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Contemplação da tradição mítica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sustentação do método dialético.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Relativização do saber verdadeiro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Valorização da argumentação retórica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Investigação dos fundamentos da natureza.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:66",
+  "variantKey": "66",
+  "title": "Questão 66 - ENEM 2017",
+  "index": 66,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma conversação de tal natureza transforma o ouvinte; o contato de Sócrates paralisa e embaraça; leva a refletir sobre si mesmo, a imprimir à atenção uma direção incomum: os temperamentais, como Alcibíades, sabem que encontrarão junto dele todo o bem de que são capazes, mas fogem porque receiam essa imfuência poderosa, que os leva a se censurarem. É sobretudo a esses jovens, muitos quase crianças, que ele tenta imprimir sua orientação.\n\nBRÉHIER,E. História da filosofia. São Paulo: Mestre Jou, 1977.",
+  "alternativesIntroductionMarkdown": "O texto evidencia características do modo de vida socrático, que se baseava na",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:66:A",
+      "letter": "A",
+      "textMarkdown": "Contemplação da tradição mítica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:66:B",
+      "letter": "B",
+      "textMarkdown": "Sustentação do método dialético.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:66:C",
+      "letter": "C",
+      "textMarkdown": "Relativização do saber verdadeiro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:66:D",
+      "letter": "D",
+      "textMarkdown": "Valorização da argumentação retórica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:66:E",
+      "letter": "E",
+      "textMarkdown": "Investigação dos fundamentos da natureza.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

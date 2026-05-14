@@ -1,43 +1,50 @@
 {
-    "title": "Questão 76 - ENEM 2015",
-    "index": 76,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Considere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); e Zn (65 g/mol).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "25",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "33",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "40",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "50",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "54",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:76",
+  "variantKey": "76",
+  "title": "Questão 76 - ENEM 2015",
+  "index": 76,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Considere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); e Zn (65 g/mol).",
+  "alternativesIntroductionMarkdown": "Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:76:A",
+      "letter": "A",
+      "textMarkdown": "25",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:76:B",
+      "letter": "B",
+      "textMarkdown": "33",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:76:C",
+      "letter": "C",
+      "textMarkdown": "40",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:76:D",
+      "letter": "D",
+      "textMarkdown": "50",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:76:E",
+      "letter": "E",
+      "textMarkdown": "54",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

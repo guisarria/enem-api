@@ -1,43 +1,50 @@
 {
-    "title": "Questão 75 - ENEM 2023",
-    "index": 75,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A Rejeição de costumes elitistas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Repulsão de condutas misóginas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Condenação do preconceito racial.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Criminalização de práticas homofóbicas",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Contestação do comportamento machista.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:75",
+  "variantKey": "75",
+  "title": "Questão 75 - ENEM 2023",
+  "index": 75,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.",
+  "alternativesIntroductionMarkdown": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2023:75:A",
+      "letter": "A",
+      "textMarkdown": "A Rejeição de costumes elitistas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:75:B",
+      "letter": "B",
+      "textMarkdown": "Repulsão de condutas misóginas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:75:C",
+      "letter": "C",
+      "textMarkdown": "Condenação do preconceito racial.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:75:D",
+      "letter": "D",
+      "textMarkdown": "Criminalização de práticas homofóbicas",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:75:E",
+      "letter": "E",
+      "textMarkdown": "Contestação do comportamento machista.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

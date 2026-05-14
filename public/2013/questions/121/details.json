@@ -1,43 +1,50 @@
 {
-    "title": "Questão 121 - ENEM 2013",
-    "index": 121,
-    "year": 2013,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Gripado, penso entre espirros em como a palavra gripe nos chegou após uma série de contágios entre línguas. Partiu da Itália em 1743 a epidemia de gripe que disseminou pela Europa, além do vírus propriamente dito, dois vocábulos virais: o italiano _influenza_ e o francês _grippe_. O primeiro era um termo derivado do latim medieval _influentia_, que significava “influência dos astros sobre os homens”. O segundo era apenas a forma nominal do verbo _gripper_, isto é, “agarrar”. Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.\n\nRODRIGUES, S. Sobre palavras.**Veja**, São Paulo, 30 nov. 2011.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Para se entender o trecho como uma unidade de sentido, é preciso que o leitor reconheça a ligação entre seus elementos. Nesse texto, a coesão é construída predominantemente pela retomada de um termo por outro e pelo uso da elipse. O fragmento do texto em que há coesão por elipse do sujeito é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "“[...] a palavra gripe nos chegou após uma série de contágios entre línguas.”",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "“Partiu da Itália em 1743 a epidemia de gripe [...]”.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "“O primeiro era um termo derivado do latim medieval influentia, que significava ‘influência dos astros sobre os homens’.”",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "“O segundo era apenas a forma nominal do verbo gripper [...]”.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "“Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.”",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2013:121",
+  "variantKey": "121",
+  "title": "Questão 121 - ENEM 2013",
+  "index": 121,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Gripado, penso entre espirros em como a palavra gripe nos chegou após uma série de contágios entre línguas. Partiu da Itália em 1743 a epidemia de gripe que disseminou pela Europa, além do vírus propriamente dito, dois vocábulos virais: o italiano _influenza_ e o francês _grippe_. O primeiro era um termo derivado do latim medieval _influentia_, que significava “influência dos astros sobre os homens”. O segundo era apenas a forma nominal do verbo _gripper_, isto é, “agarrar”. Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.\n\nRODRIGUES, S. Sobre palavras.**Veja**, São Paulo, 30 nov. 2011.",
+  "alternativesIntroductionMarkdown": "Para se entender o trecho como uma unidade de sentido, é preciso que o leitor reconheça a ligação entre seus elementos. Nesse texto, a coesão é construída predominantemente pela retomada de um termo por outro e pelo uso da elipse. O fragmento do texto em que há coesão por elipse do sujeito é:",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2013:121:A",
+      "letter": "A",
+      "textMarkdown": "“[...] a palavra gripe nos chegou após uma série de contágios entre línguas.”",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:121:B",
+      "letter": "B",
+      "textMarkdown": "“Partiu da Itália em 1743 a epidemia de gripe [...]”.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:121:C",
+      "letter": "C",
+      "textMarkdown": "“O primeiro era um termo derivado do latim medieval influentia, que significava ‘influência dos astros sobre os homens’.”",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:121:D",
+      "letter": "D",
+      "textMarkdown": "“O segundo era apenas a forma nominal do verbo gripper [...]”.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:121:E",
+      "letter": "E",
+      "textMarkdown": "“Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.”",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

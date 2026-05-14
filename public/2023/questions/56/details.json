@@ -1,43 +1,58 @@
 {
-    "title": "Questão 56 - ENEM 2023",
-    "index": 56,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/broken-image.svg)\n\nLAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado)",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Situação de revolta individual.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Satisfação de desejos pessoais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Participação em ações decisórias.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Permanência em passividade social.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Conivência em interesses partidários.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:56",
+  "variantKey": "56",
+  "title": "Questão 56 - ENEM 2023",
+  "index": 56,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/broken-image.svg)\n\nLAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado)",
+  "alternativesIntroductionMarkdown": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
+  "assets": [
+    {
+      "id": "2023:56:asset:0",
+      "path": "/broken-image.svg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2023:56:A",
+      "letter": "A",
+      "textMarkdown": "Situação de revolta individual.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:56:B",
+      "letter": "B",
+      "textMarkdown": "Satisfação de desejos pessoais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:56:C",
+      "letter": "C",
+      "textMarkdown": "Participação em ações decisórias.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:56:D",
+      "letter": "D",
+      "textMarkdown": "Permanência em passividade social.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:56:E",
+      "letter": "E",
+      "textMarkdown": "Conivência em interesses partidários.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

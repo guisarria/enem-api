@@ -1,43 +1,50 @@
 {
-    "title": "Questão 173 - ENEM 2015",
-    "index": 173,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Se as lentes forem adquiridas nessa loja, a espessura escolhida será, em milímetros, de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "2,099.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2,96.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "3,021.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "3,07.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3,10",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:173",
+  "variantKey": "173",
+  "title": "Questão 173 - ENEM 2015",
+  "index": 173,
+  "year": 2015,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Se as lentes forem adquiridas nessa loja, a espessura escolhida será, em milímetros, de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:173:A",
+      "letter": "A",
+      "textMarkdown": "2,099.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:173:B",
+      "letter": "B",
+      "textMarkdown": "2,96.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:173:C",
+      "letter": "C",
+      "textMarkdown": "3,021.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:173:D",
+      "letter": "D",
+      "textMarkdown": "3,07.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:173:E",
+      "letter": "E",
+      "textMarkdown": "3,10",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

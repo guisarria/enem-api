@@ -1,43 +1,50 @@
 {
-    "title": "Questão 99 - ENEM 2023",
-    "index": 99,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Urina.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Saliva.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Fezes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Sangue.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Secreção ocular.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:99",
+  "variantKey": "99",
+  "title": "Questão 99 - ENEM 2023",
+  "index": 99,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:99:A",
+      "letter": "A",
+      "textMarkdown": "Urina.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:99:B",
+      "letter": "B",
+      "textMarkdown": "Saliva.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:99:C",
+      "letter": "C",
+      "textMarkdown": "Fezes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:99:D",
+      "letter": "D",
+      "textMarkdown": "Sangue.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:99:E",
+      "letter": "E",
+      "textMarkdown": "Secreção ocular.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

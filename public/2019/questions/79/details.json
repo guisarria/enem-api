@@ -1,43 +1,50 @@
 {
-    "title": "Questão 79 - ENEM 2019",
-    "index": 79,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\n**CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.**",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Nas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Controle da terra.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Liberdade de culto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Igualdade de gênero.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Exclusão dos militares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Exigência da alfabetização.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:79",
+  "variantKey": "79",
+  "title": "Questão 79 - ENEM 2019",
+  "index": 79,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\n**CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.**",
+  "alternativesIntroductionMarkdown": "Nas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:79:A",
+      "letter": "A",
+      "textMarkdown": "Controle da terra.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:79:B",
+      "letter": "B",
+      "textMarkdown": "Liberdade de culto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:79:C",
+      "letter": "C",
+      "textMarkdown": "Igualdade de gênero.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:79:D",
+      "letter": "D",
+      "textMarkdown": "Exclusão dos militares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:79:E",
+      "letter": "E",
+      "textMarkdown": "Exigência da alfabetização.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

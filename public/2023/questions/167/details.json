@@ -1,43 +1,50 @@
 {
-    "title": "Questão 167 - ENEM 2023",
-    "index": 167,
-    "year": 2023,
-    "language": null,
-    "discipline": "matematica",
-    "context": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "(5,0 ; 5,5).",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "(8,0 ; 8,5).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "(11,5 ; 12,5).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "(19,5 ; 20,5).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "(3,5 ; 4,0).",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:167",
+  "variantKey": "167",
+  "title": "Questão 167 - ENEM 2023",
+  "index": 167,
+  "year": 2023,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.",
+  "alternativesIntroductionMarkdown": "O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:167:A",
+      "letter": "A",
+      "textMarkdown": "(5,0 ; 5,5).",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:167:B",
+      "letter": "B",
+      "textMarkdown": "(8,0 ; 8,5).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:167:C",
+      "letter": "C",
+      "textMarkdown": "(11,5 ; 12,5).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:167:D",
+      "letter": "D",
+      "textMarkdown": "(19,5 ; 20,5).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:167:E",
+      "letter": "E",
+      "textMarkdown": "(3,5 ; 4,0).",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

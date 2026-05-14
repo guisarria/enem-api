@@ -1,45 +1,58 @@
 {
-    "title": "Questão 145 - ENEM 2017",
-    "index": 145,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\n![](https://enem.dev/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png)\n\nem que σ é um parâmetro e N é o número de pessoas  \nentrevistadas pela pesquisa.",
-    "files": [
-        "https://enem.dev/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual pesquisa deverá ser utilizada?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "P1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "P2.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "P3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "P4.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "P5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:145",
+  "variantKey": "145",
+  "title": "Questão 145 - ENEM 2017",
+  "index": 145,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\n![](/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png)\n\nem que σ é um parâmetro e N é o número de pessoas  \nentrevistadas pela pesquisa.",
+  "alternativesIntroductionMarkdown": "Qual pesquisa deverá ser utilizada?",
+  "assets": [
+    {
+      "id": "2017:145:asset:0",
+      "path": "/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2017:145:A",
+      "letter": "A",
+      "textMarkdown": "P1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:145:B",
+      "letter": "B",
+      "textMarkdown": "P2.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:145:C",
+      "letter": "C",
+      "textMarkdown": "P3.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:145:D",
+      "letter": "D",
+      "textMarkdown": "P4.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:145:E",
+      "letter": "E",
+      "textMarkdown": "P5.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

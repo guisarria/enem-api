@@ -1,46 +1,65 @@
 {
-    "title": "Questão 48 - ENEM 2016",
-    "index": 48,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2016/questions/48/ce6bddea-21d4-44b9-9683-36234b25cc12.jpg)\n\nA Figura 2 ilustra o Projeto Park Spark, desenvolvido em Cambridge, MA (EUA), em que as fezes dos animais domésticos são recolhidas em sacolas biodegradáveis e jogadas em um biodigestor instalado em parques públicos; e os produtos são utilizados em equipamentos no próprio parque.\n\n![](https://enem.dev/2016/questions/48/29c36443-64d1-4747-85cb-c057dd8d39ed.jpg)",
-    "files": [
-        "https://enem.dev/2016/questions/48/ce6bddea-21d4-44b9-9683-36234b25cc12.jpg",
-        "https://enem.dev/2016/questions/48/29c36443-64d1-4747-85cb-c057dd8d39ed.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Uma inovação desse projeto é possibilitar o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Queima de gás metano.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Armazenamento de gás carbônico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Decomposição aeróbica das fezes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Uso mais eficiente de combustíveis fósseis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fixação de carbono em moléculas orgânicas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:48",
+  "variantKey": "48",
+  "title": "Questão 48 - ENEM 2016",
+  "index": 48,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/48/ce6bddea-21d4-44b9-9683-36234b25cc12.jpg)\n\nA Figura 2 ilustra o Projeto Park Spark, desenvolvido em Cambridge, MA (EUA), em que as fezes dos animais domésticos são recolhidas em sacolas biodegradáveis e jogadas em um biodigestor instalado em parques públicos; e os produtos são utilizados em equipamentos no próprio parque.\n\n![](/2016/questions/48/29c36443-64d1-4747-85cb-c057dd8d39ed.jpg)",
+  "alternativesIntroductionMarkdown": "Uma inovação desse projeto é possibilitar o(a)",
+  "assets": [
+    {
+      "id": "2016:48:asset:0",
+      "path": "/2016/questions/48/ce6bddea-21d4-44b9-9683-36234b25cc12.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2016:48:asset:1",
+      "path": "/2016/questions/48/29c36443-64d1-4747-85cb-c057dd8d39ed.jpg",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:48:A",
+      "letter": "A",
+      "textMarkdown": "Queima de gás metano.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:48:B",
+      "letter": "B",
+      "textMarkdown": "Armazenamento de gás carbônico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:48:C",
+      "letter": "C",
+      "textMarkdown": "Decomposição aeróbica das fezes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:48:D",
+      "letter": "D",
+      "textMarkdown": "Uso mais eficiente de combustíveis fósseis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:48:E",
+      "letter": "E",
+      "textMarkdown": "Fixação de carbono em moléculas orgânicas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

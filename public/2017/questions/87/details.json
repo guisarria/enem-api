@@ -1,46 +1,65 @@
 {
-    "title": "Questão 87 - ENEM 2017",
-    "index": 87,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2017/questions/87/a29bc279-ba56-4fe4-aeb0-ff72098524ca.png)\n\nDisponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado).\n\n![](https://enem.dev/2017/questions/87/d6ce35bb-244b-48b8-9647-e22f10d2a987.png)\n\nDisponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).",
-    "files": [
-        "https://enem.dev/2017/questions/87/a29bc279-ba56-4fe4-aeb0-ff72098524ca.png",
-        "https://enem.dev/2017/questions/87/d6ce35bb-244b-48b8-9647-e22f10d2a987.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "No dia em que foram colhidos os dados meteorológicos apresentados, qual fator climático foi determinante para explicar os índices de umidade relativa do ar nas regiões Nordeste e Sul?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Altitude, que forma barreiras naturais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Vegetação, que afeta a incidência solar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Massas de ar, que provocam precipitações.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Correntes marítimas, que atuam na troca de calor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Continentalidade, que influencia na amplitude da temperatura.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:87",
+  "variantKey": "87",
+  "title": "Questão 87 - ENEM 2017",
+  "index": 87,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2017/questions/87/a29bc279-ba56-4fe4-aeb0-ff72098524ca.png)\n\nDisponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado).\n\n![](/2017/questions/87/d6ce35bb-244b-48b8-9647-e22f10d2a987.png)\n\nDisponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).",
+  "alternativesIntroductionMarkdown": "No dia em que foram colhidos os dados meteorológicos apresentados, qual fator climático foi determinante para explicar os índices de umidade relativa do ar nas regiões Nordeste e Sul?",
+  "assets": [
+    {
+      "id": "2017:87:asset:0",
+      "path": "/2017/questions/87/a29bc279-ba56-4fe4-aeb0-ff72098524ca.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2017:87:asset:1",
+      "path": "/2017/questions/87/d6ce35bb-244b-48b8-9647-e22f10d2a987.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:87:A",
+      "letter": "A",
+      "textMarkdown": "Altitude, que forma barreiras naturais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:87:B",
+      "letter": "B",
+      "textMarkdown": "Vegetação, que afeta a incidência solar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:87:C",
+      "letter": "C",
+      "textMarkdown": "Massas de ar, que provocam precipitações.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:87:D",
+      "letter": "D",
+      "textMarkdown": "Correntes marítimas, que atuam na troca de calor.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:87:E",
+      "letter": "E",
+      "textMarkdown": "Continentalidade, que influencia na amplitude da temperatura.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

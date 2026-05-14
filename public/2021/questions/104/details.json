@@ -1,43 +1,50 @@
 {
-    "title": "Questão 104 - ENEM 2021",
-    "index": 104,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.\n\nFRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: \\[…\\]. **International Whaling Commission, Conference Paper**, jun. 2016 (adaptado)",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Concentrações mais elevadas dos compostos citados são encontradas em",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Esponjas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Golfinhos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Fitoplâncton.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Peixes herbívoros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Algas macroscópicas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:104",
+  "variantKey": "104",
+  "title": "Questão 104 - ENEM 2021",
+  "index": 104,
+  "year": 2021,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.\n\nFRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: […]. **International Whaling Commission, Conference Paper**, jun. 2016 (adaptado)",
+  "alternativesIntroductionMarkdown": "Concentrações mais elevadas dos compostos citados são encontradas em",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:104:A",
+      "letter": "A",
+      "textMarkdown": "Esponjas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:104:B",
+      "letter": "B",
+      "textMarkdown": "Golfinhos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:104:C",
+      "letter": "C",
+      "textMarkdown": "Fitoplâncton.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:104:D",
+      "letter": "D",
+      "textMarkdown": "Peixes herbívoros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:104:E",
+      "letter": "E",
+      "textMarkdown": "Algas macroscópicas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

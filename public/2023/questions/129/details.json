@@ -1,43 +1,65 @@
 {
-    "title": "Questão 129 - ENEM 2023",
-    "index": 129,
-    "year": 2023,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula ![](https://enem.dev/broken-image.svg), está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\n![](https://enem.dev/broken-image.svg)\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Saliva, por consequência da atividade de enzimas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sangue, em função das hemácias e leucócitos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Lágrima, em razão da concentração de sais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Urina, pela presenca de moléculas de ureia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Leite, por causa do alto teor de gorduras.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2023:129",
+  "variantKey": "129",
+  "title": "Questão 129 - ENEM 2023",
+  "index": 129,
+  "year": 2023,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula ![](/broken-image.svg), está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\n![](/broken-image.svg)\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+  "alternativesIntroductionMarkdown": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+  "assets": [
+    {
+      "id": "2023:129:asset:0",
+      "path": "/broken-image.svg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2023:129:asset:1",
+      "path": "/broken-image.svg",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2023:129:A",
+      "letter": "A",
+      "textMarkdown": "Saliva, por consequência da atividade de enzimas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:129:B",
+      "letter": "B",
+      "textMarkdown": "Sangue, em função das hemácias e leucócitos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:129:C",
+      "letter": "C",
+      "textMarkdown": "Lágrima, em razão da concentração de sais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:129:D",
+      "letter": "D",
+      "textMarkdown": "Urina, pela presenca de moléculas de ureia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:129:E",
+      "letter": "E",
+      "textMarkdown": "Leite, por causa do alto teor de gorduras.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

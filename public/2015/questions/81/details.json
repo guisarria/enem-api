@@ -1,45 +1,58 @@
 {
-    "title": "Questão 81 - ENEM 2015",
-    "index": 81,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png)",
-    "files": [
-        "https://enem.dev/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A equação química que representa a reação de formação da mancha avermelhada é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ca2+(aq) +  2Cu+(aq) --> Ca(s) + 2Cu2+(aq)).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ca2+(aq) + 2Fe2+(aq) --> Ca(s) + 2Fe3+(aq).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Cu2+(aq) + 2 Fe2+(aq) --> Cu(s) + 2Fe3+(aq).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "3Ca2+(aq) + 2 Fe(s) --> 3 Ca(s) + 2Fe3+(aq).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3 Cu2+(aq) + 2 Fe(s) --> 3 Cu(s) + 2 Fe3+(aq).",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:81",
+  "variantKey": "81",
+  "title": "Questão 81 - ENEM 2015",
+  "index": 81,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png)",
+  "alternativesIntroductionMarkdown": "A equação química que representa a reação de formação da mancha avermelhada é:",
+  "assets": [
+    {
+      "id": "2015:81:asset:0",
+      "path": "/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:81:A",
+      "letter": "A",
+      "textMarkdown": "Ca2+(aq) +  2Cu+(aq) --> Ca(s) + 2Cu2+(aq)).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:81:B",
+      "letter": "B",
+      "textMarkdown": "Ca2+(aq) + 2Fe2+(aq) --> Ca(s) + 2Fe3+(aq).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:81:C",
+      "letter": "C",
+      "textMarkdown": "Cu2+(aq) + 2 Fe2+(aq) --> Cu(s) + 2Fe3+(aq).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:81:D",
+      "letter": "D",
+      "textMarkdown": "3Ca2+(aq) + 2 Fe(s) --> 3 Ca(s) + 2Fe3+(aq).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:81:E",
+      "letter": "E",
+      "textMarkdown": "3 Cu2+(aq) + 2 Fe(s) --> 3 Cu(s) + 2 Fe3+(aq).",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

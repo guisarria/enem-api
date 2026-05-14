@@ -1,43 +1,50 @@
 {
-    "title": "Questão 73 - ENEM 2023",
-    "index": 73,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população.\n\nDEVY-VARETA, N. Para uma geografia histórica da floresta portuguesa. **Revista da Faculdade de Letras – Geografia,** n. 1, 1986 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual acontecimento do período contribuiu diretamente para o agravamento da situação descrita?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O processo de expansão marítima.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "A eclosão do renascimento cultural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A concretização da centralização política.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O movimento de reformas religiosas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A manutenção do sistema feudal.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:73",
+  "variantKey": "73",
+  "title": "Questão 73 - ENEM 2023",
+  "index": 73,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população.\n\nDEVY-VARETA, N. Para uma geografia histórica da floresta portuguesa. **Revista da Faculdade de Letras – Geografia,** n. 1, 1986 (adaptado).",
+  "alternativesIntroductionMarkdown": "Qual acontecimento do período contribuiu diretamente para o agravamento da situação descrita?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:73:A",
+      "letter": "A",
+      "textMarkdown": "O processo de expansão marítima.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:73:B",
+      "letter": "B",
+      "textMarkdown": "A eclosão do renascimento cultural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:73:C",
+      "letter": "C",
+      "textMarkdown": "A concretização da centralização política.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:73:D",
+      "letter": "D",
+      "textMarkdown": "O movimento de reformas religiosas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:73:E",
+      "letter": "E",
+      "textMarkdown": "A manutenção do sistema feudal.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

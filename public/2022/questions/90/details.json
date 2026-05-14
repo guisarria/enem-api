@@ -1,43 +1,50 @@
 {
-    "title": "Questão 90 - ENEM 2022",
-    "index": 90,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.\n\n**TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.**",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Uma característica de práticas tradicionais como a exemplificada no texto é vinculação entre os recursos do mundo natural e a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Manutenção dos modos de vida.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Conservação dos plantios da roça.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Atualização do modelo de gestão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Participação na sociedade de consumo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Especialização nas etapas de produção.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:90",
+  "variantKey": "90",
+  "title": "Questão 90 - ENEM 2022",
+  "index": 90,
+  "year": 2022,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.\n\n**TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.**",
+  "alternativesIntroductionMarkdown": "Uma característica de práticas tradicionais como a exemplificada no texto é vinculação entre os recursos do mundo natural e a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2022:90:A",
+      "letter": "A",
+      "textMarkdown": "Manutenção dos modos de vida.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:90:B",
+      "letter": "B",
+      "textMarkdown": "Conservação dos plantios da roça.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:90:C",
+      "letter": "C",
+      "textMarkdown": "Atualização do modelo de gestão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:90:D",
+      "letter": "D",
+      "textMarkdown": "Participação na sociedade de consumo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:90:E",
+      "letter": "E",
+      "textMarkdown": "Especialização nas etapas de produção.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

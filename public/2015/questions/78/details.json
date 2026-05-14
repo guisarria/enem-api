@@ -1,43 +1,50 @@
 {
-    "title": "Questão 78 - ENEM 2015",
-    "index": 78,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.\n\nDisponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Ao se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Colocar gelo sobre a flictena para amenizar o ardor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Utilizar manteiga para evitar o rompimento da flictena.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Passar creme dental para diminuir a ardência da flictena.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Perfurar a flictena para que a água acumulada seja liberada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Cobrir a flictena com gazes molhadas para evitar a desidratação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:78",
+  "variantKey": "78",
+  "title": "Questão 78 - ENEM 2015",
+  "index": 78,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.\n\nDisponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "Ao se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:78:A",
+      "letter": "A",
+      "textMarkdown": "Colocar gelo sobre a flictena para amenizar o ardor.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:78:B",
+      "letter": "B",
+      "textMarkdown": "Utilizar manteiga para evitar o rompimento da flictena.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:78:C",
+      "letter": "C",
+      "textMarkdown": "Passar creme dental para diminuir a ardência da flictena.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:78:D",
+      "letter": "D",
+      "textMarkdown": "Perfurar a flictena para que a água acumulada seja liberada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:78:E",
+      "letter": "E",
+      "textMarkdown": "Cobrir a flictena com gazes molhadas para evitar a desidratação.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

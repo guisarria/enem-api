@@ -1,43 +1,50 @@
 {
-    "title": "Questão 93 - ENEM 2015",
-    "index": 93,
-    "year": 2015,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "Why am I compelled to write? Because the writing saves me from this complacency I fear. Because I have no choice. Because I must keep the spirit of my revolt and myself alive. Because the world I create in the writing compensates for what the real world does not give me. By writing I put order in the world, give it a handle so I can grasp it.\n\nANZALDÚA, G. E. Speaking in tongues: a letter to third world women writers. In: HERNANDEZ, J. B. (Ed.). **Women writing resistance**: essays on Latin America and the Caribbean**.** Boston: South End, 2003.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Gloria Evangelina Anzaldúa, falecida em 2004, foi uma escritora americana de origem mexicana que escreveu sobre questões culturais e raciais. Na citação, o intuito da autora é evidenciar as:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Razões pelas quais ela escreve.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Compensações advindas da escrita.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Possibilidades de mudar o mundo real.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Maneiras de ela lidar com seus medos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Escolhas que ela faz para ordenar o mundo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:93-ingles",
+  "variantKey": "93-ingles",
+  "title": "Questão 93 - ENEM 2015",
+  "index": 93,
+  "year": 2015,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "Why am I compelled to write? Because the writing saves me from this complacency I fear. Because I have no choice. Because I must keep the spirit of my revolt and myself alive. Because the world I create in the writing compensates for what the real world does not give me. By writing I put order in the world, give it a handle so I can grasp it.\n\nANZALDÚA, G. E. Speaking in tongues: a letter to third world women writers. In: HERNANDEZ, J. B. (Ed.). **Women writing resistance**: essays on Latin America and the Caribbean**.** Boston: South End, 2003.",
+  "alternativesIntroductionMarkdown": "Gloria Evangelina Anzaldúa, falecida em 2004, foi uma escritora americana de origem mexicana que escreveu sobre questões culturais e raciais. Na citação, o intuito da autora é evidenciar as:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:93-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Razões pelas quais ela escreve.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:93-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Compensações advindas da escrita.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Possibilidades de mudar o mundo real.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Maneiras de ela lidar com seus medos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Escolhas que ela faz para ordenar o mundo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 161 - ENEM 2014",
-    "index": 161,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png)",
-    "files": [
-        "https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Levando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:161",
+  "variantKey": "161",
+  "title": "Questão 161 - ENEM 2014",
+  "index": 161,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png)",
+  "alternativesIntroductionMarkdown": "Levando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o",
+  "assets": [
+    {
+      "id": "2014:161:asset:0",
+      "path": "/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:161:A",
+      "letter": "A",
+      "textMarkdown": "1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:161:B",
+      "letter": "B",
+      "textMarkdown": "2.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:161:C",
+      "letter": "C",
+      "textMarkdown": "3.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:161:D",
+      "letter": "D",
+      "textMarkdown": "4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:161:E",
+      "letter": "E",
+      "textMarkdown": "5.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

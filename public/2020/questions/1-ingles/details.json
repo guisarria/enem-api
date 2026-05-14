@@ -1,45 +1,58 @@
 {
-    "title": "Questão 1 - ENEM 2020",
-    "index": 1,
-    "year": 2020,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png)",
-    "files": [
-        "https://enem.dev/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Os reursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Criticar o tipo de tratamento dado à mulher.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Rever o desempenho da mulher no trabalho.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Questionar a sobrecarga de atribuições da mulher.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Analisar as pesquisas acerca dos direitos da mulher.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Censurar a mulher pelo uso de determinadas palavras.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:1-ingles",
+  "variantKey": "1-ingles",
+  "title": "Questão 1 - ENEM 2020",
+  "index": 1,
+  "year": 2020,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png)",
+  "alternativesIntroductionMarkdown": "Os reursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+  "assets": [
+    {
+      "id": "2020:1-ingles:asset:0",
+      "path": "/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2020:1-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Criticar o tipo de tratamento dado à mulher.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:1-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Rever o desempenho da mulher no trabalho.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:1-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Questionar a sobrecarga de atribuições da mulher.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:1-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Analisar as pesquisas acerca dos direitos da mulher.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:1-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Censurar a mulher pelo uso de determinadas palavras.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

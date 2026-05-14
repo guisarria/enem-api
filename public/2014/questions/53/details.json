@@ -1,43 +1,50 @@
 {
-    "title": "Questão 53 - ENEM 2014",
-    "index": 53,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Modificação de características.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Incremento no tamanho corporal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Complexificação de seus sistemas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Melhoria de processos e estruturas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Especialização para uma determinada finalidade.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:53",
+  "variantKey": "53",
+  "title": "Questão 53 - ENEM 2014",
+  "index": 53,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.",
+  "alternativesIntroductionMarkdown": "Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2014:53:A",
+      "letter": "A",
+      "textMarkdown": "Modificação de características.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:53:B",
+      "letter": "B",
+      "textMarkdown": "Incremento no tamanho corporal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:53:C",
+      "letter": "C",
+      "textMarkdown": "Complexificação de seus sistemas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:53:D",
+      "letter": "D",
+      "textMarkdown": "Melhoria de processos e estruturas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:53:E",
+      "letter": "E",
+      "textMarkdown": "Especialização para uma determinada finalidade.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

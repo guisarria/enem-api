@@ -1,43 +1,50 @@
 {
-    "title": "Questão 24 - ENEM 2015",
-    "index": 24,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.\n\nMAZRUI, A. “Procurai primeiramente o reino do político …” In: MAZRUI, A., WONDJI, C. (Org.). **História geral da África**: África desde 1925. Brasília: Unesco, 2010.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Para o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Comunismo / rejeição da democracia liberal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Capitalismo / devastação do ambiente natural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Fascismo / adoção do determinismo biológico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Socialismo / planificação da economia nacional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Colonialismo / imposição da missão civilizatória.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:24",
+  "variantKey": "24",
+  "title": "Questão 24 - ENEM 2015",
+  "index": 24,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.\n\nMAZRUI, A. “Procurai primeiramente o reino do político …” In: MAZRUI, A., WONDJI, C. (Org.). **História geral da África**: África desde 1925. Brasília: Unesco, 2010.",
+  "alternativesIntroductionMarkdown": "Para o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:24:A",
+      "letter": "A",
+      "textMarkdown": "Comunismo / rejeição da democracia liberal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:24:B",
+      "letter": "B",
+      "textMarkdown": "Capitalismo / devastação do ambiente natural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:24:C",
+      "letter": "C",
+      "textMarkdown": "Fascismo / adoção do determinismo biológico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:24:D",
+      "letter": "D",
+      "textMarkdown": "Socialismo / planificação da economia nacional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:24:E",
+      "letter": "E",
+      "textMarkdown": "Colonialismo / imposição da missão civilizatória.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

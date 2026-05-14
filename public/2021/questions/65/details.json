@@ -1,43 +1,50 @@
 {
-    "title": "Questão 65 - ENEM 2021",
-    "index": 65,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dele qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras.\n\nENGELS, F. **A situação da classe trabalhadora na Inglaterra.** São Paulo: Boitempo, 2010.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No texto, o autor apresenta delineamentos éticos que correspondem ao (s)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Conceito de luta de classes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Alicerce da ideia de mais-valia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Fundamentos do método científico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Paradigmas do processo indagativo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Domínios do fetichismo da mercadoria.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:65",
+  "variantKey": "65",
+  "title": "Questão 65 - ENEM 2021",
+  "index": 65,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dele qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras.\n\nENGELS, F. **A situação da classe trabalhadora na Inglaterra.** São Paulo: Boitempo, 2010.",
+  "alternativesIntroductionMarkdown": "No texto, o autor apresenta delineamentos éticos que correspondem ao (s)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:65:A",
+      "letter": "A",
+      "textMarkdown": "Conceito de luta de classes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:65:B",
+      "letter": "B",
+      "textMarkdown": "Alicerce da ideia de mais-valia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:65:C",
+      "letter": "C",
+      "textMarkdown": "Fundamentos do método científico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:65:D",
+      "letter": "D",
+      "textMarkdown": "Paradigmas do processo indagativo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:65:E",
+      "letter": "E",
+      "textMarkdown": "Domínios do fetichismo da mercadoria.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

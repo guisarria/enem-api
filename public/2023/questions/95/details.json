@@ -1,43 +1,50 @@
 {
-    "title": "Questão 95 - ENEM 2023",
-    "index": 95,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.\nNas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Execução de manobras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Metabolismo corpóreo elevado.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Manutenção da aerodinâmica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Deslocamento a grandes velocidades.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Capacidade de voo em grandes altitudes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:95",
+  "variantKey": "95",
+  "title": "Questão 95 - ENEM 2023",
+  "index": 95,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.\nNas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2023:95:A",
+      "letter": "A",
+      "textMarkdown": "Execução de manobras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:95:B",
+      "letter": "B",
+      "textMarkdown": "Metabolismo corpóreo elevado.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:95:C",
+      "letter": "C",
+      "textMarkdown": "Manutenção da aerodinâmica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:95:D",
+      "letter": "D",
+      "textMarkdown": "Deslocamento a grandes velocidades.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:95:E",
+      "letter": "E",
+      "textMarkdown": "Capacidade de voo em grandes altitudes.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 140 - ENEM 2013",
-    "index": 140,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png)",
-    "files": [
-        "https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A, A, A, A.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "A, B, A, B.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A, B, B, A.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "B, A, A, B.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "B, B, B, B.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:140",
+  "variantKey": "140",
+  "title": "Questão 140 - ENEM 2013",
+  "index": 140,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png)",
+  "alternativesIntroductionMarkdown": "Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,",
+  "assets": [
+    {
+      "id": "2013:140:asset:0",
+      "path": "/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:140:A",
+      "letter": "A",
+      "textMarkdown": "A, A, A, A.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:140:B",
+      "letter": "B",
+      "textMarkdown": "A, B, A, B.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:140:C",
+      "letter": "C",
+      "textMarkdown": "A, B, B, A.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:140:D",
+      "letter": "D",
+      "textMarkdown": "B, A, A, B.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:140:E",
+      "letter": "E",
+      "textMarkdown": "B, B, B, B.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

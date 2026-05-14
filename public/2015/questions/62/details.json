@@ -1,43 +1,50 @@
 {
-    "title": "Questão 62 - ENEM 2015",
-    "index": 62,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.\n\nMATEUS, A. L. **Química na cabeç**a. Belo Horizonte: UFMG, 2001 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Formação de óxidos de caráter ácido.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Evaporação do indicador fenolftaleína.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Vaporização de parte da água do frasco.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Vaporização dos gases de caráter alcalino.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aumento do pH da solução no interior do frasco.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:62",
+  "variantKey": "62",
+  "title": "Questão 62 - ENEM 2015",
+  "index": 62,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.\n\nMATEUS, A. L. **Química na cabeç**a. Belo Horizonte: UFMG, 2001 (adaptado).",
+  "alternativesIntroductionMarkdown": "A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:62:A",
+      "letter": "A",
+      "textMarkdown": "Formação de óxidos de caráter ácido.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:62:B",
+      "letter": "B",
+      "textMarkdown": "Evaporação do indicador fenolftaleína.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:62:C",
+      "letter": "C",
+      "textMarkdown": "Vaporização de parte da água do frasco.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:62:D",
+      "letter": "D",
+      "textMarkdown": "Vaporização dos gases de caráter alcalino.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:62:E",
+      "letter": "E",
+      "textMarkdown": "Aumento do pH da solução no interior do frasco.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

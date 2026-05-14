@@ -1,43 +1,50 @@
 {
-    "title": "Questão 90 - ENEM 2021",
-    "index": 90,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "EIGENHEER, E. M. **Lixo:** a limpeza urbana através dos tempos. Porto Alegre: Gráfica Palloti, 2009.\n\n**Texto II**  \nA repugnante tarefa de carregar lixo e os dejetos da casa para as praças e praias era geralmente destinada ao único escravo da família ou ao de menor status ou valor. Todas as noites, depois das dez horas, os escravos conhecidos popularmente como “tigres” levavam tubos ou barris de excremento e lixo sobre a cabeça pelas ruas do Rio.\n\nKARACH, M. C. **A vida dos escravos no Rio de Janeiro, 1808-1850.** Rio de Janeiro: Cia. das letras, 2000.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A ação representada na imagem e descrita no texto evidencia uma prática do cotidiano nas cidades no Brasil nos séculos XVIII e XIX caracterizada pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Valorização do trabalho braçal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Reiteração das hierarquias sociais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Sacralização das atividades laborais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Superação das exclusões econômicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ressignificação das heranças religiosas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:90",
+  "variantKey": "90",
+  "title": "Questão 90 - ENEM 2021",
+  "index": 90,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "EIGENHEER, E. M. **Lixo:** a limpeza urbana através dos tempos. Porto Alegre: Gráfica Palloti, 2009.\n\n**Texto II**  \nA repugnante tarefa de carregar lixo e os dejetos da casa para as praças e praias era geralmente destinada ao único escravo da família ou ao de menor status ou valor. Todas as noites, depois das dez horas, os escravos conhecidos popularmente como “tigres” levavam tubos ou barris de excremento e lixo sobre a cabeça pelas ruas do Rio.\n\nKARACH, M. C. **A vida dos escravos no Rio de Janeiro, 1808-1850.** Rio de Janeiro: Cia. das letras, 2000.",
+  "alternativesIntroductionMarkdown": "A ação representada na imagem e descrita no texto evidencia uma prática do cotidiano nas cidades no Brasil nos séculos XVIII e XIX caracterizada pela",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:90:A",
+      "letter": "A",
+      "textMarkdown": "Valorização do trabalho braçal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:90:B",
+      "letter": "B",
+      "textMarkdown": "Reiteração das hierarquias sociais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:90:C",
+      "letter": "C",
+      "textMarkdown": "Sacralização das atividades laborais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:90:D",
+      "letter": "D",
+      "textMarkdown": "Superação das exclusões econômicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:90:E",
+      "letter": "E",
+      "textMarkdown": "Ressignificação das heranças religiosas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

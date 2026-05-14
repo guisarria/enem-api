@@ -1,45 +1,58 @@
 {
-    "title": "Questão 78 - ENEM 2009",
-    "index": 78,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O gráfico mostra o percentual de áreas ocupadas, segundo o tipo de propriedade rural no Brasil, no ano de 2006.\n\n![](https://enem.dev/2009/questions/78/85294de7-2d92-41fd-95eb-d3fd892e6e81.jpg)\n\nMDA/INCRA (DIEESE, 2006)  \nDisponível em: http://www.sober.org.br. Acesso em: 6 ago. 2009.",
-    "files": [
-        "https://enem.dev/2009/questions/78/85294de7-2d92-41fd-95eb-d3fd892e6e81.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "De acordo com o gráfico e com referência à distribuição das áreas rurais no Brasil, conclui-se que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "O índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "O percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:78",
+  "variantKey": "78",
+  "title": "Questão 78 - ENEM 2009",
+  "index": 78,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O gráfico mostra o percentual de áreas ocupadas, segundo o tipo de propriedade rural no Brasil, no ano de 2006.\n\n![](/2009/questions/78/85294de7-2d92-41fd-95eb-d3fd892e6e81.jpg)\n\nMDA/INCRA (DIEESE, 2006)  \nDisponível em: http://www.sober.org.br. Acesso em: 6 ago. 2009.",
+  "alternativesIntroductionMarkdown": "De acordo com o gráfico e com referência à distribuição das áreas rurais no Brasil, conclui-se que",
+  "assets": [
+    {
+      "id": "2009:78:asset:0",
+      "path": "/2009/questions/78/85294de7-2d92-41fd-95eb-d3fd892e6e81.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2009:78:A",
+      "letter": "A",
+      "textMarkdown": "Imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:78:B",
+      "letter": "B",
+      "textMarkdown": "O índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:78:C",
+      "letter": "C",
+      "textMarkdown": "O percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:78:D",
+      "letter": "D",
+      "textMarkdown": "A região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:78:E",
+      "letter": "E",
+      "textMarkdown": "A região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

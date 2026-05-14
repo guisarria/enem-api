@@ -1,43 +1,50 @@
 {
-    "title": "Questão 19 - ENEM 2016",
-    "index": 19,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Dados recentes mostram que muitos são os países periféricos que dependem dos recursos enviados pelos imigrantes que estão nos países centrais. Grande parte dos países da América Latina, por exemplo, depende hoje das remessas de seus imigrantes. Para se ter uma ideia mais concreta, recentes dados divulgados pela ONU revelaram que somente os indianos recebem 10 bilhões de dólares de seus compatriotas no exterior. No México, segundo maior volume de divisas, esse valor chega a 9,9 bilhões de dólares e nas Filipinas, o terceiro, a 8,4 bilhões.\n\nHAESBAERT, R.; PORTO-GONÇALVES, C. W. **A nova des-ordem mundial**. São Paulo: Edunesp, 2006.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Um aspecto do mundo globalizado que facilitou a ocorrência do processo descrito, na transição do século XX para o século XXI, foi o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Integração de culturas distintas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Avanço técnico das comunicações.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Quebra de barreiras alfandegárias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Flexibilização de regras trabalhistas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desconcentração espacial da produção.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:19",
+  "variantKey": "19",
+  "title": "Questão 19 - ENEM 2016",
+  "index": 19,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Dados recentes mostram que muitos são os países periféricos que dependem dos recursos enviados pelos imigrantes que estão nos países centrais. Grande parte dos países da América Latina, por exemplo, depende hoje das remessas de seus imigrantes. Para se ter uma ideia mais concreta, recentes dados divulgados pela ONU revelaram que somente os indianos recebem 10 bilhões de dólares de seus compatriotas no exterior. No México, segundo maior volume de divisas, esse valor chega a 9,9 bilhões de dólares e nas Filipinas, o terceiro, a 8,4 bilhões.\n\nHAESBAERT, R.; PORTO-GONÇALVES, C. W. **A nova des-ordem mundial**. São Paulo: Edunesp, 2006.",
+  "alternativesIntroductionMarkdown": "Um aspecto do mundo globalizado que facilitou a ocorrência do processo descrito, na transição do século XX para o século XXI, foi o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:19:A",
+      "letter": "A",
+      "textMarkdown": "Integração de culturas distintas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:19:B",
+      "letter": "B",
+      "textMarkdown": "Avanço técnico das comunicações.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:19:C",
+      "letter": "C",
+      "textMarkdown": "Quebra de barreiras alfandegárias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:19:D",
+      "letter": "D",
+      "textMarkdown": "Flexibilização de regras trabalhistas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:19:E",
+      "letter": "E",
+      "textMarkdown": "Desconcentração espacial da produção.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

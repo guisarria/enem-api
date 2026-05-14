@@ -1,43 +1,50 @@
 {
-    "title": "Questão 52 - ENEM 2010",
-    "index": 52,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10°C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O forno mais eficiente foi aquele que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Forneceu a maior quantidade de energia às amostras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Cedeu energia à amostra de maior massa em mais tempo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Forneceu a maior quantidade de energia em menos tempo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Cedeu energia à amostra de menor calor específico mais lentamente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Forneceu a menor quantidade de energia às amostras em menos tempo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:52",
+  "variantKey": "52",
+  "title": "Questão 52 - ENEM 2010",
+  "index": 52,
+  "year": 2010,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10°C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.",
+  "alternativesIntroductionMarkdown": "O forno mais eficiente foi aquele que",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2010:52:A",
+      "letter": "A",
+      "textMarkdown": "Forneceu a maior quantidade de energia às amostras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:52:B",
+      "letter": "B",
+      "textMarkdown": "Cedeu energia à amostra de maior massa em mais tempo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:52:C",
+      "letter": "C",
+      "textMarkdown": "Forneceu a maior quantidade de energia em menos tempo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:52:D",
+      "letter": "D",
+      "textMarkdown": "Cedeu energia à amostra de menor calor específico mais lentamente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:52:E",
+      "letter": "E",
+      "textMarkdown": "Forneceu a menor quantidade de energia às amostras em menos tempo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

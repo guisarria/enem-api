@@ -1,43 +1,50 @@
 {
-    "title": "Questão 99 - ENEM 2009",
-    "index": 99,
-    "year": 2009,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Cárcere das almas**\n\nAh! Toda a alma num cárcere anda presa,  \nSoluçando nas trevas, entre as grades  \nDo calabouço olhando imensidades,  \nMares, estrelas, tardes, natureza.\n\nTudo se veste de uma igual grandeza  \nQuando a alma entre grilhões as liberdades  \nSonha e, sonhando, as imortalidades  \nRasga no etéreo o Espaço da Pureza.\n\nÓ almas presas, mudas e fechadas  \nNas prisões colossais e abandonadas,  \nDa Dor no calabouço, atroz, funéreo!\n\nNesses silêncios solitários, graves,  \nque chaveiro do Céu possui as chaves  \npara abrir-vos as portas do Mistério?!\n\nCRUZ E SOUSA, J. **Poesia completa.** Florianópolis: Fundação Catarinense de Cultura /  \nFundação Banco do Brasil, 1993.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Os elementos formais e temáticos relacionados ao contexto cultural do Simbolismo encontrados no poema Cárcere das almas, de Cruz e Sousa, são",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A opção pela abordagem, em linguagem simples e direta, de temas filosóficos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "A prevalência do lirismo amoroso e intimista em relação à temática nacionalista.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "O refinamento estético da forma poética e o tratamento metafísico de temas universais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "A evidente preocupação do eu lírico com a realidade social expressa em imagens poéticas inovadoras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A liberdade formal da estrutura poética que dispensa a rima e a métrica tradicionais em favor de temas do cotidiano.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:99",
+  "variantKey": "99",
+  "title": "Questão 99 - ENEM 2009",
+  "index": 99,
+  "year": 2009,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Cárcere das almas**\n\nAh! Toda a alma num cárcere anda presa,  \nSoluçando nas trevas, entre as grades  \nDo calabouço olhando imensidades,  \nMares, estrelas, tardes, natureza.\n\nTudo se veste de uma igual grandeza  \nQuando a alma entre grilhões as liberdades  \nSonha e, sonhando, as imortalidades  \nRasga no etéreo o Espaço da Pureza.\n\nÓ almas presas, mudas e fechadas  \nNas prisões colossais e abandonadas,  \nDa Dor no calabouço, atroz, funéreo!\n\nNesses silêncios solitários, graves,  \nque chaveiro do Céu possui as chaves  \npara abrir-vos as portas do Mistério?!\n\nCRUZ E SOUSA, J. **Poesia completa.** Florianópolis: Fundação Catarinense de Cultura /  \nFundação Banco do Brasil, 1993.",
+  "alternativesIntroductionMarkdown": "Os elementos formais e temáticos relacionados ao contexto cultural do Simbolismo encontrados no poema Cárcere das almas, de Cruz e Sousa, são",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2009:99:A",
+      "letter": "A",
+      "textMarkdown": "A opção pela abordagem, em linguagem simples e direta, de temas filosóficos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:99:B",
+      "letter": "B",
+      "textMarkdown": "A prevalência do lirismo amoroso e intimista em relação à temática nacionalista.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:99:C",
+      "letter": "C",
+      "textMarkdown": "O refinamento estético da forma poética e o tratamento metafísico de temas universais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:99:D",
+      "letter": "D",
+      "textMarkdown": "A evidente preocupação do eu lírico com a realidade social expressa em imagens poéticas inovadoras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:99:E",
+      "letter": "E",
+      "textMarkdown": "A liberdade formal da estrutura poética que dispensa a rima e a métrica tradicionais em favor de temas do cotidiano.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

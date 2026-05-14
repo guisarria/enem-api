@@ -1,43 +1,50 @@
 {
-    "title": "Questão 129 - ENEM 2021",
-    "index": 129,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Nutrição para o fruto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Reserva para o embrião.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Revestimento para a semente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Proteção para o megagametófito.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Vascularização para a planta jovem.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:129",
+  "variantKey": "129",
+  "title": "Questão 129 - ENEM 2021",
+  "index": 129,
+  "year": 2021,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.",
+  "alternativesIntroductionMarkdown": "Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:129:A",
+      "letter": "A",
+      "textMarkdown": "Nutrição para o fruto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:129:B",
+      "letter": "B",
+      "textMarkdown": "Reserva para o embrião.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:129:C",
+      "letter": "C",
+      "textMarkdown": "Revestimento para a semente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:129:D",
+      "letter": "D",
+      "textMarkdown": "Proteção para o megagametófito.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:129:E",
+      "letter": "E",
+      "textMarkdown": "Vascularização para a planta jovem.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

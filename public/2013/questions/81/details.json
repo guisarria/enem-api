@@ -1,43 +1,50 @@
 {
-    "title": "Questão 81 - ENEM 2013",
-    "index": 81,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Flotação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Levigação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ventilação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Peneiração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Centrifugação.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:81",
+  "variantKey": "81",
+  "title": "Questão 81 - ENEM 2013",
+  "index": 81,
+  "year": 2013,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.",
+  "alternativesIntroductionMarkdown": "O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2013:81:A",
+      "letter": "A",
+      "textMarkdown": "Flotação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:81:B",
+      "letter": "B",
+      "textMarkdown": "Levigação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:81:C",
+      "letter": "C",
+      "textMarkdown": "Ventilação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:81:D",
+      "letter": "D",
+      "textMarkdown": "Peneiração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:81:E",
+      "letter": "E",
+      "textMarkdown": "Centrifugação.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

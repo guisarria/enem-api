@@ -1,43 +1,50 @@
 {
-    "title": "Questão 86 - ENEM 2018",
-    "index": 86,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente  \nmarginalizado na agenda de prioridades da política agrícola praticada no país.\n\nAQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). **A política nacional de agroecologia e produção orgânica no Brasil**: uma trajetória de luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Subsidiar os cultivos de base familiar.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Favorecer as práticas de fertilização química.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Restringir o emprego de maquinário moderno.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Controlar a expansão de sistemas de irrigação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Regulamentar o uso de sementes selecionadas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:86",
+  "variantKey": "86",
+  "title": "Questão 86 - ENEM 2018",
+  "index": 86,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente  \nmarginalizado na agenda de prioridades da política agrícola praticada no país.\n\nAQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). **A política nacional de agroecologia e produção orgânica no Brasil**: uma trajetória de luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado).",
+  "alternativesIntroductionMarkdown": "Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2018:86:A",
+      "letter": "A",
+      "textMarkdown": "Subsidiar os cultivos de base familiar.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:86:B",
+      "letter": "B",
+      "textMarkdown": "Favorecer as práticas de fertilização química.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:86:C",
+      "letter": "C",
+      "textMarkdown": "Restringir o emprego de maquinário moderno.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:86:D",
+      "letter": "D",
+      "textMarkdown": "Controlar a expansão de sistemas de irrigação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:86:E",
+      "letter": "E",
+      "textMarkdown": "Regulamentar o uso de sementes selecionadas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

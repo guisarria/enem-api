@@ -1,43 +1,50 @@
 {
-    "title": "Questão 118 - ENEM 2021",
-    "index": 118,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a água do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de oxigênio que danificam de forma fatal o tecido do tubo digestório.\n\nTOLEDO, K. Corante do açafrão pode ser útil no combate à dengue. Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A forma de combate relatada tem como atividade o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Morte do indivíduo adulto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Redução da eclosão dos ovos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Comprometimento da metamorfose.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Impedimento do desenvolvimento da larva.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Repelência da forma transmissora da doença.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:118",
+  "variantKey": "118",
+  "title": "Questão 118 - ENEM 2021",
+  "index": 118,
+  "year": 2021,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a água do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de oxigênio que danificam de forma fatal o tecido do tubo digestório.\n\nTOLEDO, K. Corante do açafrão pode ser útil no combate à dengue. Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. (adaptado).",
+  "alternativesIntroductionMarkdown": "A forma de combate relatada tem como atividade o(a)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2021:118:A",
+      "letter": "A",
+      "textMarkdown": "Morte do indivíduo adulto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:118:B",
+      "letter": "B",
+      "textMarkdown": "Redução da eclosão dos ovos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:118:C",
+      "letter": "C",
+      "textMarkdown": "Comprometimento da metamorfose.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:118:D",
+      "letter": "D",
+      "textMarkdown": "Impedimento do desenvolvimento da larva.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:118:E",
+      "letter": "E",
+      "textMarkdown": "Repelência da forma transmissora da doença.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

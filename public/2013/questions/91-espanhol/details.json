@@ -1,45 +1,58 @@
 {
-    "title": "Questão 91 - ENEM 2013",
-    "index": 91,
-    "year": 2013,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png)\n\nTUTE. **Tutelandia**. Disponível em: www.gocomics.com. Acesso em: 20 fev. 2012",
-    "files": [
-        "https://enem.dev/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A charge evoca uma situação de disputa. Seu efeito humorístico reside no(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aceitação imediata da provocação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Descaracterização do convite a um desafio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Sugestão de armas não convencionais para um duelo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Deslocamento temporal do comentário lateral.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Posicionamento relaxado dos personagens.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:91-espanhol",
+  "variantKey": "91-espanhol",
+  "title": "Questão 91 - ENEM 2013",
+  "index": 91,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "![](/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png)\n\nTUTE. **Tutelandia**. Disponível em: www.gocomics.com. Acesso em: 20 fev. 2012",
+  "alternativesIntroductionMarkdown": "A charge evoca uma situação de disputa. Seu efeito humorístico reside no(a)",
+  "assets": [
+    {
+      "id": "2013:91-espanhol:asset:0",
+      "path": "/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:91-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Aceitação imediata da provocação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:91-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Descaracterização do convite a um desafio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:91-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Sugestão de armas não convencionais para um duelo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:91-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Deslocamento temporal do comentário lateral.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:91-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Posicionamento relaxado dos personagens.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

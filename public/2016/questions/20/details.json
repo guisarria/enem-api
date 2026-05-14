@@ -1,43 +1,50 @@
 {
-    "title": "Questão 20 - ENEM 2016",
-    "index": 20,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.\n\nDESCARTES, R. **Regras para a orientação do espírito**. São Paulo: Martins Fontes, 1999.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Investigação de natureza empírica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Retomada da tradição intelectual.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Imposição de valores ortodoxos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Autonomia do sujeito pensante.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Liberdade do agente moral.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:20",
+  "variantKey": "20",
+  "title": "Questão 20 - ENEM 2016",
+  "index": 20,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.\n\nDESCARTES, R. **Regras para a orientação do espírito**. São Paulo: Martins Fontes, 1999.",
+  "alternativesIntroductionMarkdown": "Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2016:20:A",
+      "letter": "A",
+      "textMarkdown": "Investigação de natureza empírica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:20:B",
+      "letter": "B",
+      "textMarkdown": "Retomada da tradição intelectual.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:20:C",
+      "letter": "C",
+      "textMarkdown": "Imposição de valores ortodoxos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:20:D",
+      "letter": "D",
+      "textMarkdown": "Autonomia do sujeito pensante.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:20:E",
+      "letter": "E",
+      "textMarkdown": "Liberdade do agente moral.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

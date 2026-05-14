@@ -1,43 +1,50 @@
 {
-    "title": "Questão 180 - ENEM 2014",
-    "index": 180,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "16h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "10h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "7h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4h.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "1h.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:180",
+  "variantKey": "180",
+  "title": "Questão 180 - ENEM 2014",
+  "index": 180,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:180:A",
+      "letter": "A",
+      "textMarkdown": "16h.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:180:B",
+      "letter": "B",
+      "textMarkdown": "10h.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:180:C",
+      "letter": "C",
+      "textMarkdown": "7h.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:180:D",
+      "letter": "D",
+      "textMarkdown": "4h.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:180:E",
+      "letter": "E",
+      "textMarkdown": "1h.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 28 - ENEM 2016",
-    "index": 28,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Pirro afirmava que nada é nobre nem vergonhoso, justo ou injusto, e que, da mesma maneira, nada existe do ponto de vista da verdade, que os homens agem apenas segundo a lei e o costume, nada sendo mais isto do que aquilo. Ele levou uma vida de acordo com esta doutrina, nada procurando evitar e não se desviando do que quer que fosse, suportando tudo, carroças, por exemplo, precipícios, cães, nada deixando ao arbítrio dos sentidos.\n\nLAÉRCIO, D. **Vidas e sentenças dos filósofos ilustres**. Brasília: Editora UnB, 1988.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O ceticismo, conforme sugerido no texto, caracteriza-se por:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Desprezar quaisquer convenções e obrigações da sociedade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Atingir o verdadeiro prazer como o princípio e o fim da vida feliz.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Defender a indiferença e a impossibilidade de obter alguma certeza.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Aceitar o determinismo e ocupar-se com a esperança transcendente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Agir de forma virtuosa e sábia a fim de enaltecer o homem bom e belo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:28",
+  "variantKey": "28",
+  "title": "Questão 28 - ENEM 2016",
+  "index": 28,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Pirro afirmava que nada é nobre nem vergonhoso, justo ou injusto, e que, da mesma maneira, nada existe do ponto de vista da verdade, que os homens agem apenas segundo a lei e o costume, nada sendo mais isto do que aquilo. Ele levou uma vida de acordo com esta doutrina, nada procurando evitar e não se desviando do que quer que fosse, suportando tudo, carroças, por exemplo, precipícios, cães, nada deixando ao arbítrio dos sentidos.\n\nLAÉRCIO, D. **Vidas e sentenças dos filósofos ilustres**. Brasília: Editora UnB, 1988.",
+  "alternativesIntroductionMarkdown": "O ceticismo, conforme sugerido no texto, caracteriza-se por:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:28:A",
+      "letter": "A",
+      "textMarkdown": "Desprezar quaisquer convenções e obrigações da sociedade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:28:B",
+      "letter": "B",
+      "textMarkdown": "Atingir o verdadeiro prazer como o princípio e o fim da vida feliz.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:28:C",
+      "letter": "C",
+      "textMarkdown": "Defender a indiferença e a impossibilidade de obter alguma certeza.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:28:D",
+      "letter": "D",
+      "textMarkdown": "Aceitar o determinismo e ocupar-se com a esperança transcendente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:28:E",
+      "letter": "E",
+      "textMarkdown": "Agir de forma virtuosa e sábia a fim de enaltecer o homem bom e belo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

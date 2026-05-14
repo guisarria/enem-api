@@ -1,43 +1,50 @@
 {
-    "title": "Questão 67 - ENEM 2015",
-    "index": 67,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Nessa situação o sistema excretor dos estudantes",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aumentou a filtração glomerular.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Produziu maior volume de urina.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Produziu urina com menos ureia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Produziu urina com maior concentração de sais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Reduziu a reabsorção de glicose e aminoácidos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:67",
+  "variantKey": "67",
+  "title": "Questão 67 - ENEM 2015",
+  "index": 67,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.",
+  "alternativesIntroductionMarkdown": "Nessa situação o sistema excretor dos estudantes",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:67:A",
+      "letter": "A",
+      "textMarkdown": "Aumentou a filtração glomerular.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:67:B",
+      "letter": "B",
+      "textMarkdown": "Produziu maior volume de urina.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:67:C",
+      "letter": "C",
+      "textMarkdown": "Produziu urina com menos ureia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:67:D",
+      "letter": "D",
+      "textMarkdown": "Produziu urina com maior concentração de sais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:67:E",
+      "letter": "E",
+      "textMarkdown": "Reduziu a reabsorção de glicose e aminoácidos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

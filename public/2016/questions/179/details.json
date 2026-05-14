@@ -1,43 +1,50 @@
 {
-    "title": "Questão 179 - ENEM 2016",
-    "index": 179,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O filtro descartado é o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "F1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "F2.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "F3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "F4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "F5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:179",
+  "variantKey": "179",
+  "title": "Questão 179 - ENEM 2016",
+  "index": 179,
+  "year": 2016,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O filtro descartado é o",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:179:A",
+      "letter": "A",
+      "textMarkdown": "F1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:179:B",
+      "letter": "B",
+      "textMarkdown": "F2.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:179:C",
+      "letter": "C",
+      "textMarkdown": "F3.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:179:D",
+      "letter": "D",
+      "textMarkdown": "F4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:179:E",
+      "letter": "E",
+      "textMarkdown": "F5.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

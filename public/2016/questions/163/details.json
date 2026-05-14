@@ -1,43 +1,50 @@
 {
-    "title": "Questão 163 - ENEM 2016",
-    "index": 163,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "DB < dA < dC",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "DB = dA < dC",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "DC < dB = dA",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "DB < dC < dA",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "DC < dB < dA",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:163",
+  "variantKey": "163",
+  "title": "Questão 163 - ENEM 2016",
+  "index": 163,
+  "year": 2016,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:163:A",
+      "letter": "A",
+      "textMarkdown": "DB < dA < dC",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:163:B",
+      "letter": "B",
+      "textMarkdown": "DB = dA < dC",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:163:C",
+      "letter": "C",
+      "textMarkdown": "DC < dB = dA",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:163:D",
+      "letter": "D",
+      "textMarkdown": "DB < dC < dA",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:163:E",
+      "letter": "E",
+      "textMarkdown": "DC < dB < dA",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

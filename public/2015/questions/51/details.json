@@ -1,43 +1,50 @@
 {
-    "title": "Questão 51 - ENEM 2015",
-    "index": 51,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.\n\nKIFFER, D. **Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju**. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Flotação e decantação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Decomposição e centrifugação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Floculação e separação magnética.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Destilação fracionada e peneiração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Dissolução fracionada e magnetização.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:51",
+  "variantKey": "51",
+  "title": "Questão 51 - ENEM 2015",
+  "index": 51,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.\n\nKIFFER, D. **Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju**. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente,",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:51:A",
+      "letter": "A",
+      "textMarkdown": "Flotação e decantação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:51:B",
+      "letter": "B",
+      "textMarkdown": "Decomposição e centrifugação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:51:C",
+      "letter": "C",
+      "textMarkdown": "Floculação e separação magnética.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:51:D",
+      "letter": "D",
+      "textMarkdown": "Destilação fracionada e peneiração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:51:E",
+      "letter": "E",
+      "textMarkdown": "Dissolução fracionada e magnetização.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

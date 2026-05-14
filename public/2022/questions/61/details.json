@@ -1,43 +1,50 @@
 {
-    "title": "Questão 61 - ENEM 2022",
-    "index": 61,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.\n\n**GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 ou. 2021.**",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A consequência da mudança tecnológica apresentada no texto é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Proteção da economia nacional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Valorização da cultura tradicional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diminuição da formação acadêmica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Estagnação da manifestação artística.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ampliação do desemprego estrutural.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2022:61",
+  "variantKey": "61",
+  "title": "Questão 61 - ENEM 2022",
+  "index": 61,
+  "year": 2022,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.\n\n**GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 ou. 2021.**",
+  "alternativesIntroductionMarkdown": "A consequência da mudança tecnológica apresentada no texto é a",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2022:61:A",
+      "letter": "A",
+      "textMarkdown": "Proteção da economia nacional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:61:B",
+      "letter": "B",
+      "textMarkdown": "Valorização da cultura tradicional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:61:C",
+      "letter": "C",
+      "textMarkdown": "Diminuição da formação acadêmica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:61:D",
+      "letter": "D",
+      "textMarkdown": "Estagnação da manifestação artística.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:61:E",
+      "letter": "E",
+      "textMarkdown": "Ampliação do desemprego estrutural.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

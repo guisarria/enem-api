@@ -1,43 +1,50 @@
 {
-    "title": "Questão 111 - ENEM 2018",
-    "index": 111,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Diminuição do cálice.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Alongamento do ovário.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Disponibilização do néctar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Intensificação da cor das pétalas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aumento do número de estames.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2018:111",
+  "variantKey": "111",
+  "title": "Questão 111 - ENEM 2018",
+  "index": 111,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água.",
+  "alternativesIntroductionMarkdown": "A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2018:111:A",
+      "letter": "A",
+      "textMarkdown": "Diminuição do cálice.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:111:B",
+      "letter": "B",
+      "textMarkdown": "Alongamento do ovário.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:111:C",
+      "letter": "C",
+      "textMarkdown": "Disponibilização do néctar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:111:D",
+      "letter": "D",
+      "textMarkdown": "Intensificação da cor das pétalas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:111:E",
+      "letter": "E",
+      "textMarkdown": "Aumento do número de estames.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

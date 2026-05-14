@@ -1,43 +1,50 @@
 {
-    "title": "Questão 107 - ENEM 2023",
-    "index": 107,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O coquetel de inibidores impediu o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Formação do pronúcleo masculino.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Início da divisão mitótica do zigoto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Término da segunda divisão meiótica do ovócito.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Passagem do espermatozoide pela corona radiata e zona pelúcida.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Fusão das membranas plasmáticas do ovócito e do espermatozoide.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:107",
+  "variantKey": "107",
+  "title": "Questão 107 - ENEM 2023",
+  "index": 107,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+  "alternativesIntroductionMarkdown": "O coquetel de inibidores impediu o(a)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:107:A",
+      "letter": "A",
+      "textMarkdown": "Formação do pronúcleo masculino.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:107:B",
+      "letter": "B",
+      "textMarkdown": "Início da divisão mitótica do zigoto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:107:C",
+      "letter": "C",
+      "textMarkdown": "Término da segunda divisão meiótica do ovócito.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:107:D",
+      "letter": "D",
+      "textMarkdown": "Passagem do espermatozoide pela corona radiata e zona pelúcida.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:107:E",
+      "letter": "E",
+      "textMarkdown": "Fusão das membranas plasmáticas do ovócito e do espermatozoide.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

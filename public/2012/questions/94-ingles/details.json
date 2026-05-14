@@ -1,45 +1,58 @@
 {
-    "title": "Questão 94 - ENEM 2012",
-    "index": 94,
-    "year": 2012,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png)\n\nDONAR. Disponível em: http://politicalgraffiti.wordpress.com. Acesso em: 17 ago. 2011.",
-    "files": [
-        "https://enem.dev/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Cartuns são produzidos com o intuito de satirizar comportamentos humanos e assim oportunizam a reflexão sobre nossos próprios comportamentos e atitudes. Nesse cartum, a linguagem utilizada pelos personagens em uma conversa em inglês evidencia a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Predominância do uso da linguagem informal sobre a língua padrão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Dificuldade de reconhecer a existência de diferentes usos da linguagem.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Aceitação dos regionalismos utilizados por pessoas de diferentes lugares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Necessidade de estudo da língua inglesa por parte dos personagens.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Facilidade de compreensão entre falantes com sotaques distintos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:94-ingles",
+  "variantKey": "94-ingles",
+  "title": "Questão 94 - ENEM 2012",
+  "index": 94,
+  "year": 2012,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png)\n\nDONAR. Disponível em: http://politicalgraffiti.wordpress.com. Acesso em: 17 ago. 2011.",
+  "alternativesIntroductionMarkdown": "Cartuns são produzidos com o intuito de satirizar comportamentos humanos e assim oportunizam a reflexão sobre nossos próprios comportamentos e atitudes. Nesse cartum, a linguagem utilizada pelos personagens em uma conversa em inglês evidencia a",
+  "assets": [
+    {
+      "id": "2012:94-ingles:asset:0",
+      "path": "/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:94-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Predominância do uso da linguagem informal sobre a língua padrão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:94-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Dificuldade de reconhecer a existência de diferentes usos da linguagem.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:94-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Aceitação dos regionalismos utilizados por pessoas de diferentes lugares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:94-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Necessidade de estudo da língua inglesa por parte dos personagens.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:94-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Facilidade de compreensão entre falantes com sotaques distintos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

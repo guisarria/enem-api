@@ -1,43 +1,50 @@
 {
-    "title": "Questão 76 - ENEM 2018",
-    "index": 76,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "                   **Código Penal dos Estados Unidos do Brasil, 1890**  \n                                 _Dos crimes contra a saúde pública_  \nArt. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.  \nArt. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos  \nreinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro\n\nDisponível em: http://legis.senado.gov.br. Acesso em: 21 dez. 2014 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "No início da Primeira República, a legislação penal vigente evidenciava o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Negligência das religiões cristãs sobre as moléstias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Desconhecimento das origens das crenças tradicionais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Preferência da população pelos tratamentos alopáticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Abandono pela comunidade das práticas terapêuticas de magia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Condenação pela ciência dos conhecimentos populares de cura.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2018:76",
+  "variantKey": "76",
+  "title": "Questão 76 - ENEM 2018",
+  "index": 76,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**Código Penal dos Estados Unidos do Brasil, 1890**  \n                                 _Dos crimes contra a saúde pública_  \nArt. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.  \nArt. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos  \nreinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro\n\nDisponível em: http://legis.senado.gov.br. Acesso em: 21 dez. 2014 (adaptado).",
+  "alternativesIntroductionMarkdown": "No início da Primeira República, a legislação penal vigente evidenciava o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2018:76:A",
+      "letter": "A",
+      "textMarkdown": "Negligência das religiões cristãs sobre as moléstias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:76:B",
+      "letter": "B",
+      "textMarkdown": "Desconhecimento das origens das crenças tradicionais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:76:C",
+      "letter": "C",
+      "textMarkdown": "Preferência da população pelos tratamentos alopáticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:76:D",
+      "letter": "D",
+      "textMarkdown": "Abandono pela comunidade das práticas terapêuticas de magia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:76:E",
+      "letter": "E",
+      "textMarkdown": "Condenação pela ciência dos conhecimentos populares de cura.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

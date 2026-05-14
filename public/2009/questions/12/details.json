@@ -1,46 +1,65 @@
 {
-    "title": "Questão 12 - ENEM 2009",
-    "index": 12,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg)\n\nEm solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:\n\n![](https://enem.dev/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg)\n\nUma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.",
-    "files": [
-        "https://enem.dev/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg",
-        "https://enem.dev/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Com base nas informações do texto, é correto concluir que os sabões atuam de maneira:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mais eficiente em pH básico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Mais eficiente em pH ácido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Mais eficiente em pH neutro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Eficiente em qualquer faixa de pH.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Mais eficiente em pH ácido ou neutro.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:12",
+  "variantKey": "12",
+  "title": "Questão 12 - ENEM 2009",
+  "index": 12,
+  "year": 2009,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg)\n\nEm solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:\n\n![](/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg)\n\nUma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.",
+  "alternativesIntroductionMarkdown": "Com base nas informações do texto, é correto concluir que os sabões atuam de maneira:",
+  "assets": [
+    {
+      "id": "2009:12:asset:0",
+      "path": "/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2009:12:asset:1",
+      "path": "/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2009:12:A",
+      "letter": "A",
+      "textMarkdown": "Mais eficiente em pH básico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:12:B",
+      "letter": "B",
+      "textMarkdown": "Mais eficiente em pH ácido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:12:C",
+      "letter": "C",
+      "textMarkdown": "Mais eficiente em pH neutro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:12:D",
+      "letter": "D",
+      "textMarkdown": "Eficiente em qualquer faixa de pH.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:12:E",
+      "letter": "E",
+      "textMarkdown": "Mais eficiente em pH ácido ou neutro.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

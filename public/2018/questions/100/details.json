@@ -1,43 +1,50 @@
 {
-    "title": "Questão 100 - ENEM 2018",
-    "index": 100,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula ã autodestruição.\n\nALBERTS, B. et ai. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A ausência dessa proteína poderá favorecer a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Redução da síntese de DNA, acelerando o ciclo celular.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Saída imediata do ciclo celular, antecipando a proteção do DNA.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ativação de outras proteínas reguladoras, induzindo a apoptose.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Manutenção da estabilidade genética, favorecendo a longevidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Proliferação celular exagerada, resultando na formação de um tumor.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2018:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2018",
+  "index": 100,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula ã autodestruição.\n\nALBERTS, B. et ai. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
+  "alternativesIntroductionMarkdown": "A ausência dessa proteína poderá favorecer a",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2018:100:A",
+      "letter": "A",
+      "textMarkdown": "Redução da síntese de DNA, acelerando o ciclo celular.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:100:B",
+      "letter": "B",
+      "textMarkdown": "Saída imediata do ciclo celular, antecipando a proteção do DNA.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:100:C",
+      "letter": "C",
+      "textMarkdown": "Ativação de outras proteínas reguladoras, induzindo a apoptose.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:100:D",
+      "letter": "D",
+      "textMarkdown": "Manutenção da estabilidade genética, favorecendo a longevidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:100:E",
+      "letter": "E",
+      "textMarkdown": "Proliferação celular exagerada, resultando na formação de um tumor.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

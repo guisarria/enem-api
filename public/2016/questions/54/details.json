@@ -1,43 +1,50 @@
 {
-    "title": "Questão 54 - ENEM 2016",
-    "index": 54,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Para atender essa determinação, o valor minimo do fluxo de água, em kg/s, para a refrigeração da usina deve ser mais próximo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "42.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "84.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "167.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "250.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "500.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:54",
+  "variantKey": "54",
+  "title": "Questão 54 - ENEM 2016",
+  "index": 54,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Para atender essa determinação, o valor minimo do fluxo de água, em kg/s, para a refrigeração da usina deve ser mais próximo de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:54:A",
+      "letter": "A",
+      "textMarkdown": "42.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:54:B",
+      "letter": "B",
+      "textMarkdown": "84.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:54:C",
+      "letter": "C",
+      "textMarkdown": "167.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:54:D",
+      "letter": "D",
+      "textMarkdown": "250.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:54:E",
+      "letter": "E",
+      "textMarkdown": "500.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 126 - ENEM 2020",
-    "index": 126,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Embora a energia nuclear possa ser utilizada para fins\npacíficos, recentes conflitos geopolíticos têm trazido\npreocupações em várias partes do planeta e estimulado\ndiscussões visando o combate ao uso de armas de\ndestruição em massa. Além do potencial destrutivo da\nbomba atômica, uma grande preocupação associada ao\nemprego desse artefato bélico é a poeira radioativa\ndeixada após a bomba ser detonada.\nQual é o processo envolvido na detonação dessa bomba?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fissão nuclear do urânio, provocada por nêutrons.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Fusão nuclear do hidrogênio, provocada por prótons.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Desintegração nuclear do plutônio, provocada por elétrons.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Associação em cadeia de chumbo, provocada por pósitrons.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Decaimento radioativo do carbono, provocado por partículas beta.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:126",
+  "variantKey": "126",
+  "title": "Questão 126 - ENEM 2020",
+  "index": 126,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Embora a energia nuclear possa ser utilizada para fins\npacíficos, recentes conflitos geopolíticos têm trazido\npreocupações em várias partes do planeta e estimulado\ndiscussões visando o combate ao uso de armas de\ndestruição em massa. Além do potencial destrutivo da\nbomba atômica, uma grande preocupação associada ao\nemprego desse artefato bélico é a poeira radioativa\ndeixada após a bomba ser detonada.\nQual é o processo envolvido na detonação dessa bomba?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2020:126:A",
+      "letter": "A",
+      "textMarkdown": "Fissão nuclear do urânio, provocada por nêutrons.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:126:B",
+      "letter": "B",
+      "textMarkdown": "Fusão nuclear do hidrogênio, provocada por prótons.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:126:C",
+      "letter": "C",
+      "textMarkdown": "Desintegração nuclear do plutônio, provocada por elétrons.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:126:D",
+      "letter": "D",
+      "textMarkdown": "Associação em cadeia de chumbo, provocada por pósitrons.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:126:E",
+      "letter": "E",
+      "textMarkdown": "Decaimento radioativo do carbono, provocado por partículas beta.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 126 - ENEM 2022",
-    "index": 126,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é a etapa de retirada de grande parte desses sólidos?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Coagulação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Decantação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Filtração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Desinfecção.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fluoretação.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:126",
+  "variantKey": "126",
+  "title": "Questão 126 - ENEM 2022",
+  "index": 126,
+  "year": 2022,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.",
+  "alternativesIntroductionMarkdown": "Qual é a etapa de retirada de grande parte desses sólidos?",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2022:126:A",
+      "letter": "A",
+      "textMarkdown": "Coagulação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:126:B",
+      "letter": "B",
+      "textMarkdown": "Decantação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:126:C",
+      "letter": "C",
+      "textMarkdown": "Filtração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:126:D",
+      "letter": "D",
+      "textMarkdown": "Desinfecção.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:126:E",
+      "letter": "E",
+      "textMarkdown": "Fluoretação.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

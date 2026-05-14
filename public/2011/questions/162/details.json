@@ -1,43 +1,50 @@
 {
-    "title": "Questão 162 - ENEM 2011",
-    "index": 162,
-    "year": 2011,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Quantas passagens foram vendidas por essa empresa em julho do ano passado?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "38 000",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "40 500",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "41 000",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "42 000",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "48 000",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:162",
+  "variantKey": "162",
+  "title": "Questão 162 - ENEM 2011",
+  "index": 162,
+  "year": 2011,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.",
+  "alternativesIntroductionMarkdown": "Quantas passagens foram vendidas por essa empresa em julho do ano passado?",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2011:162:A",
+      "letter": "A",
+      "textMarkdown": "38 000",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:162:B",
+      "letter": "B",
+      "textMarkdown": "40 500",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:162:C",
+      "letter": "C",
+      "textMarkdown": "41 000",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:162:D",
+      "letter": "D",
+      "textMarkdown": "42 000",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:162:E",
+      "letter": "E",
+      "textMarkdown": "48 000",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

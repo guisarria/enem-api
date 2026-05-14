@@ -1,43 +1,50 @@
 {
-    "title": "Questão 50 - ENEM 2022",
-    "index": 50,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Na construção da ferrovia Madeira-Marmoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios fabris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vitimas, contudo, permaneceriam na sombra a margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que  não lhes concedera tempo algum para ser decifrada.\n\nFOOT HARDWAN, F. Trem fantasma: modernidade na selva\n\nSão Paulo: Cia das letras,1968 adaptado",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Discrepância entre engenharia ambiental e equilíbrio da fauna",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Incoerência entre maquinaria estrangeira e controle da floresta",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Incompatibilidade entre investimento estatal e proteção aos nativos",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Competição entre farmacologia internacional e produtos de fitoterapia",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Contradição entre desenvolvimento nacional e respeito aos trabalhadores",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2022:50",
+  "variantKey": "50",
+  "title": "Questão 50 - ENEM 2022",
+  "index": 50,
+  "year": 2022,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Na construção da ferrovia Madeira-Marmoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios fabris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vitimas, contudo, permaneceriam na sombra a margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que  não lhes concedera tempo algum para ser decifrada.\n\nFOOT HARDWAN, F. Trem fantasma: modernidade na selva\n\nSão Paulo: Cia das letras,1968 adaptado",
+  "alternativesIntroductionMarkdown": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2022:50:A",
+      "letter": "A",
+      "textMarkdown": "Discrepância entre engenharia ambiental e equilíbrio da fauna",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:50:B",
+      "letter": "B",
+      "textMarkdown": "Incoerência entre maquinaria estrangeira e controle da floresta",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:50:C",
+      "letter": "C",
+      "textMarkdown": "Incompatibilidade entre investimento estatal e proteção aos nativos",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:50:D",
+      "letter": "D",
+      "textMarkdown": "Competição entre farmacologia internacional e produtos de fitoterapia",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:50:E",
+      "letter": "E",
+      "textMarkdown": "Contradição entre desenvolvimento nacional e respeito aos trabalhadores",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

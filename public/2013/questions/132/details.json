@@ -1,43 +1,50 @@
 {
-    "title": "Questão 132 - ENEM 2013",
-    "index": 132,
-    "year": 2013,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Dúvida**\n\nDois compadres viajavam de carro por uma estrada de fazenda quando um bicho cruzou a frente do carro.  \nUm dos compadres falou:  \n— Passou um largato ali!  \nO outro perguntou:  \n— Lagarto ou largato?  \nO primeiro respondeu:  \n— Num sei não, o bicho passou muito rápido.\n\n**Piadas coloridas**. Rio de Janeiro: Gênero, 2006.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Na piada, a quebra de expectativa contribui para produzir o efeito de humor. Esse efeito ocorre porque um dos personagens",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Reconhece a espécie do animal avistado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Tem dúvida sobre a pronúncia do nome do réptil.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Desconsidera o conteúdo linguístico da pergunta.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Constata o fato de um bicho cruzar a frente do carro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Apresenta duas possibilidades de sentido para a mesma palavra.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:132",
+  "variantKey": "132",
+  "title": "Questão 132 - ENEM 2013",
+  "index": 132,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Dúvida**\n\nDois compadres viajavam de carro por uma estrada de fazenda quando um bicho cruzou a frente do carro.  \nUm dos compadres falou:  \n— Passou um largato ali!  \nO outro perguntou:  \n— Lagarto ou largato?  \nO primeiro respondeu:  \n— Num sei não, o bicho passou muito rápido.\n\n**Piadas coloridas**. Rio de Janeiro: Gênero, 2006.",
+  "alternativesIntroductionMarkdown": "Na piada, a quebra de expectativa contribui para produzir o efeito de humor. Esse efeito ocorre porque um dos personagens",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:132:A",
+      "letter": "A",
+      "textMarkdown": "Reconhece a espécie do animal avistado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:132:B",
+      "letter": "B",
+      "textMarkdown": "Tem dúvida sobre a pronúncia do nome do réptil.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:132:C",
+      "letter": "C",
+      "textMarkdown": "Desconsidera o conteúdo linguístico da pergunta.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:132:D",
+      "letter": "D",
+      "textMarkdown": "Constata o fato de um bicho cruzar a frente do carro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:132:E",
+      "letter": "E",
+      "textMarkdown": "Apresenta duas possibilidades de sentido para a mesma palavra.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

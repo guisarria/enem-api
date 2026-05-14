@@ -1,43 +1,50 @@
 {
-    "title": "Questão 139 - ENEM 2014",
-    "index": 139,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta anterior é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1/8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "7/8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "8/7",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "8/9",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "9/8",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:139",
+  "variantKey": "139",
+  "title": "Questão 139 - ENEM 2014",
+  "index": 139,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "A razão entre a largura da nova porta e a largura da porta anterior é",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:139:A",
+      "letter": "A",
+      "textMarkdown": "1/8",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:139:B",
+      "letter": "B",
+      "textMarkdown": "7/8",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:139:C",
+      "letter": "C",
+      "textMarkdown": "8/7",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:139:D",
+      "letter": "D",
+      "textMarkdown": "8/9",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:139:E",
+      "letter": "E",
+      "textMarkdown": "9/8",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

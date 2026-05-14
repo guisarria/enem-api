@@ -1,43 +1,50 @@
 {
-    "title": "Questão 64 - ENEM 2018",
-    "index": 64,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos  \nurbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos.\n\nCALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. **História do Brasil para ocupados**. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A prática histórico-cultural de matriz africana descrita no texto representava um(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Expressão do valor das festividades da população pobre.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ferramenta para submeter os cativos ao trabalho forçado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Estratégia de subversão do poder da monarquia portuguesa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Elemento de conversão dos escravos ao catolicismo romano.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Instrumento para minimizar o sentimento de desamparo social.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2018:64",
+  "variantKey": "64",
+  "title": "Questão 64 - ENEM 2018",
+  "index": 64,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos  \nurbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos.\n\nCALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. **História do Brasil para ocupados**. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).",
+  "alternativesIntroductionMarkdown": "A prática histórico-cultural de matriz africana descrita no texto representava um(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2018:64:A",
+      "letter": "A",
+      "textMarkdown": "Expressão do valor das festividades da população pobre.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:64:B",
+      "letter": "B",
+      "textMarkdown": "Ferramenta para submeter os cativos ao trabalho forçado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:64:C",
+      "letter": "C",
+      "textMarkdown": "Estratégia de subversão do poder da monarquia portuguesa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:64:D",
+      "letter": "D",
+      "textMarkdown": "Elemento de conversão dos escravos ao catolicismo romano.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:64:E",
+      "letter": "E",
+      "textMarkdown": "Instrumento para minimizar o sentimento de desamparo social.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 89 - ENEM 2014",
-    "index": 89,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O poder terapêutico dessas células baseia-se em sua capacidade de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Multiplicação lenta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Comunicação entre células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Adesão a diferentes tecidos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Diferenciação em células especializadas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Reconhecimento de células semelhantes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:89",
+  "variantKey": "89",
+  "title": "Questão 89 - ENEM 2014",
+  "index": 89,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.",
+  "alternativesIntroductionMarkdown": "O poder terapêutico dessas células baseia-se em sua capacidade de",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:89:A",
+      "letter": "A",
+      "textMarkdown": "Multiplicação lenta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:89:B",
+      "letter": "B",
+      "textMarkdown": "Comunicação entre células.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:89:C",
+      "letter": "C",
+      "textMarkdown": "Adesão a diferentes tecidos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:89:D",
+      "letter": "D",
+      "textMarkdown": "Diferenciação em células especializadas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:89:E",
+      "letter": "E",
+      "textMarkdown": "Reconhecimento de células semelhantes.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

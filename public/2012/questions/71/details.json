@@ -1,43 +1,50 @@
 {
-    "title": "Questão 71 - ENEM 2012",
-    "index": 71,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Suponha que você seja um consultor e foi contratado para assessorar a implantação de uma matriz energética em um pequeno país com as seguintes características: região plana, chuvosa e com ventos constantes, dispondo de poucos recursos hídricos e sem reservatórios de combustíveis fósseis.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "De acordo com as características desse país, a matriz energética de menor impacto e risco ambientais é a baseada na energia",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Dos biocombustíveis, pois tem menor impacto ambiental e maior disponibilidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Solar, pelo seu baixo custo e pelas características do país favoráveis à sua implantação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Nuclear, por ter menor risco ambiental e ser adequada a locais com menor extensão territorial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Hidráulica, devido ao relevo, à extensão territorial do país e aos recursos naturais disponíveis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Eólica, pelas características do país e por não gerar gases do efeito estufa nem resíduos de operação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:71",
+  "variantKey": "71",
+  "title": "Questão 71 - ENEM 2012",
+  "index": 71,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Suponha que você seja um consultor e foi contratado para assessorar a implantação de uma matriz energética em um pequeno país com as seguintes características: região plana, chuvosa e com ventos constantes, dispondo de poucos recursos hídricos e sem reservatórios de combustíveis fósseis.",
+  "alternativesIntroductionMarkdown": "De acordo com as características desse país, a matriz energética de menor impacto e risco ambientais é a baseada na energia",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:71:A",
+      "letter": "A",
+      "textMarkdown": "Dos biocombustíveis, pois tem menor impacto ambiental e maior disponibilidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:71:B",
+      "letter": "B",
+      "textMarkdown": "Solar, pelo seu baixo custo e pelas características do país favoráveis à sua implantação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:71:C",
+      "letter": "C",
+      "textMarkdown": "Nuclear, por ter menor risco ambiental e ser adequada a locais com menor extensão territorial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:71:D",
+      "letter": "D",
+      "textMarkdown": "Hidráulica, devido ao relevo, à extensão territorial do país e aos recursos naturais disponíveis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:71:E",
+      "letter": "E",
+      "textMarkdown": "Eólica, pelas características do país e por não gerar gases do efeito estufa nem resíduos de operação.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 127 - ENEM 2020",
-    "index": 127,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.\n\n(BLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2005. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.)",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aumento da incidência de luz solar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Diminuição da absorção de água.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Estabilização da umidade",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Elevação de temperatura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Liberação de oxigênio.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:127",
+  "variantKey": "127",
+  "title": "Questão 127 - ENEM 2020",
+  "index": 127,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.\n\n(BLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2005. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.)",
+  "alternativesIntroductionMarkdown": "Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2020:127:A",
+      "letter": "A",
+      "textMarkdown": "Aumento da incidência de luz solar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:127:B",
+      "letter": "B",
+      "textMarkdown": "Diminuição da absorção de água.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:127:C",
+      "letter": "C",
+      "textMarkdown": "Estabilização da umidade",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:127:D",
+      "letter": "D",
+      "textMarkdown": "Elevação de temperatura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:127:E",
+      "letter": "E",
+      "textMarkdown": "Liberação de oxigênio.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

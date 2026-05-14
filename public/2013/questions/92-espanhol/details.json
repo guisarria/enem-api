@@ -1,43 +1,50 @@
 {
-    "title": "Questão 92 - ENEM 2013",
-    "index": 92,
-    "year": 2013,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "**Duerme negrito**\n\nDuerme, duerme, negrito,  \nque tu mamá está en el campo,  \nnegrito…\n\nTe va a traer  \ncodornices para ti.\n\nTe va a traer  \ncarne de cerdo para ti.  \nTe va a traer  \nmuchas cosas para ti \\[…\\]\n\nDuerme, duerme, negrito,  \nque tu mamá está en el campo,  \nnegrito…  \nTrabajando, trabajando duramente, trabajando sí.  \nTrabajando y no le pagan,  \ntrabajando sí.\n\nDisponível em: http://letras.mus.br. Acesso em: 26 jun. 2012 (fragmento).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Duerme negrito é uma cantiga de ninar da cultura popula hispânica, cuja letra problematiza uma questão social, ao",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Destacar o orgulho da mulher como provedora do lar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Evidenciar a ausência afetiva da mãe na criação do filho.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Retratar a precariedade das relações do trabalho no campo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Ressaltar a inserção da mulher no mercado de trabalho rural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Exaltar liricamente a voz materna na formação cidadã do filho.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:92-espanhol",
+  "variantKey": "92-espanhol",
+  "title": "Questão 92 - ENEM 2013",
+  "index": 92,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "**Duerme negrito**\n\nDuerme, duerme, negrito,  \nque tu mamá está en el campo,  \nnegrito…\n\nTe va a traer  \ncodornices para ti.\n\nTe va a traer  \ncarne de cerdo para ti.  \nTe va a traer  \nmuchas cosas para ti […]\n\nDuerme, duerme, negrito,  \nque tu mamá está en el campo,  \nnegrito…  \nTrabajando, trabajando duramente, trabajando sí.  \nTrabajando y no le pagan,  \ntrabajando sí.\n\nDisponível em: http://letras.mus.br. Acesso em: 26 jun. 2012 (fragmento).",
+  "alternativesIntroductionMarkdown": "Duerme negrito é uma cantiga de ninar da cultura popula hispânica, cuja letra problematiza uma questão social, ao",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:92-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Destacar o orgulho da mulher como provedora do lar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:92-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Evidenciar a ausência afetiva da mãe na criação do filho.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:92-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Retratar a precariedade das relações do trabalho no campo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:92-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Ressaltar a inserção da mulher no mercado de trabalho rural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:92-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Exaltar liricamente a voz materna na formação cidadã do filho.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

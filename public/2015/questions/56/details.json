@@ -1,43 +1,50 @@
 {
-    "title": "Questão 56 - ENEM 2015",
-    "index": 56,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Essa especiação não ocorre devido ao(à)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Oscilação genética das raças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Convergência adaptativa das raças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Isolamento geógrafico entre as raças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Seleção natural que ocorre entre as raças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Manutenção do fluxo gênico entre as raças.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:56",
+  "variantKey": "56",
+  "title": "Questão 56 - ENEM 2015",
+  "index": 56,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).",
+  "alternativesIntroductionMarkdown": "Essa especiação não ocorre devido ao(à)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:56:A",
+      "letter": "A",
+      "textMarkdown": "Oscilação genética das raças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:56:B",
+      "letter": "B",
+      "textMarkdown": "Convergência adaptativa das raças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:56:C",
+      "letter": "C",
+      "textMarkdown": "Isolamento geógrafico entre as raças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:56:D",
+      "letter": "D",
+      "textMarkdown": "Seleção natural que ocorre entre as raças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:56:E",
+      "letter": "E",
+      "textMarkdown": "Manutenção do fluxo gênico entre as raças.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

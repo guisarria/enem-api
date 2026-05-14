@@ -1,43 +1,50 @@
 {
-    "title": "Questão 114 - ENEM 2019",
-    "index": 114,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Na família Retroviridae encontram-se diversos vírus que infectam aves e mamíferos, sendo caracterizada pela produção de DNA a partir de uma molécula de RNA. Alguns retrovírus infectam exclusivamente humanos, não necessitando de outros hospedeiros, reservatórios ou vetores biológicos. As infecções ocasionadas por esses vírus vêm causando mortes e grandes prejuízos ao desenvolvimento social e econômico. Nesse contexto, pesquisadores têm produzido medicamentos que contribuem para o tratamento dessas doenças.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Que avanços tecnológicos têm contribuído para o tratamento dessas infecções virais?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Melhoria dos métodos de controle dos vetores desses vírus.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Fabricação de soros mutagênicos para combate desses vírus.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Investimento da indústria em equipamentos de proteção individual.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Produção de vacinas que evitam a infecção das células hospedeiras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2019:114",
+  "variantKey": "114",
+  "title": "Questão 114 - ENEM 2019",
+  "index": 114,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Na família Retroviridae encontram-se diversos vírus que infectam aves e mamíferos, sendo caracterizada pela produção de DNA a partir de uma molécula de RNA. Alguns retrovírus infectam exclusivamente humanos, não necessitando de outros hospedeiros, reservatórios ou vetores biológicos. As infecções ocasionadas por esses vírus vêm causando mortes e grandes prejuízos ao desenvolvimento social e econômico. Nesse contexto, pesquisadores têm produzido medicamentos que contribuem para o tratamento dessas doenças.",
+  "alternativesIntroductionMarkdown": "Que avanços tecnológicos têm contribuído para o tratamento dessas infecções virais?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2019:114:A",
+      "letter": "A",
+      "textMarkdown": "Melhoria dos métodos de controle dos vetores desses vírus.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:114:B",
+      "letter": "B",
+      "textMarkdown": "Fabricação de soros mutagênicos para combate desses vírus.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:114:C",
+      "letter": "C",
+      "textMarkdown": "Investimento da indústria em equipamentos de proteção individual.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:114:D",
+      "letter": "D",
+      "textMarkdown": "Produção de vacinas que evitam a infecção das células hospedeiras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:114:E",
+      "letter": "E",
+      "textMarkdown": "Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 2 - ENEM 2010",
-    "index": 2,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Antes, eram apenas as grandes cidades que se apresentavam como o império da técnica, objeto de modificações, suspensões, acréscimos, cada vez mais sofisticadas e carregadas de artifício. Esse mundo artificial inclui, hoje, o mundo rural.\n\nSANTOS, M. **A Natureza do Espaço.** São Paulo: Hucitec, 1996.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Considerando a transformação mencionada no texto, uma consequência socioespacial que caracteriza o atual mundo rural brasileiro é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A redução do processo de concentração de terras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O aumento do aproveitamento de solos menos férteis.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "A ampliação do isolamento do espaço rural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A estagnação da fronteira agrícola do país.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A diminuição do nível de emprego formal.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:2",
+  "variantKey": "2",
+  "title": "Questão 2 - ENEM 2010",
+  "index": 2,
+  "year": 2010,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Antes, eram apenas as grandes cidades que se apresentavam como o império da técnica, objeto de modificações, suspensões, acréscimos, cada vez mais sofisticadas e carregadas de artifício. Esse mundo artificial inclui, hoje, o mundo rural.\n\nSANTOS, M. **A Natureza do Espaço.** São Paulo: Hucitec, 1996.",
+  "alternativesIntroductionMarkdown": "Considerando a transformação mencionada no texto, uma consequência socioespacial que caracteriza o atual mundo rural brasileiro é",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2010:2:A",
+      "letter": "A",
+      "textMarkdown": "A redução do processo de concentração de terras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:2:B",
+      "letter": "B",
+      "textMarkdown": "O aumento do aproveitamento de solos menos férteis.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:2:C",
+      "letter": "C",
+      "textMarkdown": "A ampliação do isolamento do espaço rural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:2:D",
+      "letter": "D",
+      "textMarkdown": "A estagnação da fronteira agrícola do país.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:2:E",
+      "letter": "E",
+      "textMarkdown": "A diminuição do nível de emprego formal.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

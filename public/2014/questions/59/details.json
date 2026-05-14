@@ -1,45 +1,58 @@
 {
-    "title": "Questão 59 - ENEM 2014",
-    "index": 59,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png)",
-    "files": [
-        "https://enem.dev/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Das espécies apresentadas, a adequada para essa recuperação é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cu (s).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Pt (s).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Al3+(aq).",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Sn (s).",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Zn2+(aq)",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:59",
+  "variantKey": "59",
+  "title": "Questão 59 - ENEM 2014",
+  "index": 59,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png)",
+  "alternativesIntroductionMarkdown": "Das espécies apresentadas, a adequada para essa recuperação é",
+  "assets": [
+    {
+      "id": "2014:59:asset:0",
+      "path": "/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:59:A",
+      "letter": "A",
+      "textMarkdown": "Cu (s).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:59:B",
+      "letter": "B",
+      "textMarkdown": "Pt (s).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:59:C",
+      "letter": "C",
+      "textMarkdown": "Al3+(aq).",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:59:D",
+      "letter": "D",
+      "textMarkdown": "Sn (s).",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:59:E",
+      "letter": "E",
+      "textMarkdown": "Zn2+(aq)",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

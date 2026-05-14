@@ -1,43 +1,50 @@
 {
-    "title": "Questão 52 - ENEM 2015",
-    "index": 52,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O fenômeno de “derretimento” decorre da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Absorção da umidade presente no ar atmosférico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Fusão do hidróxido pela troca de calor com o ambiente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Reação das impurezas do produto com o oxigênio do ar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Adsorção de gases atmosféricos na superfície do sólido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Reação do hidróxido de sódio com o gás nitrogênio presente no ar.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:52",
+  "variantKey": "52",
+  "title": "Questão 52 - ENEM 2015",
+  "index": 52,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O fenômeno de “derretimento” decorre da",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:52:A",
+      "letter": "A",
+      "textMarkdown": "Absorção da umidade presente no ar atmosférico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:52:B",
+      "letter": "B",
+      "textMarkdown": "Fusão do hidróxido pela troca de calor com o ambiente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:52:C",
+      "letter": "C",
+      "textMarkdown": "Reação das impurezas do produto com o oxigênio do ar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:52:D",
+      "letter": "D",
+      "textMarkdown": "Adsorção de gases atmosféricos na superfície do sólido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:52:E",
+      "letter": "E",
+      "textMarkdown": "Reação do hidróxido de sódio com o gás nitrogênio presente no ar.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

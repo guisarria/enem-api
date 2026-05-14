@@ -1,45 +1,58 @@
 {
-    "title": "Questão 91 - ENEM 2010",
-    "index": 91,
-    "year": 2010,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png)\n\nDisponível em: http://www.fool.com. Acesso em: 21 jul. 2010.",
-    "files": [
-        "https://enem.dev/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Ao optar por ler a reportagem completa sobre o assunto anunciado, tem-se acesso a duas palavras que Bill Gates não quer que o leitor conheça e que se referem",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aos responsáveis pela divulgação desta informação na internet.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Às marcas mais importantes de microcomputadores do mercado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Aos nomes dos americanos que inventaram a suposta tecnologia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aos sites da internet pelos quais o produto já pode ser conhecido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Às empresas que levam vantagem para serem suas concorrentes.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2010:91-ingles",
+  "variantKey": "91-ingles",
+  "title": "Questão 91 - ENEM 2010",
+  "index": 91,
+  "year": 2010,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png)\n\nDisponível em: http://www.fool.com. Acesso em: 21 jul. 2010.",
+  "alternativesIntroductionMarkdown": "Ao optar por ler a reportagem completa sobre o assunto anunciado, tem-se acesso a duas palavras que Bill Gates não quer que o leitor conheça e que se referem",
+  "assets": [
+    {
+      "id": "2010:91-ingles:asset:0",
+      "path": "/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2010:91-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Aos responsáveis pela divulgação desta informação na internet.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:91-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Às marcas mais importantes de microcomputadores do mercado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:91-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Aos nomes dos americanos que inventaram a suposta tecnologia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:91-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Aos sites da internet pelos quais o produto já pode ser conhecido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:91-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Às empresas que levam vantagem para serem suas concorrentes.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 70 - ENEM 2017",
-    "index": 70,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Mas era sobretudo a lã que os compradores, vindos da Flandres ou da Itália, procuravam por toda a parte. Para satisfazê-los, as raças foram melhoradas através do aumento progressivo das suas dimensões. Esse crescimento prosseguiu durante todo o século XIII, e as abadias da Ordem de Cister, onde eram utilizados os métodos mais racionais de criação de gado, desempenharam certamente um papel determinante nesse aperfeiçoamento.\n\nDUBYG. Economia rural e vida no campo no Ocidente medieval Lisboa: Estampa, 1987 (adaptado)",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O texto aponta para a relação entre aperfeiçoamento da atividade pastoril e avanço técnico na Europa Ocidental feudal, que resultou do(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Crescimento do trabalho escravo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Desenvolvimento da Vida urbana.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Padronização dos impostos locais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Uniformização do processo produtivo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desconcentração da estrutura fundiária.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:70",
+  "variantKey": "70",
+  "title": "Questão 70 - ENEM 2017",
+  "index": 70,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Mas era sobretudo a lã que os compradores, vindos da Flandres ou da Itália, procuravam por toda a parte. Para satisfazê-los, as raças foram melhoradas através do aumento progressivo das suas dimensões. Esse crescimento prosseguiu durante todo o século XIII, e as abadias da Ordem de Cister, onde eram utilizados os métodos mais racionais de criação de gado, desempenharam certamente um papel determinante nesse aperfeiçoamento.\n\nDUBYG. Economia rural e vida no campo no Ocidente medieval Lisboa: Estampa, 1987 (adaptado)",
+  "alternativesIntroductionMarkdown": "O texto aponta para a relação entre aperfeiçoamento da atividade pastoril e avanço técnico na Europa Ocidental feudal, que resultou do(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:70:A",
+      "letter": "A",
+      "textMarkdown": "Crescimento do trabalho escravo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:70:B",
+      "letter": "B",
+      "textMarkdown": "Desenvolvimento da Vida urbana.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:70:C",
+      "letter": "C",
+      "textMarkdown": "Padronização dos impostos locais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:70:D",
+      "letter": "D",
+      "textMarkdown": "Uniformização do processo produtivo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:70:E",
+      "letter": "E",
+      "textMarkdown": "Desconcentração da estrutura fundiária.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

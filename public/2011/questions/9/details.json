@@ -1,43 +1,50 @@
 {
-    "title": "Questão 9 - ENEM 2011",
-    "index": 9,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O fenômeno de ilha de calor é o exemplo mais marcante da modificação das condições iniciais do clima pelo processo de urbanização, caracterizado pela modificação do solo e pelo calor antropogênico, o qual inclui todas as atividades humanas inerentes à sua vida na cidade.\n\nBARBOSA, R. V. R. **Áreas verdes e qualidade térmica em ambientes urbanos**:  \nestudo em microclimas em Maceió. São Paulo: EdUSP, 2005.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O texto exemplifica uma importante alteração socioambiental, comum aos centros urbanos. A maximização desse fenômeno ocorre",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Pela reconstrução dos leitos originais dos cursos d’água antes canalizados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Pela recomposição de áreas verdes nas áreas centrais dos centros urbanos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Pelo uso de materiais com alta capacidade de reflexão no topo dos edifícios.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Pelo processo de impermeabilização do solo nas áreas centrais das cidades.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Pela construção de vias expressas e gerenciamento de tráfego terrestre.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:9",
+  "variantKey": "9",
+  "title": "Questão 9 - ENEM 2011",
+  "index": 9,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O fenômeno de ilha de calor é o exemplo mais marcante da modificação das condições iniciais do clima pelo processo de urbanização, caracterizado pela modificação do solo e pelo calor antropogênico, o qual inclui todas as atividades humanas inerentes à sua vida na cidade.\n\nBARBOSA, R. V. R. **Áreas verdes e qualidade térmica em ambientes urbanos**:  \nestudo em microclimas em Maceió. São Paulo: EdUSP, 2005.",
+  "alternativesIntroductionMarkdown": "O texto exemplifica uma importante alteração socioambiental, comum aos centros urbanos. A maximização desse fenômeno ocorre",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2011:9:A",
+      "letter": "A",
+      "textMarkdown": "Pela reconstrução dos leitos originais dos cursos d’água antes canalizados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:9:B",
+      "letter": "B",
+      "textMarkdown": "Pela recomposição de áreas verdes nas áreas centrais dos centros urbanos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:9:C",
+      "letter": "C",
+      "textMarkdown": "Pelo uso de materiais com alta capacidade de reflexão no topo dos edifícios.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:9:D",
+      "letter": "D",
+      "textMarkdown": "Pelo processo de impermeabilização do solo nas áreas centrais das cidades.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:9:E",
+      "letter": "E",
+      "textMarkdown": "Pela construção de vias expressas e gerenciamento de tráfego terrestre.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

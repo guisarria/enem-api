@@ -1,43 +1,50 @@
 {
-    "title": "Questão 42 - ENEM 2020",
-    "index": 42,
-    "year": 2020,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Atualmente os jovens estão imersos numa sociedade permeada pela tecnologia. Nesse contexto, os jogos digitais são artefatos muito empregados. Videogames ativos ou exergames foram introduzidos como forma de permitir que o corpo controlasse tais jogos. Como resultado, passaram a ser vistos como uma ferramenta auxiliar na adoção de um estilo de vida menos sedentário, com efeitos positivos sobre a saúde. Tem-se defendido que os exergames podem contribuir para a prática regular de atividade física moderada, bem como promover a interação entre jogadores, reduzindo o sentimento de isolamento social. Por outro lado, argumenta-se que os exergames não podem substituir a experiência real das práticas corporais, pois não motivam a longo prazo a prática permanente de atividades físicas.\n\nFINCO, M. D.: REATEGUI. E. B.; ZARO, M.A. Laboratório de exorgames: um espaço complementar para as aulas de educação física. **Movimento**. n. 3, 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Pela sua interatividade, os exergames apresentam-se como possibilidade para estimular o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Exercitação física, promovendo a saúde.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Vivência de exercícios físicos sistemáticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Envolvimento com atividades físicas ao longo da vida.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Jogo por meio de comandos fornecidos pelo videogame.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Disputa entre jogadores, contribuindo para o individualismo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:42",
+  "variantKey": "42",
+  "title": "Questão 42 - ENEM 2020",
+  "index": 42,
+  "year": 2020,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Atualmente os jovens estão imersos numa sociedade permeada pela tecnologia. Nesse contexto, os jogos digitais são artefatos muito empregados. Videogames ativos ou exergames foram introduzidos como forma de permitir que o corpo controlasse tais jogos. Como resultado, passaram a ser vistos como uma ferramenta auxiliar na adoção de um estilo de vida menos sedentário, com efeitos positivos sobre a saúde. Tem-se defendido que os exergames podem contribuir para a prática regular de atividade física moderada, bem como promover a interação entre jogadores, reduzindo o sentimento de isolamento social. Por outro lado, argumenta-se que os exergames não podem substituir a experiência real das práticas corporais, pois não motivam a longo prazo a prática permanente de atividades físicas.\n\nFINCO, M. D.: REATEGUI. E. B.; ZARO, M.A. Laboratório de exorgames: um espaço complementar para as aulas de educação física. **Movimento**. n. 3, 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "Pela sua interatividade, os exergames apresentam-se como possibilidade para estimular o(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2020:42:A",
+      "letter": "A",
+      "textMarkdown": "Exercitação física, promovendo a saúde.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:42:B",
+      "letter": "B",
+      "textMarkdown": "Vivência de exercícios físicos sistemáticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:42:C",
+      "letter": "C",
+      "textMarkdown": "Envolvimento com atividades físicas ao longo da vida.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:42:D",
+      "letter": "D",
+      "textMarkdown": "Jogo por meio de comandos fornecidos pelo videogame.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:42:E",
+      "letter": "E",
+      "textMarkdown": "Disputa entre jogadores, contribuindo para o individualismo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 85 - ENEM 2023",
-    "index": 85,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.\n\nROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia.  \nDisponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Restrição dos fluxos migratórios e a maior atuação de sindicatos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ampliação das leis trabalhistas e a plena importação de manufaturados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Proteção das florestas nacionais e a ampla transferência de tecnologias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Remoção dos entraves alfandegários e a melhor remuneração de empregados.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:85",
+  "variantKey": "85",
+  "title": "Questão 85 - ENEM 2023",
+  "index": 85,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.\n\nROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia.  \nDisponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+  "alternativesIntroductionMarkdown": "No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:85:A",
+      "letter": "A",
+      "textMarkdown": "Restrição dos fluxos migratórios e a maior atuação de sindicatos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:85:B",
+      "letter": "B",
+      "textMarkdown": "Ampliação das leis trabalhistas e a plena importação de manufaturados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:85:C",
+      "letter": "C",
+      "textMarkdown": "Proteção das florestas nacionais e a ampla transferência de tecnologias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:85:D",
+      "letter": "D",
+      "textMarkdown": "Manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:85:E",
+      "letter": "E",
+      "textMarkdown": "Remoção dos entraves alfandegários e a melhor remuneração de empregados.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

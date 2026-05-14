@@ -1,43 +1,50 @@
 {
-    "title": "Questão 37 - ENEM 2013",
-    "index": 37,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.\n\nSANTOS, M.; SILVEIRA; M. L. **O Brasil: território e sociedade no início do século XXI.** Rio de Janeiro: Record, 2004 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Reforma e ampliação de aeroportos nas capitais dos estados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ampliação de estádios de futebol para a realização de eventos esportivos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Instalação de cabos para a formação de uma rede informatizada de comunicação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Formação de uma infraestrutura de torres que permitem a comunicação móvel na região.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:37",
+  "variantKey": "37",
+  "title": "Questão 37 - ENEM 2013",
+  "index": 37,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.\n\nSANTOS, M.; SILVEIRA; M. L. **O Brasil: território e sociedade no início do século XXI.** Rio de Janeiro: Record, 2004 (adaptado).",
+  "alternativesIntroductionMarkdown": "A partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:37:A",
+      "letter": "A",
+      "textMarkdown": "Reforma e ampliação de aeroportos nas capitais dos estados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:37:B",
+      "letter": "B",
+      "textMarkdown": "Ampliação de estádios de futebol para a realização de eventos esportivos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:37:C",
+      "letter": "C",
+      "textMarkdown": "Construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:37:D",
+      "letter": "D",
+      "textMarkdown": "Instalação de cabos para a formação de uma rede informatizada de comunicação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:37:E",
+      "letter": "E",
+      "textMarkdown": "Formação de uma infraestrutura de torres que permitem a comunicação móvel na região.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

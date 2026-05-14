@@ -1,43 +1,50 @@
 {
-    "title": "Questão 50 - ENEM 2016",
-    "index": 50,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "-1090.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "-150.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "-50.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "+157.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "+470.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:50",
+  "variantKey": "50",
+  "title": "Questão 50 - ENEM 2016",
+  "index": 50,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:50:A",
+      "letter": "A",
+      "textMarkdown": "-1090.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:50:B",
+      "letter": "B",
+      "textMarkdown": "-150.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:50:C",
+      "letter": "C",
+      "textMarkdown": "-50.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:50:D",
+      "letter": "D",
+      "textMarkdown": "+157.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:50:E",
+      "letter": "E",
+      "textMarkdown": "+470.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

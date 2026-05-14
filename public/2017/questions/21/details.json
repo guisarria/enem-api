@@ -1,45 +1,103 @@
 {
-    "title": "Questão 21 - ENEM 2017",
-    "index": 21,
-    "year": 2017,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2017/questions/21/fd0a9410-0d3c-4f08-b88c-7b37485ca130.jpg)\n\n**TEXTO II**  \nNa sua produção, Goeldi buscou refletir seu caminho  pessoal e político, sua melancolia e paixão sobre os intensos aspectos mais latentes em sua obra, como: cidades, peixes, urubus, caveiras, abandono, solidão, drama e medo.\n\nZULIETTI, L. F. **Goeldi: da melancolia ao inevitável**. Revista de Arte, Mídia e Política. Acesso em: 24 abr. 2017 (adaptado).",
-    "files": [
-        "https://enem.dev/2017/questions/21/fd0a9410-0d3c-4f08-b88c-7b37485ca130.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O gravador Oswaldo Goeldi recebeu influências de  um movimento artístico europeu do início do século XX, que apresenta as características reveladas nos traços da obra de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/21/6aad415a-2159-4c14-909c-2dee498d8fe2.jpg",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/21/07e33910-d1e5-4593-8f33-df4d23f43409.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/21/efc2a958-b93f-42fa-a443-cf34e4866765.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/21/d2e0dcdd-0234-4ff8-8a6a-f19074af24cf.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2017/questions/21/154e689a-5a77-4bfd-bfb8-0e2a86097c72.jpg",
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:21",
+  "variantKey": "21",
+  "title": "Questão 21 - ENEM 2017",
+  "index": 21,
+  "year": 2017,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/2017/questions/21/fd0a9410-0d3c-4f08-b88c-7b37485ca130.jpg)\n\n**TEXTO II**  \nNa sua produção, Goeldi buscou refletir seu caminho  pessoal e político, sua melancolia e paixão sobre os intensos aspectos mais latentes em sua obra, como: cidades, peixes, urubus, caveiras, abandono, solidão, drama e medo.\n\nZULIETTI, L. F. **Goeldi: da melancolia ao inevitável**. Revista de Arte, Mídia e Política. Acesso em: 24 abr. 2017 (adaptado).",
+  "alternativesIntroductionMarkdown": "O gravador Oswaldo Goeldi recebeu influências de  um movimento artístico europeu do início do século XX, que apresenta as características reveladas nos traços da obra de",
+  "assets": [
+    {
+      "id": "2017:21:asset:0",
+      "path": "/2017/questions/21/fd0a9410-0d3c-4f08-b88c-7b37485ca130.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2017:21:asset:1",
+      "path": "/2017/questions/21/6aad415a-2159-4c14-909c-2dee498d8fe2.jpg",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2017:21:asset:2",
+      "path": "/2017/questions/21/07e33910-d1e5-4593-8f33-df4d23f43409.jpg",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2017:21:asset:3",
+      "path": "/2017/questions/21/efc2a958-b93f-42fa-a443-cf34e4866765.jpg",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2017:21:asset:4",
+      "path": "/2017/questions/21/d2e0dcdd-0234-4ff8-8a6a-f19074af24cf.jpg",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2017:21:asset:5",
+      "path": "/2017/questions/21/154e689a-5a77-4bfd-bfb8-0e2a86097c72.jpg",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2017:21:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:21:asset:1"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:21:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:21:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:21:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:21:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:21:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:21:asset:4"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:21:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2017:21:asset:5"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

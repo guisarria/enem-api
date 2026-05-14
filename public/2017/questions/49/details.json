@@ -1,43 +1,50 @@
 {
-    "title": "Questão 49 - ENEM 2017",
-    "index": 49,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Fala-se muito nos dias de hoje em direitos do homem. Pois bem: foi no século XVIII — em 1789, precisamente — que uma Assembleia Constituinte produziu e proclamou em Paris a Declaração dos Direitos do Homem e do Cidadão. Essa Declaração se impôs como necessária para um grupo de revolucionários, por ter sido preparada por uma mudança no plano das ideias e das mentalidades: o lluminismo.\n\nFORTES, L. R. S. O lluminismo e os reis filósofos. São Paulo: Brasiliense, 1981 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Correlacionando temporalidades históricas, o texto apresenta uma concepção de pensamento que tem como uma de suas bases a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Modernização da educação escolar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Atualização da disciplina moral cristã.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Divulgação de costumes aristocráticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Socialização do conhecimento científico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Universalização do princípio da igualdade civil.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2017:49",
+  "variantKey": "49",
+  "title": "Questão 49 - ENEM 2017",
+  "index": 49,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Fala-se muito nos dias de hoje em direitos do homem. Pois bem: foi no século XVIII — em 1789, precisamente — que uma Assembleia Constituinte produziu e proclamou em Paris a Declaração dos Direitos do Homem e do Cidadão. Essa Declaração se impôs como necessária para um grupo de revolucionários, por ter sido preparada por uma mudança no plano das ideias e das mentalidades: o lluminismo.\n\nFORTES, L. R. S. O lluminismo e os reis filósofos. São Paulo: Brasiliense, 1981 (adaptado).",
+  "alternativesIntroductionMarkdown": "Correlacionando temporalidades históricas, o texto apresenta uma concepção de pensamento que tem como uma de suas bases a",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2017:49:A",
+      "letter": "A",
+      "textMarkdown": "Modernização da educação escolar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:49:B",
+      "letter": "B",
+      "textMarkdown": "Atualização da disciplina moral cristã.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:49:C",
+      "letter": "C",
+      "textMarkdown": "Divulgação de costumes aristocráticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:49:D",
+      "letter": "D",
+      "textMarkdown": "Socialização do conhecimento científico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:49:E",
+      "letter": "E",
+      "textMarkdown": "Universalização do princípio da igualdade civil.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

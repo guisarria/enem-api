@@ -1,43 +1,50 @@
 {
-    "title": "Questão 164 - ENEM 2018",
-    "index": 164,
-    "year": 2018,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "De acordo com as informações dadas, o último andar do edifício é o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "16º",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "22º",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "23º",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "25º",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "32º",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:164",
+  "variantKey": "164",
+  "title": "Questão 164 - ENEM 2018",
+  "index": 164,
+  "year": 2018,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.",
+  "alternativesIntroductionMarkdown": "De acordo com as informações dadas, o último andar do edifício é o",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2018:164:A",
+      "letter": "A",
+      "textMarkdown": "16º",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:164:B",
+      "letter": "B",
+      "textMarkdown": "22º",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:164:C",
+      "letter": "C",
+      "textMarkdown": "23º",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:164:D",
+      "letter": "D",
+      "textMarkdown": "25º",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:164:E",
+      "letter": "E",
+      "textMarkdown": "32º",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 1 - ENEM 2023",
-    "index": 1,
-    "year": 2023,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png)",
-    "files": [
-        "https://enem.dev/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Esse cartaz de campanha sugere que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Os lixões precisam de ampliação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O desperdício degrada o ambiente.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Os mercados doam alimentos perecíveis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A desnutrição compromete o raciocínio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "As residências carecem de refrigeradores.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:1-ingles",
+  "variantKey": "1-ingles",
+  "title": "Questão 1 - ENEM 2023",
+  "index": 1,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png)",
+  "alternativesIntroductionMarkdown": "Esse cartaz de campanha sugere que",
+  "assets": [
+    {
+      "id": "2023:1-ingles:asset:0",
+      "path": "/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2023:1-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Os lixões precisam de ampliação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:1-ingles:B",
+      "letter": "B",
+      "textMarkdown": "O desperdício degrada o ambiente.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:1-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Os mercados doam alimentos perecíveis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:1-ingles:D",
+      "letter": "D",
+      "textMarkdown": "A desnutrição compromete o raciocínio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:1-ingles:E",
+      "letter": "E",
+      "textMarkdown": "As residências carecem de refrigeradores.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 48 - ENEM 2012",
-    "index": 48,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O milho transgênico é produzido a partir da manipulação do milho original, com a transferência, para este, de um gene de interesse retirado de outro organismo de espécie diferente.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A característica de interesse será manifestada em decorrência",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Do incremento do DNA a partir da duplicação do gene transferido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Da transcrição do RNA transportador a partir do gene transferido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Da expressão de proteínas sintetizadas a partir do DNA não hibridizado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Da síntese de carboidratos a partir da ativação do DNA do milho original.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Da tradução do RNA mensageiro sintetizado a partir do DNA recombinante.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:48",
+  "variantKey": "48",
+  "title": "Questão 48 - ENEM 2012",
+  "index": 48,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O milho transgênico é produzido a partir da manipulação do milho original, com a transferência, para este, de um gene de interesse retirado de outro organismo de espécie diferente.",
+  "alternativesIntroductionMarkdown": "A característica de interesse será manifestada em decorrência",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:48:A",
+      "letter": "A",
+      "textMarkdown": "Do incremento do DNA a partir da duplicação do gene transferido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:48:B",
+      "letter": "B",
+      "textMarkdown": "Da transcrição do RNA transportador a partir do gene transferido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:48:C",
+      "letter": "C",
+      "textMarkdown": "Da expressão de proteínas sintetizadas a partir do DNA não hibridizado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:48:D",
+      "letter": "D",
+      "textMarkdown": "Da síntese de carboidratos a partir da ativação do DNA do milho original.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:48:E",
+      "letter": "E",
+      "textMarkdown": "Da tradução do RNA mensageiro sintetizado a partir do DNA recombinante.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 38 - ENEM 2015",
-    "index": 38,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.\n\nREICH, R. **O trabalho das nações**: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Linhas de montagem e formação de estoques.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Empresas burocráticas e mão de obra barata.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Controle estatal e infraestrutura consolidada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Organização em rede e tecnologia de informação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Gestão centralizada e protecionismo econômico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:38",
+  "variantKey": "38",
+  "title": "Questão 38 - ENEM 2015",
+  "index": 38,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.\n\nREICH, R. **O trabalho das nações**: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).",
+  "alternativesIntroductionMarkdown": "A viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:38:A",
+      "letter": "A",
+      "textMarkdown": "Linhas de montagem e formação de estoques.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:38:B",
+      "letter": "B",
+      "textMarkdown": "Empresas burocráticas e mão de obra barata.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:38:C",
+      "letter": "C",
+      "textMarkdown": "Controle estatal e infraestrutura consolidada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:38:D",
+      "letter": "D",
+      "textMarkdown": "Organização em rede e tecnologia de informação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:38:E",
+      "letter": "E",
+      "textMarkdown": "Gestão centralizada e protecionismo econômico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

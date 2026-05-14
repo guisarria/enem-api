@@ -1,43 +1,50 @@
 {
-    "title": "Questão 41 - ENEM 2010",
-    "index": 41,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "“Pecado nefando” era expressão correntemente utilizada pelos inquisidores para a sodomia. Nefandus: o que não pode ser dito. A Assembleia de clérigos reunida em Salvador, em 1707, considerou a sodomia “tão péssimo e horrendo crime”, tao contrário à lei da natureza, que “era indigno de ser nomeado” e, por isso mesmo, nefando.\n\nNOVAIS, F.; MELLO E SOUZA L. História da vida privada no  \nBrasil. V. 1. São Paulo: Companhia das Letras. 1997 (adaptado).\n\nTEXTO II\n\nO número de homossexuais assassinados no Brasil bateu o recorde histórico em 2009. De acordo com o Relatório Anual de Assassinato de Homossexuais (LGBT – Lés – bicas, Gays, Bissexuais e Travestis), nesse ano foram registrados 195 mortos por motivação homofóbica no País.\n\nDisponível em: www.alemdanoticia.com.br/utimas\\_noticias.php?codnoticia=3871. Acesso em: 29 abr. 2010 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A homofobia é a rejeição e menosprezo à orientação sexual do outro e, muitas vezes, expressa-se sob a forma de comportamentos violentos. Os textos indicam que as condenações públicas, perseguições e assassinatos de homossexuais no país estão associadas",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "À baixa representatividade polítíca de grupos organizados que defendem os direitos de cidadania dos homossexuais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "À falência da democracia no país, que torna impeditiva a divulgação de estatísticas relacionadas à violência contra homossexuais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "À Constituição de 1988, que exclui do tecido social os homossexuais, além de impedi-los de exercer seus direitos políticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "A uma política eugênica desenvolvida pelo Estado, justificada a partir dos posicionamentos de correntes filosófico-científicas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:41",
+  "variantKey": "41",
+  "title": "Questão 41 - ENEM 2010",
+  "index": 41,
+  "year": 2010,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "“Pecado nefando” era expressão correntemente utilizada pelos inquisidores para a sodomia. Nefandus: o que não pode ser dito. A Assembleia de clérigos reunida em Salvador, em 1707, considerou a sodomia “tão péssimo e horrendo crime”, tao contrário à lei da natureza, que “era indigno de ser nomeado” e, por isso mesmo, nefando.\n\nNOVAIS, F.; MELLO E SOUZA L. História da vida privada no  \nBrasil. V. 1. São Paulo: Companhia das Letras. 1997 (adaptado).\n\nTEXTO II\n\nO número de homossexuais assassinados no Brasil bateu o recorde histórico em 2009. De acordo com o Relatório Anual de Assassinato de Homossexuais (LGBT – Lés – bicas, Gays, Bissexuais e Travestis), nesse ano foram registrados 195 mortos por motivação homofóbica no País.\n\nDisponível em: www.alemdanoticia.com.br/utimas_noticias.php?codnoticia=3871. Acesso em: 29 abr. 2010 (adaptado).",
+  "alternativesIntroductionMarkdown": "A homofobia é a rejeição e menosprezo à orientação sexual do outro e, muitas vezes, expressa-se sob a forma de comportamentos violentos. Os textos indicam que as condenações públicas, perseguições e assassinatos de homossexuais no país estão associadas",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2010:41:A",
+      "letter": "A",
+      "textMarkdown": "À baixa representatividade polítíca de grupos organizados que defendem os direitos de cidadania dos homossexuais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:41:B",
+      "letter": "B",
+      "textMarkdown": "À falência da democracia no país, que torna impeditiva a divulgação de estatísticas relacionadas à violência contra homossexuais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:41:C",
+      "letter": "C",
+      "textMarkdown": "À Constituição de 1988, que exclui do tecido social os homossexuais, além de impedi-los de exercer seus direitos políticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:41:D",
+      "letter": "D",
+      "textMarkdown": "A um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:41:E",
+      "letter": "E",
+      "textMarkdown": "A uma política eugênica desenvolvida pelo Estado, justificada a partir dos posicionamentos de correntes filosófico-científicas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

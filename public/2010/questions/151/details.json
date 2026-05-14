@@ -1,45 +1,58 @@
 {
-    "title": "Questão 151 - ENEM 2010",
-    "index": 151,
-    "year": 2010,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png)\n\nCom o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade.",
-    "files": [
-        "https://enem.dev/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Para que isso ocorra, Dona Maria deverá",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:151",
+  "variantKey": "151",
+  "title": "Questão 151 - ENEM 2010",
+  "index": 151,
+  "year": 2010,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png)\n\nCom o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade.",
+  "alternativesIntroductionMarkdown": "Para que isso ocorra, Dona Maria deverá",
+  "assets": [
+    {
+      "id": "2010:151:asset:0",
+      "path": "/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2010:151:A",
+      "letter": "A",
+      "textMarkdown": "Encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:151:B",
+      "letter": "B",
+      "textMarkdown": "Encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:151:C",
+      "letter": "C",
+      "textMarkdown": "Encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:151:D",
+      "letter": "D",
+      "textMarkdown": "Encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:151:E",
+      "letter": "E",
+      "textMarkdown": "Encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 65 - ENEM 2019",
-    "index": 65,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Para Maquiavel, quando um homem decide dizer a verdade pondo em risco a própria integridade física, tal resolução diz respeito apenas a sua pessoa. Mas se esse mesmo homem é um chefe de Estado, os critérios pessoais não são mais adequados para decidir sobre ações cujas consequências se tornam tão amplas, já que o prejuízo não será apenas individual, mas coletivo. Nesse caso, conforme as circunstâncias e os fins a serem atingidos, pode-se decidir que o melhor para o bem comum seja mentir.\n\n**ARANHA, M. L. Maquiavel: a lógica da força. São Paulo: Moderna, 2006 (adaptado).**",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O texto aponta uma inovação na teoria política na época moderna expressa na distinção entre:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Idealidade e efetividade da moral.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Nulidade e preservabilidade da liberdade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ilegalidade e legitimidade do governante.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Verificabilidade e possibilidade da verdade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Objetividade e subjetividade do conhecimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:65",
+  "variantKey": "65",
+  "title": "Questão 65 - ENEM 2019",
+  "index": 65,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Para Maquiavel, quando um homem decide dizer a verdade pondo em risco a própria integridade física, tal resolução diz respeito apenas a sua pessoa. Mas se esse mesmo homem é um chefe de Estado, os critérios pessoais não são mais adequados para decidir sobre ações cujas consequências se tornam tão amplas, já que o prejuízo não será apenas individual, mas coletivo. Nesse caso, conforme as circunstâncias e os fins a serem atingidos, pode-se decidir que o melhor para o bem comum seja mentir.\n\n**ARANHA, M. L. Maquiavel: a lógica da força. São Paulo: Moderna, 2006 (adaptado).**",
+  "alternativesIntroductionMarkdown": "O texto aponta uma inovação na teoria política na época moderna expressa na distinção entre:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:65:A",
+      "letter": "A",
+      "textMarkdown": "Idealidade e efetividade da moral.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:65:B",
+      "letter": "B",
+      "textMarkdown": "Nulidade e preservabilidade da liberdade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:65:C",
+      "letter": "C",
+      "textMarkdown": "Ilegalidade e legitimidade do governante.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:65:D",
+      "letter": "D",
+      "textMarkdown": "Verificabilidade e possibilidade da verdade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:65:E",
+      "letter": "E",
+      "textMarkdown": "Objetividade e subjetividade do conhecimento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

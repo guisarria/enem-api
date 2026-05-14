@@ -1,43 +1,50 @@
 {
-    "title": "Questão 70 - ENEM 2014",
-    "index": 70,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "CH3COOH",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Na2SO4",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "CH3OH",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "K2CO3",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "NH4Cl",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:70",
+  "variantKey": "70",
+  "title": "Questão 70 - ENEM 2014",
+  "index": 70,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:70:A",
+      "letter": "A",
+      "textMarkdown": "CH3COOH",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:70:B",
+      "letter": "B",
+      "textMarkdown": "Na2SO4",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:70:C",
+      "letter": "C",
+      "textMarkdown": "CH3OH",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:70:D",
+      "letter": "D",
+      "textMarkdown": "K2CO3",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:70:E",
+      "letter": "E",
+      "textMarkdown": "NH4Cl",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 88 - ENEM 2009",
-    "index": 88,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "À medida que a demanda por água aumenta, as reservas desse recurso vão se tornando imprevisíveis. Modelos matemáticos que analisam os efeitos das mudanças climáticas sobre a disponibilidade de água no futuro indicam que haverá escassez em muitas regiões do planeta. São esperadas mudanças nos padrões de precipitação, pois",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O maior aquecimento implica menor formação de nuvens e, consequentemente, a eliminação de áreas úmidas e sub úmidas do globo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "As chuvas frontais ficarão restritas ao tempo de permanência da frente em uma determinada localidade, o que limitará a produtividade das atividades agrícolas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "As modificações decorrentes do aumento da temperatura do ar diminuirão a umidade e, portanto, aumentarão a aridez em todo o planeta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A elevação do nível dos mares pelo derretimento das geleiras acarretará redução na ocorrência de chuvas nos continentes, o que implicará a escassez de água para abastecimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A origem da chuva está diretamente relacionada com a temperatura do ar, sendo que atividades antropogênicas são capazes de provocar interferências em escala local e global.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2009:88",
+  "variantKey": "88",
+  "title": "Questão 88 - ENEM 2009",
+  "index": 88,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "À medida que a demanda por água aumenta, as reservas desse recurso vão se tornando imprevisíveis. Modelos matemáticos que analisam os efeitos das mudanças climáticas sobre a disponibilidade de água no futuro indicam que haverá escassez em muitas regiões do planeta. São esperadas mudanças nos padrões de precipitação, pois",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2009:88:A",
+      "letter": "A",
+      "textMarkdown": "O maior aquecimento implica menor formação de nuvens e, consequentemente, a eliminação de áreas úmidas e sub úmidas do globo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:88:B",
+      "letter": "B",
+      "textMarkdown": "As chuvas frontais ficarão restritas ao tempo de permanência da frente em uma determinada localidade, o que limitará a produtividade das atividades agrícolas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:88:C",
+      "letter": "C",
+      "textMarkdown": "As modificações decorrentes do aumento da temperatura do ar diminuirão a umidade e, portanto, aumentarão a aridez em todo o planeta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:88:D",
+      "letter": "D",
+      "textMarkdown": "A elevação do nível dos mares pelo derretimento das geleiras acarretará redução na ocorrência de chuvas nos continentes, o que implicará a escassez de água para abastecimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:88:E",
+      "letter": "E",
+      "textMarkdown": "A origem da chuva está diretamente relacionada com a temperatura do ar, sendo que atividades antropogênicas são capazes de provocar interferências em escala local e global.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,48 +1,79 @@
 {
-    "title": "Questão 93 - ENEM 2018",
-    "index": 93,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Em 1938 o arqueólogo alemão WIlhelm Kõnlg, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da Instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: ![](https://enem.dev/2018/questions/93/b9cacad0-bd0f-4c9c-a539-097198f78992.png) (Fe^+|Fe) = -0,4: 4 V; ![](https://enem.dev/2018/questions/93/a2d465d2-1101-4bc0-96fa-4f94351e7231.png) (H+|H.) = 0,00 V; e  ![](https://enem.dev/2018/questions/93/14c1be60-1df5-48fa-955e-327fdafaa9d9.png) (Cu^+|Cu) = +0,34 V.\n\n![](https://enem.dev/2018/questions/93/2d6cb023-415e-4783-9191-d152fd1ea94b.png)",
-    "files": [
-        "https://enem.dev/2018/questions/93/b9cacad0-bd0f-4c9c-a539-097198f78992.png",
-        "https://enem.dev/2018/questions/93/a2d465d2-1101-4bc0-96fa-4f94351e7231.png",
-        "https://enem.dev/2018/questions/93/14c1be60-1df5-48fa-955e-327fdafaa9d9.png",
-        "https://enem.dev/2018/questions/93/2d6cb023-415e-4783-9191-d152fd1ea94b.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Nessa suposta pilha, qual dos componentes atuaria como cátodo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A tampa de betume.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O vestígio de ácido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A barra de ferro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O tubo de cobre.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "O vaso de barro.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:93",
+  "variantKey": "93",
+  "title": "Questão 93 - ENEM 2018",
+  "index": 93,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Em 1938 o arqueólogo alemão WIlhelm Kõnlg, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da Instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: ![](/2018/questions/93/b9cacad0-bd0f-4c9c-a539-097198f78992.png) (Fe^+|Fe) = -0,4: 4 V; ![](/2018/questions/93/a2d465d2-1101-4bc0-96fa-4f94351e7231.png) (H+|H.) = 0,00 V; e  ![](/2018/questions/93/14c1be60-1df5-48fa-955e-327fdafaa9d9.png) (Cu^+|Cu) = +0,34 V.\n\n![](/2018/questions/93/2d6cb023-415e-4783-9191-d152fd1ea94b.png)",
+  "alternativesIntroductionMarkdown": "Nessa suposta pilha, qual dos componentes atuaria como cátodo?",
+  "assets": [
+    {
+      "id": "2018:93:asset:0",
+      "path": "/2018/questions/93/b9cacad0-bd0f-4c9c-a539-097198f78992.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:93:asset:1",
+      "path": "/2018/questions/93/a2d465d2-1101-4bc0-96fa-4f94351e7231.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:93:asset:2",
+      "path": "/2018/questions/93/14c1be60-1df5-48fa-955e-327fdafaa9d9.png",
+      "role": "context",
+      "position": 2,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:93:asset:3",
+      "path": "/2018/questions/93/2d6cb023-415e-4783-9191-d152fd1ea94b.png",
+      "role": "context",
+      "position": 3,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2018:93:A",
+      "letter": "A",
+      "textMarkdown": "A tampa de betume.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:93:B",
+      "letter": "B",
+      "textMarkdown": "O vestígio de ácido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:93:C",
+      "letter": "C",
+      "textMarkdown": "A barra de ferro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:93:D",
+      "letter": "D",
+      "textMarkdown": "O tubo de cobre.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:93:E",
+      "letter": "E",
+      "textMarkdown": "O vaso de barro.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

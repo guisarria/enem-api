@@ -1,45 +1,58 @@
 {
-    "title": "Questão 120 - ENEM 2010",
-    "index": 120,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg)",
-    "files": [
-        "https://enem.dev/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O voleibol é um dos esportes mais praticados na atualidade. Está presente nas competições esportivas, nos jogos escolares e na recreação. Nesse esporte, os praticantes utilizam alguns movimentos específicos como: saque, manchete, bloqueio, levantamento, toque, entre outros. Na sequência de imagens, identificam-se os movimentos de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Sacar e colocar a bola em jogo, defender a bola e realizar a cortada como forma de ataque.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Arremessar a bola, tocar para passar a bola ao levantador e bloquear como forma de ataque.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Tocar e colocar a bola em jogo, cortar para defender e levantar a bola para atacar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Passar a bola e iniciar a partida, lançar a bola ao levantador e realizar a manchete para defender.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Cortar como forma de ataque, passar a bola para defender e bloquear como forma de ataque.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:120",
+  "variantKey": "120",
+  "title": "Questão 120 - ENEM 2010",
+  "index": 120,
+  "year": 2010,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg)",
+  "alternativesIntroductionMarkdown": "O voleibol é um dos esportes mais praticados na atualidade. Está presente nas competições esportivas, nos jogos escolares e na recreação. Nesse esporte, os praticantes utilizam alguns movimentos específicos como: saque, manchete, bloqueio, levantamento, toque, entre outros. Na sequência de imagens, identificam-se os movimentos de",
+  "assets": [
+    {
+      "id": "2010:120:asset:0",
+      "path": "/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2010:120:A",
+      "letter": "A",
+      "textMarkdown": "Sacar e colocar a bola em jogo, defender a bola e realizar a cortada como forma de ataque.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:120:B",
+      "letter": "B",
+      "textMarkdown": "Arremessar a bola, tocar para passar a bola ao levantador e bloquear como forma de ataque.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:120:C",
+      "letter": "C",
+      "textMarkdown": "Tocar e colocar a bola em jogo, cortar para defender e levantar a bola para atacar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:120:D",
+      "letter": "D",
+      "textMarkdown": "Passar a bola e iniciar a partida, lançar a bola ao levantador e realizar a manchete para defender.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:120:E",
+      "letter": "E",
+      "textMarkdown": "Cortar como forma de ataque, passar a bola para defender e bloquear como forma de ataque.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

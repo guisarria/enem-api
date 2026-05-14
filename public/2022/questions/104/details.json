@@ -1,43 +1,50 @@
 {
-    "title": "Questão 104 - ENEM 2022",
-    "index": 104,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado _doping_ sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Esse tipo de doping está diretamente relacionado ao aumento da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Frequência cardíaca.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Capacidade pulmonar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Massa muscular do indivíduo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Atividade anaeróbica da musculatura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Taxa de transporte de oxigênio pelo sangue.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2022:104",
+  "variantKey": "104",
+  "title": "Questão 104 - ENEM 2022",
+  "index": 104,
+  "year": 2022,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado _doping_ sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.",
+  "alternativesIntroductionMarkdown": "Esse tipo de doping está diretamente relacionado ao aumento da",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2022:104:A",
+      "letter": "A",
+      "textMarkdown": "Frequência cardíaca.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:104:B",
+      "letter": "B",
+      "textMarkdown": "Capacidade pulmonar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:104:C",
+      "letter": "C",
+      "textMarkdown": "Massa muscular do indivíduo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:104:D",
+      "letter": "D",
+      "textMarkdown": "Atividade anaeróbica da musculatura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:104:E",
+      "letter": "E",
+      "textMarkdown": "Taxa de transporte de oxigênio pelo sangue.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

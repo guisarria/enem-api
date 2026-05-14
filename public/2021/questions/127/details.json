@@ -1,43 +1,50 @@
 {
-    "title": "Questão 127 - ENEM 2021",
-    "index": 127,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.\n\nBICUDO, F. Jardineiro da pesada. Ecologia. **Pesquisa Fapesp**, ed. 231, maio 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O evento descrito com a flora ocorreu em razão da redução",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Da produção de flores.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Do tamanho das plantas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "De fatores de disseminação das sementes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Da quantidade de semente por fruto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Dos hábitats disponíveis para as plantas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:127",
+  "variantKey": "127",
+  "title": "Questão 127 - ENEM 2021",
+  "index": 127,
+  "year": 2021,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.\n\nBICUDO, F. Jardineiro da pesada. Ecologia. **Pesquisa Fapesp**, ed. 231, maio 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "O evento descrito com a flora ocorreu em razão da redução",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2021:127:A",
+      "letter": "A",
+      "textMarkdown": "Da produção de flores.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:127:B",
+      "letter": "B",
+      "textMarkdown": "Do tamanho das plantas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:127:C",
+      "letter": "C",
+      "textMarkdown": "De fatores de disseminação das sementes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:127:D",
+      "letter": "D",
+      "textMarkdown": "Da quantidade de semente por fruto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:127:E",
+      "letter": "E",
+      "textMarkdown": "Dos hábitats disponíveis para as plantas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

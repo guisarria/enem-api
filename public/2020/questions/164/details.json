@@ -1,45 +1,58 @@
 {
-    "title": "Questão 164 - ENEM 2020",
-    "index": 164,
-    "year": 2020,
-    "language": null,
-    "discipline": "matematica",
-    "context": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![](https://enem.dev/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png)",
-    "files": [
-        "https://enem.dev/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "5",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "10",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "11",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "13",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2020:164",
+  "variantKey": "164",
+  "title": "Questão 164 - ENEM 2020",
+  "index": 164,
+  "year": 2020,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![](/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png)",
+  "alternativesIntroductionMarkdown": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
+  "assets": [
+    {
+      "id": "2020:164:asset:0",
+      "path": "/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2020:164:A",
+      "letter": "A",
+      "textMarkdown": "5",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:164:B",
+      "letter": "B",
+      "textMarkdown": "8",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:164:C",
+      "letter": "C",
+      "textMarkdown": "10",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:164:D",
+      "letter": "D",
+      "textMarkdown": "11",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:164:E",
+      "letter": "E",
+      "textMarkdown": "13",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

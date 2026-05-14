@@ -1,43 +1,50 @@
 {
-    "title": "Questão 84 - ENEM 2012",
-    "index": 84,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "“Uma companhia aérea negou-se a transportar material médico por este portar um certificado de esterilização por irradiação.”\n\nFísica na Escola, v. 8, n. 2, 2007 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A decisão tomada pela companhia é equivocada, pois",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O material é incapaz de acumular radiação, não se tornando radioativo por ter sido irradiado.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "A utilização de uma embalagem é suficiente para bloquear a radiação emitida pelo material.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A contaminação radioativa do material não se prolifera da mesma forma que as infecções por microrganismos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O material irradiado emite radiação de intensidade abaixo daquela que ofereceria risco à saúde.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "O intervalo de tempo após a esterilização é suficiente para que o material não emita mais radiação.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:84",
+  "variantKey": "84",
+  "title": "Questão 84 - ENEM 2012",
+  "index": 84,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "“Uma companhia aérea negou-se a transportar material médico por este portar um certificado de esterilização por irradiação.”\n\nFísica na Escola, v. 8, n. 2, 2007 (adaptado).",
+  "alternativesIntroductionMarkdown": "A decisão tomada pela companhia é equivocada, pois",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2012:84:A",
+      "letter": "A",
+      "textMarkdown": "O material é incapaz de acumular radiação, não se tornando radioativo por ter sido irradiado.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:84:B",
+      "letter": "B",
+      "textMarkdown": "A utilização de uma embalagem é suficiente para bloquear a radiação emitida pelo material.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:84:C",
+      "letter": "C",
+      "textMarkdown": "A contaminação radioativa do material não se prolifera da mesma forma que as infecções por microrganismos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:84:D",
+      "letter": "D",
+      "textMarkdown": "O material irradiado emite radiação de intensidade abaixo daquela que ofereceria risco à saúde.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:84:E",
+      "letter": "E",
+      "textMarkdown": "O intervalo de tempo após a esterilização é suficiente para que o material não emita mais radiação.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

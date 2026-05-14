@@ -1,43 +1,50 @@
 {
-    "title": "Questão 101 - ENEM 2018",
-    "index": 101,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Existência de numerosas glândulas sudoríparas na epiderme.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Eliminação de excretas nitrogenadas de forma concentrada.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Desenvolvimento do embrião no interior de ovo com casca.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Capacidade de controlar a temperatura corporal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Respiração realizada por pulmões foliáceos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:101",
+  "variantKey": "101",
+  "title": "Questão 101 - ENEM 2018",
+  "index": 101,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes.",
+  "alternativesIntroductionMarkdown": "Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:101:A",
+      "letter": "A",
+      "textMarkdown": "Existência de numerosas glândulas sudoríparas na epiderme.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:101:B",
+      "letter": "B",
+      "textMarkdown": "Eliminação de excretas nitrogenadas de forma concentrada.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:101:C",
+      "letter": "C",
+      "textMarkdown": "Desenvolvimento do embrião no interior de ovo com casca.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:101:D",
+      "letter": "D",
+      "textMarkdown": "Capacidade de controlar a temperatura corporal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:101:E",
+      "letter": "E",
+      "textMarkdown": "Respiração realizada por pulmões foliáceos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

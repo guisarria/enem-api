@@ -1,43 +1,50 @@
 {
-    "title": "Questão 30 - ENEM 2015",
-    "index": 30,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.\n\nBIGARELLA, J. J. **Estrutura e origem das paisagens tropicais e subtropicais**. Florianópolis: UFSC, 2003 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Exposição do solo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Drenagem eficiente.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Rocha matriz resistente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Agricultura mecanizada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Média pluviométrica elevada.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:30",
+  "variantKey": "30",
+  "title": "Questão 30 - ENEM 2015",
+  "index": 30,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.\n\nBIGARELLA, J. J. **Estrutura e origem das paisagens tropicais e subtropicais**. Florianópolis: UFSC, 2003 (adaptado).",
+  "alternativesIntroductionMarkdown": "Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:30:A",
+      "letter": "A",
+      "textMarkdown": "Exposição do solo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:30:B",
+      "letter": "B",
+      "textMarkdown": "Drenagem eficiente.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:30:C",
+      "letter": "C",
+      "textMarkdown": "Rocha matriz resistente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:30:D",
+      "letter": "D",
+      "textMarkdown": "Agricultura mecanizada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:30:E",
+      "letter": "E",
+      "textMarkdown": "Média pluviométrica elevada.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

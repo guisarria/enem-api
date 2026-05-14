@@ -1,43 +1,58 @@
 {
-    "title": "Questão 44 - ENEM 2023",
-    "index": 44,
-    "year": 2023,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/broken-image.svg)",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Essa campanha publicitária do Ministério da Saúde visa",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Divulgar um conjunto de benefícios proporcionados pela amamentação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Apresentar tratamentos para infecções respiratórias em bebês.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Defender o direito das mulheres de amamentar em público.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Orientar sobre os exercícios para uma boa amamentação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Informar sobre o aumento de anticorpos nas mães.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:44",
+  "variantKey": "44",
+  "title": "Questão 44 - ENEM 2023",
+  "index": 44,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/broken-image.svg)",
+  "alternativesIntroductionMarkdown": "Essa campanha publicitária do Ministério da Saúde visa",
+  "assets": [
+    {
+      "id": "2023:44:asset:0",
+      "path": "/broken-image.svg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:44:A",
+      "letter": "A",
+      "textMarkdown": "Divulgar um conjunto de benefícios proporcionados pela amamentação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:44:B",
+      "letter": "B",
+      "textMarkdown": "Apresentar tratamentos para infecções respiratórias em bebês.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:44:C",
+      "letter": "C",
+      "textMarkdown": "Defender o direito das mulheres de amamentar em público.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:44:D",
+      "letter": "D",
+      "textMarkdown": "Orientar sobre os exercícios para uma boa amamentação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:44:E",
+      "letter": "E",
+      "textMarkdown": "Informar sobre o aumento de anticorpos nas mães.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 178 - ENEM 2014",
-    "index": 178,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Retirar 16 células.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Retirar 40 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Acrescentar 5 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Acrescentar 20 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Acrescentar 40 células.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:178",
+  "variantKey": "178",
+  "title": "Questão 178 - ENEM 2014",
+  "index": 178,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2014:178:A",
+      "letter": "A",
+      "textMarkdown": "Retirar 16 células.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:178:B",
+      "letter": "B",
+      "textMarkdown": "Retirar 40 células.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:178:C",
+      "letter": "C",
+      "textMarkdown": "Acrescentar 5 células.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:178:D",
+      "letter": "D",
+      "textMarkdown": "Acrescentar 20 células.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:178:E",
+      "letter": "E",
+      "textMarkdown": "Acrescentar 40 células.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

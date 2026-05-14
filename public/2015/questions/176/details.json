@@ -1,43 +1,96 @@
 {
-    "title": "Questão 176 - ENEM 2015",
-    "index": 176,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Com base nos elementos apresentados, o gráfico que melhor representa a relação entre o valor mensal pago nesse plano e o número de ligações feitas é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2015/questions/176/da13c004-584e-4012-b169-1476f28c2c75.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2015/questions/176/4322623b-4209-4b90-8340-47b80a683345.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2015/questions/176/eeef388a-087d-4d11-8eb7-3ca5656db005.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2015/questions/176/a37b0cd6-80b8-40ba-b31d-4c81364e63e7.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2015/questions/176/737b6f37-f58a-43c5-99e0-0dea2e316b4b.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:176",
+  "variantKey": "176",
+  "title": "Questão 176 - ENEM 2015",
+  "index": 176,
+  "year": 2015,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Com base nos elementos apresentados, o gráfico que melhor representa a relação entre o valor mensal pago nesse plano e o número de ligações feitas é:",
+  "assets": [
+    {
+      "id": "2015:176:asset:0",
+      "path": "/2015/questions/176/da13c004-584e-4012-b169-1476f28c2c75.png",
+      "role": "alternative",
+      "position": 0,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2015:176:asset:1",
+      "path": "/2015/questions/176/4322623b-4209-4b90-8340-47b80a683345.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2015:176:asset:2",
+      "path": "/2015/questions/176/eeef388a-087d-4d11-8eb7-3ca5656db005.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2015:176:asset:3",
+      "path": "/2015/questions/176/a37b0cd6-80b8-40ba-b31d-4c81364e63e7.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2015:176:asset:4",
+      "path": "/2015/questions/176/737b6f37-f58a-43c5-99e0-0dea2e316b4b.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:176:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2015:176:asset:0"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:176:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2015:176:asset:1"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:176:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2015:176:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:176:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2015:176:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:176:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2015:176:asset:4"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

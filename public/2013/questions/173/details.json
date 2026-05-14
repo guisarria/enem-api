@@ -1,43 +1,50 @@
 {
-    "title": "Questão 173 - ENEM 2013",
-    "index": 173,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.\n\nDisponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No ano de 2101, o Sol estará no ciclo de atividade magnética de número",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "32",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "34",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "33",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "35",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "31",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:173",
+  "variantKey": "173",
+  "title": "Questão 173 - ENEM 2013",
+  "index": 173,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.\n\nDisponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.",
+  "alternativesIntroductionMarkdown": "No ano de 2101, o Sol estará no ciclo de atividade magnética de número",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2013:173:A",
+      "letter": "A",
+      "textMarkdown": "32",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:173:B",
+      "letter": "B",
+      "textMarkdown": "34",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:173:C",
+      "letter": "C",
+      "textMarkdown": "33",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:173:D",
+      "letter": "D",
+      "textMarkdown": "35",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:173:E",
+      "letter": "E",
+      "textMarkdown": "31",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

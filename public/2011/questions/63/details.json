@@ -1,46 +1,65 @@
 {
-    "title": "Questão 63 - ENEM 2011",
-    "index": 63,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png)\n\n![](https://enem.dev/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png)",
-    "files": [
-        "https://enem.dev/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png",
-        "https://enem.dev/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual a cor da substância que deu origem ao espectro da Figura 1?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Azul.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Verde.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Violeta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Laranja.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Vermelho.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2011:63",
+  "variantKey": "63",
+  "title": "Questão 63 - ENEM 2011",
+  "index": 63,
+  "year": 2011,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png)\n\n![](/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png)",
+  "alternativesIntroductionMarkdown": "Qual a cor da substância que deu origem ao espectro da Figura 1?",
+  "assets": [
+    {
+      "id": "2011:63:asset:0",
+      "path": "/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2011:63:asset:1",
+      "path": "/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2011:63:A",
+      "letter": "A",
+      "textMarkdown": "Azul.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:63:B",
+      "letter": "B",
+      "textMarkdown": "Verde.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:63:C",
+      "letter": "C",
+      "textMarkdown": "Violeta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:63:D",
+      "letter": "D",
+      "textMarkdown": "Laranja.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:63:E",
+      "letter": "E",
+      "textMarkdown": "Vermelho.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

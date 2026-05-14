@@ -1,43 +1,50 @@
 {
-    "title": "Questão 23 - ENEM 2020",
-    "index": 23,
-    "year": 2020,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Eu tenho empresas e sou digno do visto para ir a Nova York. O dinheiro que chove em Nova York é para pessoas com poder de compra. Pessoas que tenham um visto do consulado americano. O dinheiro que chove em Nova  \nYork também é para os nova-iorquinos. São milhares de dólares. \\[…\\] Estou indo para Nova York, onde está chovendo dinheiro. Sou um grande administrador. Sim, está chovendo dinheiro em Nova York. Deu no rádio. Vejo que há pedestres invadindo a via onde trafega o meu carro vermelho, importado da Alemanha. Vejo que há carros nacionais trafegando pela via onde trafega o meu carro vermelho, importado da Alemanha. Ao chegar em Nova York, tomarei providências.\n\nSANTANNA, A. O importado vermelho de Noé. In: MORICONI. I. (Org.). _Os cem melhores contos_. Rio de Janeiro: Objetiva. 2001.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "As repetições e as frases curtas constituem procedimentos linguísticos importantes para a compreensão da temática do texto, pois",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Expressam a futilidade do discurso de poder e de distinção do narrador.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Disfarçam a falta de densidade das angústias existenciais narradas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ironizam a valorização da cultura norte-americana pelos brasileiros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Explicitam a ganância financeira do capitalismo contemporâneo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Criticam os estereótipos sociais das visões de mundo elitistas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:23",
+  "variantKey": "23",
+  "title": "Questão 23 - ENEM 2020",
+  "index": 23,
+  "year": 2020,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Eu tenho empresas e sou digno do visto para ir a Nova York. O dinheiro que chove em Nova York é para pessoas com poder de compra. Pessoas que tenham um visto do consulado americano. O dinheiro que chove em Nova  \nYork também é para os nova-iorquinos. São milhares de dólares. […] Estou indo para Nova York, onde está chovendo dinheiro. Sou um grande administrador. Sim, está chovendo dinheiro em Nova York. Deu no rádio. Vejo que há pedestres invadindo a via onde trafega o meu carro vermelho, importado da Alemanha. Vejo que há carros nacionais trafegando pela via onde trafega o meu carro vermelho, importado da Alemanha. Ao chegar em Nova York, tomarei providências.\n\nSANTANNA, A. O importado vermelho de Noé. In: MORICONI. I. (Org.). _Os cem melhores contos_. Rio de Janeiro: Objetiva. 2001.",
+  "alternativesIntroductionMarkdown": "As repetições e as frases curtas constituem procedimentos linguísticos importantes para a compreensão da temática do texto, pois",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2020:23:A",
+      "letter": "A",
+      "textMarkdown": "Expressam a futilidade do discurso de poder e de distinção do narrador.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:23:B",
+      "letter": "B",
+      "textMarkdown": "Disfarçam a falta de densidade das angústias existenciais narradas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:23:C",
+      "letter": "C",
+      "textMarkdown": "Ironizam a valorização da cultura norte-americana pelos brasileiros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:23:D",
+      "letter": "D",
+      "textMarkdown": "Explicitam a ganância financeira do capitalismo contemporâneo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:23:E",
+      "letter": "E",
+      "textMarkdown": "Criticam os estereótipos sociais das visões de mundo elitistas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

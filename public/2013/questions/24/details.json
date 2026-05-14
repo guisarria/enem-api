@@ -1,43 +1,50 @@
 {
-    "title": "Questão 24 - ENEM 2013",
-    "index": 24,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito – tudo por uma simples ideia de arquitetura!\n\nBENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Essa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Religiosos, que se constituem como um olho divino controlador que tudo vê.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:24",
+  "variantKey": "24",
+  "title": "Questão 24 - ENEM 2013",
+  "index": 24,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito – tudo por uma simples ideia de arquitetura!\n\nBENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.",
+  "alternativesIntroductionMarkdown": "Essa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:24:A",
+      "letter": "A",
+      "textMarkdown": "Religiosos, que se constituem como um olho divino controlador que tudo vê.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:24:B",
+      "letter": "B",
+      "textMarkdown": "Ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:24:C",
+      "letter": "C",
+      "textMarkdown": "Repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:24:D",
+      "letter": "D",
+      "textMarkdown": "Sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:24:E",
+      "letter": "E",
+      "textMarkdown": "Consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

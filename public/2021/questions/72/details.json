@@ -1,43 +1,50 @@
 {
-    "title": "Questão 72 - ENEM 2021",
-    "index": 72,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade.  \nNo entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.\n\nCaderno Objetivos de Desenvolvimento Sustentável – ODS n. 11: tornar  \nas cidades e os assentamentos humanos inclusivos, seguros, resilientes  \ne sustentáveis. Brasília: Ipea, 2019.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual media promove a participação social descrita no texto?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Redução dos impostos municipais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Privatização dos espaços públicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Adensamento das áreas de comércio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Valorização dos condomínios fechados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fortalecimento das associações de bairro.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2021:72",
+  "variantKey": "72",
+  "title": "Questão 72 - ENEM 2021",
+  "index": 72,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade.  \nNo entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.\n\nCaderno Objetivos de Desenvolvimento Sustentável – ODS n. 11: tornar  \nas cidades e os assentamentos humanos inclusivos, seguros, resilientes  \ne sustentáveis. Brasília: Ipea, 2019.",
+  "alternativesIntroductionMarkdown": "Qual media promove a participação social descrita no texto?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2021:72:A",
+      "letter": "A",
+      "textMarkdown": "Redução dos impostos municipais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:72:B",
+      "letter": "B",
+      "textMarkdown": "Privatização dos espaços públicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:72:C",
+      "letter": "C",
+      "textMarkdown": "Adensamento das áreas de comércio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:72:D",
+      "letter": "D",
+      "textMarkdown": "Valorização dos condomínios fechados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:72:E",
+      "letter": "E",
+      "textMarkdown": "Fortalecimento das associações de bairro.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

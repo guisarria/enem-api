@@ -1,43 +1,50 @@
 {
-    "title": "Questão 108 - ENEM 2023",
-    "index": 108,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.\nA corrente elétrica mencionada é induzida por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Radiação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Condução.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Campo elétrico variável.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Campo magnético variável.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Ressonância eletromagnética.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:108",
+  "variantKey": "108",
+  "title": "Questão 108 - ENEM 2023",
+  "index": 108,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.\nA corrente elétrica mencionada é induzida por",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:108:A",
+      "letter": "A",
+      "textMarkdown": "Radiação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:108:B",
+      "letter": "B",
+      "textMarkdown": "Condução.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:108:C",
+      "letter": "C",
+      "textMarkdown": "Campo elétrico variável.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:108:D",
+      "letter": "D",
+      "textMarkdown": "Campo magnético variável.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:108:E",
+      "letter": "E",
+      "textMarkdown": "Ressonância eletromagnética.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

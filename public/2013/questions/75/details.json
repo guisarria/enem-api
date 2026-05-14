@@ -1,43 +1,50 @@
 {
-    "title": "Questão 75 - ENEM 2013",
-    "index": 75,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Uma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Dobro do comprimento do fio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Metade do comprimento do fio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Metade da área da seção reta do fio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Quádruplo da área da seção reta do fio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Quarta parte da área da seção reta do fio.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2013:75",
+  "variantKey": "75",
+  "title": "Questão 75 - ENEM 2013",
+  "index": 75,
+  "year": 2013,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.",
+  "alternativesIntroductionMarkdown": "Uma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2013:75:A",
+      "letter": "A",
+      "textMarkdown": "Dobro do comprimento do fio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:75:B",
+      "letter": "B",
+      "textMarkdown": "Metade do comprimento do fio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:75:C",
+      "letter": "C",
+      "textMarkdown": "Metade da área da seção reta do fio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:75:D",
+      "letter": "D",
+      "textMarkdown": "Quádruplo da área da seção reta do fio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:75:E",
+      "letter": "E",
+      "textMarkdown": "Quarta parte da área da seção reta do fio.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

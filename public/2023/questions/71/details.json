@@ -1,43 +1,50 @@
 {
-    "title": "Questão 71 - ENEM 2023",
-    "index": 71,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.\n\nOLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. **Terra Livre**, n. 26, jan.-jun. 2006 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Na visão do autor, o problema central da situação descrita é desencadeado pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Apropriação de áreas devolutas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Sonegação de impostos federais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Incorporação de exportação ilegal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Desoneração de setores produtivos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Flexibilização de legislação ambiental.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:71",
+  "variantKey": "71",
+  "title": "Questão 71 - ENEM 2023",
+  "index": 71,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.\n\nOLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. **Terra Livre**, n. 26, jan.-jun. 2006 (adaptado).",
+  "alternativesIntroductionMarkdown": "Na visão do autor, o problema central da situação descrita é desencadeado pela",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:71:A",
+      "letter": "A",
+      "textMarkdown": "Apropriação de áreas devolutas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:71:B",
+      "letter": "B",
+      "textMarkdown": "Sonegação de impostos federais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:71:C",
+      "letter": "C",
+      "textMarkdown": "Incorporação de exportação ilegal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:71:D",
+      "letter": "D",
+      "textMarkdown": "Desoneração de setores produtivos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:71:E",
+      "letter": "E",
+      "textMarkdown": "Flexibilização de legislação ambiental.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

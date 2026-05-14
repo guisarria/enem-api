@@ -1,43 +1,50 @@
 {
-    "title": "Questão 5 - ENEM 2015",
-    "index": 5,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto… Assim a lei pode triunfar e o mundo gozar da paz.\n\nALDALBERON DE LAON, In: SPINOSA, F. **Antologia de textos históricos medievais**. Lisboa: Sá da Costa, 1981.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Justificar a dominação estamental / revoltas camponestas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Subverter a hierarquia social / centralização monárquica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Impedir a igualdade jurídica / revoluções burguesas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Controlar a exploração econômica / unificação monetária.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Questionar a ordem divina / Reforma Católica.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:5",
+  "variantKey": "5",
+  "title": "Questão 5 - ENEM 2015",
+  "index": 5,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto… Assim a lei pode triunfar e o mundo gozar da paz.\n\nALDALBERON DE LAON, In: SPINOSA, F. **Antologia de textos históricos medievais**. Lisboa: Sá da Costa, 1981.",
+  "alternativesIntroductionMarkdown": "A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2015:5:A",
+      "letter": "A",
+      "textMarkdown": "Justificar a dominação estamental / revoltas camponestas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:5:B",
+      "letter": "B",
+      "textMarkdown": "Subverter a hierarquia social / centralização monárquica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:5:C",
+      "letter": "C",
+      "textMarkdown": "Impedir a igualdade jurídica / revoluções burguesas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:5:D",
+      "letter": "D",
+      "textMarkdown": "Controlar a exploração econômica / unificação monetária.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:5:E",
+      "letter": "E",
+      "textMarkdown": "Questionar a ordem divina / Reforma Católica.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

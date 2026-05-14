@@ -1,49 +1,131 @@
 {
-    "title": "Questão 116 - ENEM 2018",
-    "index": 116,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Células solares à base de![](https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png) sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o ![](https://enem.dev/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png) é responsável por absorver a energia luminosa ![](https://enem.dev/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png), e o corante excitado (S\\*) é capaz de transferir elétrons para o ![](https://enem.dev/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png). Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.\n\n![](https://enem.dev/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png)",
-    "files": [
-        "https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png",
-        "https://enem.dev/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png",
-        "https://enem.dev/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png",
-        "https://enem.dev/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png",
-        "https://enem.dev/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/116/3eaf75c7-ef77-48b0-aad3-94a8b52a6ce2.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/116/b6068734-cd1c-4dc6-ab56-a68d692dc4ea.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/116/6d6ead61-fc78-43c3-8636-bd86b858325b.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/116/8f024003-e8cd-4bc0-8000-464bdf4a0778.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/116/85dd2cd6-fc8f-4f02-802f-7a0b7d0533c1.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:116",
+  "variantKey": "116",
+  "title": "Questão 116 - ENEM 2018",
+  "index": 116,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Células solares à base de![](/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png) sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o ![](/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png) é responsável por absorver a energia luminosa ![](/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png), e o corante excitado (S*) é capaz de transferir elétrons para o ![](/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png). Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.\n\n![](/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png)",
+  "alternativesIntroductionMarkdown": "A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois",
+  "assets": [
+    {
+      "id": "2018:116:asset:0",
+      "path": "/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:116:asset:1",
+      "path": "/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:116:asset:2",
+      "path": "/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png",
+      "role": "context",
+      "position": 2,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:116:asset:3",
+      "path": "/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png",
+      "role": "context",
+      "position": 3,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:116:asset:4",
+      "path": "/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png",
+      "role": "context",
+      "position": 4,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:116:asset:5",
+      "path": "/2018/questions/116/3eaf75c7-ef77-48b0-aad3-94a8b52a6ce2.png",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2018:116:asset:6",
+      "path": "/2018/questions/116/b6068734-cd1c-4dc6-ab56-a68d692dc4ea.png",
+      "role": "alternative",
+      "position": 6,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2018:116:asset:7",
+      "path": "/2018/questions/116/6d6ead61-fc78-43c3-8636-bd86b858325b.png",
+      "role": "alternative",
+      "position": 7,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2018:116:asset:8",
+      "path": "/2018/questions/116/8f024003-e8cd-4bc0-8000-464bdf4a0778.png",
+      "role": "alternative",
+      "position": 8,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2018:116:asset:9",
+      "path": "/2018/questions/116/85dd2cd6-fc8f-4f02-802f-7a0b7d0533c1.png",
+      "role": "alternative",
+      "position": 9,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:116:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:116:asset:5"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:116:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:116:asset:6"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:116:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:116:asset:7"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:116:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:116:asset:8"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:116:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:116:asset:9"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 86 - ENEM 2015",
-    "index": 86,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Essa diferenciação se deve principalmente ao(à)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Intensidade sonora do som de cada instrumento musical.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Potência sonora do som emitido pelos diferentes instrumentos musicais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diferente velocidade de propagação do som emitido por cada instrumento musical.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:86",
+  "variantKey": "86",
+  "title": "Questão 86 - ENEM 2015",
+  "index": 86,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.",
+  "alternativesIntroductionMarkdown": "Essa diferenciação se deve principalmente ao(à)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:86:A",
+      "letter": "A",
+      "textMarkdown": "Intensidade sonora do som de cada instrumento musical.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:86:B",
+      "letter": "B",
+      "textMarkdown": "Potência sonora do som emitido pelos diferentes instrumentos musicais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:86:C",
+      "letter": "C",
+      "textMarkdown": "Diferente velocidade de propagação do som emitido por cada instrumento musical.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:86:D",
+      "letter": "D",
+      "textMarkdown": "Timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:86:E",
+      "letter": "E",
+      "textMarkdown": "Altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

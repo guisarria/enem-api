@@ -1,43 +1,50 @@
 {
-    "title": "Questão 93 - ENEM 2016",
-    "index": 93,
-    "year": 2016,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "**Agua**\n\nal soñar que un cántaro  \nen la cabeza acarreas,  \nserá éxito y triunfo lo que tú veas.  \nBañarse en un río  \ndonde el agua escalda,  \nes augurio de enemigos  \ny de cuchillo en la espalda.  \nBañarse en un río de agua puerca,  \nes perder a alguien cerca.\n\nORTIZ, A.; FLORES FARFÁN, J. A. **Sueños mexicanos**. **México: Artes de México**, 2012",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O poema retoma elementos da cultura popular mexicana que refletem um dos aspectos que a constitui, caracterizado pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Percepção dos perigos de banhar-se em rios de águas poluídas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Crença na relevância dos sonhos como premonições ou conselhos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Necessidade de resgate da tradição de carregar água em cântaros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Exaltação da importância da preservação da água.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Cautela no trato com inimigos e pessoas traiçoeiras.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:93-espanhol",
+  "variantKey": "93-espanhol",
+  "title": "Questão 93 - ENEM 2016",
+  "index": 93,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "**Agua**\n\nal soñar que un cántaro  \nen la cabeza acarreas,  \nserá éxito y triunfo lo que tú veas.  \nBañarse en un río  \ndonde el agua escalda,  \nes augurio de enemigos  \ny de cuchillo en la espalda.  \nBañarse en un río de agua puerca,  \nes perder a alguien cerca.\n\nORTIZ, A.; FLORES FARFÁN, J. A. **Sueños mexicanos**. **México: Artes de México**, 2012",
+  "alternativesIntroductionMarkdown": "O poema retoma elementos da cultura popular mexicana que refletem um dos aspectos que a constitui, caracterizado pela",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:93-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Percepção dos perigos de banhar-se em rios de águas poluídas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:93-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Crença na relevância dos sonhos como premonições ou conselhos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:93-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Necessidade de resgate da tradição de carregar água em cântaros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:93-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Exaltação da importância da preservação da água.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:93-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Cautela no trato com inimigos e pessoas traiçoeiras.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

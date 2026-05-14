@@ -1,46 +1,65 @@
 {
-    "title": "Questão 59 - ENEM 2017",
-    "index": 59,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png)\n\n![](https://enem.dev/2017/questions/59/0d9be71d-f646-45e8-b381-585fb13d1613.png)",
-    "files": [
-        "https://enem.dev/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png",
-        "https://enem.dev/2017/questions/59/0d9be71d-f646-45e8-b381-585fb13d1613.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "As temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o clima típico da seguinte cidade:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Mumbai (índia), definido pelas chuvas monçônicas torrenciais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Barcelona (Espanha), afetado por massas de ar seco.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Moscou (Rússia), influenciado pela localização geográfica em alta latitude.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2017:59",
+  "variantKey": "59",
+  "title": "Questão 59 - ENEM 2017",
+  "index": 59,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png)\n\n![](/2017/questions/59/0d9be71d-f646-45e8-b381-585fb13d1613.png)",
+  "alternativesIntroductionMarkdown": "As temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o clima típico da seguinte cidade:",
+  "assets": [
+    {
+      "id": "2017:59:asset:0",
+      "path": "/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2017:59:asset:1",
+      "path": "/2017/questions/59/0d9be71d-f646-45e8-b381-585fb13d1613.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2017:59:A",
+      "letter": "A",
+      "textMarkdown": "Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:59:B",
+      "letter": "B",
+      "textMarkdown": "Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:59:C",
+      "letter": "C",
+      "textMarkdown": "Mumbai (índia), definido pelas chuvas monçônicas torrenciais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:59:D",
+      "letter": "D",
+      "textMarkdown": "Barcelona (Espanha), afetado por massas de ar seco.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:59:E",
+      "letter": "E",
+      "textMarkdown": "Moscou (Rússia), influenciado pela localização geográfica em alta latitude.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 142 - ENEM 2015",
-    "index": 142,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a probabilidade de a senha sorteada ser um número de 1 a 20?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1/100",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "19/100",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "20/100",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "21/100",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "80/100",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:142",
+  "variantKey": "142",
+  "title": "Questão 142 - ENEM 2015",
+  "index": 142,
+  "year": 2015,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual é a probabilidade de a senha sorteada ser um número de 1 a 20?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:142:A",
+      "letter": "A",
+      "textMarkdown": "1/100",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:142:B",
+      "letter": "B",
+      "textMarkdown": "19/100",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:142:C",
+      "letter": "C",
+      "textMarkdown": "20/100",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:142:D",
+      "letter": "D",
+      "textMarkdown": "21/100",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:142:E",
+      "letter": "E",
+      "textMarkdown": "80/100",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

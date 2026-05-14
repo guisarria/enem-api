@@ -1,43 +1,50 @@
 {
-    "title": "Questão 40 - ENEM 2022",
-    "index": 40,
-    "year": 2022,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Firmo, o vaqueiro**\n\nNo dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o animal viajeiro:  \n– Raimundinho, como vai ele?…  \nDe longe apontou a palhoça.  \n– Sim.  \nO braço caiu-lhe, olhou-me algum tempo comovido; depois, saltando para o animal, levou o polegar à boca fazendo estalar a unha nos dentes: “Às quatro da manhã…  \nAtirei um verso e disse, para bulir com ele: Pega, velho! Não respondeu. Tio Firmo, mesmo velho e doente, não era homem para deixar um verso no chão… Fui ver, coitado!… estava morto. E deu de esporas para que eu não lhe visse as lágrimas.\n\nNETTO, C. In: MARCHEZAN, L. G. (Org.).  \n**O conto regionalista.** São Paulo: Martins Fontes, 2009.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A passagem registra um momento em que a expressividade lírica é reforçada pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Plasticidade da imagem do rebanho reunido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sugestão da firmeza do sertanejo ao arrear o cavalo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Situação de pobreza encontrada nos sertões brasileiros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Afetividade demonstrada ao noticiar a morte do cantador.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Preocupação do vaqueiro em demostrar sua virilidade.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:40",
+  "variantKey": "40",
+  "title": "Questão 40 - ENEM 2022",
+  "index": 40,
+  "year": 2022,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Firmo, o vaqueiro**\n\nNo dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o animal viajeiro:  \n– Raimundinho, como vai ele?…  \nDe longe apontou a palhoça.  \n– Sim.  \nO braço caiu-lhe, olhou-me algum tempo comovido; depois, saltando para o animal, levou o polegar à boca fazendo estalar a unha nos dentes: “Às quatro da manhã…  \nAtirei um verso e disse, para bulir com ele: Pega, velho! Não respondeu. Tio Firmo, mesmo velho e doente, não era homem para deixar um verso no chão… Fui ver, coitado!… estava morto. E deu de esporas para que eu não lhe visse as lágrimas.\n\nNETTO, C. In: MARCHEZAN, L. G. (Org.).  \n**O conto regionalista.** São Paulo: Martins Fontes, 2009.",
+  "alternativesIntroductionMarkdown": "A passagem registra um momento em que a expressividade lírica é reforçada pela",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2022:40:A",
+      "letter": "A",
+      "textMarkdown": "Plasticidade da imagem do rebanho reunido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:40:B",
+      "letter": "B",
+      "textMarkdown": "Sugestão da firmeza do sertanejo ao arrear o cavalo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:40:C",
+      "letter": "C",
+      "textMarkdown": "Situação de pobreza encontrada nos sertões brasileiros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:40:D",
+      "letter": "D",
+      "textMarkdown": "Afetividade demonstrada ao noticiar a morte do cantador.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:40:E",
+      "letter": "E",
+      "textMarkdown": "Preocupação do vaqueiro em demostrar sua virilidade.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

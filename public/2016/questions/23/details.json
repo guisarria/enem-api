@@ -1,43 +1,50 @@
 {
-    "title": "Questão 23 - ENEM 2016",
-    "index": 23,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Fragmento B91: Não se pode banhar duas vezes no mesmo rio, nem substância mortal alcançar duas vezes a mesma condição; mas pela intensidade e rapidez da mudança, dispersa e de novo reúne.\n\nHERÁCLITO. **Fragmentos (Sobre a natureza)**. São Paulo: Abril Cultural, 1996 (adaptado).\n\nFragmento B8: São muitos os sinais de que o ser é ingênito e indestrutível, pois é compacto, inabalável e sem fim; não foi nem será, pois é agora um todo homogêneo, uno, contínuo. Como poderia o que é perecer? Como poderia gerar-se?\n\nPARMÊNIDES. **Da natureza**. São Paulo: Loyola, 2002 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Os fragmentos do pensamento pré-socrático expõem uma oposição que se insere no campo das",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Investigações do pensamento sistemático.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Preocupações do período mitológico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Discussões de base ontológica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Habilidades da retórica sofística.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Verdades do mundo sensível.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:23",
+  "variantKey": "23",
+  "title": "Questão 23 - ENEM 2016",
+  "index": 23,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Fragmento B91: Não se pode banhar duas vezes no mesmo rio, nem substância mortal alcançar duas vezes a mesma condição; mas pela intensidade e rapidez da mudança, dispersa e de novo reúne.\n\nHERÁCLITO. **Fragmentos (Sobre a natureza)**. São Paulo: Abril Cultural, 1996 (adaptado).\n\nFragmento B8: São muitos os sinais de que o ser é ingênito e indestrutível, pois é compacto, inabalável e sem fim; não foi nem será, pois é agora um todo homogêneo, uno, contínuo. Como poderia o que é perecer? Como poderia gerar-se?\n\nPARMÊNIDES. **Da natureza**. São Paulo: Loyola, 2002 (adaptado).",
+  "alternativesIntroductionMarkdown": "Os fragmentos do pensamento pré-socrático expõem uma oposição que se insere no campo das",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:23:A",
+      "letter": "A",
+      "textMarkdown": "Investigações do pensamento sistemático.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:23:B",
+      "letter": "B",
+      "textMarkdown": "Preocupações do período mitológico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:23:C",
+      "letter": "C",
+      "textMarkdown": "Discussões de base ontológica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:23:D",
+      "letter": "D",
+      "textMarkdown": "Habilidades da retórica sofística.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:23:E",
+      "letter": "E",
+      "textMarkdown": "Verdades do mundo sensível.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

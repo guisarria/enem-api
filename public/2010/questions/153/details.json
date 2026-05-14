@@ -1,45 +1,58 @@
 {
-    "title": "Questão 153 - ENEM 2010",
-    "index": 153,
-    "year": 2010,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2010/questions/153/7db49675-d757-4e05-8e06-1458c1c566f9.png)",
-    "files": [
-        "https://enem.dev/2010/questions/153/7db49675-d757-4e05-8e06-1458c1c566f9.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere p π ≅ 3)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "I, pela relação área/capacidade de armazenamento de 1/3",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "I, pela relação área/capacidade de armazenamento de 4/3",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "II, pela relação área/capacidade de armazenamento de 3/4",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "III, pela relação área/capacidade de armazenamento de 2/3",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "III, pela relação área/capacidade de armazenamento de 7/12",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:153",
+  "variantKey": "153",
+  "title": "Questão 153 - ENEM 2010",
+  "index": 153,
+  "year": 2010,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2010/questions/153/7db49675-d757-4e05-8e06-1458c1c566f9.png)",
+  "alternativesIntroductionMarkdown": "Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere p π ≅ 3)",
+  "assets": [
+    {
+      "id": "2010:153:asset:0",
+      "path": "/2010/questions/153/7db49675-d757-4e05-8e06-1458c1c566f9.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2010:153:A",
+      "letter": "A",
+      "textMarkdown": "I, pela relação área/capacidade de armazenamento de 1/3",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:153:B",
+      "letter": "B",
+      "textMarkdown": "I, pela relação área/capacidade de armazenamento de 4/3",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:153:C",
+      "letter": "C",
+      "textMarkdown": "II, pela relação área/capacidade de armazenamento de 3/4",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:153:D",
+      "letter": "D",
+      "textMarkdown": "III, pela relação área/capacidade de armazenamento de 2/3",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:153:E",
+      "letter": "E",
+      "textMarkdown": "III, pela relação área/capacidade de armazenamento de 7/12",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

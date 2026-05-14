@@ -1,43 +1,50 @@
 {
-    "title": "Questão 100 - ENEM 2012",
-    "index": 100,
-    "year": 2012,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Verbo ser**\n\nQUE VAI SER quando crescer? Vivem perguntando em redor. Que é ser? É ter um corpo, um jeito, um nome? Tenho os três. E sou? Tenho de mudar quando crescer? Usar outro nome, corpo e jeito? Ou a gente só principia a ser quando cresce? É terrível, ser? Dói? É bom? É triste? Ser: pronunciado tão depressa, e cabe tantas coisas? Repito: ser, ser, ser. Er. R. Que vou ser quando crescer? Sou obrigado a? Posso escolher? Não dá para entender. Não vou ser. Não quero ser. Vou crescer assim mesmo. Sem ser. Esquecer.\n\nANDRADE, C. D. **Poesia e prosa**. Rio de Janeiro: Nova Aguilar, 1992.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A inquietação existencial do autor com a autoimagem corporal e a sua corporeidade se desdobra em questões existenciais que têm origem",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "No conflito do padrão corporal imposto contra as convicções de ser autêntico e singular.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Na aceitação das imposições da sociedade seguindo a influência de outros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Na confiança no futuro, ofuscada pelas tradições e culturas familiares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "No anseio de divulgar hábitos enraizados, negligenciados por seus antepassados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Na certeza da exclusão, revelada pela indiferença de seus pares.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2012",
+  "index": 100,
+  "year": 2012,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Verbo ser**\n\nQUE VAI SER quando crescer? Vivem perguntando em redor. Que é ser? É ter um corpo, um jeito, um nome? Tenho os três. E sou? Tenho de mudar quando crescer? Usar outro nome, corpo e jeito? Ou a gente só principia a ser quando cresce? É terrível, ser? Dói? É bom? É triste? Ser: pronunciado tão depressa, e cabe tantas coisas? Repito: ser, ser, ser. Er. R. Que vou ser quando crescer? Sou obrigado a? Posso escolher? Não dá para entender. Não vou ser. Não quero ser. Vou crescer assim mesmo. Sem ser. Esquecer.\n\nANDRADE, C. D. **Poesia e prosa**. Rio de Janeiro: Nova Aguilar, 1992.",
+  "alternativesIntroductionMarkdown": "A inquietação existencial do autor com a autoimagem corporal e a sua corporeidade se desdobra em questões existenciais que têm origem",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2012:100:A",
+      "letter": "A",
+      "textMarkdown": "No conflito do padrão corporal imposto contra as convicções de ser autêntico e singular.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:100:B",
+      "letter": "B",
+      "textMarkdown": "Na aceitação das imposições da sociedade seguindo a influência de outros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:100:C",
+      "letter": "C",
+      "textMarkdown": "Na confiança no futuro, ofuscada pelas tradições e culturas familiares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:100:D",
+      "letter": "D",
+      "textMarkdown": "No anseio de divulgar hábitos enraizados, negligenciados por seus antepassados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:100:E",
+      "letter": "E",
+      "textMarkdown": "Na certeza da exclusão, revelada pela indiferença de seus pares.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 16 - ENEM 2017",
-    "index": 16,
-    "year": 2017,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**TEXTO I**\n\n**Criatividade em publicidade: teorias e reflexões**\n\nResumo: O presente artigo aborda uma questão primordial na publicidade: a criatividade. Apesar de aclamada pelos departamentos de Criação das agências, devemos ter a consciência de que nem todo anúncio é, de fato, criativo. A partir do resgate teórico, no qual os Conceitos são tratados à luz da publicidade, busca-se estabelecer a compreensão dos temas. Para elucidar tais questões, é analisada uma campanha impressa da marca XXXX. As reflexões apontam que a publicidade criativa é essencialmente simples e apresenta uma releitura do cotidiano.\n\nDepexe, S D. **Travessias: Pesquisas em Educação, Cultura, Linguagem e Artes,** n. 2, 2008.\n\n![](https://enem.dev/2017/questions/16/8690291a-b2de-43d2-a535-5727ad02d022.jpg)",
-    "files": [
-        "https://enem.dev/2017/questions/16/8690291a-b2de-43d2-a535-5727ad02d022.jpg"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Os dois textos apresentados versam sobre o tema Criatividade. O Texto I é um resumo de Caráter Científico e o Texto II, uma homenagem promovida por um site de publicidade. De que maneira O Texto II exemplifica o conceito de criatividade em publicidade apresentado no Texto I?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fazendo menção ao difícil trabalho das mães em criar seus filhos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Promovendo uma leitura simplista do papel materno em seu trabalho de criar os filhos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Explorando a polissemia do termo “criação”.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Recorrendo a uma estrutura linguística simples.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Utilizando recursos gráficos diversificados.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:16",
+  "variantKey": "16",
+  "title": "Questão 16 - ENEM 2017",
+  "index": 16,
+  "year": 2017,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**TEXTO I**\n\n**Criatividade em publicidade: teorias e reflexões**\n\nResumo: O presente artigo aborda uma questão primordial na publicidade: a criatividade. Apesar de aclamada pelos departamentos de Criação das agências, devemos ter a consciência de que nem todo anúncio é, de fato, criativo. A partir do resgate teórico, no qual os Conceitos são tratados à luz da publicidade, busca-se estabelecer a compreensão dos temas. Para elucidar tais questões, é analisada uma campanha impressa da marca XXXX. As reflexões apontam que a publicidade criativa é essencialmente simples e apresenta uma releitura do cotidiano.\n\nDepexe, S D. **Travessias: Pesquisas em Educação, Cultura, Linguagem e Artes,** n. 2, 2008.\n\n![](/2017/questions/16/8690291a-b2de-43d2-a535-5727ad02d022.jpg)",
+  "alternativesIntroductionMarkdown": "Os dois textos apresentados versam sobre o tema Criatividade. O Texto I é um resumo de Caráter Científico e o Texto II, uma homenagem promovida por um site de publicidade. De que maneira O Texto II exemplifica o conceito de criatividade em publicidade apresentado no Texto I?",
+  "assets": [
+    {
+      "id": "2017:16:asset:0",
+      "path": "/2017/questions/16/8690291a-b2de-43d2-a535-5727ad02d022.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:16:A",
+      "letter": "A",
+      "textMarkdown": "Fazendo menção ao difícil trabalho das mães em criar seus filhos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:16:B",
+      "letter": "B",
+      "textMarkdown": "Promovendo uma leitura simplista do papel materno em seu trabalho de criar os filhos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:16:C",
+      "letter": "C",
+      "textMarkdown": "Explorando a polissemia do termo “criação”.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:16:D",
+      "letter": "D",
+      "textMarkdown": "Recorrendo a uma estrutura linguística simples.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:16:E",
+      "letter": "E",
+      "textMarkdown": "Utilizando recursos gráficos diversificados.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

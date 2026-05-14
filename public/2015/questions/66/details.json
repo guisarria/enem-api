@@ -1,43 +1,50 @@
 {
-    "title": "Questão 66 - ENEM 2015",
-    "index": 66,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A alteração cromossômica da criança pode ser classificada como",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Estrutural, do tipo deleção.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Numérica, do tipo euploidia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Numérica, do tipo poliploidia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Estrutural, do tipo duplicação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Numérica, do tipo aneuploidia.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:66",
+  "variantKey": "66",
+  "title": "Questão 66 - ENEM 2015",
+  "index": 66,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.",
+  "alternativesIntroductionMarkdown": "A alteração cromossômica da criança pode ser classificada como",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:66:A",
+      "letter": "A",
+      "textMarkdown": "Estrutural, do tipo deleção.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:66:B",
+      "letter": "B",
+      "textMarkdown": "Numérica, do tipo euploidia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:66:C",
+      "letter": "C",
+      "textMarkdown": "Numérica, do tipo poliploidia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:66:D",
+      "letter": "D",
+      "textMarkdown": "Estrutural, do tipo duplicação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:66:E",
+      "letter": "E",
+      "textMarkdown": "Numérica, do tipo aneuploidia.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

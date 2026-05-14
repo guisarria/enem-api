@@ -1,43 +1,50 @@
 {
-    "title": "Questão 63 - ENEM 2019",
-    "index": 63,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficias sem a burguesia incipiente.\n\n**ANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva, 1989 (adaptado).**\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n**SMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).**",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Entre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Valorização do pacto colonial — combate à livre-iniciativa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Defesa dos monopólios régios — apoio à livre concorrência.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Formação do sistema metropolitano — crítica à livre navegação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Abandono da acumulação metalista — estímulo ao livre-comércio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Eliminação das tarifas alfandegárias — incentivo ao livre-cambismo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:63",
+  "variantKey": "63",
+  "title": "Questão 63 - ENEM 2019",
+  "index": 63,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficias sem a burguesia incipiente.\n\n**ANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva, 1989 (adaptado).**\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n**SMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).**",
+  "alternativesIntroductionMarkdown": "Entre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de:",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2019:63:A",
+      "letter": "A",
+      "textMarkdown": "Valorização do pacto colonial — combate à livre-iniciativa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:63:B",
+      "letter": "B",
+      "textMarkdown": "Defesa dos monopólios régios — apoio à livre concorrência.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:63:C",
+      "letter": "C",
+      "textMarkdown": "Formação do sistema metropolitano — crítica à livre navegação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:63:D",
+      "letter": "D",
+      "textMarkdown": "Abandono da acumulação metalista — estímulo ao livre-comércio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:63:E",
+      "letter": "E",
+      "textMarkdown": "Eliminação das tarifas alfandegárias — incentivo ao livre-cambismo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 139 - ENEM 2010",
-    "index": 139,
-    "year": 2010,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "5 cm.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "6 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "12 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "24 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "25 cm.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:139",
+  "variantKey": "139",
+  "title": "Questão 139 - ENEM 2010",
+  "index": 139,
+  "year": 2010,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.",
+  "alternativesIntroductionMarkdown": "Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2010:139:A",
+      "letter": "A",
+      "textMarkdown": "5 cm.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:139:B",
+      "letter": "B",
+      "textMarkdown": "6 cm.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:139:C",
+      "letter": "C",
+      "textMarkdown": "12 cm.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:139:D",
+      "letter": "D",
+      "textMarkdown": "24 cm.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:139:E",
+      "letter": "E",
+      "textMarkdown": "25 cm.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

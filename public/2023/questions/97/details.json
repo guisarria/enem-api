@@ -1,43 +1,50 @@
 {
-    "title": "Questão 97 - ENEM 2023",
-    "index": 97,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.\nA aceleração desse processo é causada por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Acúmulo de gás etileno.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Redução da umidade do ar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Aumento na concentração de CO2.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Diminuição da intensidade luminosa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Isolamento do contato com O2 atmosférico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:97",
+  "variantKey": "97",
+  "title": "Questão 97 - ENEM 2023",
+  "index": 97,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.\nA aceleração desse processo é causada por",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:97:A",
+      "letter": "A",
+      "textMarkdown": "Acúmulo de gás etileno.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:97:B",
+      "letter": "B",
+      "textMarkdown": "Redução da umidade do ar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:97:C",
+      "letter": "C",
+      "textMarkdown": "Aumento na concentração de CO2.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:97:D",
+      "letter": "D",
+      "textMarkdown": "Diminuição da intensidade luminosa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:97:E",
+      "letter": "E",
+      "textMarkdown": "Isolamento do contato com O2 atmosférico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

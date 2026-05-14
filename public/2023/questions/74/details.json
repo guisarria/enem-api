@@ -1,43 +1,50 @@
 {
-    "title": "Questão 74 - ENEM 2023",
-    "index": 74,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Tahuantinsuyu — nome do Império Inca em quéchua — era dividido em quatro partes ou suyus: Chinchaysuyu (noroeste do Peru e Equador), Antisuyu (parte amazônica do império), Collasuyu (atual Bolívia) e Condesuyu (costa do Oceano Pacífico) e tinha Cuzco, no atual Peru, como sua capital imperial. Oficialmente, todas as etnias dominadas pelos incas deveriam adotar a língua quéchua, adorar o Sapa Inca e o Sol e pagar taxas em forma de horas de trabalhos periódicos. No entanto, pode-se dizer que o Império Inca era como um mosaico cultural em que vários e diferentes grupos étnicos adoravam o Sapa Inca e o Sol mas, simultaneamente, continuavam a adorar seus deuses locais e também a falar em suas línguas nativas.\n\nMARTINS, C. **Os incas e os tahuantinsuyu**: apresentação. Disponível em: http://antigo.anphlac.org. Acesso em: 6 out. 2021 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Ao comparar, no texto, a vertente da dominação territorial com os aspectos culturais, os incas tinham uma postura",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aceitável no que alude aos direitos humanos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Admissível no que remete às crenças coloniais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Tolerável no que se refere aos regimes tributários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Flexível no que diz respeito aos costumes religiosos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Compreensível no que concerne às normas laborais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:74",
+  "variantKey": "74",
+  "title": "Questão 74 - ENEM 2023",
+  "index": 74,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Tahuantinsuyu — nome do Império Inca em quéchua — era dividido em quatro partes ou suyus: Chinchaysuyu (noroeste do Peru e Equador), Antisuyu (parte amazônica do império), Collasuyu (atual Bolívia) e Condesuyu (costa do Oceano Pacífico) e tinha Cuzco, no atual Peru, como sua capital imperial. Oficialmente, todas as etnias dominadas pelos incas deveriam adotar a língua quéchua, adorar o Sapa Inca e o Sol e pagar taxas em forma de horas de trabalhos periódicos. No entanto, pode-se dizer que o Império Inca era como um mosaico cultural em que vários e diferentes grupos étnicos adoravam o Sapa Inca e o Sol mas, simultaneamente, continuavam a adorar seus deuses locais e também a falar em suas línguas nativas.\n\nMARTINS, C. **Os incas e os tahuantinsuyu**: apresentação. Disponível em: http://antigo.anphlac.org. Acesso em: 6 out. 2021 (adaptado).",
+  "alternativesIntroductionMarkdown": "Ao comparar, no texto, a vertente da dominação territorial com os aspectos culturais, os incas tinham uma postura",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:74:A",
+      "letter": "A",
+      "textMarkdown": "Aceitável no que alude aos direitos humanos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:74:B",
+      "letter": "B",
+      "textMarkdown": "Admissível no que remete às crenças coloniais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:74:C",
+      "letter": "C",
+      "textMarkdown": "Tolerável no que se refere aos regimes tributários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:74:D",
+      "letter": "D",
+      "textMarkdown": "Flexível no que diz respeito aos costumes religiosos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:74:E",
+      "letter": "E",
+      "textMarkdown": "Compreensível no que concerne às normas laborais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

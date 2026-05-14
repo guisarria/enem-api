@@ -1,43 +1,50 @@
 {
-    "title": "Questão 173 - ENEM 2017",
-    "index": 173,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.\n\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A quantidade de gasolina utilizada, em litro, no reabastecimento foi",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "20/0,075",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "20/0,75",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "20/7,5",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "20 x 0,075",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "20 x 0,75",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:173",
+  "variantKey": "173",
+  "title": "Questão 173 - ENEM 2017",
+  "index": 173,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.\n\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "A quantidade de gasolina utilizada, em litro, no reabastecimento foi",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:173:A",
+      "letter": "A",
+      "textMarkdown": "20/0,075",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:173:B",
+      "letter": "B",
+      "textMarkdown": "20/0,75",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:173:C",
+      "letter": "C",
+      "textMarkdown": "20/7,5",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:173:D",
+      "letter": "D",
+      "textMarkdown": "20 x 0,075",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:173:E",
+      "letter": "E",
+      "textMarkdown": "20 x 0,75",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

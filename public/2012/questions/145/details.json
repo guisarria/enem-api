@@ -1,45 +1,58 @@
 {
-    "title": "Questão 145 - ENEM 2012",
-    "index": 145,
-    "year": 2012,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png)",
-    "files": [
-        "https://enem.dev/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual é a árvore que apresenta a maior altura real?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "I",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "II",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "III",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "IV",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "V",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:145",
+  "variantKey": "145",
+  "title": "Questão 145 - ENEM 2012",
+  "index": 145,
+  "year": 2012,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png)",
+  "alternativesIntroductionMarkdown": "Qual é a árvore que apresenta a maior altura real?",
+  "assets": [
+    {
+      "id": "2012:145:asset:0",
+      "path": "/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2012:145:A",
+      "letter": "A",
+      "textMarkdown": "I",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:145:B",
+      "letter": "B",
+      "textMarkdown": "II",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:145:C",
+      "letter": "C",
+      "textMarkdown": "III",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:145:D",
+      "letter": "D",
+      "textMarkdown": "IV",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:145:E",
+      "letter": "E",
+      "textMarkdown": "V",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

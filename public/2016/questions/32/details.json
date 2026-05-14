@@ -1,43 +1,50 @@
 {
-    "title": "Questão 32 - ENEM 2016",
-    "index": 32,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.\n\nDURKHEIM, E. **O suicídio**: estudo de sociologia. São Paulo: Martins Fontes, 2000.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Vinculação com a filosofia como saber unificado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Reunião de percepções intuitivas para demonstração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Formulação de hipóteses subjetivas sobre a vida social.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Adesão aos padrões de investigação típicos das ciências naturais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Incorporação de um conhecimento alimentado pelo engajamento político.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:32",
+  "variantKey": "32",
+  "title": "Questão 32 - ENEM 2016",
+  "index": 32,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.\n\nDURKHEIM, E. **O suicídio**: estudo de sociologia. São Paulo: Martins Fontes, 2000.",
+  "alternativesIntroductionMarkdown": "O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2016:32:A",
+      "letter": "A",
+      "textMarkdown": "Vinculação com a filosofia como saber unificado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:32:B",
+      "letter": "B",
+      "textMarkdown": "Reunião de percepções intuitivas para demonstração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:32:C",
+      "letter": "C",
+      "textMarkdown": "Formulação de hipóteses subjetivas sobre a vida social.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:32:D",
+      "letter": "D",
+      "textMarkdown": "Adesão aos padrões de investigação típicos das ciências naturais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:32:E",
+      "letter": "E",
+      "textMarkdown": "Incorporação de um conhecimento alimentado pelo engajamento político.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

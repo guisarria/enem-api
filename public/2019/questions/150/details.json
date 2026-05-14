@@ -1,43 +1,50 @@
 {
-    "title": "Questão 150 - ENEM 2019",
-    "index": 150,
-    "year": 2019,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês.  \nO primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02.  \nPara concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O valor à vista, em real, que deverá constar na nota fiscal é de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "398,02",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "400,00",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "401,94",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "404,00",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "406,02",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:150",
+  "variantKey": "150",
+  "title": "Questão 150 - ENEM 2019",
+  "index": 150,
+  "year": 2019,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês.  \nO primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02.  \nPara concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado.",
+  "alternativesIntroductionMarkdown": "O valor à vista, em real, que deverá constar na nota fiscal é de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2019:150:A",
+      "letter": "A",
+      "textMarkdown": "398,02",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:150:B",
+      "letter": "B",
+      "textMarkdown": "400,00",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:150:C",
+      "letter": "C",
+      "textMarkdown": "401,94",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:150:D",
+      "letter": "D",
+      "textMarkdown": "404,00",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:150:E",
+      "letter": "E",
+      "textMarkdown": "406,02",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

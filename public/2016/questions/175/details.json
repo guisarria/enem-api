@@ -1,43 +1,50 @@
 {
-    "title": "Questão 175 - ENEM 2016",
-    "index": 175,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Segundo a classificação dos polígonos, quais deles são possíveis de serem obtidos pelo artista plástico?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Quadrados, apenas",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Triângulos e quadrados, apenas",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Triângulos, quadrados e trapézios, apenas",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Triângulos, quadrados, trapézios e quadriláteros irregulares, apenas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos, apenas.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2016:175",
+  "variantKey": "175",
+  "title": "Questão 175 - ENEM 2016",
+  "index": 175,
+  "year": 2016,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Segundo a classificação dos polígonos, quais deles são possíveis de serem obtidos pelo artista plástico?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2016:175:A",
+      "letter": "A",
+      "textMarkdown": "Quadrados, apenas",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:175:B",
+      "letter": "B",
+      "textMarkdown": "Triângulos e quadrados, apenas",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:175:C",
+      "letter": "C",
+      "textMarkdown": "Triângulos, quadrados e trapézios, apenas",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:175:D",
+      "letter": "D",
+      "textMarkdown": "Triângulos, quadrados, trapézios e quadriláteros irregulares, apenas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:175:E",
+      "letter": "E",
+      "textMarkdown": "Triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos, apenas.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

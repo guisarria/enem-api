@@ -1,43 +1,50 @@
 {
-    "title": "Questão 6 - ENEM 2013",
-    "index": 6,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**O canto triste dos conquistados: os últimos dias de Tenochtitlán**\n\nNos caminhos jazem dardos quebrados; os cabelos estão espalhados. Destelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação…\n\nPINSKY, J. et al. **História da América através de textos.** São Paulo. Contexto, 2007 (fragmento).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O texto é um registro asteca, cujo sentido está relacionado ao(à)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Tragédia causada pela destruição da cultura desse povo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Tentativa frustada de resistência a um poder considerado superior.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Extermínio das populações indígenas pelo Exército espanhol.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Dissolução da memória sobre os feitos de seus antepassados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Profetização das consequências da colonização da América.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:6",
+  "variantKey": "6",
+  "title": "Questão 6 - ENEM 2013",
+  "index": 6,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**O canto triste dos conquistados: os últimos dias de Tenochtitlán**\n\nNos caminhos jazem dardos quebrados; os cabelos estão espalhados. Destelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação…\n\nPINSKY, J. et al. **História da América através de textos.** São Paulo. Contexto, 2007 (fragmento).",
+  "alternativesIntroductionMarkdown": "O texto é um registro asteca, cujo sentido está relacionado ao(à)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:6:A",
+      "letter": "A",
+      "textMarkdown": "Tragédia causada pela destruição da cultura desse povo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:6:B",
+      "letter": "B",
+      "textMarkdown": "Tentativa frustada de resistência a um poder considerado superior.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:6:C",
+      "letter": "C",
+      "textMarkdown": "Extermínio das populações indígenas pelo Exército espanhol.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:6:D",
+      "letter": "D",
+      "textMarkdown": "Dissolução da memória sobre os feitos de seus antepassados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:6:E",
+      "letter": "E",
+      "textMarkdown": "Profetização das consequências da colonização da América.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

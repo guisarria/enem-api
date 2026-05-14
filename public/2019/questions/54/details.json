@@ -1,43 +1,50 @@
 {
-    "title": "Questão 54 - ENEM 2019",
-    "index": 54,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: “deixa queimar, pena que não foi a casa”; “podemos nos aquecer agora”; “nós só queríamos algumas batatas; há um fogo ótimo para cozinhá-las”.\n\n**HOBSBAWM, E.**; RUDÉ, G. Capitão Swing. Rio de Janeiro: Francisco Alves, 1982 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Restrição da propriedade privada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Expropriação das terras comunais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Imposição da estatização fundiária.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Redução da produção monocultora.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Proibição das atividades artesanais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:54",
+  "variantKey": "54",
+  "title": "Questão 54 - ENEM 2019",
+  "index": 54,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: “deixa queimar, pena que não foi a casa”; “podemos nos aquecer agora”; “nós só queríamos algumas batatas; há um fogo ótimo para cozinhá-las”.\n\n**HOBSBAWM, E.**; RUDÉ, G. Capitão Swing. Rio de Janeiro: Francisco Alves, 1982 (adaptado).",
+  "alternativesIntroductionMarkdown": "A revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial:",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2019:54:A",
+      "letter": "A",
+      "textMarkdown": "Restrição da propriedade privada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:54:B",
+      "letter": "B",
+      "textMarkdown": "Expropriação das terras comunais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:54:C",
+      "letter": "C",
+      "textMarkdown": "Imposição da estatização fundiária.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:54:D",
+      "letter": "D",
+      "textMarkdown": "Redução da produção monocultora.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:54:E",
+      "letter": "E",
+      "textMarkdown": "Proibição das atividades artesanais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

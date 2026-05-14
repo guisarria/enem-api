@@ -1,43 +1,50 @@
 {
-    "title": "Questão 132 - ENEM 2017",
-    "index": 132,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O que ocorre com as células presentes nos alimentos preservados com essa técnica?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O sal adicionado diminui a concentração de solutos em seu interior.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O sal adicionado desorganiza e destrói suas membranas plasmáticas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A adição de sal altera as propriedades de suas membranas plasmáticas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Os íons Na+ e CI- provenientes da dissociação do sal entram livremente nelas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2017:132",
+  "variantKey": "132",
+  "title": "Questão 132 - ENEM 2017",
+  "index": 132,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.",
+  "alternativesIntroductionMarkdown": "O que ocorre com as células presentes nos alimentos preservados com essa técnica?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2017:132:A",
+      "letter": "A",
+      "textMarkdown": "O sal adicionado diminui a concentração de solutos em seu interior.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:132:B",
+      "letter": "B",
+      "textMarkdown": "O sal adicionado desorganiza e destrói suas membranas plasmáticas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:132:C",
+      "letter": "C",
+      "textMarkdown": "A adição de sal altera as propriedades de suas membranas plasmáticas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:132:D",
+      "letter": "D",
+      "textMarkdown": "Os íons Na+ e CI- provenientes da dissociação do sal entram livremente nelas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:132:E",
+      "letter": "E",
+      "textMarkdown": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

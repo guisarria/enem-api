@@ -1,45 +1,58 @@
 {
-    "title": "Questão 5 - ENEM 2021",
-    "index": 5,
-    "year": 2021,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png)",
-    "files": [
-        "https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Constatação do ser humano como o responsável pela condição caótica do mundo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Indignação dos trabalhadores em face das injustiças sociais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Veiculação de informações trágicas pelos telejornais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Manipulação das notícias difundidas pelas mídias.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:5-espanhol",
+  "variantKey": "5-espanhol",
+  "title": "Questão 5 - ENEM 2021",
+  "index": 5,
+  "year": 2021,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "![](/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png)",
+  "alternativesIntroductionMarkdown": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
+  "assets": [
+    {
+      "id": "2021:5-espanhol:asset:0",
+      "path": "/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:5-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Constatação do ser humano como o responsável pela condição caótica do mundo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:5-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:5-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Indignação dos trabalhadores em face das injustiças sociais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:5-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Veiculação de informações trágicas pelos telejornais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:5-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Manipulação das notícias difundidas pelas mídias.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

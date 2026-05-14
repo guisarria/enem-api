@@ -1,43 +1,50 @@
 {
-    "title": "Questão 15 - ENEM 2014",
-    "index": 15,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.\n\nCALDEIRA, J. **A nação mercantilista.** São Paulo: Editora 34, 1999 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Entre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Demarcação do território indígena.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Manutenção da organização familiar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Valorização dos líderes religiosos indígenas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Preservação do costume das moradias coletivas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Comunicação pela língua geral baseada no tupi.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:15",
+  "variantKey": "15",
+  "title": "Questão 15 - ENEM 2014",
+  "index": 15,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.\n\nCALDEIRA, J. **A nação mercantilista.** São Paulo: Editora 34, 1999 (adaptado).",
+  "alternativesIntroductionMarkdown": "Entre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:15:A",
+      "letter": "A",
+      "textMarkdown": "Demarcação do território indígena.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:15:B",
+      "letter": "B",
+      "textMarkdown": "Manutenção da organização familiar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:15:C",
+      "letter": "C",
+      "textMarkdown": "Valorização dos líderes religiosos indígenas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:15:D",
+      "letter": "D",
+      "textMarkdown": "Preservação do costume das moradias coletivas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:15:E",
+      "letter": "E",
+      "textMarkdown": "Comunicação pela língua geral baseada no tupi.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

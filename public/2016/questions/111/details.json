@@ -1,43 +1,50 @@
 {
-    "title": "Questão 111 - ENEM 2016",
-    "index": 111,
-    "year": 2016,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Querido diário**\n\nHoje topei com alguns conhecidos meus  \nMe dão bom-dia, cheios de carinho  \nDizem para eu ter muita luz, ficar com Deus  \nEles têm pena de eu viver sozinho  \n\\[…\\]  \nHoje o inimigo veio me espreitar  \nArmou tocaia lá na curva do rio  \nTrouxe um porrete a mó de me quebrar  \nMas eu não quebro porque sou macio, viu\n\nHOLANDA, C. B. Chico. Rio de Janeiro: Biscoito Fino, 2013 (fragmento).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Uma característica do gênero diário que aparece na letra da canção de Chico Buarque é o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Diálogo com interlocutores próximos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Recorrência de verbos no infinitivo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Predominância de tom poético.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Uso de rimas na composição.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Narrativa autorreflexiva.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2016:111",
+  "variantKey": "111",
+  "title": "Questão 111 - ENEM 2016",
+  "index": 111,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Querido diário**\n\nHoje topei com alguns conhecidos meus  \nMe dão bom-dia, cheios de carinho  \nDizem para eu ter muita luz, ficar com Deus  \nEles têm pena de eu viver sozinho  \n[…]  \nHoje o inimigo veio me espreitar  \nArmou tocaia lá na curva do rio  \nTrouxe um porrete a mó de me quebrar  \nMas eu não quebro porque sou macio, viu\n\nHOLANDA, C. B. Chico. Rio de Janeiro: Biscoito Fino, 2013 (fragmento).",
+  "alternativesIntroductionMarkdown": "Uma característica do gênero diário que aparece na letra da canção de Chico Buarque é o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2016:111:A",
+      "letter": "A",
+      "textMarkdown": "Diálogo com interlocutores próximos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:111:B",
+      "letter": "B",
+      "textMarkdown": "Recorrência de verbos no infinitivo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:111:C",
+      "letter": "C",
+      "textMarkdown": "Predominância de tom poético.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:111:D",
+      "letter": "D",
+      "textMarkdown": "Uso de rimas na composição.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:111:E",
+      "letter": "E",
+      "textMarkdown": "Narrativa autorreflexiva.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

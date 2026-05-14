@@ -1,43 +1,50 @@
 {
-    "title": "Questão 42 - ENEM 2023",
-    "index": 42,
-    "year": 2023,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "O acesso às Práticas Corporais/Atividades Físicas (PC/AF) é desigual no Brasil, à semelhança de outros indicadores sociais e de saúde. Em geral, PC/AF prazerosas, diversificadas, mais afeitas ao período de lazer estão concentradas nas populações mais abastadas. As atividades físicas de deslocamento, trajetos a pé ou de bicicleta para estudar ou trabalhar, por exemplo, são mais frequentes na classe social menos favorecida. Aqui, há uma relação inversa e perversa entre variáveis socioeconômicas de acesso às PC/AF. As maiores prevalências de inatividade física foram em mulheres, pessoas com 60 anos ou mais, negros, pessoas com autoavaliação de saúde ruim ou muito ruim, com renda familiar de até quatro salários mínimos por pessoa, pessoas que desconhecem programas públicos de PC/A e residentes em áreas sem locais públicos para a prática.\n\nKNUTH, A. G.; ANTUNES, P. C. **Saúde e Sociedade**, n. 2, 2021 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O fator central que impacta a realização de práticas corporais/atividades fisicas no tempo de lazer no Brasil é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Diferença entre homens e mulheres.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Inexistência de políticas públicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diversidade de faixa etária.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Variação de condição étnica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desigualdade entre classes sociais.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2023:42",
+  "variantKey": "42",
+  "title": "Questão 42 - ENEM 2023",
+  "index": 42,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "O acesso às Práticas Corporais/Atividades Físicas (PC/AF) é desigual no Brasil, à semelhança de outros indicadores sociais e de saúde. Em geral, PC/AF prazerosas, diversificadas, mais afeitas ao período de lazer estão concentradas nas populações mais abastadas. As atividades físicas de deslocamento, trajetos a pé ou de bicicleta para estudar ou trabalhar, por exemplo, são mais frequentes na classe social menos favorecida. Aqui, há uma relação inversa e perversa entre variáveis socioeconômicas de acesso às PC/AF. As maiores prevalências de inatividade física foram em mulheres, pessoas com 60 anos ou mais, negros, pessoas com autoavaliação de saúde ruim ou muito ruim, com renda familiar de até quatro salários mínimos por pessoa, pessoas que desconhecem programas públicos de PC/A e residentes em áreas sem locais públicos para a prática.\n\nKNUTH, A. G.; ANTUNES, P. C. **Saúde e Sociedade**, n. 2, 2021 (adaptado).",
+  "alternativesIntroductionMarkdown": "O fator central que impacta a realização de práticas corporais/atividades fisicas no tempo de lazer no Brasil é a",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2023:42:A",
+      "letter": "A",
+      "textMarkdown": "Diferença entre homens e mulheres.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:42:B",
+      "letter": "B",
+      "textMarkdown": "Inexistência de políticas públicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:42:C",
+      "letter": "C",
+      "textMarkdown": "Diversidade de faixa etária.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:42:D",
+      "letter": "D",
+      "textMarkdown": "Variação de condição étnica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:42:E",
+      "letter": "E",
+      "textMarkdown": "Desigualdade entre classes sociais.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

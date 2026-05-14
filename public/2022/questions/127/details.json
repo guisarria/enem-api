@@ -1,43 +1,50 @@
 {
-    "title": "Questão 127 - ENEM 2022",
-    "index": 127,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.\n\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Glicólise.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Fermentação lática.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ciclo do ácido cítrico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Oxidação do piruvato.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fosforilação oxidativa.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2022:127",
+  "variantKey": "127",
+  "title": "Questão 127 - ENEM 2022",
+  "index": 127,
+  "year": 2022,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.\n\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+  "alternativesIntroductionMarkdown": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2022:127:A",
+      "letter": "A",
+      "textMarkdown": "Glicólise.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:127:B",
+      "letter": "B",
+      "textMarkdown": "Fermentação lática.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:127:C",
+      "letter": "C",
+      "textMarkdown": "Ciclo do ácido cítrico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:127:D",
+      "letter": "D",
+      "textMarkdown": "Oxidação do piruvato.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:127:E",
+      "letter": "E",
+      "textMarkdown": "Fosforilação oxidativa.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

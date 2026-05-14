@@ -1,45 +1,58 @@
 {
-    "title": "Questão 158 - ENEM 2010",
-    "index": 158,
-    "year": 2010,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg)\n\nUm técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de  \nduas espécies diferentes, sendo\n\n• 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³;  \n• 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.",
-    "files": [
-        "https://enem.dev/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "29,9 toneladas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "31,1 toneladas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "32,4 toneladas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "35,3 toneladas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "41,8 toneladas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:158",
+  "variantKey": "158",
+  "title": "Questão 158 - ENEM 2010",
+  "index": 158,
+  "year": 2010,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg)\n\nUm técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de  \nduas espécies diferentes, sendo\n\n• 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³;  \n• 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.",
+  "alternativesIntroductionMarkdown": "Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
+  "assets": [
+    {
+      "id": "2010:158:asset:0",
+      "path": "/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2010:158:A",
+      "letter": "A",
+      "textMarkdown": "29,9 toneladas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:158:B",
+      "letter": "B",
+      "textMarkdown": "31,1 toneladas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:158:C",
+      "letter": "C",
+      "textMarkdown": "32,4 toneladas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:158:D",
+      "letter": "D",
+      "textMarkdown": "35,3 toneladas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:158:E",
+      "letter": "E",
+      "textMarkdown": "41,8 toneladas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

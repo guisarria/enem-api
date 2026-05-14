@@ -1,43 +1,50 @@
 {
-    "title": "Questão 168 - ENEM 2019",
-    "index": 168,
-    "year": 2019,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.  \nOs outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Y = 80X + 920.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Y = 80X + 1000.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Y = 80X + 1080.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Y = 160X + 840.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Y = 160X + 1000.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:168",
+  "variantKey": "168",
+  "title": "Questão 168 - ENEM 2019",
+  "index": 168,
+  "year": 2019,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.  \nOs outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.",
+  "alternativesIntroductionMarkdown": "Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2019:168:A",
+      "letter": "A",
+      "textMarkdown": "Y = 80X + 920.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:168:B",
+      "letter": "B",
+      "textMarkdown": "Y = 80X + 1000.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:168:C",
+      "letter": "C",
+      "textMarkdown": "Y = 80X + 1080.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:168:D",
+      "letter": "D",
+      "textMarkdown": "Y = 160X + 840.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:168:E",
+      "letter": "E",
+      "textMarkdown": "Y = 160X + 1000.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

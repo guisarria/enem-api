@@ -1,43 +1,50 @@
 {
-    "title": "Questão 105 - ENEM 2013",
-    "index": 105,
-    "year": 2013,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Art. 2º Considera-se criança, para os efeitos desta lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. \\[…\\]  \nArt 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.  \nArt 4° É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. \\[…\\]\n\nBRASIL. Lei n. 8 069, de 13 de julho de 1990. **Estatuto da criança e do adolescente**. Disponível em: www.planalto.gov.br (fragmento).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Para cumprir sua função social, o Estatuto da criança e do adolescente apresenta características próprias desse gênero quanto ao uso da língua e quanto à composição textual. Entre essas características, destaca-se o emprego de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Repetição vocabular para facilitar o entendimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Palavras e construções que evitem ambiguidade.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Expressões informais para apresentar os direitos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Frases na ordem direta para apresentar as informações mais relevantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Exemplificações que auxiliem a compreensão dos conceitos formulados.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:105",
+  "variantKey": "105",
+  "title": "Questão 105 - ENEM 2013",
+  "index": 105,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Art. 2º Considera-se criança, para os efeitos desta lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. […]  \nArt 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.  \nArt 4° É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. […]\n\nBRASIL. Lei n. 8 069, de 13 de julho de 1990. **Estatuto da criança e do adolescente**. Disponível em: www.planalto.gov.br (fragmento).",
+  "alternativesIntroductionMarkdown": "Para cumprir sua função social, o Estatuto da criança e do adolescente apresenta características próprias desse gênero quanto ao uso da língua e quanto à composição textual. Entre essas características, destaca-se o emprego de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:105:A",
+      "letter": "A",
+      "textMarkdown": "Repetição vocabular para facilitar o entendimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:105:B",
+      "letter": "B",
+      "textMarkdown": "Palavras e construções que evitem ambiguidade.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:105:C",
+      "letter": "C",
+      "textMarkdown": "Expressões informais para apresentar os direitos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:105:D",
+      "letter": "D",
+      "textMarkdown": "Frases na ordem direta para apresentar as informações mais relevantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:105:E",
+      "letter": "E",
+      "textMarkdown": "Exemplificações que auxiliem a compreensão dos conceitos formulados.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

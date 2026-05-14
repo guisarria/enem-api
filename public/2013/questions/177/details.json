@@ -1,45 +1,58 @@
 {
-    "title": "Questão 177 - ENEM 2013",
-    "index": 177,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png)",
-    "files": [
-        "https://enem.dev/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Finlândia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Holanda.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Israel.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "México.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Rússia.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:177",
+  "variantKey": "177",
+  "title": "Questão 177 - ENEM 2013",
+  "index": 177,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png)",
+  "alternativesIntroductionMarkdown": "Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
+  "assets": [
+    {
+      "id": "2013:177:asset:0",
+      "path": "/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:177:A",
+      "letter": "A",
+      "textMarkdown": "Finlândia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:177:B",
+      "letter": "B",
+      "textMarkdown": "Holanda.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:177:C",
+      "letter": "C",
+      "textMarkdown": "Israel.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:177:D",
+      "letter": "D",
+      "textMarkdown": "México.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:177:E",
+      "letter": "E",
+      "textMarkdown": "Rússia.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

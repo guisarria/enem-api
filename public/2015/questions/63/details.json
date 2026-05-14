@@ -1,43 +1,50 @@
 {
-    "title": "Questão 63 - ENEM 2015",
-    "index": 63,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A dificuldade extra para reabrir a geladeira ocorre porque o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Volume de ar dentro da geladeira diminuiu.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Motor da geladeira está funcionando com potência máxima.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Força exercida pelo imã fixado na porta da geladeira aumenta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Pressão no interior da geladeira está abaixo da pressão externa.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:63",
+  "variantKey": "63",
+  "title": "Questão 63 - ENEM 2015",
+  "index": 63,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.",
+  "alternativesIntroductionMarkdown": "A dificuldade extra para reabrir a geladeira ocorre porque o(a)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:63:A",
+      "letter": "A",
+      "textMarkdown": "Volume de ar dentro da geladeira diminuiu.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:63:B",
+      "letter": "B",
+      "textMarkdown": "Motor da geladeira está funcionando com potência máxima.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:63:C",
+      "letter": "C",
+      "textMarkdown": "Força exercida pelo imã fixado na porta da geladeira aumenta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:63:D",
+      "letter": "D",
+      "textMarkdown": "Pressão no interior da geladeira está abaixo da pressão externa.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:63:E",
+      "letter": "E",
+      "textMarkdown": "Temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

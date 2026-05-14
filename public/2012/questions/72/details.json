@@ -1,43 +1,50 @@
 {
-    "title": "Questão 72 - ENEM 2012",
-    "index": 72,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma empresa de transportes precisa efetuar a entrega de uma encomenda o mais breve possível. Para tanto, a equipe de logística analisa o trajeto desde a empresa até o local da entrega. Ela verifica que o trajeto apresenta dois trechos de distâncias diferentes e velocidades máximas permitidas diferentes. No primeiro trecho, a velocidade máxima permitida é de 80 km/h e a distância a ser percorrida é de 80 km. No segundo trecho, cujo comprimento vale 60 km, a velocidade máxima permitida é 120 km/h.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Supondo que as condições de trânsito sejam favoráveis para que o veículo da empresa ande continuamente na velocidade máxima permitida, qual será o tempo necessário, em horas, para a realização da entrega?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,7.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "1,4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "1,5.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "2,0.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3,0.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:72",
+  "variantKey": "72",
+  "title": "Questão 72 - ENEM 2012",
+  "index": 72,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Uma empresa de transportes precisa efetuar a entrega de uma encomenda o mais breve possível. Para tanto, a equipe de logística analisa o trajeto desde a empresa até o local da entrega. Ela verifica que o trajeto apresenta dois trechos de distâncias diferentes e velocidades máximas permitidas diferentes. No primeiro trecho, a velocidade máxima permitida é de 80 km/h e a distância a ser percorrida é de 80 km. No segundo trecho, cujo comprimento vale 60 km, a velocidade máxima permitida é 120 km/h.",
+  "alternativesIntroductionMarkdown": "Supondo que as condições de trânsito sejam favoráveis para que o veículo da empresa ande continuamente na velocidade máxima permitida, qual será o tempo necessário, em horas, para a realização da entrega?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2012:72:A",
+      "letter": "A",
+      "textMarkdown": "0,7.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:72:B",
+      "letter": "B",
+      "textMarkdown": "1,4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:72:C",
+      "letter": "C",
+      "textMarkdown": "1,5.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:72:D",
+      "letter": "D",
+      "textMarkdown": "2,0.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:72:E",
+      "letter": "E",
+      "textMarkdown": "3,0.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

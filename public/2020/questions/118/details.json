@@ -1,43 +1,50 @@
 {
-    "title": "Questão 118 - ENEM 2020",
-    "index": 118,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos _Aracnídeos_. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo _Arthropoda_ a habitar a terra seca.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Quelíceras e pedipalpos que coordenam o movimento corporal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Excreção de ácido úrico que confere estabilidade ao pH corporal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Exoesqueleto constituído de quitina que auxilia no controle hídrico corporal.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Circulação sanguínea aberta que impede a desidratação dos tecidos corporais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Sistema nervoso ganglionar que promove a coordenação central do movimento corporal.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:118",
+  "variantKey": "118",
+  "title": "Questão 118 - ENEM 2020",
+  "index": 118,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos _Aracnídeos_. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo _Arthropoda_ a habitar a terra seca.",
+  "alternativesIntroductionMarkdown": "A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2020:118:A",
+      "letter": "A",
+      "textMarkdown": "Quelíceras e pedipalpos que coordenam o movimento corporal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:118:B",
+      "letter": "B",
+      "textMarkdown": "Excreção de ácido úrico que confere estabilidade ao pH corporal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:118:C",
+      "letter": "C",
+      "textMarkdown": "Exoesqueleto constituído de quitina que auxilia no controle hídrico corporal.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:118:D",
+      "letter": "D",
+      "textMarkdown": "Circulação sanguínea aberta que impede a desidratação dos tecidos corporais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:118:E",
+      "letter": "E",
+      "textMarkdown": "Sistema nervoso ganglionar que promove a coordenação central do movimento corporal.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 107 - ENEM 2018",
-    "index": 107,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (_Annona cherimola_) com a fruta-pinha (_Annona squamosa_), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Um dos benefícios dessa forma de plantio é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ampliação da variabilidade genética.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Produção de frutos das duas espécies.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Manutenção do genótipo da planta híbrida.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Reprodução de clones das plantas parentais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Modificação do genoma decorrente da transgenia.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:107",
+  "variantKey": "107",
+  "title": "Questão 107 - ENEM 2018",
+  "index": 107,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (_Annona cherimola_) com a fruta-pinha (_Annona squamosa_), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.",
+  "alternativesIntroductionMarkdown": "Um dos benefícios dessa forma de plantio é a",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2018:107:A",
+      "letter": "A",
+      "textMarkdown": "Ampliação da variabilidade genética.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:107:B",
+      "letter": "B",
+      "textMarkdown": "Produção de frutos das duas espécies.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:107:C",
+      "letter": "C",
+      "textMarkdown": "Manutenção do genótipo da planta híbrida.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:107:D",
+      "letter": "D",
+      "textMarkdown": "Reprodução de clones das plantas parentais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:107:E",
+      "letter": "E",
+      "textMarkdown": "Modificação do genoma decorrente da transgenia.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

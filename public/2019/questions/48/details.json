@@ -1,43 +1,50 @@
 {
-    "title": "Questão 48 - ENEM 2019",
-    "index": 48,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Dizem que Humboldt, naturalista do século XIX, maravilhado pela geografia, flora e fauna da região sulamericana, via seus habitantes como se fossem mendigos sentados sobre um saco de ouro, referindo-se a suas incomensuráveis riquezas naturais não exploradas. De alguma maneira, o cientista ratificou nosso papel de exportadores de natureza no que seria o mundo depois da colonização ibérica: enxergou-nos como territórios condenados a aproveitar os recursos naturais existentes.\n\n**ACOSTA, A.** _Bem viver: uma oportunidade para imaginar outros mundos._ São Paulo: Elefante, 2016 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A relação entre ser humano e natureza ressaltada no texto refletia a permanência da seguinte corrente filosófica:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Relativismo cognitivo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Materialismo dialético.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Racionalismo cartesiano.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Pluralismo epistemológico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Existencialismo fenomenológico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:48",
+  "variantKey": "48",
+  "title": "Questão 48 - ENEM 2019",
+  "index": 48,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Dizem que Humboldt, naturalista do século XIX, maravilhado pela geografia, flora e fauna da região sulamericana, via seus habitantes como se fossem mendigos sentados sobre um saco de ouro, referindo-se a suas incomensuráveis riquezas naturais não exploradas. De alguma maneira, o cientista ratificou nosso papel de exportadores de natureza no que seria o mundo depois da colonização ibérica: enxergou-nos como territórios condenados a aproveitar os recursos naturais existentes.\n\n**ACOSTA, A.** _Bem viver: uma oportunidade para imaginar outros mundos._ São Paulo: Elefante, 2016 (adaptado).",
+  "alternativesIntroductionMarkdown": "A relação entre ser humano e natureza ressaltada no texto refletia a permanência da seguinte corrente filosófica:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:48:A",
+      "letter": "A",
+      "textMarkdown": "Relativismo cognitivo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:48:B",
+      "letter": "B",
+      "textMarkdown": "Materialismo dialético.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:48:C",
+      "letter": "C",
+      "textMarkdown": "Racionalismo cartesiano.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:48:D",
+      "letter": "D",
+      "textMarkdown": "Pluralismo epistemológico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:48:E",
+      "letter": "E",
+      "textMarkdown": "Existencialismo fenomenológico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 157 - ENEM 2016",
-    "index": 157,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png)",
-    "files": [
-        "https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "26",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "29",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "30",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "31",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "35",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2016:157",
+  "variantKey": "157",
+  "title": "Questão 157 - ENEM 2016",
+  "index": 157,
+  "year": 2016,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png)",
+  "alternativesIntroductionMarkdown": "Qual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?",
+  "assets": [
+    {
+      "id": "2016:157:asset:0",
+      "path": "/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2016:157:A",
+      "letter": "A",
+      "textMarkdown": "26",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:157:B",
+      "letter": "B",
+      "textMarkdown": "29",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:157:C",
+      "letter": "C",
+      "textMarkdown": "30",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:157:D",
+      "letter": "D",
+      "textMarkdown": "31",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:157:E",
+      "letter": "E",
+      "textMarkdown": "35",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

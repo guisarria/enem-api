@@ -1,43 +1,50 @@
 {
-    "title": "Questão 76 - ENEM 2012",
-    "index": 76,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Os tubos de PVC, material organoclorado sintético, são normalmente utilizados como encanamento na construção civil. Ao final da sua vida útil, uma das formas de descarte desses tubos pode ser a incineração. Nesse processo libera-se HCℓ(g), cloreto de hidrogênio, dentre outras substâncias. Assim, é necessário um tratamento para evitar o problema da emissão desse poluente.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Entre as alternativas possíveis para o tratamento, é apropriado canalizar e borbulhar os gases provenientes da incineração em",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Água dura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Água de cal.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Água salobra.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Água destilada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Água desmineralizada.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:76",
+  "variantKey": "76",
+  "title": "Questão 76 - ENEM 2012",
+  "index": 76,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Os tubos de PVC, material organoclorado sintético, são normalmente utilizados como encanamento na construção civil. Ao final da sua vida útil, uma das formas de descarte desses tubos pode ser a incineração. Nesse processo libera-se HCℓ(g), cloreto de hidrogênio, dentre outras substâncias. Assim, é necessário um tratamento para evitar o problema da emissão desse poluente.",
+  "alternativesIntroductionMarkdown": "Entre as alternativas possíveis para o tratamento, é apropriado canalizar e borbulhar os gases provenientes da incineração em",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:76:A",
+      "letter": "A",
+      "textMarkdown": "Água dura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:76:B",
+      "letter": "B",
+      "textMarkdown": "Água de cal.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:76:C",
+      "letter": "C",
+      "textMarkdown": "Água salobra.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:76:D",
+      "letter": "D",
+      "textMarkdown": "Água destilada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:76:E",
+      "letter": "E",
+      "textMarkdown": "Água desmineralizada.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

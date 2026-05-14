@@ -1,45 +1,58 @@
 {
-    "title": "Questão 89 - ENEM 2021",
-    "index": 89,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
-    "files": [
-        "https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Norte",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sul",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Leste",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Oeste",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Nordeste",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:89",
+  "variantKey": "89",
+  "title": "Questão 89 - ENEM 2021",
+  "index": 89,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
+  "alternativesIntroductionMarkdown": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
+  "assets": [
+    {
+      "id": "2021:89:asset:0",
+      "path": "/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:89:A",
+      "letter": "A",
+      "textMarkdown": "Norte",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:89:B",
+      "letter": "B",
+      "textMarkdown": "Sul",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:89:C",
+      "letter": "C",
+      "textMarkdown": "Leste",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:89:D",
+      "letter": "D",
+      "textMarkdown": "Oeste",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:89:E",
+      "letter": "E",
+      "textMarkdown": "Nordeste",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

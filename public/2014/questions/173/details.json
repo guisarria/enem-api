@@ -1,43 +1,50 @@
 {
-    "title": "Questão 173 - ENEM 2014",
-    "index": 173,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "80",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "800",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "8 000",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "80 000",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:173",
+  "variantKey": "173",
+  "title": "Questão 173 - ENEM 2014",
+  "index": 173,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:173:A",
+      "letter": "A",
+      "textMarkdown": "8",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:173:B",
+      "letter": "B",
+      "textMarkdown": "80",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:173:C",
+      "letter": "C",
+      "textMarkdown": "800",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:173:D",
+      "letter": "D",
+      "textMarkdown": "8 000",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:173:E",
+      "letter": "E",
+      "textMarkdown": "80 000",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

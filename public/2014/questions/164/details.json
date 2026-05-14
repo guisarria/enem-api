@@ -1,43 +1,50 @@
 {
-    "title": "Questão 164 - ENEM 2014",
-    "index": 164,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A probabilidade de o teste terminar na quinta pergunta é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,02048.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "0,08192.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "0,24000.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "0,40960.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "0,49152.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:164",
+  "variantKey": "164",
+  "title": "Questão 164 - ENEM 2014",
+  "index": 164,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "A probabilidade de o teste terminar na quinta pergunta é",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:164:A",
+      "letter": "A",
+      "textMarkdown": "0,02048.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:164:B",
+      "letter": "B",
+      "textMarkdown": "0,08192.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:164:C",
+      "letter": "C",
+      "textMarkdown": "0,24000.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:164:D",
+      "letter": "D",
+      "textMarkdown": "0,40960.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:164:E",
+      "letter": "E",
+      "textMarkdown": "0,49152.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

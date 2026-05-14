@@ -1,43 +1,50 @@
 {
-    "title": "Questão 76 - ENEM 2021",
-    "index": 76,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela cultura profana – a dos romances de cavalaria, mas também a cultura folclórica dos camponeses e igualmente a dos citadinos, de caráter mais jurídicos – à cultura eclesiástica, cujo veículo era o latim. Francisco de Assis veio alterar a situação, propondo aos seus ouvintes uma mensagem acessível a todos e, simultaneamente, enobrecendo a língua vulgar através do seu uso na religião\n\nVAUCHEZ, A. **A espiritualidade da Idade Média Ocidental, séc. VIII-XIII.**\n\nLisboa: Estampa, 1995.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O comportamento desse religioso demonstra uma preocupação com as características assumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo pelos(as)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Senhores feudais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Movimentos heréticos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Integrantes das Cruzadas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Corporações de ofícios.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Universidades medievais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:76",
+  "variantKey": "76",
+  "title": "Questão 76 - ENEM 2021",
+  "index": 76,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela cultura profana – a dos romances de cavalaria, mas também a cultura folclórica dos camponeses e igualmente a dos citadinos, de caráter mais jurídicos – à cultura eclesiástica, cujo veículo era o latim. Francisco de Assis veio alterar a situação, propondo aos seus ouvintes uma mensagem acessível a todos e, simultaneamente, enobrecendo a língua vulgar através do seu uso na religião\n\nVAUCHEZ, A. **A espiritualidade da Idade Média Ocidental, séc. VIII-XIII.**\n\nLisboa: Estampa, 1995.",
+  "alternativesIntroductionMarkdown": "O comportamento desse religioso demonstra uma preocupação com as características assumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo pelos(as)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:76:A",
+      "letter": "A",
+      "textMarkdown": "Senhores feudais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:76:B",
+      "letter": "B",
+      "textMarkdown": "Movimentos heréticos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:76:C",
+      "letter": "C",
+      "textMarkdown": "Integrantes das Cruzadas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:76:D",
+      "letter": "D",
+      "textMarkdown": "Corporações de ofícios.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:76:E",
+      "letter": "E",
+      "textMarkdown": "Universidades medievais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

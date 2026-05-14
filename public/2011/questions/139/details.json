@@ -1,45 +1,58 @@
 {
-    "title": "Questão 139 - ENEM 2011",
-    "index": 139,
-    "year": 2011,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png)\n\nA medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.",
-    "files": [
-        "https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O número obtido pela leitura em kWh, na imagem, é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "2 614.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "2 624.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "2 715.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "2 725.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "4 162.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:139",
+  "variantKey": "139",
+  "title": "Questão 139 - ENEM 2011",
+  "index": 139,
+  "year": 2011,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png)\n\nA medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.",
+  "alternativesIntroductionMarkdown": "O número obtido pela leitura em kWh, na imagem, é",
+  "assets": [
+    {
+      "id": "2011:139:asset:0",
+      "path": "/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2011:139:A",
+      "letter": "A",
+      "textMarkdown": "2 614.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:139:B",
+      "letter": "B",
+      "textMarkdown": "2 624.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:139:C",
+      "letter": "C",
+      "textMarkdown": "2 715.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:139:D",
+      "letter": "D",
+      "textMarkdown": "2 725.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:139:E",
+      "letter": "E",
+      "textMarkdown": "4 162.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

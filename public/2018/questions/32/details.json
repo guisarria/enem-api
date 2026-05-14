@@ -1,45 +1,58 @@
 {
-    "title": "Questão 32 - ENEM 2018",
-    "index": 32,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png)\n\nFotografia: LUCAS HALLEL. Disponível em: www.fiickr.com. Acesso em: 16 abr. 2018 (adaptado)",
-    "files": [
-        "https://enem.dev/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Disposição cênica dos artistas no espaço teatral.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Integração de diversas linguagens artísticas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Sobreposição entre música e texto literário.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Manutenção de um diálogo com o público.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Adoção de um enredo como fio condutor.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:32",
+  "variantKey": "32",
+  "title": "Questão 32 - ENEM 2018",
+  "index": 32,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png)\n\nFotografia: LUCAS HALLEL. Disponível em: www.fiickr.com. Acesso em: 16 abr. 2018 (adaptado)",
+  "alternativesIntroductionMarkdown": "O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
+  "assets": [
+    {
+      "id": "2018:32:asset:0",
+      "path": "/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:32:A",
+      "letter": "A",
+      "textMarkdown": "Disposição cênica dos artistas no espaço teatral.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:32:B",
+      "letter": "B",
+      "textMarkdown": "Integração de diversas linguagens artísticas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:32:C",
+      "letter": "C",
+      "textMarkdown": "Sobreposição entre música e texto literário.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:32:D",
+      "letter": "D",
+      "textMarkdown": "Manutenção de um diálogo com o público.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:32:E",
+      "letter": "E",
+      "textMarkdown": "Adoção de um enredo como fio condutor.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

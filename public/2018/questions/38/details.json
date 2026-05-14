@@ -1,43 +1,50 @@
 {
-    "title": "Questão 38 - ENEM 2018",
-    "index": 38,
-    "year": 2018,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Certa vez minha mãe surrou-me com uma corda nodosa que me pintou as costas de manchas sangrentas. Moído, virando a cabeça com dificuldade, eu distinguia nas costelas grandes lanhos vermelhos. Deitaram-me, enrolaram-me em panos molhados com água de sal – e houve uma discussão na família. Minha avó, que nos visitava, condenou o procedimento da filha e esta afligiu-se. Irritada,  ferira-me ã toa, sem querer. Não guardei ódio a minha mãe: o culpado era o nó.\n\nRAMOS, G. **Infância**. Rio de Janeiro: Record, 1998.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Num texto narrativo, a sequência dos fatos contribui para a progressão temática. No fragmento, esse processo é indicado pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Alternância das pessoas do discurso que determinam o foco narrativo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Utilização de formas verbais que marcam tempos narrativos variados.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Indeterminação dos sujeitos de ações que caracterizam os eventos narrados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Justaposição de frases que relacionam semanticamente os acontecimentos narrados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Recorrência de expressões adverbiais que organizam temporalmente a narrativa.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:38",
+  "variantKey": "38",
+  "title": "Questão 38 - ENEM 2018",
+  "index": 38,
+  "year": 2018,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Certa vez minha mãe surrou-me com uma corda nodosa que me pintou as costas de manchas sangrentas. Moído, virando a cabeça com dificuldade, eu distinguia nas costelas grandes lanhos vermelhos. Deitaram-me, enrolaram-me em panos molhados com água de sal – e houve uma discussão na família. Minha avó, que nos visitava, condenou o procedimento da filha e esta afligiu-se. Irritada,  ferira-me ã toa, sem querer. Não guardei ódio a minha mãe: o culpado era o nó.\n\nRAMOS, G. **Infância**. Rio de Janeiro: Record, 1998.",
+  "alternativesIntroductionMarkdown": "Num texto narrativo, a sequência dos fatos contribui para a progressão temática. No fragmento, esse processo é indicado pela",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:38:A",
+      "letter": "A",
+      "textMarkdown": "Alternância das pessoas do discurso que determinam o foco narrativo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:38:B",
+      "letter": "B",
+      "textMarkdown": "Utilização de formas verbais que marcam tempos narrativos variados.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:38:C",
+      "letter": "C",
+      "textMarkdown": "Indeterminação dos sujeitos de ações que caracterizam os eventos narrados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:38:D",
+      "letter": "D",
+      "textMarkdown": "Justaposição de frases que relacionam semanticamente os acontecimentos narrados.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:38:E",
+      "letter": "E",
+      "textMarkdown": "Recorrência de expressões adverbiais que organizam temporalmente a narrativa.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

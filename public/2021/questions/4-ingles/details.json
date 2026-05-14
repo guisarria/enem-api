@@ -1,45 +1,58 @@
 {
-    "title": "Questão 4 - ENEM 2021",
-    "index": 4,
-    "year": 2021,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png)",
-    "files": [
-        "https://enem.dev/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A Presença de “at odds with” na fala do personagem do cartum revela o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Necessidade de acessar informações confiáveis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Dificuldade de conciliar diferentes anseios.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Desejo de dominar novas tecnologias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Desafio de permanecer imparcial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Vontade de ler notícias positivas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:4-ingles",
+  "variantKey": "4-ingles",
+  "title": "Questão 4 - ENEM 2021",
+  "index": 4,
+  "year": 2021,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png)",
+  "alternativesIntroductionMarkdown": "A Presença de “at odds with” na fala do personagem do cartum revela o(a)",
+  "assets": [
+    {
+      "id": "2021:4-ingles:asset:0",
+      "path": "/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:4-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Necessidade de acessar informações confiáveis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:4-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Dificuldade de conciliar diferentes anseios.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:4-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Desejo de dominar novas tecnologias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:4-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Desafio de permanecer imparcial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:4-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Vontade de ler notícias positivas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

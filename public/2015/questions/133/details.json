@@ -1,43 +1,50 @@
 {
-    "title": "Questão 133 - ENEM 2015",
-    "index": 133,
-    "year": 2015,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "Riscar o chão para sair pulando é uma brincadeira que vem dos tempos do Império Romano. A amarelinha original tinha mais de cem metros e era usada como treinamento militar imitações reduzidas do campo utilizado pelos soldados e acrescentaram numeração nos quadrados que deveriam ser pulados. Hoje as amarelinhas variam nos formatos geométricos e na quantidade de casas. As palavras “céu” e “inferno” podem ser escritas no começo e no final do desenho, que é marcado no chão com giz, tinta ou graveto.\n\nDisponível em: www.biblioteca.ajes.edu.br. Acesso em: 20 maio 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Com base em fatos históricos, o texto retrata o processo de adaptação pelo qual passou um tipo de brincadeira. Nesse sentido, conclui-se que as brincadeiras comportam o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Caráter competitivo que se assemelha às suas origens.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Delimitação de regras que se perpetuam com o tempo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Definição antecipada do número de grupos participantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Objetivo de aperfeiçoamento físico daqueles que a praticam.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Possibilidade de reinvenção no contexto em que é realizada.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:133",
+  "variantKey": "133",
+  "title": "Questão 133 - ENEM 2015",
+  "index": 133,
+  "year": 2015,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "Riscar o chão para sair pulando é uma brincadeira que vem dos tempos do Império Romano. A amarelinha original tinha mais de cem metros e era usada como treinamento militar imitações reduzidas do campo utilizado pelos soldados e acrescentaram numeração nos quadrados que deveriam ser pulados. Hoje as amarelinhas variam nos formatos geométricos e na quantidade de casas. As palavras “céu” e “inferno” podem ser escritas no começo e no final do desenho, que é marcado no chão com giz, tinta ou graveto.\n\nDisponível em: www.biblioteca.ajes.edu.br. Acesso em: 20 maio 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "Com base em fatos históricos, o texto retrata o processo de adaptação pelo qual passou um tipo de brincadeira. Nesse sentido, conclui-se que as brincadeiras comportam o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:133:A",
+      "letter": "A",
+      "textMarkdown": "Caráter competitivo que se assemelha às suas origens.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:133:B",
+      "letter": "B",
+      "textMarkdown": "Delimitação de regras que se perpetuam com o tempo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:133:C",
+      "letter": "C",
+      "textMarkdown": "Definição antecipada do número de grupos participantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:133:D",
+      "letter": "D",
+      "textMarkdown": "Objetivo de aperfeiçoamento físico daqueles que a praticam.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:133:E",
+      "letter": "E",
+      "textMarkdown": "Possibilidade de reinvenção no contexto em que é realizada.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

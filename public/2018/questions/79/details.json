@@ -1,43 +1,50 @@
 {
-    "title": "Questão 79 - ENEM 2018",
-    "index": 79,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A quem não basta pouco, nada basta.\n\nEPICURO. **Os pensadores.** São Paulo: Abril Cultural, 1985.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Remanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Esperança, tida como confiança no porvir.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Justiça, interpretada como retidão de caráter.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Temperança, marcada pelo domínio da vontade.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Coragem, definida como fortitude na dificuldade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Prudência, caracterizada pelo correto uso da razão.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:79",
+  "variantKey": "79",
+  "title": "Questão 79 - ENEM 2018",
+  "index": 79,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A quem não basta pouco, nada basta.\n\nEPICURO. **Os pensadores.** São Paulo: Abril Cultural, 1985.",
+  "alternativesIntroductionMarkdown": "Remanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2018:79:A",
+      "letter": "A",
+      "textMarkdown": "Esperança, tida como confiança no porvir.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:79:B",
+      "letter": "B",
+      "textMarkdown": "Justiça, interpretada como retidão de caráter.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:79:C",
+      "letter": "C",
+      "textMarkdown": "Temperança, marcada pelo domínio da vontade.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:79:D",
+      "letter": "D",
+      "textMarkdown": "Coragem, definida como fortitude na dificuldade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:79:E",
+      "letter": "E",
+      "textMarkdown": "Prudência, caracterizada pelo correto uso da razão.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

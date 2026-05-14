@@ -1,43 +1,50 @@
 {
-    "title": "Questão 62 - ENEM 2009",
-    "index": 62,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A partir de 1942 e estendendo-se até o final do Estado Novo, o Ministro do Trabalho, Indústria e Comércio de Getúlio Vargas falou aos ouvintes da Rádio Nacional semanalmente, por dez minutos, no programa “Hora do Brasil”. O objetivo declarado do governo era esclarecer os trabalhadores acerca das inovações na legislação de proteção ao trabalho.\n\nGOMES, A. C. A invenção do trabalhismo. Rio de Janeiro: IUPERJ / Vértice. São Paulo: Revista dos Tribunais, 1988 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Os programas “Hora do Brasil” contribuíram para",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Conscientizar os trabalhadores de que os direitos sociais foram conquistados por seu esforço, após anos de lutas sindicais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Promover a autonomia dos grupos sociais, por meio de uma linguagem simples e de fácil entendimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Estimular os movimentos grevistas, que reivindicavam um aprofundamento dos direitos trabalhistas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Consolidar a imagem de Vargas como um governante protetor das massas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Aumentar os grupos de discussão política dos trabalhadores, estimulados pelas palavras do ministro.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:62",
+  "variantKey": "62",
+  "title": "Questão 62 - ENEM 2009",
+  "index": 62,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A partir de 1942 e estendendo-se até o final do Estado Novo, o Ministro do Trabalho, Indústria e Comércio de Getúlio Vargas falou aos ouvintes da Rádio Nacional semanalmente, por dez minutos, no programa “Hora do Brasil”. O objetivo declarado do governo era esclarecer os trabalhadores acerca das inovações na legislação de proteção ao trabalho.\n\nGOMES, A. C. A invenção do trabalhismo. Rio de Janeiro: IUPERJ / Vértice. São Paulo: Revista dos Tribunais, 1988 (adaptado).",
+  "alternativesIntroductionMarkdown": "Os programas “Hora do Brasil” contribuíram para",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2009:62:A",
+      "letter": "A",
+      "textMarkdown": "Conscientizar os trabalhadores de que os direitos sociais foram conquistados por seu esforço, após anos de lutas sindicais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:62:B",
+      "letter": "B",
+      "textMarkdown": "Promover a autonomia dos grupos sociais, por meio de uma linguagem simples e de fácil entendimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:62:C",
+      "letter": "C",
+      "textMarkdown": "Estimular os movimentos grevistas, que reivindicavam um aprofundamento dos direitos trabalhistas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:62:D",
+      "letter": "D",
+      "textMarkdown": "Consolidar a imagem de Vargas como um governante protetor das massas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:62:E",
+      "letter": "E",
+      "textMarkdown": "Aumentar os grupos de discussão política dos trabalhadores, estimulados pelas palavras do ministro.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

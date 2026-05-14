@@ -1,45 +1,58 @@
 {
-    "title": "Questão 154 - ENEM 2012",
-    "index": 154,
-    "year": 2012,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png)",
-    "files": [
-        "https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,20 m e 1,45 m.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "0,20 m e 1,40 m.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "0,25 m e 1,35 m.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "0,25 m e 1,30 m.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "0,45 m e 1,20 m.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:154",
+  "variantKey": "154",
+  "title": "Questão 154 - ENEM 2012",
+  "index": 154,
+  "year": 2012,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png)",
+  "alternativesIntroductionMarkdown": "Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é",
+  "assets": [
+    {
+      "id": "2012:154:asset:0",
+      "path": "/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:154:A",
+      "letter": "A",
+      "textMarkdown": "0,20 m e 1,45 m.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:154:B",
+      "letter": "B",
+      "textMarkdown": "0,20 m e 1,40 m.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:154:C",
+      "letter": "C",
+      "textMarkdown": "0,25 m e 1,35 m.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:154:D",
+      "letter": "D",
+      "textMarkdown": "0,25 m e 1,30 m.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:154:E",
+      "letter": "E",
+      "textMarkdown": "0,45 m e 1,20 m.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

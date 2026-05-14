@@ -1,43 +1,50 @@
 {
-    "title": "Questão 58 - ENEM 2020",
-    "index": 58,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O planejamento deixou de controlar o crescimento urbano e passou a encorajá-lo por todos os meios possíveis e imagináveis. Cidades, a nova mensagem soou em alto e bom som, eram máquinas de produzir riquezas: o primeiro e principal objetivo do planejamento devia ser o de azeitar a máquina.\n\n**HALL, P. Cidades do amanhã:** uma história intelectual do planejamento e do projeto urbanos no século XX. São Paulo: Perspectiva. 2016 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O modelo de planejamento urbano problematizado no texto é marcado pelo(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Primazia da gestão popular",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Uso de práticas sustentáveis",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Construção do bem-estar social.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Soberania do poder governamental.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ampliação da participação empresarial",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2020:58",
+  "variantKey": "58",
+  "title": "Questão 58 - ENEM 2020",
+  "index": 58,
+  "year": 2020,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O planejamento deixou de controlar o crescimento urbano e passou a encorajá-lo por todos os meios possíveis e imagináveis. Cidades, a nova mensagem soou em alto e bom som, eram máquinas de produzir riquezas: o primeiro e principal objetivo do planejamento devia ser o de azeitar a máquina.\n\n**HALL, P. Cidades do amanhã:** uma história intelectual do planejamento e do projeto urbanos no século XX. São Paulo: Perspectiva. 2016 (adaptado).",
+  "alternativesIntroductionMarkdown": "O modelo de planejamento urbano problematizado no texto é marcado pelo(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2020:58:A",
+      "letter": "A",
+      "textMarkdown": "Primazia da gestão popular",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:58:B",
+      "letter": "B",
+      "textMarkdown": "Uso de práticas sustentáveis",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:58:C",
+      "letter": "C",
+      "textMarkdown": "Construção do bem-estar social.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:58:D",
+      "letter": "D",
+      "textMarkdown": "Soberania do poder governamental.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:58:E",
+      "letter": "E",
+      "textMarkdown": "Ampliação da participação empresarial",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

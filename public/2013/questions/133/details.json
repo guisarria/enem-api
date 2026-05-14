@@ -1,45 +1,58 @@
 {
-    "title": "Questão 133 - ENEM 2013",
-    "index": 133,
-    "year": 2013,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png)",
-    "files": [
-        "https://enem.dev/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Remete às bases de dados da web, protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:133",
+  "variantKey": "133",
+  "title": "Questão 133 - ENEM 2013",
+  "index": 133,
+  "year": 2013,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png)",
+  "alternativesIntroductionMarkdown": "Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda",
+  "assets": [
+    {
+      "id": "2013:133:asset:0",
+      "path": "/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:133:A",
+      "letter": "A",
+      "textMarkdown": "Representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:133:B",
+      "letter": "B",
+      "textMarkdown": "Faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:133:C",
+      "letter": "C",
+      "textMarkdown": "Diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:133:D",
+      "letter": "D",
+      "textMarkdown": "Está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:133:E",
+      "letter": "E",
+      "textMarkdown": "Remete às bases de dados da web, protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

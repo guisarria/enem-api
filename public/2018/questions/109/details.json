@@ -1,48 +1,79 @@
 {
-    "title": "Questão 109 - ENEM 2018",
-    "index": 109,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A hidroxilamina ![](https://enem.dev/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada.\n\n![](https://enem.dev/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png)\n\nO produto A é favorecido em relação ao B, por um fator de![](https://enem.dev/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png). Em um estudo de possível substituição do uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5.\n\n![](https://enem.dev/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png)",
-    "files": [
-        "https://enem.dev/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png",
-        "https://enem.dev/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png",
-        "https://enem.dev/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png",
-        "https://enem.dev/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Dentre as moléculas testadas, qual delas apresentou menor reatividade?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "3",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "5",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:109",
+  "variantKey": "109",
+  "title": "Questão 109 - ENEM 2018",
+  "index": 109,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A hidroxilamina ![](/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada.\n\n![](/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png)\n\nO produto A é favorecido em relação ao B, por um fator de![](/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png). Em um estudo de possível substituição do uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5.\n\n![](/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png)",
+  "alternativesIntroductionMarkdown": "Dentre as moléculas testadas, qual delas apresentou menor reatividade?",
+  "assets": [
+    {
+      "id": "2018:109:asset:0",
+      "path": "/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:109:asset:1",
+      "path": "/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:109:asset:2",
+      "path": "/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png",
+      "role": "context",
+      "position": 2,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:109:asset:3",
+      "path": "/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png",
+      "role": "context",
+      "position": 3,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2018:109:A",
+      "letter": "A",
+      "textMarkdown": "1",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:109:B",
+      "letter": "B",
+      "textMarkdown": "2",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:109:C",
+      "letter": "C",
+      "textMarkdown": "3",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:109:D",
+      "letter": "D",
+      "textMarkdown": "4",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:109:E",
+      "letter": "E",
+      "textMarkdown": "5",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

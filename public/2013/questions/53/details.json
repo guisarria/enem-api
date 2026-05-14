@@ -1,43 +1,50 @@
 {
-    "title": "Questão 53 - ENEM 2013",
-    "index": 53,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Comprimento do trato gastrointestinal para caber mais alimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Área de contato com o conteúdo intestinal para absorção dos nutrientes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Secreção de enzimas digestivas para aumentar a degradação proteica no estômago.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Processo de digestão para diminuir o tempo de permanência do alimento no intestino.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:53",
+  "variantKey": "53",
+  "title": "Questão 53 - ENEM 2013",
+  "index": 53,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.",
+  "alternativesIntroductionMarkdown": "A função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:53:A",
+      "letter": "A",
+      "textMarkdown": "Comprimento do trato gastrointestinal para caber mais alimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:53:B",
+      "letter": "B",
+      "textMarkdown": "Área de contato com o conteúdo intestinal para absorção dos nutrientes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:53:C",
+      "letter": "C",
+      "textMarkdown": "Liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:53:D",
+      "letter": "D",
+      "textMarkdown": "Secreção de enzimas digestivas para aumentar a degradação proteica no estômago.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:53:E",
+      "letter": "E",
+      "textMarkdown": "Processo de digestão para diminuir o tempo de permanência do alimento no intestino.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

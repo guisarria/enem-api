@@ -1,43 +1,50 @@
 {
-    "title": "Questão 133 - ENEM 2019",
-    "index": 133,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O “The Kidney Project” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.\n\n**Disponível em: [https://pharm.ucsf.edu](https://pharm.ucsf.edu/). Acesso em: 26 abr. 2019 (adaptado).**",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O dispositivo criado promoverá diretamente a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Remoção de ureia.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Excreção de lipídios.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Síntese de vasopressina.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Transformação de amônia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fabricação de aldosterona.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:133",
+  "variantKey": "133",
+  "title": "Questão 133 - ENEM 2019",
+  "index": 133,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O “The Kidney Project” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.\n\n**Disponível em: [https://pharm.ucsf.edu](https://pharm.ucsf.edu/). Acesso em: 26 abr. 2019 (adaptado).**",
+  "alternativesIntroductionMarkdown": "O dispositivo criado promoverá diretamente a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:133:A",
+      "letter": "A",
+      "textMarkdown": "Remoção de ureia.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:133:B",
+      "letter": "B",
+      "textMarkdown": "Excreção de lipídios.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:133:C",
+      "letter": "C",
+      "textMarkdown": "Síntese de vasopressina.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:133:D",
+      "letter": "D",
+      "textMarkdown": "Transformação de amônia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:133:E",
+      "letter": "E",
+      "textMarkdown": "Fabricação de aldosterona.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

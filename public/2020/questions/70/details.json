@@ -1,43 +1,50 @@
 {
-    "title": "Questão 70 - ENEM 2020",
-    "index": 70,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Com efeito, até a destruição de Cartago, o povo e o Senado romano governaram a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.\n\nSALÚSTIO. A conjuração de Catilina/A Guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Demarcação de terras públicas",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Imposição da escravidão por dívidas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Restrição da cidadania por parentesco.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Restauração de instituições ancestrais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Expansão das fronteiras extrapeninsulares.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2020:70",
+  "variantKey": "70",
+  "title": "Questão 70 - ENEM 2020",
+  "index": 70,
+  "year": 2020,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Com efeito, até a destruição de Cartago, o povo e o Senado romano governaram a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.\n\nSALÚSTIO. A conjuração de Catilina/A Guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).",
+  "alternativesIntroductionMarkdown": "O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2020:70:A",
+      "letter": "A",
+      "textMarkdown": "Demarcação de terras públicas",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:70:B",
+      "letter": "B",
+      "textMarkdown": "Imposição da escravidão por dívidas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:70:C",
+      "letter": "C",
+      "textMarkdown": "Restrição da cidadania por parentesco.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:70:D",
+      "letter": "D",
+      "textMarkdown": "Restauração de instituições ancestrais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:70:E",
+      "letter": "E",
+      "textMarkdown": "Expansão das fronteiras extrapeninsulares.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

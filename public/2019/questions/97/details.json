@@ -1,43 +1,50 @@
 {
-    "title": "Questão 97 - ENEM 2019",
-    "index": 97,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "As cutias, pequenos roedores das zonas tropicais, transportam pela boca as sementes que caem das árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar a maioria de suas sementes enterradas para as épocas mais secas, quando não há frutos maduros disponíveis. Cientistas descobriram que as cutias roubam as sementes enterradas por outra, e esse comportamento de “ladroagem” faz com que uma mesma semente possa ser enterrada dezenas de vezes.\n\n**Disponível em:** http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Essa “ladroagem” está associada à relação de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Sinfilia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Predatismo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Parasitismo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Competição.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Comensalismo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:97",
+  "variantKey": "97",
+  "title": "Questão 97 - ENEM 2019",
+  "index": 97,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "As cutias, pequenos roedores das zonas tropicais, transportam pela boca as sementes que caem das árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar a maioria de suas sementes enterradas para as épocas mais secas, quando não há frutos maduros disponíveis. Cientistas descobriram que as cutias roubam as sementes enterradas por outra, e esse comportamento de “ladroagem” faz com que uma mesma semente possa ser enterrada dezenas de vezes.\n\n**Disponível em:** http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.",
+  "alternativesIntroductionMarkdown": "Essa “ladroagem” está associada à relação de",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2019:97:A",
+      "letter": "A",
+      "textMarkdown": "Sinfilia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:97:B",
+      "letter": "B",
+      "textMarkdown": "Predatismo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:97:C",
+      "letter": "C",
+      "textMarkdown": "Parasitismo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:97:D",
+      "letter": "D",
+      "textMarkdown": "Competição.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:97:E",
+      "letter": "E",
+      "textMarkdown": "Comensalismo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

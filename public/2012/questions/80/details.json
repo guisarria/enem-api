@@ -1,45 +1,58 @@
 {
-    "title": "Questão 80 - ENEM 2012",
-    "index": 80,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2012/questions/80/b81e5f06-1b2b-4dae-a494-cdd496e89cdb.jpg)",
-    "files": [
-        "https://enem.dev/2012/questions/80/b81e5f06-1b2b-4dae-a494-cdd496e89cdb.jpg"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A condição física apresentada pelo personagem da tirinha é um fator de risco que pode desencadear doenças como",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Anemia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Beribéri.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diabetes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Escorbuto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fenilcetonúria.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:80",
+  "variantKey": "80",
+  "title": "Questão 80 - ENEM 2012",
+  "index": 80,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2012/questions/80/b81e5f06-1b2b-4dae-a494-cdd496e89cdb.jpg)",
+  "alternativesIntroductionMarkdown": "A condição física apresentada pelo personagem da tirinha é um fator de risco que pode desencadear doenças como",
+  "assets": [
+    {
+      "id": "2012:80:asset:0",
+      "path": "/2012/questions/80/b81e5f06-1b2b-4dae-a494-cdd496e89cdb.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2012:80:A",
+      "letter": "A",
+      "textMarkdown": "Anemia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:80:B",
+      "letter": "B",
+      "textMarkdown": "Beribéri.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:80:C",
+      "letter": "C",
+      "textMarkdown": "Diabetes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:80:D",
+      "letter": "D",
+      "textMarkdown": "Escorbuto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:80:E",
+      "letter": "E",
+      "textMarkdown": "Fenilcetonúria.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

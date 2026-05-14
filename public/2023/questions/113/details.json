@@ -1,43 +1,96 @@
 {
-    "title": "Questão 113 - ENEM 2023",
-    "index": 113,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. \nPara que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m²?, e mais próximo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/113/8d968451-63ce-4bb6-9fc1-2a9997a962bf.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/113/7c34bc21-998f-433e-8687-e08b95f9b871.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/113/7286e182-5f71-4bbd-a08e-95b6b020028b.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/113/335c851b-35c6-4c99-8bd1-50cada05ce2e.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/113/efe618e1-ecf9-47c4-81eb-00060a2954e0.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:113",
+  "variantKey": "113",
+  "title": "Questão 113 - ENEM 2023",
+  "index": 113,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. \nPara que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m²?, e mais próximo de",
+  "assets": [
+    {
+      "id": "2023:113:asset:0",
+      "path": "/2023/questions/113/8d968451-63ce-4bb6-9fc1-2a9997a962bf.png",
+      "role": "alternative",
+      "position": 0,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2023:113:asset:1",
+      "path": "/2023/questions/113/7c34bc21-998f-433e-8687-e08b95f9b871.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2023:113:asset:2",
+      "path": "/2023/questions/113/7286e182-5f71-4bbd-a08e-95b6b020028b.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2023:113:asset:3",
+      "path": "/2023/questions/113/335c851b-35c6-4c99-8bd1-50cada05ce2e.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2023:113:asset:4",
+      "path": "/2023/questions/113/efe618e1-ecf9-47c4-81eb-00060a2954e0.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:113:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:113:asset:0"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:113:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:113:asset:1"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:113:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:113:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:113:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:113:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:113:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:113:asset:4"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

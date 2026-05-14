@@ -1,46 +1,110 @@
 {
-    "title": "Questão 169 - ENEM 2023",
-    "index": 169,
-    "year": 2023,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
-    "files": [
-        "https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png",
-        "https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/169/0ad62fa9-ccdd-40b7-95e6-024319a5c9bc.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/169/74afb699-867b-4b47-8fa9-9c0fddd6db14.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/169/23fe5ab4-dc1d-4693-8a62-c17abdd5c5cb.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/169/9394f679-b291-4e10-9384-b1f2c2dba975.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/169/5037e73b-aa7f-43fd-baa8-4f70d9f0f498.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:169",
+  "variantKey": "169",
+  "title": "Questão 169 - ENEM 2023",
+  "index": 169,
+  "year": 2023,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+  "alternativesIntroductionMarkdown": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+  "assets": [
+    {
+      "id": "2023:169:asset:0",
+      "path": "/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2023:169:asset:1",
+      "path": "/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2023:169:asset:2",
+      "path": "/2023/questions/169/0ad62fa9-ccdd-40b7-95e6-024319a5c9bc.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2023:169:asset:3",
+      "path": "/2023/questions/169/74afb699-867b-4b47-8fa9-9c0fddd6db14.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2023:169:asset:4",
+      "path": "/2023/questions/169/23fe5ab4-dc1d-4693-8a62-c17abdd5c5cb.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2023:169:asset:5",
+      "path": "/2023/questions/169/9394f679-b291-4e10-9384-b1f2c2dba975.png",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2023:169:asset:6",
+      "path": "/2023/questions/169/5037e73b-aa7f-43fd-baa8-4f70d9f0f498.png",
+      "role": "alternative",
+      "position": 6,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:169:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:169:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:169:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:169:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:169:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:169:asset:4"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:169:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:169:asset:5"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:169:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2023:169:asset:6"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

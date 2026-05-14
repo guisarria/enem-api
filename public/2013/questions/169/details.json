@@ -1,45 +1,58 @@
 {
-    "title": "Questão 169 - ENEM 2013",
-    "index": 169,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png)\n\nCinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:\n\nArthur: 250 cartelas com 6 números escolhidos;\n\nBruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;\n\nCaio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;\n\nDouglas: 4 cartelas com 9 números escolhidos;\n\nEduardo: 2 cartelas com 10 números escolhidos.",
-    "files": [
-        "https://enem.dev/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Os dois apostadores com maiores probabilidades de serem premiados são",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Caio e Eduardo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Arthur e Eduardo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Bruno e Caio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Arthur e Bruno.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Douglas e Eduardo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:169",
+  "variantKey": "169",
+  "title": "Questão 169 - ENEM 2013",
+  "index": 169,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png)\n\nCinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:\n\nArthur: 250 cartelas com 6 números escolhidos;\n\nBruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;\n\nCaio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;\n\nDouglas: 4 cartelas com 9 números escolhidos;\n\nEduardo: 2 cartelas com 10 números escolhidos.",
+  "alternativesIntroductionMarkdown": "Os dois apostadores com maiores probabilidades de serem premiados são",
+  "assets": [
+    {
+      "id": "2013:169:asset:0",
+      "path": "/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2013:169:A",
+      "letter": "A",
+      "textMarkdown": "Caio e Eduardo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:169:B",
+      "letter": "B",
+      "textMarkdown": "Arthur e Eduardo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:169:C",
+      "letter": "C",
+      "textMarkdown": "Bruno e Caio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:169:D",
+      "letter": "D",
+      "textMarkdown": "Arthur e Bruno.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:169:E",
+      "letter": "E",
+      "textMarkdown": "Douglas e Eduardo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

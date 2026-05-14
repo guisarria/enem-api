@@ -1,43 +1,50 @@
 {
-    "title": "Questão 70 - ENEM 2015",
-    "index": 70,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, _D_, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica _kd_ (do estilingue mais “duro”) é o dobro da constante elástica _Km_ (do estilingue mais “mole”).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A razão entre os alcances Dd  / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1 / 4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "1 / 2.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "2.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "4.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:70",
+  "variantKey": "70",
+  "title": "Questão 70 - ENEM 2015",
+  "index": 70,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, _D_, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica _kd_ (do estilingue mais “duro”) é o dobro da constante elástica _Km_ (do estilingue mais “mole”).",
+  "alternativesIntroductionMarkdown": "A razão entre os alcances Dd  / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:70:A",
+      "letter": "A",
+      "textMarkdown": "1 / 4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:70:B",
+      "letter": "B",
+      "textMarkdown": "1 / 2.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:70:C",
+      "letter": "C",
+      "textMarkdown": "1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:70:D",
+      "letter": "D",
+      "textMarkdown": "2.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:70:E",
+      "letter": "E",
+      "textMarkdown": "4.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 84 - ENEM 2016",
-    "index": 84,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:84",
+  "variantKey": "84",
+  "title": "Questão 84 - ENEM 2016",
+  "index": 84,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:84:A",
+      "letter": "A",
+      "textMarkdown": "Mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:84:B",
+      "letter": "B",
+      "textMarkdown": "Mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:84:C",
+      "letter": "C",
+      "textMarkdown": "Mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:84:D",
+      "letter": "D",
+      "textMarkdown": "Mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:84:E",
+      "letter": "E",
+      "textMarkdown": "Com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

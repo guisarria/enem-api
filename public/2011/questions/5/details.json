@@ -1,43 +1,50 @@
 {
-    "title": "Questão 5 - ENEM 2011",
-    "index": 5,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.\n\nSANTOS, M. **A Urbanização Brasileira**. São Paulo: EdUSP, 2005 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Industrialização voltada para o setor de base.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Economia da borracha no sul da Amazônia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Fronteira agropecuária que degradou parte do cerrado.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Exploração mineral na Chapada dos Guimarães.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Extrativismo na região pantaneira.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:5",
+  "variantKey": "5",
+  "title": "Questão 5 - ENEM 2011",
+  "index": 5,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.\n\nSANTOS, M. **A Urbanização Brasileira**. São Paulo: EdUSP, 2005 (adaptado).",
+  "alternativesIntroductionMarkdown": "O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2011:5:A",
+      "letter": "A",
+      "textMarkdown": "Industrialização voltada para o setor de base.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:5:B",
+      "letter": "B",
+      "textMarkdown": "Economia da borracha no sul da Amazônia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:5:C",
+      "letter": "C",
+      "textMarkdown": "Fronteira agropecuária que degradou parte do cerrado.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:5:D",
+      "letter": "D",
+      "textMarkdown": "Exploração mineral na Chapada dos Guimarães.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:5:E",
+      "letter": "E",
+      "textMarkdown": "Extrativismo na região pantaneira.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

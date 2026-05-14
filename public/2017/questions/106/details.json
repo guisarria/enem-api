@@ -1,43 +1,50 @@
 {
-    "title": "Questão 106 - ENEM 2017",
-    "index": 106,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência,  \nfoi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A explicação científica que justifica essa prática se baseia na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Volatilização das substâncias de interesse.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Polimerização dos óleos catalisada pela radiação solar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Solubilização das substâncias de interesse pelo orvalho.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Oxidação do óleo pelo oxigênio produzido na fotossíntese.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Liberação das moléculas de óleo durante o processo de fotossíntese.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:106",
+  "variantKey": "106",
+  "title": "Questão 106 - ENEM 2017",
+  "index": 106,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência,  \nfoi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais.",
+  "alternativesIntroductionMarkdown": "A explicação científica que justifica essa prática se baseia na",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2017:106:A",
+      "letter": "A",
+      "textMarkdown": "Volatilização das substâncias de interesse.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:106:B",
+      "letter": "B",
+      "textMarkdown": "Polimerização dos óleos catalisada pela radiação solar.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:106:C",
+      "letter": "C",
+      "textMarkdown": "Solubilização das substâncias de interesse pelo orvalho.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:106:D",
+      "letter": "D",
+      "textMarkdown": "Oxidação do óleo pelo oxigênio produzido na fotossíntese.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:106:E",
+      "letter": "E",
+      "textMarkdown": "Liberação das moléculas de óleo durante o processo de fotossíntese.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

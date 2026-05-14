@@ -1,43 +1,50 @@
 {
-    "title": "Questão 98 - ENEM 2018",
-    "index": 98,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, com o objetivo de proporcionar o deslocamento de animais, a dispersão de sementes e o aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para o suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações.\n\nDisponível em: www.mma.gov.br. Acesso em: 30 nov. 2017 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Nessa estratégia, a recuperação da biodiversidade é efetiva porque",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Propicia o fluxo gênico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Intensifica o manejo de espécies.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Amplia o processo de ocupação humana.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aumenta o número de indivíduos nas populações.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Favorece a formação de ilhas de proteção integral.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:98",
+  "variantKey": "98",
+  "title": "Questão 98 - ENEM 2018",
+  "index": 98,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, com o objetivo de proporcionar o deslocamento de animais, a dispersão de sementes e o aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para o suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações.\n\nDisponível em: www.mma.gov.br. Acesso em: 30 nov. 2017 (adaptado).",
+  "alternativesIntroductionMarkdown": "Nessa estratégia, a recuperação da biodiversidade é efetiva porque",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2018:98:A",
+      "letter": "A",
+      "textMarkdown": "Propicia o fluxo gênico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:98:B",
+      "letter": "B",
+      "textMarkdown": "Intensifica o manejo de espécies.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:98:C",
+      "letter": "C",
+      "textMarkdown": "Amplia o processo de ocupação humana.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:98:D",
+      "letter": "D",
+      "textMarkdown": "Aumenta o número de indivíduos nas populações.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:98:E",
+      "letter": "E",
+      "textMarkdown": "Favorece a formação de ilhas de proteção integral.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

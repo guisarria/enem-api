@@ -1,45 +1,58 @@
 {
-    "title": "Questão 85 - ENEM 2021",
-    "index": 85,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png)",
-    "files": [
-        "https://enem.dev/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência escrava apresentada?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Criação de relações de trabalho.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Fundação de territórios quilombolas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Suavização da aplicação de normas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Regularização das funções da remuneradas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Constituição de economia de subsistência.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:85",
+  "variantKey": "85",
+  "title": "Questão 85 - ENEM 2021",
+  "index": 85,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png)",
+  "alternativesIntroductionMarkdown": "No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência escrava apresentada?",
+  "assets": [
+    {
+      "id": "2021:85:asset:0",
+      "path": "/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:85:A",
+      "letter": "A",
+      "textMarkdown": "Criação de relações de trabalho.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:85:B",
+      "letter": "B",
+      "textMarkdown": "Fundação de territórios quilombolas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:85:C",
+      "letter": "C",
+      "textMarkdown": "Suavização da aplicação de normas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:85:D",
+      "letter": "D",
+      "textMarkdown": "Regularização das funções da remuneradas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:85:E",
+      "letter": "E",
+      "textMarkdown": "Constituição de economia de subsistência.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

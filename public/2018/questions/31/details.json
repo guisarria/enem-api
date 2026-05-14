@@ -1,43 +1,50 @@
 {
-    "title": "Questão 31 - ENEM 2018",
-    "index": 31,
-    "year": 2018,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "A história do futebol é uma triste viagem do prazer ao dever. \\[…\\] O jogo se transformou em espetáculo, com poucos protagonistas e muitos espectadores, futebol para olhar, e o espetáculo se transformou num dos negócios mais lucrativos do mundo, que não é organizado para ser jogado, mas para impedir que se jogue. A tecnocracia do esporte profissional foi impondo um futebol de pura velocidade e muita força, que renuncia ã alegria, atrofia a fantasia e proíbe a ousadia. Por sorte ainda aparece nos campos, \\[…\\] algum atrevido que sai do roteiro e comete o disparate de driblar o time adversário inteirinho, além do juiz e do público das arquibancadas, pelo puro prazer do corpo que se lança na proibida aventura da liberdade.\n\nGALEANO, E. **Futebol ao sol e à sombra**. Porto Alegre: L&PM Pockets, 1995 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O texto indica que as mudanças nas práticas corporais, especificamente no futebol,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:31",
+  "variantKey": "31",
+  "title": "Questão 31 - ENEM 2018",
+  "index": 31,
+  "year": 2018,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "A história do futebol é uma triste viagem do prazer ao dever. […] O jogo se transformou em espetáculo, com poucos protagonistas e muitos espectadores, futebol para olhar, e o espetáculo se transformou num dos negócios mais lucrativos do mundo, que não é organizado para ser jogado, mas para impedir que se jogue. A tecnocracia do esporte profissional foi impondo um futebol de pura velocidade e muita força, que renuncia ã alegria, atrofia a fantasia e proíbe a ousadia. Por sorte ainda aparece nos campos, […] algum atrevido que sai do roteiro e comete o disparate de driblar o time adversário inteirinho, além do juiz e do público das arquibancadas, pelo puro prazer do corpo que se lança na proibida aventura da liberdade.\n\nGALEANO, E. **Futebol ao sol e à sombra**. Porto Alegre: L&PM Pockets, 1995 (adaptado).",
+  "alternativesIntroductionMarkdown": "O texto indica que as mudanças nas práticas corporais, especificamente no futebol,",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2018:31:A",
+      "letter": "A",
+      "textMarkdown": "Fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:31:B",
+      "letter": "B",
+      "textMarkdown": "Promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:31:C",
+      "letter": "C",
+      "textMarkdown": "Incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:31:D",
+      "letter": "D",
+      "textMarkdown": "Tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:31:E",
+      "letter": "E",
+      "textMarkdown": "Contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

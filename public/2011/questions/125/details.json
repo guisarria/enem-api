@@ -1,43 +1,50 @@
 {
-    "title": "Questão 125 - ENEM 2011",
-    "index": 125,
-    "year": 2011,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Entre ideia e tecnologia**\n\nO grande conceito por trás do Museu da Língua é apresentar o idioma como algo vivo e fundamental para o entendimento do que é ser brasileiro. Se nada nos define com clareza, a forma como falamos o português nas mais diversas situações cotidianas é talvez a melhor expressão da brasilidade.\n\nSCARDOVELI, E. **Revista Língua Portuguesa**. São Paulo: Segmento, Ano II, n° 6, 2006.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O texto propõe uma reflexão acerca da língua portuguesa, ressaltando para o leitor a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Inauguração do museu e o grande investimento em cultura no país.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Importância da língua para a construção da identidade nacional.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Afetividade tão comum ao brasileiro, retratada através da língua.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Relação entre o idioma e as políticas públicas na área de cultura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Diversidade étnica e linguística existente no território nacional.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:125",
+  "variantKey": "125",
+  "title": "Questão 125 - ENEM 2011",
+  "index": 125,
+  "year": 2011,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Entre ideia e tecnologia**\n\nO grande conceito por trás do Museu da Língua é apresentar o idioma como algo vivo e fundamental para o entendimento do que é ser brasileiro. Se nada nos define com clareza, a forma como falamos o português nas mais diversas situações cotidianas é talvez a melhor expressão da brasilidade.\n\nSCARDOVELI, E. **Revista Língua Portuguesa**. São Paulo: Segmento, Ano II, n° 6, 2006.",
+  "alternativesIntroductionMarkdown": "O texto propõe uma reflexão acerca da língua portuguesa, ressaltando para o leitor a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2011:125:A",
+      "letter": "A",
+      "textMarkdown": "Inauguração do museu e o grande investimento em cultura no país.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:125:B",
+      "letter": "B",
+      "textMarkdown": "Importância da língua para a construção da identidade nacional.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:125:C",
+      "letter": "C",
+      "textMarkdown": "Afetividade tão comum ao brasileiro, retratada através da língua.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:125:D",
+      "letter": "D",
+      "textMarkdown": "Relação entre o idioma e as políticas públicas na área de cultura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:125:E",
+      "letter": "E",
+      "textMarkdown": "Diversidade étnica e linguística existente no território nacional.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

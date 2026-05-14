@@ -1,45 +1,58 @@
 {
-    "title": "Questão 3 - ENEM 2016",
-    "index": 3,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2016/questions/3/812288c1-3e37-4369-914a-057525abd52e.png)\n\nOs moradores de Andalsnes, na Noruega, poderiam se dar ao luxo de morar perto do trabalho nos dias úteis e de se refugiar na calmaria do bosque aos fins de semana. E sem sair da mesma casa. Bastaria achar uma vaga para estacionar o imóvel antes de curtir o novo endereço.\n\nDisponível em: http://casavogue.globo.com. Acesso em 3 out 2015 (adaptado)",
-    "files": [
-        "https://enem.dev/2016/questions/3/812288c1-3e37-4369-914a-057525abd52e.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Uma vez implementada, essa proposta afetaria a dinâmica do espaço urbano por reduzir a intensidade do seguinte processo:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Êxodo rural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Movimento pendular.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Migração de retorno.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Deslocamento sazonal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ocupação de áreas centrais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:3",
+  "variantKey": "3",
+  "title": "Questão 3 - ENEM 2016",
+  "index": 3,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/3/812288c1-3e37-4369-914a-057525abd52e.png)\n\nOs moradores de Andalsnes, na Noruega, poderiam se dar ao luxo de morar perto do trabalho nos dias úteis e de se refugiar na calmaria do bosque aos fins de semana. E sem sair da mesma casa. Bastaria achar uma vaga para estacionar o imóvel antes de curtir o novo endereço.\n\nDisponível em: http://casavogue.globo.com. Acesso em 3 out 2015 (adaptado)",
+  "alternativesIntroductionMarkdown": "Uma vez implementada, essa proposta afetaria a dinâmica do espaço urbano por reduzir a intensidade do seguinte processo:",
+  "assets": [
+    {
+      "id": "2016:3:asset:0",
+      "path": "/2016/questions/3/812288c1-3e37-4369-914a-057525abd52e.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2016:3:A",
+      "letter": "A",
+      "textMarkdown": "Êxodo rural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:3:B",
+      "letter": "B",
+      "textMarkdown": "Movimento pendular.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:3:C",
+      "letter": "C",
+      "textMarkdown": "Migração de retorno.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:3:D",
+      "letter": "D",
+      "textMarkdown": "Deslocamento sazonal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:3:E",
+      "letter": "E",
+      "textMarkdown": "Ocupação de áreas centrais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

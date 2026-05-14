@@ -1,43 +1,50 @@
 {
-    "title": "Questão 160 - ENEM 2019",
-    "index": 160,
-    "year": 2019,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 m.  \nNo último treino antes da estreia em um campeonato, um dos jogadores desfalcou o time em razão de uma séria contusão, forçando o técnico a contratar outro jogador para recompor o grupo.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Se o novo jogador é 0,20 m mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1,60.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "1,78.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "1,79.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "1,81.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "1,82.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:160",
+  "variantKey": "160",
+  "title": "Questão 160 - ENEM 2019",
+  "index": 160,
+  "year": 2019,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 m.  \nNo último treino antes da estreia em um campeonato, um dos jogadores desfalcou o time em razão de uma séria contusão, forçando o técnico a contratar outro jogador para recompor o grupo.",
+  "alternativesIntroductionMarkdown": "Se o novo jogador é 0,20 m mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:160:A",
+      "letter": "A",
+      "textMarkdown": "1,60.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:160:B",
+      "letter": "B",
+      "textMarkdown": "1,78.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:160:C",
+      "letter": "C",
+      "textMarkdown": "1,79.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:160:D",
+      "letter": "D",
+      "textMarkdown": "1,81.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:160:E",
+      "letter": "E",
+      "textMarkdown": "1,82.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

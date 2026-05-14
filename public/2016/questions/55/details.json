@@ -1,46 +1,65 @@
 {
-    "title": "Questão 55 - ENEM 2016",
-    "index": 55,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png)\n\n![](https://enem.dev/2016/questions/55/5a400051-2ebf-4e92-a991-642277965dc2.png)",
-    "files": [
-        "https://enem.dev/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png",
-        "https://enem.dev/2016/questions/55/5a400051-2ebf-4e92-a991-642277965dc2.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aumenta na faixa das frequências médias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Diminui na faixa das frequências agudas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diminui na faixa das frequências graves.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Aumenta na faixa das frequências médias altas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aumenta na faixa das frequências médias baixas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:55",
+  "variantKey": "55",
+  "title": "Questão 55 - ENEM 2016",
+  "index": 55,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png)\n\n![](/2016/questions/55/5a400051-2ebf-4e92-a991-642277965dc2.png)",
+  "alternativesIntroductionMarkdown": "Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?",
+  "assets": [
+    {
+      "id": "2016:55:asset:0",
+      "path": "/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2016:55:asset:1",
+      "path": "/2016/questions/55/5a400051-2ebf-4e92-a991-642277965dc2.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:55:A",
+      "letter": "A",
+      "textMarkdown": "Aumenta na faixa das frequências médias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:55:B",
+      "letter": "B",
+      "textMarkdown": "Diminui na faixa das frequências agudas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:55:C",
+      "letter": "C",
+      "textMarkdown": "Diminui na faixa das frequências graves.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:55:D",
+      "letter": "D",
+      "textMarkdown": "Aumenta na faixa das frequências médias altas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:55:E",
+      "letter": "E",
+      "textMarkdown": "Aumenta na faixa das frequências médias baixas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 30 - ENEM 2017",
-    "index": 30,
-    "year": 2017,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Contranarciso**  \nem mim  \neu vejo o outro  \ne outro  \ne outro\n\nenfim dezenas  \ntrens passando  \nvagões cheios de gente  \ncentenas  \no outro  \nque há em mim  \né você  \nvocê  \ne você  \nassim como  \neu estou em você  \neu estou nele  \nem nós  \ne só quando  \nestamos em nós  \nestamos em paz  \nmesmo que estejamos a sós\n\nLeminsky P. Toda poesia. São Paulo: Cia. das Letras, 2013.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A busca pela identidade constitui uma faceta da tradição literária, redimensionada pelo olhar contemporâneo. No poema, essa nova dimensão revela a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ausência de traços identitários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Angústia com a solidão em público.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Valorização da descoberta do “eu” autêntico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Percepção da empatia como fator de autoconhecimento.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Impossibilidade de vivenciar experiências de pertencimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:30",
+  "variantKey": "30",
+  "title": "Questão 30 - ENEM 2017",
+  "index": 30,
+  "year": 2017,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Contranarciso**  \nem mim  \neu vejo o outro  \ne outro  \ne outro\n\nenfim dezenas  \ntrens passando  \nvagões cheios de gente  \ncentenas  \no outro  \nque há em mim  \né você  \nvocê  \ne você  \nassim como  \neu estou em você  \neu estou nele  \nem nós  \ne só quando  \nestamos em nós  \nestamos em paz  \nmesmo que estejamos a sós\n\nLeminsky P. Toda poesia. São Paulo: Cia. das Letras, 2013.",
+  "alternativesIntroductionMarkdown": "A busca pela identidade constitui uma faceta da tradição literária, redimensionada pelo olhar contemporâneo. No poema, essa nova dimensão revela a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2017:30:A",
+      "letter": "A",
+      "textMarkdown": "Ausência de traços identitários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:30:B",
+      "letter": "B",
+      "textMarkdown": "Angústia com a solidão em público.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:30:C",
+      "letter": "C",
+      "textMarkdown": "Valorização da descoberta do “eu” autêntico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:30:D",
+      "letter": "D",
+      "textMarkdown": "Percepção da empatia como fator de autoconhecimento.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:30:E",
+      "letter": "E",
+      "textMarkdown": "Impossibilidade de vivenciar experiências de pertencimento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

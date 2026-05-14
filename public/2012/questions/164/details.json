@@ -1,43 +1,50 @@
 {
-    "title": "Questão 164 - ENEM 2012",
-    "index": 164,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "12 kg.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "16 kg.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "24 kg.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "36 kg.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "75 kg.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:164",
+  "variantKey": "164",
+  "title": "Questão 164 - ENEM 2012",
+  "index": 164,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas.",
+  "alternativesIntroductionMarkdown": "Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2012:164:A",
+      "letter": "A",
+      "textMarkdown": "12 kg.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:164:B",
+      "letter": "B",
+      "textMarkdown": "16 kg.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:164:C",
+      "letter": "C",
+      "textMarkdown": "24 kg.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:164:D",
+      "letter": "D",
+      "textMarkdown": "36 kg.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:164:E",
+      "letter": "E",
+      "textMarkdown": "75 kg.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

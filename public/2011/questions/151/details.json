@@ -1,45 +1,58 @@
 {
-    "title": "Questão 151 - ENEM 2011",
-    "index": 151,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png)",
-    "files": [
-        "https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "45°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "60°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "90°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "120°.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "180°.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:151",
+  "variantKey": "151",
+  "title": "Questão 151 - ENEM 2011",
+  "index": 151,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png)",
+  "alternativesIntroductionMarkdown": "O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de",
+  "assets": [
+    {
+      "id": "2011:151:asset:0",
+      "path": "/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2011:151:A",
+      "letter": "A",
+      "textMarkdown": "45°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:151:B",
+      "letter": "B",
+      "textMarkdown": "60°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:151:C",
+      "letter": "C",
+      "textMarkdown": "90°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:151:D",
+      "letter": "D",
+      "textMarkdown": "120°.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:151:E",
+      "letter": "E",
+      "textMarkdown": "180°.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

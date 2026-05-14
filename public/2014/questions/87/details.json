@@ -1,43 +1,50 @@
 {
-    "title": "Questão 87 - ENEM 2014",
-    "index": 87,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.\n\nO ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identificar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.\n\nLENT, R. **O cérebro do meu professor de acordeão**. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Frequência.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Intensidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Forma de onda.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Amplitude de onda.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Velocidade de propagação.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:87",
+  "variantKey": "87",
+  "title": "Questão 87 - ENEM 2014",
+  "index": 87,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.\n\nO ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identificar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.\n\nLENT, R. **O cérebro do meu professor de acordeão**. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "No contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2014:87:A",
+      "letter": "A",
+      "textMarkdown": "Frequência.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:87:B",
+      "letter": "B",
+      "textMarkdown": "Intensidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:87:C",
+      "letter": "C",
+      "textMarkdown": "Forma de onda.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:87:D",
+      "letter": "D",
+      "textMarkdown": "Amplitude de onda.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:87:E",
+      "letter": "E",
+      "textMarkdown": "Velocidade de propagação.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

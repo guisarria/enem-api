@@ -1,43 +1,50 @@
 {
-    "title": "Questão 14 - ENEM 2015",
-    "index": 14,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.\n\nHOLANDA, S. B. **Raízes do Brasil**. São Paulo: Cia das Letras, 1995.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Um traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Rigidez das normas jurídicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Prevalência dos interesses privados.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Solidez da organização institucional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Legitimidade das ações burocráticas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Estabilidade das estruturas políticas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:14",
+  "variantKey": "14",
+  "title": "Questão 14 - ENEM 2015",
+  "index": 14,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.\n\nHOLANDA, S. B. **Raízes do Brasil**. São Paulo: Cia das Letras, 1995.",
+  "alternativesIntroductionMarkdown": "Um traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:14:A",
+      "letter": "A",
+      "textMarkdown": "Rigidez das normas jurídicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:14:B",
+      "letter": "B",
+      "textMarkdown": "Prevalência dos interesses privados.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:14:C",
+      "letter": "C",
+      "textMarkdown": "Solidez da organização institucional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:14:D",
+      "letter": "D",
+      "textMarkdown": "Legitimidade das ações burocráticas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:14:E",
+      "letter": "E",
+      "textMarkdown": "Estabilidade das estruturas políticas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

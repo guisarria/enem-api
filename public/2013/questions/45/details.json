@@ -1,43 +1,50 @@
 {
-    "title": "Questão 45 - ENEM 2013",
-    "index": 45,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Tenho 44 anos e presenciei uma transformação impressionante na condição de homens e mulheres _gays_ nos Estados Unidos. Quando nasci, relações homossexuais eram ilegais em todos os Estados Unidos, menos Illinois. _Gays_ e lésbicas não podiam trabalhar no governo federal. Não havia nenhum político abertamente _gay_. Alguns homossexuais não assumidos ocupavam posições de poder, mas a tendência era eles tormarem as coisas ainda piores para seus semelhantes.\n\nROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A dimensão política da transformação sugerida no texto teve como condição necessária a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ampliação da noção de cidadania.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Reformulação de concepções religiosas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Manutenção de ideologias conservadoras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Implantação de cotas nas listas partidárias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Alteração da composição étnica da população.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:45",
+  "variantKey": "45",
+  "title": "Questão 45 - ENEM 2013",
+  "index": 45,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Tenho 44 anos e presenciei uma transformação impressionante na condição de homens e mulheres _gays_ nos Estados Unidos. Quando nasci, relações homossexuais eram ilegais em todos os Estados Unidos, menos Illinois. _Gays_ e lésbicas não podiam trabalhar no governo federal. Não havia nenhum político abertamente _gay_. Alguns homossexuais não assumidos ocupavam posições de poder, mas a tendência era eles tormarem as coisas ainda piores para seus semelhantes.\n\nROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.",
+  "alternativesIntroductionMarkdown": "A dimensão política da transformação sugerida no texto teve como condição necessária a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2013:45:A",
+      "letter": "A",
+      "textMarkdown": "Ampliação da noção de cidadania.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:45:B",
+      "letter": "B",
+      "textMarkdown": "Reformulação de concepções religiosas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:45:C",
+      "letter": "C",
+      "textMarkdown": "Manutenção de ideologias conservadoras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:45:D",
+      "letter": "D",
+      "textMarkdown": "Implantação de cotas nas listas partidárias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:45:E",
+      "letter": "E",
+      "textMarkdown": "Alteração da composição étnica da população.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

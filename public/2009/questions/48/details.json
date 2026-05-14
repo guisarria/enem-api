@@ -1,43 +1,50 @@
 {
-    "title": "Questão 48 - ENEM 2009",
-    "index": 48,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Hoje em dia, nas grandes cidades, enterrar os mortos é uma prática quase íntima, que diz respeito apenas à família. A menos, é claro, que se trate de uma personalidade conhecida. Entretanto, isso nem sempre foi assim. Para um historiador, os sepultamentos são uma fonte de informações importantes para que se compreenda, por exemplo, a vida política das sociedades.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "No que se refere às práticas sociais ligadas aos sepultamentos,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Na Grécia Antiga, as cerimônias fúnebres eram desvalorizadas, porque o mais importante era a democracia experimentada pelos vivos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Na Idade Média, a Igreja tinha pouca influência sobre os rituais fúnebres, preocupando-se mais com a salvação da alma.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "No Brasil colônia, o sepultamento dos mortos nas igrejas era regido pela observância da hierarquia social.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Na época da Reforma, o catolicismo condenou os excessos de gastos que a burguesia fazia para sepultar seus mortos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "No período posterior à Revolução Francesa, devido as grandes perturbações sociais, abandona-se a prática do luto.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:48",
+  "variantKey": "48",
+  "title": "Questão 48 - ENEM 2009",
+  "index": 48,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Hoje em dia, nas grandes cidades, enterrar os mortos é uma prática quase íntima, que diz respeito apenas à família. A menos, é claro, que se trate de uma personalidade conhecida. Entretanto, isso nem sempre foi assim. Para um historiador, os sepultamentos são uma fonte de informações importantes para que se compreenda, por exemplo, a vida política das sociedades.",
+  "alternativesIntroductionMarkdown": "No que se refere às práticas sociais ligadas aos sepultamentos,",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2009:48:A",
+      "letter": "A",
+      "textMarkdown": "Na Grécia Antiga, as cerimônias fúnebres eram desvalorizadas, porque o mais importante era a democracia experimentada pelos vivos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:48:B",
+      "letter": "B",
+      "textMarkdown": "Na Idade Média, a Igreja tinha pouca influência sobre os rituais fúnebres, preocupando-se mais com a salvação da alma.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:48:C",
+      "letter": "C",
+      "textMarkdown": "No Brasil colônia, o sepultamento dos mortos nas igrejas era regido pela observância da hierarquia social.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:48:D",
+      "letter": "D",
+      "textMarkdown": "Na época da Reforma, o catolicismo condenou os excessos de gastos que a burguesia fazia para sepultar seus mortos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:48:E",
+      "letter": "E",
+      "textMarkdown": "No período posterior à Revolução Francesa, devido as grandes perturbações sociais, abandona-se a prática do luto.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

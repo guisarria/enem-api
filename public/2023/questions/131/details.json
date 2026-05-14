@@ -1,43 +1,50 @@
 {
-    "title": "Questão 131 - ENEM 2023",
-    "index": 131,
-    "year": 2023,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.\n\nCAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO2 em refrigerantes. **Química Nova na Escola**, n. 3, ago. 2014 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Entre as duas versões apresentadas, o refrigerante comum possui",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Maior densidade.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Menor viscosidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Maior volume de gás dissolvido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Menor massa de solutos dissolvidos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Maior temperatura de congelamento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:131",
+  "variantKey": "131",
+  "title": "Questão 131 - ENEM 2023",
+  "index": 131,
+  "year": 2023,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.\n\nCAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO2 em refrigerantes. **Química Nova na Escola**, n. 3, ago. 2014 (adaptado).",
+  "alternativesIntroductionMarkdown": "Entre as duas versões apresentadas, o refrigerante comum possui",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:131:A",
+      "letter": "A",
+      "textMarkdown": "Maior densidade.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:131:B",
+      "letter": "B",
+      "textMarkdown": "Menor viscosidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:131:C",
+      "letter": "C",
+      "textMarkdown": "Maior volume de gás dissolvido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:131:D",
+      "letter": "D",
+      "textMarkdown": "Menor massa de solutos dissolvidos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:131:E",
+      "letter": "E",
+      "textMarkdown": "Maior temperatura de congelamento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

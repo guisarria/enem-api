@@ -1,43 +1,50 @@
 {
-    "title": "Questão 92 - ENEM 2022",
-    "index": 92,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças  \ntropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Uma medida profilática comum a essas duas doenças é o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Incineração do lixo orgânico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Construção de rede de esgoto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Uso de vermífugo pela população.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Controle das populações dos vetores.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Consumo de carnes vermelhas bem cozidas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:92",
+  "variantKey": "92",
+  "title": "Questão 92 - ENEM 2022",
+  "index": 92,
+  "year": 2022,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças  \ntropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
+  "alternativesIntroductionMarkdown": "Uma medida profilática comum a essas duas doenças é o(a)",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2022:92:A",
+      "letter": "A",
+      "textMarkdown": "Incineração do lixo orgânico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:92:B",
+      "letter": "B",
+      "textMarkdown": "Construção de rede de esgoto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:92:C",
+      "letter": "C",
+      "textMarkdown": "Uso de vermífugo pela população.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:92:D",
+      "letter": "D",
+      "textMarkdown": "Controle das populações dos vetores.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:92:E",
+      "letter": "E",
+      "textMarkdown": "Consumo de carnes vermelhas bem cozidas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

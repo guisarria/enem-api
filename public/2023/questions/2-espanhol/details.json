@@ -1,43 +1,50 @@
 {
-    "title": "Questão 2 - ENEM 2023",
-    "index": 2,
-    "year": 2023,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Me niego rotundamente\nA negar mi voz,\nMi sangre y mi piel.\nY me niego rotundamente\nA dejar de ser yo,\nA dejar de sentirme bien\nCuando miro mi rostro en el es\nCon mi boca\nRotundamente grande\nY mi nariz\nRotundamente hermosa,\nY mis dientes\nRotundamente blancos,\nY mi piel valientemente negra.\nY me niego categóricamente\nA dejar de hablar\nMi lengua, mi acento y mi historia\nY me niego absolutamente\nA ser parte de los que callan,\nDe los que temen,\nDe los que lloran\nPorque me acepto\nRotundamente libre,\nRotundamente negra,\nRotundamente hermosa.\nCAMPELL BARR, S. Disponível em:\nhttps.negracubanateniaqueser.com\nAcesso em 25 out. 2021.\nPara enfatizar caracteristicas e atitudes que reforçam a identidade da mulher negra, o poema da escritora costarriquenha apresenta:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Advérbios como \"rotundamente\" e \"categóricamente\".",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Verbos reflexivos como \"me niego\" e \"me acepto\".",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Adjetivos como \"grande\" e \"hermosa\".",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Substantivos como \"sangre\" e \"piel\".",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Adjetivos possessivos como \"mi\" e \"mis\".",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:2-espanhol",
+  "variantKey": "2-espanhol",
+  "title": "Questão 2 - ENEM 2023",
+  "index": 2,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Me niego rotundamente\nA negar mi voz,\nMi sangre y mi piel.\nY me niego rotundamente\nA dejar de ser yo,\nA dejar de sentirme bien\nCuando miro mi rostro en el es\nCon mi boca\nRotundamente grande\nY mi nariz\nRotundamente hermosa,\nY mis dientes\nRotundamente blancos,\nY mi piel valientemente negra.\nY me niego categóricamente\nA dejar de hablar\nMi lengua, mi acento y mi historia\nY me niego absolutamente\nA ser parte de los que callan,\nDe los que temen,\nDe los que lloran\nPorque me acepto\nRotundamente libre,\nRotundamente negra,\nRotundamente hermosa.\nCAMPELL BARR, S. Disponível em:\nhttps.negracubanateniaqueser.com\nAcesso em 25 out. 2021.\nPara enfatizar caracteristicas e atitudes que reforçam a identidade da mulher negra, o poema da escritora costarriquenha apresenta:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:2-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Advérbios como \"rotundamente\" e \"categóricamente\".",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:2-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Verbos reflexivos como \"me niego\" e \"me acepto\".",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Adjetivos como \"grande\" e \"hermosa\".",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Substantivos como \"sangre\" e \"piel\".",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:2-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Adjetivos possessivos como \"mi\" e \"mis\".",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

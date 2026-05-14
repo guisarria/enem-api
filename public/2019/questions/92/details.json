@@ -1,43 +1,50 @@
 {
-    "title": "Questão 92 - ENEM 2019",
-    "index": 92,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "As redes de alta tensão para transmissão de energia elétrica geram campo magnético variável o suficiente para induzir corrente elétrica no arame das cercas. Tanto os animais quanto os funcionários das propriedades rurais ou das concessionárias de energia devem ter muito cuidado ao se aproximarem de uma cerca quando esta estiver próxima a uma rede de alta tensão, pois, se tocarem no arame da cerca, poderão sofrer choque elétrico.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Para minimizar este tipo de problema, deve-se:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fazer o aterramento dos arames da cerca.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Acrescentar fusível de segurança na cerca.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Realizar o aterramento da rede de alta tensão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Instalar fusível de segurança na rede de alta tensão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Utilizar fios encapados com isolante na rede de alta tensão.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:92",
+  "variantKey": "92",
+  "title": "Questão 92 - ENEM 2019",
+  "index": 92,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "As redes de alta tensão para transmissão de energia elétrica geram campo magnético variável o suficiente para induzir corrente elétrica no arame das cercas. Tanto os animais quanto os funcionários das propriedades rurais ou das concessionárias de energia devem ter muito cuidado ao se aproximarem de uma cerca quando esta estiver próxima a uma rede de alta tensão, pois, se tocarem no arame da cerca, poderão sofrer choque elétrico.",
+  "alternativesIntroductionMarkdown": "Para minimizar este tipo de problema, deve-se:",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:92:A",
+      "letter": "A",
+      "textMarkdown": "Fazer o aterramento dos arames da cerca.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:92:B",
+      "letter": "B",
+      "textMarkdown": "Acrescentar fusível de segurança na cerca.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:92:C",
+      "letter": "C",
+      "textMarkdown": "Realizar o aterramento da rede de alta tensão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:92:D",
+      "letter": "D",
+      "textMarkdown": "Instalar fusível de segurança na rede de alta tensão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:92:E",
+      "letter": "E",
+      "textMarkdown": "Utilizar fios encapados com isolante na rede de alta tensão.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

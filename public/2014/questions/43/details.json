@@ -1,43 +1,50 @@
 {
-    "title": "Questão 43 - ENEM 2014",
-    "index": 43,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.\n\nNOVAIS, F. A.; ALENCASTRO, L F. (Orq.). **História da vida privada no Brasil**. São Paulo: Cia, das Letras, 1997.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Os fatos apresentados se relacionam ao processo de independência da América portuguesa por terem a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Incentivado o clamor popular por liberdade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Enfraquecido o pacto de dominação metropolitana.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Motivado as revoltas escravas contra a elite colonial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Obtido o apoio do grupo constitucionalista português.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Provocado os movimentos separatistas das províncias.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:43",
+  "variantKey": "43",
+  "title": "Questão 43 - ENEM 2014",
+  "index": 43,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.\n\nNOVAIS, F. A.; ALENCASTRO, L F. (Orq.). **História da vida privada no Brasil**. São Paulo: Cia, das Letras, 1997.",
+  "alternativesIntroductionMarkdown": "Os fatos apresentados se relacionam ao processo de independência da América portuguesa por terem a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:43:A",
+      "letter": "A",
+      "textMarkdown": "Incentivado o clamor popular por liberdade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:43:B",
+      "letter": "B",
+      "textMarkdown": "Enfraquecido o pacto de dominação metropolitana.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:43:C",
+      "letter": "C",
+      "textMarkdown": "Motivado as revoltas escravas contra a elite colonial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:43:D",
+      "letter": "D",
+      "textMarkdown": "Obtido o apoio do grupo constitucionalista português.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:43:E",
+      "letter": "E",
+      "textMarkdown": "Provocado os movimentos separatistas das províncias.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

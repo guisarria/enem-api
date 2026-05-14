@@ -1,43 +1,50 @@
 {
-    "title": "Questão 33 - ENEM 2012",
-    "index": 33,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma mesma empresa pode ter sua sede administrativa onde os impostos são menores, as unidades de produção onde os salários são os mais baixos, os capitais onde os juros são os mais altos e seus executivos vivendo onde a qualidade de vida é mais elevada.\n\nSEVCENKO, N. **A corrida para o século XXI**: no loop da montanha russa. São Paulo: Companhia das Letras, 2001 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "No texto estão apresentadas estratégias empresariais no contexto da globalização. Uma consequência social derivada dessas estratégias tem sido",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O crescimento da carga tributária.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O aumento da mobilidade ocupacional.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "A redução da competitividade entre as empresas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O direcionamento das vendas para os mercados regionais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A ampliação do poder de planejamento dos Estados nacionais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:33",
+  "variantKey": "33",
+  "title": "Questão 33 - ENEM 2012",
+  "index": 33,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma mesma empresa pode ter sua sede administrativa onde os impostos são menores, as unidades de produção onde os salários são os mais baixos, os capitais onde os juros são os mais altos e seus executivos vivendo onde a qualidade de vida é mais elevada.\n\nSEVCENKO, N. **A corrida para o século XXI**: no loop da montanha russa. São Paulo: Companhia das Letras, 2001 (adaptado).",
+  "alternativesIntroductionMarkdown": "No texto estão apresentadas estratégias empresariais no contexto da globalização. Uma consequência social derivada dessas estratégias tem sido",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:33:A",
+      "letter": "A",
+      "textMarkdown": "O crescimento da carga tributária.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:33:B",
+      "letter": "B",
+      "textMarkdown": "O aumento da mobilidade ocupacional.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:33:C",
+      "letter": "C",
+      "textMarkdown": "A redução da competitividade entre as empresas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:33:D",
+      "letter": "D",
+      "textMarkdown": "O direcionamento das vendas para os mercados regionais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:33:E",
+      "letter": "E",
+      "textMarkdown": "A ampliação do poder de planejamento dos Estados nacionais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

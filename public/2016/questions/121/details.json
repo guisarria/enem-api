@@ -1,43 +1,50 @@
 {
-    "title": "Questão 121 - ENEM 2016",
-    "index": 121,
-    "year": 2016,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Antiode**  \nPoesia, não será esse  \no sentido em que  \nainda te escrevo:  \nflor! (Te escrevo:  \nflor! Não uma  \nflor, nem aquela  \nflor-Virtude – em disfarçados urinóis).  \nFlor é a palavra  \nflor; verso inscrito  \nno verso, como as  \nmanhãs no tempo.  \nFlor é o salto  \nda ave para o voo:  \no saltofora do sono  \nquando seu tecido  \nse rompe; é uma explosão  \nposta a funcionar,  \ncomo uma máquina,  \numa jarra de flores.\n\nMELO NETO, J. C. **Psicologia da composição** Rio de Janeiro Nova Fronteira, 1997 (fragmento)",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A poesia é marcada pela recriação do objeto por meio da linguagem, sem necessariamente explicá-lo. Nesse fragmento de João Cabral de Melo Neto, poeta da geração de 1945, o sujeito lírico propõe a recriação poética de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Uma palavra, a partir de imagens com as quais ela pode ser comparada, a fim de assumir novos significados.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Um urinol, em referência às artes visuais ligadas às vanguardas do início do século XX.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Uma ave, que compõe, com seus movimentos, uma imagem historicamente ligada à palavra poética.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Uma máquina, levando em consideração a relevância do discurso técnico-científico pós-Revolução Industrial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Um tecido, visto que sua composição depende de elementos intrínsecos ao eu lírico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:121",
+  "variantKey": "121",
+  "title": "Questão 121 - ENEM 2016",
+  "index": 121,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Antiode**  \nPoesia, não será esse  \no sentido em que  \nainda te escrevo:  \nflor! (Te escrevo:  \nflor! Não uma  \nflor, nem aquela  \nflor-Virtude – em disfarçados urinóis).  \nFlor é a palavra  \nflor; verso inscrito  \nno verso, como as  \nmanhãs no tempo.  \nFlor é o salto  \nda ave para o voo:  \no saltofora do sono  \nquando seu tecido  \nse rompe; é uma explosão  \nposta a funcionar,  \ncomo uma máquina,  \numa jarra de flores.\n\nMELO NETO, J. C. **Psicologia da composição** Rio de Janeiro Nova Fronteira, 1997 (fragmento)",
+  "alternativesIntroductionMarkdown": "A poesia é marcada pela recriação do objeto por meio da linguagem, sem necessariamente explicá-lo. Nesse fragmento de João Cabral de Melo Neto, poeta da geração de 1945, o sujeito lírico propõe a recriação poética de",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:121:A",
+      "letter": "A",
+      "textMarkdown": "Uma palavra, a partir de imagens com as quais ela pode ser comparada, a fim de assumir novos significados.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:121:B",
+      "letter": "B",
+      "textMarkdown": "Um urinol, em referência às artes visuais ligadas às vanguardas do início do século XX.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:121:C",
+      "letter": "C",
+      "textMarkdown": "Uma ave, que compõe, com seus movimentos, uma imagem historicamente ligada à palavra poética.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:121:D",
+      "letter": "D",
+      "textMarkdown": "Uma máquina, levando em consideração a relevância do discurso técnico-científico pós-Revolução Industrial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:121:E",
+      "letter": "E",
+      "textMarkdown": "Um tecido, visto que sua composição depende de elementos intrínsecos ao eu lírico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

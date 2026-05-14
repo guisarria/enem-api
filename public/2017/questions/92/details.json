@@ -1,43 +1,50 @@
 {
-    "title": "Questão 92 - ENEM 2017",
-    "index": 92,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Na terapêutica das doenças mencionadas, alguns desses fármacos atuam",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ativando o sistema imunológico do hospedeiro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Interferindo na cascata bioquímica da inflamação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Removendo as toxinas sintetizadas pelas bactérias",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Combatendo as células hospedeiras das bactérias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Danificando estruturas específicas da célula bacteriana.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2017:92",
+  "variantKey": "92",
+  "title": "Questão 92 - ENEM 2017",
+  "index": 92,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.",
+  "alternativesIntroductionMarkdown": "Na terapêutica das doenças mencionadas, alguns desses fármacos atuam",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2017:92:A",
+      "letter": "A",
+      "textMarkdown": "Ativando o sistema imunológico do hospedeiro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:92:B",
+      "letter": "B",
+      "textMarkdown": "Interferindo na cascata bioquímica da inflamação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:92:C",
+      "letter": "C",
+      "textMarkdown": "Removendo as toxinas sintetizadas pelas bactérias",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:92:D",
+      "letter": "D",
+      "textMarkdown": "Combatendo as células hospedeiras das bactérias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:92:E",
+      "letter": "E",
+      "textMarkdown": "Danificando estruturas específicas da célula bacteriana.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

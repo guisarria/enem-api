@@ -1,43 +1,50 @@
 {
-    "title": "Questão 133 - ENEM 2018",
-    "index": 133,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Insetos podem apresentar três tipos de desenvolvimento. Um deles, a holometabolia (desenvolvimento completo), é constituído pelas fases de ovo, larva, pupa e adulto sexualmente maduro, que ocupam diversos hábitats. Os insetos com holometabolia pertencem às ordens mais numerosas em termos de espécies conhecidas.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Esse tipo de desenvolvimento está relacionado a um maior número de espécies em razão da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Proteção na fase de pupa, favorecendo a sobrevivência de adultos férteis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Produção de muitos ovos, larvas e pupas, aumentando o número de adultos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Exploração de diferentes nichos, evitando a competição entre as fases da vida.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Ingestão de alimentos em todas as fases de vida, garantindo o surgimento do adulto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Utilização do mesmo alimento em todas as fases, otimizando a nutrição do organismo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:133",
+  "variantKey": "133",
+  "title": "Questão 133 - ENEM 2018",
+  "index": 133,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Insetos podem apresentar três tipos de desenvolvimento. Um deles, a holometabolia (desenvolvimento completo), é constituído pelas fases de ovo, larva, pupa e adulto sexualmente maduro, que ocupam diversos hábitats. Os insetos com holometabolia pertencem às ordens mais numerosas em termos de espécies conhecidas.",
+  "alternativesIntroductionMarkdown": "Esse tipo de desenvolvimento está relacionado a um maior número de espécies em razão da",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2018:133:A",
+      "letter": "A",
+      "textMarkdown": "Proteção na fase de pupa, favorecendo a sobrevivência de adultos férteis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:133:B",
+      "letter": "B",
+      "textMarkdown": "Produção de muitos ovos, larvas e pupas, aumentando o número de adultos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:133:C",
+      "letter": "C",
+      "textMarkdown": "Exploração de diferentes nichos, evitando a competição entre as fases da vida.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:133:D",
+      "letter": "D",
+      "textMarkdown": "Ingestão de alimentos em todas as fases de vida, garantindo o surgimento do adulto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:133:E",
+      "letter": "E",
+      "textMarkdown": "Utilização do mesmo alimento em todas as fases, otimizando a nutrição do organismo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

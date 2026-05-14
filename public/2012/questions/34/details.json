@@ -1,43 +1,50 @@
 {
-    "title": "Questão 34 - ENEM 2012",
-    "index": 34,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A moderna “conquista da Amazônia” inverteu o eixo geográfico da colonização da região. Desde a época colonial até meados do século XIX, as correntes principais e população movimentaram-se no sentido Leste-Oeste, estabelecendo uma ocupação linear articulada. Nas últimas décadas, os fluxos migratórios passaram a se verificar no sentido Sul-Norte, conectando o Centro-Sul à Amazônia.\n\nOLIC, N. B. Ocupação da Amazônia, uma epopeia inacabada. **Jornal Mundo**, ano 16, n. 4, ago. 2008 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O primeiro eixo geográfico de ocupação das terras amazônicas demonstra um padrão relacionado à criação de:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Núcleos urbanos em áreas litorâneas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Centros agrícolas modernos no interior.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Vias férreas entre espaços de mineração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Faixas de povoamento ao longo das estradas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Povoados interligados próximos a grandes rios.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:34",
+  "variantKey": "34",
+  "title": "Questão 34 - ENEM 2012",
+  "index": 34,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A moderna “conquista da Amazônia” inverteu o eixo geográfico da colonização da região. Desde a época colonial até meados do século XIX, as correntes principais e população movimentaram-se no sentido Leste-Oeste, estabelecendo uma ocupação linear articulada. Nas últimas décadas, os fluxos migratórios passaram a se verificar no sentido Sul-Norte, conectando o Centro-Sul à Amazônia.\n\nOLIC, N. B. Ocupação da Amazônia, uma epopeia inacabada. **Jornal Mundo**, ano 16, n. 4, ago. 2008 (adaptado).",
+  "alternativesIntroductionMarkdown": "O primeiro eixo geográfico de ocupação das terras amazônicas demonstra um padrão relacionado à criação de:",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:34:A",
+      "letter": "A",
+      "textMarkdown": "Núcleos urbanos em áreas litorâneas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:34:B",
+      "letter": "B",
+      "textMarkdown": "Centros agrícolas modernos no interior.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:34:C",
+      "letter": "C",
+      "textMarkdown": "Vias férreas entre espaços de mineração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:34:D",
+      "letter": "D",
+      "textMarkdown": "Faixas de povoamento ao longo das estradas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:34:E",
+      "letter": "E",
+      "textMarkdown": "Povoados interligados próximos a grandes rios.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

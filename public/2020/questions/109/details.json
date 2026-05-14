@@ -1,43 +1,50 @@
 {
-    "title": "Questão 109 - ENEM 2020",
-    "index": 109,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aumento da pressão interna e os riscos de explosão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Dilatação da panela e a desconexão com sua tampa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Perda da qualidade nutritiva do alimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Deformação da borracha de vedação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Consumo de gás desnecessário.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2020:109",
+  "variantKey": "109",
+  "title": "Questão 109 - ENEM 2020",
+  "index": 109,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores.",
+  "alternativesIntroductionMarkdown": "Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2020:109:A",
+      "letter": "A",
+      "textMarkdown": "Aumento da pressão interna e os riscos de explosão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:109:B",
+      "letter": "B",
+      "textMarkdown": "Dilatação da panela e a desconexão com sua tampa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:109:C",
+      "letter": "C",
+      "textMarkdown": "Perda da qualidade nutritiva do alimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:109:D",
+      "letter": "D",
+      "textMarkdown": "Deformação da borracha de vedação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:109:E",
+      "letter": "E",
+      "textMarkdown": "Consumo de gás desnecessário.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

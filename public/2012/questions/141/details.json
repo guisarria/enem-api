@@ -1,45 +1,58 @@
 {
-    "title": "Questão 141 - ENEM 2012",
-    "index": 141,
-    "year": 2012,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png)",
-    "files": [
-        "https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "2xy",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "15 − 3x",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "15 − 5y",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "−5y − 3x",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "5y + 3x − xy",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:141",
+  "variantKey": "141",
+  "title": "Questão 141 - ENEM 2012",
+  "index": 141,
+  "year": 2012,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png)",
+  "alternativesIntroductionMarkdown": "Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
+  "assets": [
+    {
+      "id": "2012:141:asset:0",
+      "path": "/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:141:A",
+      "letter": "A",
+      "textMarkdown": "2xy",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:141:B",
+      "letter": "B",
+      "textMarkdown": "15 − 3x",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:141:C",
+      "letter": "C",
+      "textMarkdown": "15 − 5y",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:141:D",
+      "letter": "D",
+      "textMarkdown": "−5y − 3x",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:141:E",
+      "letter": "E",
+      "textMarkdown": "5y + 3x − xy",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

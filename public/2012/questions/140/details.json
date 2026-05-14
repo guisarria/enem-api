@@ -1,43 +1,50 @@
 {
-    "title": "Questão 140 - ENEM 2012",
-    "index": 140,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento:\n\n• Opção 1: Pagar à vista, por R$ 55 000,00;\n\n• Opção 2: Pagar a prazo, dando uma entrada de R$ 30 000,00, e mais uma prestação de R$ 26 000,00 para dali a 6 meses.\n\n• Opção 3: Pagar a prazo, dando uma entrada de R$ 20 000,00, mais uma prestação de R$ 20 000,00, para dali a 6 meses e outra de R$ 18 000,00 para dali a 12 meses da data da compra.\n\n• Opção 4: Pagar a prazo dando uma entrada de R$ 15 000,00 e o restante em 1 ano da data da compra, pagando R$ 39 000,00.\n\n• Opção 5: pagar a prazo, dali a um ano, o valor de R$ 60 000,00.\n\nArthur tem o dinheiro para pagar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Após avaliar a situação do ponto de vista financeiro e das condições apresentadas, Arthur concluiu que era mais vantajoso financeiramente escolher a opção:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:140",
+  "variantKey": "140",
+  "title": "Questão 140 - ENEM 2012",
+  "index": 140,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento:\n\n• Opção 1: Pagar à vista, por R$ 55 000,00;\n\n• Opção 2: Pagar a prazo, dando uma entrada de R$ 30 000,00, e mais uma prestação de R$ 26 000,00 para dali a 6 meses.\n\n• Opção 3: Pagar a prazo, dando uma entrada de R$ 20 000,00, mais uma prestação de R$ 20 000,00, para dali a 6 meses e outra de R$ 18 000,00 para dali a 12 meses da data da compra.\n\n• Opção 4: Pagar a prazo dando uma entrada de R$ 15 000,00 e o restante em 1 ano da data da compra, pagando R$ 39 000,00.\n\n• Opção 5: pagar a prazo, dali a um ano, o valor de R$ 60 000,00.\n\nArthur tem o dinheiro para pagar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo.",
+  "alternativesIntroductionMarkdown": "Após avaliar a situação do ponto de vista financeiro e das condições apresentadas, Arthur concluiu que era mais vantajoso financeiramente escolher a opção:",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2012:140:A",
+      "letter": "A",
+      "textMarkdown": "1.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:140:B",
+      "letter": "B",
+      "textMarkdown": "2.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:140:C",
+      "letter": "C",
+      "textMarkdown": "3.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:140:D",
+      "letter": "D",
+      "textMarkdown": "4.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:140:E",
+      "letter": "E",
+      "textMarkdown": "5.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

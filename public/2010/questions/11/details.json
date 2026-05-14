@@ -1,43 +1,50 @@
 {
-    "title": "Questão 11 - ENEM 2010",
-    "index": 11,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Um desses estágios foi o artesanato, em que se",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Trabalhava conforme o ritmo das máquinas e de maneira padronizada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Empregavam fontes de energia abundantes para o funcionamento das máquinas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Faziam interferência do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:11",
+  "variantKey": "11",
+  "title": "Questão 11 - ENEM 2010",
+  "index": 11,
+  "year": 2010,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.",
+  "alternativesIntroductionMarkdown": "Um desses estágios foi o artesanato, em que se",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2010:11:A",
+      "letter": "A",
+      "textMarkdown": "Trabalhava conforme o ritmo das máquinas e de maneira padronizada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:11:B",
+      "letter": "B",
+      "textMarkdown": "Trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:11:C",
+      "letter": "C",
+      "textMarkdown": "Empregavam fontes de energia abundantes para o funcionamento das máquinas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:11:D",
+      "letter": "D",
+      "textMarkdown": "Realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:11:E",
+      "letter": "E",
+      "textMarkdown": "Faziam interferência do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

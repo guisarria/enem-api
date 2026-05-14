@@ -1,43 +1,50 @@
 {
-    "title": "Questão 37 - ENEM 2021",
-    "index": 37,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**Comportamento geral**  \nVocê deve estampar sempre um ar de alegria  \nE dizer: tudo bem melhorado  \nVocê deve rezar pelo bem do patrão  \nE esquecer que está desempregado\n\nVocê merece  \nVocê merece  \nTudo vai bem, tudo legal  \nCerveja, samba, e amanhã, seu Zé  \nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça  \nE dizer sempre: muito obrigado  \nSão palavras que ainda te deixam deixar  \nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação  \nTudo aquilo que for ordenado  \nPra ganhar um fuscão no juízo final  \nE diploma de bem-comportado\n\nGONZAGUINHA, **Luiz Gonzaga Jr**. Rio de Janeiro: Odeon, 1973 (fragmento).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, insere-se o objetivo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ironizar a incorporação de ideias e atitudes conformistas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Convencer o público sobre a importância dos deveres cívicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Relacionar o discurso religioso à resolução de problemas sociais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Questionar o valor atribuído pela população às festas populares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Defender uma postura coletiva indiferente aos valores dominantes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:37",
+  "variantKey": "37",
+  "title": "Questão 37 - ENEM 2021",
+  "index": 37,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**Comportamento geral**  \nVocê deve estampar sempre um ar de alegria  \nE dizer: tudo bem melhorado  \nVocê deve rezar pelo bem do patrão  \nE esquecer que está desempregado\n\nVocê merece  \nVocê merece  \nTudo vai bem, tudo legal  \nCerveja, samba, e amanhã, seu Zé  \nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça  \nE dizer sempre: muito obrigado  \nSão palavras que ainda te deixam deixar  \nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação  \nTudo aquilo que for ordenado  \nPra ganhar um fuscão no juízo final  \nE diploma de bem-comportado\n\nGONZAGUINHA, **Luiz Gonzaga Jr**. Rio de Janeiro: Odeon, 1973 (fragmento).",
+  "alternativesIntroductionMarkdown": "Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, insere-se o objetivo de",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:37:A",
+      "letter": "A",
+      "textMarkdown": "Ironizar a incorporação de ideias e atitudes conformistas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:37:B",
+      "letter": "B",
+      "textMarkdown": "Convencer o público sobre a importância dos deveres cívicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:37:C",
+      "letter": "C",
+      "textMarkdown": "Relacionar o discurso religioso à resolução de problemas sociais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:37:D",
+      "letter": "D",
+      "textMarkdown": "Questionar o valor atribuído pela população às festas populares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:37:E",
+      "letter": "E",
+      "textMarkdown": "Defender uma postura coletiva indiferente aos valores dominantes.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

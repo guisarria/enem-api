@@ -1,43 +1,50 @@
 {
-    "title": "Questão 83 - ENEM 2016",
-    "index": 83,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.\n\nSANDES, A R. R. BLASI, G. **Biodiversidade e diversidade química e genética**. Disponível em: http://novastecnologias.com.br. Acesso em 22 set 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.\nEssa troca de segmentos é determinante na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Produção de indivíduos mais férteis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Transmissão de novas características adquiridas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Recombinação genética na formação dos gametas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Ocorrência de mutações somáticas nos descendentes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Variação do número de cromossomos característico da espécie.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:83",
+  "variantKey": "83",
+  "title": "Questão 83 - ENEM 2016",
+  "index": 83,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.\n\nSANDES, A R. R. BLASI, G. **Biodiversidade e diversidade química e genética**. Disponível em: http://novastecnologias.com.br. Acesso em 22 set 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "O incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.\nEssa troca de segmentos é determinante na",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:83:A",
+      "letter": "A",
+      "textMarkdown": "Produção de indivíduos mais férteis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:83:B",
+      "letter": "B",
+      "textMarkdown": "Transmissão de novas características adquiridas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:83:C",
+      "letter": "C",
+      "textMarkdown": "Recombinação genética na formação dos gametas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:83:D",
+      "letter": "D",
+      "textMarkdown": "Ocorrência de mutações somáticas nos descendentes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:83:E",
+      "letter": "E",
+      "textMarkdown": "Variação do número de cromossomos característico da espécie.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

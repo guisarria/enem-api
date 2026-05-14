@@ -1,45 +1,58 @@
 {
-    "title": "Questão 150 - ENEM 2021",
-    "index": 150,
-    "year": 2021,
-    "language": null,
-    "discipline": "matematica",
-    "context": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![](https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png)",
-    "files": [
-        "https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "45,4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "54,5.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "120.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "220.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "283,2.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:150",
+  "variantKey": "150",
+  "title": "Questão 150 - ENEM 2021",
+  "index": 150,
+  "year": 2021,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![](/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png)",
+  "alternativesIntroductionMarkdown": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+  "assets": [
+    {
+      "id": "2021:150:asset:0",
+      "path": "/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2021:150:A",
+      "letter": "A",
+      "textMarkdown": "45,4.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:150:B",
+      "letter": "B",
+      "textMarkdown": "54,5.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:150:C",
+      "letter": "C",
+      "textMarkdown": "120.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:150:D",
+      "letter": "D",
+      "textMarkdown": "220.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:150:E",
+      "letter": "E",
+      "textMarkdown": "283,2.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

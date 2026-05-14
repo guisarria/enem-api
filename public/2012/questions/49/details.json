@@ -1,45 +1,58 @@
 {
-    "title": "Questão 49 - ENEM 2012",
-    "index": 49,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A produção mundial de alimentos poderia se reduzir a 40% da atual sem a aplicação de controle sobre as pragas agrícolas. Por outro lado, o uso frequente dos agrotóxicos pode causar contaminação em solos, águas superficiais e subterrâneas, atmosfera e alimentos. Os biopesticidas, tais como a piretrina e  \na coronopilina, têm sido uma alternativa na diminuição dos prejuízos econômicos, sociais e ambientais gerados pelos agrotóxicos.\n\n![](https://enem.dev/2012/questions/49/ff6bdf63-619b-417f-8ea4-b8afa030964f.jpg)",
-    "files": [
-        "https://enem.dev/2012/questions/49/ff6bdf63-619b-417f-8ea4-b8afa030964f.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Identifique as funções orgânicas presentes simultaneamente nas estruturas dos dois biopesticidas apresentados:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Éter e éster.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Cetona e éster.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Álcool e cetona.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aldeído e cetona.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Éter e ácido carboxílico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:49",
+  "variantKey": "49",
+  "title": "Questão 49 - ENEM 2012",
+  "index": 49,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A produção mundial de alimentos poderia se reduzir a 40% da atual sem a aplicação de controle sobre as pragas agrícolas. Por outro lado, o uso frequente dos agrotóxicos pode causar contaminação em solos, águas superficiais e subterrâneas, atmosfera e alimentos. Os biopesticidas, tais como a piretrina e  \na coronopilina, têm sido uma alternativa na diminuição dos prejuízos econômicos, sociais e ambientais gerados pelos agrotóxicos.\n\n![](/2012/questions/49/ff6bdf63-619b-417f-8ea4-b8afa030964f.jpg)",
+  "alternativesIntroductionMarkdown": "Identifique as funções orgânicas presentes simultaneamente nas estruturas dos dois biopesticidas apresentados:",
+  "assets": [
+    {
+      "id": "2012:49:asset:0",
+      "path": "/2012/questions/49/ff6bdf63-619b-417f-8ea4-b8afa030964f.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:49:A",
+      "letter": "A",
+      "textMarkdown": "Éter e éster.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:49:B",
+      "letter": "B",
+      "textMarkdown": "Cetona e éster.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:49:C",
+      "letter": "C",
+      "textMarkdown": "Álcool e cetona.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:49:D",
+      "letter": "D",
+      "textMarkdown": "Aldeído e cetona.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:49:E",
+      "letter": "E",
+      "textMarkdown": "Éter e ácido carboxílico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

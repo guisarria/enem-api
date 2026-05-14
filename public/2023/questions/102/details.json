@@ -1,43 +1,50 @@
 {
-    "title": "Questão 102 - ENEM 2023",
-    "index": 102,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Hexanal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Hexan-1-ol.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Hexan-3-ol.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Hex-1-en-1-ol.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ácido hexanoico.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:102",
+  "variantKey": "102",
+  "title": "Questão 102 - ENEM 2023",
+  "index": 102,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2023:102:A",
+      "letter": "A",
+      "textMarkdown": "Hexanal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:102:B",
+      "letter": "B",
+      "textMarkdown": "Hexan-1-ol.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:102:C",
+      "letter": "C",
+      "textMarkdown": "Hexan-3-ol.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:102:D",
+      "letter": "D",
+      "textMarkdown": "Hex-1-en-1-ol.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:102:E",
+      "letter": "E",
+      "textMarkdown": "Ácido hexanoico.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

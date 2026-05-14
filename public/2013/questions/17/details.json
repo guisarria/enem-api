@@ -1,45 +1,58 @@
 {
-    "title": "Questão 17 - ENEM 2013",
-    "index": 17,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png)",
-    "files": [
-        "https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Na imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Origem da matéria-prima.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Qualificação da mão de obra.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Velocidade de processamento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Necessidade de armazenamento.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Amplitude do mercado consumidor.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:17",
+  "variantKey": "17",
+  "title": "Questão 17 - ENEM 2013",
+  "index": 17,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png)",
+  "alternativesIntroductionMarkdown": "Na imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
+  "assets": [
+    {
+      "id": "2013:17:asset:0",
+      "path": "/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:17:A",
+      "letter": "A",
+      "textMarkdown": "Origem da matéria-prima.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:17:B",
+      "letter": "B",
+      "textMarkdown": "Qualificação da mão de obra.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:17:C",
+      "letter": "C",
+      "textMarkdown": "Velocidade de processamento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:17:D",
+      "letter": "D",
+      "textMarkdown": "Necessidade de armazenamento.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:17:E",
+      "letter": "E",
+      "textMarkdown": "Amplitude do mercado consumidor.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

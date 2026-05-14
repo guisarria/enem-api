@@ -1,45 +1,58 @@
 {
-    "title": "Questão 14 - ENEM 2011",
-    "index": 14,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2011/questions/14/0ffc7161-04f7-43a3-a275-99f445ccfcfb.jpg)\n\nO espaço mundial sob a “nova des-ordem” é um emaranhado de zonas, redes e “aglomerados”, espaços hegemônicos e contra-hegemônicos que se cruzam de forma complexa na face da Terra. Fica clara, de saída, a polêmica que envolve uma nova regionalização mundial. Como regionalizar um espaço tão heterogêneo e, em parte, fluído, como é o espaço mundial contemporâneo?\n\nHAESBAERT, R.; PORTO-GONÇALVES, C.W. **A nova des-ordem mundial.**  \nSão Paulo: UNESP, 2006",
-    "files": [
-        "https://enem.dev/2011/questions/14/0ffc7161-04f7-43a3-a275-99f445ccfcfb.jpg"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O mapa procura representar a lógica espacial do mundo contemporâneo pós-União Soviética, no contexto de avanço da globalização e do neoliberalismo, quando a divisão entre países socialistas e capitalistas se desfez e as categorias de “primeiro” e “terceiro” mundo perderam sua validade explicativa. Considerando esse objetivo interpretativo, tal distribuição espacial aponta para",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A estagnação dos Estados com forte identidade cultural.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O alcance da racionalidade anticapitalista.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A influência das grandes potências econômicas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "A dissolução de blocos políticos regionais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "O alargamento da força econômica dos países islâmicos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:14",
+  "variantKey": "14",
+  "title": "Questão 14 - ENEM 2011",
+  "index": 14,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/14/0ffc7161-04f7-43a3-a275-99f445ccfcfb.jpg)\n\nO espaço mundial sob a “nova des-ordem” é um emaranhado de zonas, redes e “aglomerados”, espaços hegemônicos e contra-hegemônicos que se cruzam de forma complexa na face da Terra. Fica clara, de saída, a polêmica que envolve uma nova regionalização mundial. Como regionalizar um espaço tão heterogêneo e, em parte, fluído, como é o espaço mundial contemporâneo?\n\nHAESBAERT, R.; PORTO-GONÇALVES, C.W. **A nova des-ordem mundial.**  \nSão Paulo: UNESP, 2006",
+  "alternativesIntroductionMarkdown": "O mapa procura representar a lógica espacial do mundo contemporâneo pós-União Soviética, no contexto de avanço da globalização e do neoliberalismo, quando a divisão entre países socialistas e capitalistas se desfez e as categorias de “primeiro” e “terceiro” mundo perderam sua validade explicativa. Considerando esse objetivo interpretativo, tal distribuição espacial aponta para",
+  "assets": [
+    {
+      "id": "2011:14:asset:0",
+      "path": "/2011/questions/14/0ffc7161-04f7-43a3-a275-99f445ccfcfb.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2011:14:A",
+      "letter": "A",
+      "textMarkdown": "A estagnação dos Estados com forte identidade cultural.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:14:B",
+      "letter": "B",
+      "textMarkdown": "O alcance da racionalidade anticapitalista.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:14:C",
+      "letter": "C",
+      "textMarkdown": "A influência das grandes potências econômicas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:14:D",
+      "letter": "D",
+      "textMarkdown": "A dissolução de blocos políticos regionais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:14:E",
+      "letter": "E",
+      "textMarkdown": "O alargamento da força econômica dos países islâmicos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

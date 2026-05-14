@@ -1,43 +1,50 @@
 {
-    "title": "Questão 8 - ENEM 2015",
-    "index": 8,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.\n\nHARVEY, D. **O enigma do capital**. São Paulo: Boitempo, 2011.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Inicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Superprodução de bens de consumo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Colapso industrial de países asiáticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Interdependência do sistema econômico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Isolamento político dos países desenvolvidos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Austeridade fiscal dos países em desenvolvimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:8",
+  "variantKey": "8",
+  "title": "Questão 8 - ENEM 2015",
+  "index": 8,
+  "year": 2015,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.\n\nHARVEY, D. **O enigma do capital**. São Paulo: Boitempo, 2011.",
+  "alternativesIntroductionMarkdown": "Inicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2015:8:A",
+      "letter": "A",
+      "textMarkdown": "Superprodução de bens de consumo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:8:B",
+      "letter": "B",
+      "textMarkdown": "Colapso industrial de países asiáticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:8:C",
+      "letter": "C",
+      "textMarkdown": "Interdependência do sistema econômico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:8:D",
+      "letter": "D",
+      "textMarkdown": "Isolamento político dos países desenvolvidos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:8:E",
+      "letter": "E",
+      "textMarkdown": "Austeridade fiscal dos países em desenvolvimento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

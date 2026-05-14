@@ -1,43 +1,50 @@
 {
-    "title": "Questão 86 - ENEM 2014",
-    "index": 86,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.\n\nSILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem… A química do mau cheiro. **Química Nova na Escola**, v. 33, n. 1, fev. 2011 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A eficiência do uso do vinagre nesse caso se explica pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Sobreposição de odor, propiciada pelo cheiro característico do vinagre.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Solubilidade da piridina, de caráter ácido, na solução ácida empregada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Inibição da proliferação das bactérias presentes, devido à ação do ácido acético.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:86",
+  "variantKey": "86",
+  "title": "Questão 86 - ENEM 2014",
+  "index": 86,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.\n\nSILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem… A química do mau cheiro. **Química Nova na Escola**, v. 33, n. 1, fev. 2011 (adaptado).",
+  "alternativesIntroductionMarkdown": "A eficiência do uso do vinagre nesse caso se explica pela",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:86:A",
+      "letter": "A",
+      "textMarkdown": "Sobreposição de odor, propiciada pelo cheiro característico do vinagre.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:86:B",
+      "letter": "B",
+      "textMarkdown": "Solubilidade da piridina, de caráter ácido, na solução ácida empregada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:86:C",
+      "letter": "C",
+      "textMarkdown": "Inibição da proliferação das bactérias presentes, devido à ação do ácido acético.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:86:D",
+      "letter": "D",
+      "textMarkdown": "Degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:86:E",
+      "letter": "E",
+      "textMarkdown": "Reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

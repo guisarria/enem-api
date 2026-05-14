@@ -1,43 +1,50 @@
 {
-    "title": "Questão 51 - ENEM 2016",
-    "index": 51,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H2SO4 sobre o filtrado e observa-se por 30 minutos\n\nTUBINO, M.; SIMONI, J.A. **Refletindo sobre o caso _celobar_®** Química Nova, n. 2, 2007 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A presença de íons bário solúveis na amostra é indicada pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Liberação de calor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Alteração da cor para rosa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Precipitação de um sólido branco.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Formação de gás hidrogênio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Volatilização de gás cloro.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:51",
+  "variantKey": "51",
+  "title": "Questão 51 - ENEM 2016",
+  "index": 51,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H2SO4 sobre o filtrado e observa-se por 30 minutos\n\nTUBINO, M.; SIMONI, J.A. **Refletindo sobre o caso _celobar_®** Química Nova, n. 2, 2007 (adaptado).",
+  "alternativesIntroductionMarkdown": "A presença de íons bário solúveis na amostra é indicada pela",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:51:A",
+      "letter": "A",
+      "textMarkdown": "Liberação de calor.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:51:B",
+      "letter": "B",
+      "textMarkdown": "Alteração da cor para rosa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:51:C",
+      "letter": "C",
+      "textMarkdown": "Precipitação de um sólido branco.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:51:D",
+      "letter": "D",
+      "textMarkdown": "Formação de gás hidrogênio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:51:E",
+      "letter": "E",
+      "textMarkdown": "Volatilização de gás cloro.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

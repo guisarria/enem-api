@@ -1,45 +1,58 @@
 {
-    "title": "Questão 125 - ENEM 2009",
-    "index": 125,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2009/questions/125/5a4ecb2b-fa74-43e5-a8ad-89db87b4e9ba.jpg)",
-    "files": [
-        "https://enem.dev/2009/questions/125/5a4ecb2b-fa74-43e5-a8ad-89db87b4e9ba.jpg"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Na parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:125",
+  "variantKey": "125",
+  "title": "Questão 125 - ENEM 2009",
+  "index": 125,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2009/questions/125/5a4ecb2b-fa74-43e5-a8ad-89db87b4e9ba.jpg)",
+  "alternativesIntroductionMarkdown": "Na parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário",
+  "assets": [
+    {
+      "id": "2009:125:asset:0",
+      "path": "/2009/questions/125/5a4ecb2b-fa74-43e5-a8ad-89db87b4e9ba.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2009:125:A",
+      "letter": "A",
+      "textMarkdown": "Implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:125:B",
+      "letter": "B",
+      "textMarkdown": "Conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:125:C",
+      "letter": "C",
+      "textMarkdown": "Dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:125:D",
+      "letter": "D",
+      "textMarkdown": "Empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:125:E",
+      "letter": "E",
+      "textMarkdown": "Utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

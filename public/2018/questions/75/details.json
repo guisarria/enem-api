@@ -1,43 +1,50 @@
 {
-    "title": "Questão 75 - ENEM 2018",
-    "index": 75,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma  \ntransmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.\n\nGEORGE, P **Panorama do mundo atual**. São Paulo: Difusão Européia do Livro, 1968 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Em meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Estabilização da pirâmide etária.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Conclusão da transição demográfica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Contenção da entrada de imigrantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Elevação do crescimento vegetativo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Formação de espaços superpovoados.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:75",
+  "variantKey": "75",
+  "title": "Questão 75 - ENEM 2018",
+  "index": 75,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma  \ntransmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.\n\nGEORGE, P **Panorama do mundo atual**. São Paulo: Difusão Européia do Livro, 1968 (adaptado).",
+  "alternativesIntroductionMarkdown": "Em meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:75:A",
+      "letter": "A",
+      "textMarkdown": "Estabilização da pirâmide etária.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:75:B",
+      "letter": "B",
+      "textMarkdown": "Conclusão da transição demográfica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:75:C",
+      "letter": "C",
+      "textMarkdown": "Contenção da entrada de imigrantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:75:D",
+      "letter": "D",
+      "textMarkdown": "Elevação do crescimento vegetativo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:75:E",
+      "letter": "E",
+      "textMarkdown": "Formação de espaços superpovoados.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

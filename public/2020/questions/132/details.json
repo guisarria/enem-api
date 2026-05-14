@@ -1,43 +1,50 @@
 {
-    "title": "Questão 132 - ENEM 2020",
-    "index": 132,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os  \nresíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e  \nenxofre.\n\n(BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017. Adaptado.)",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Esses espetáculos promovem riscos ambientais, porque",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "As substâncias resultantes da queima de fogos de artifício são inflamáveis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "O sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "O material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:132",
+  "variantKey": "132",
+  "title": "Questão 132 - ENEM 2020",
+  "index": 132,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os  \nresíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e  \nenxofre.\n\n(BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017. Adaptado.)",
+  "alternativesIntroductionMarkdown": "Esses espetáculos promovem riscos ambientais, porque",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2020:132:A",
+      "letter": "A",
+      "textMarkdown": "As substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:132:B",
+      "letter": "B",
+      "textMarkdown": "Os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:132:C",
+      "letter": "C",
+      "textMarkdown": "O sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:132:D",
+      "letter": "D",
+      "textMarkdown": "Os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:132:E",
+      "letter": "E",
+      "textMarkdown": "O material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

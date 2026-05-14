@@ -1,43 +1,50 @@
 {
-    "title": "Questão 23 - ENEM 2013",
-    "index": 23,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Quando ninguém duvida da existência de um outro mundo, a morte é uma passagem que deve ser celebrada entre parentes e vizinhos. O homem da Idade Média tem a convicção de não desaparecer completamente, esperando a ressurreição. Pois nada se detém e tudo continua na eternidade. A perda contemporânea do sentimento religioso fez da morte uma provação aterrorizante, um trampolim para as trevas e o desconhecido.\n\nDUBY, G. Ano 2000 na pista do nossos medos. São Paulo: Unesp, 1998 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Ao comparar as maneiras com que as sociedades têm lidado com a morte, o autor considera que houve um processo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mercantilização das crenças religiosas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Transformação das representações sociais.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Disseminação do ateísmo nos países de maioria cristã.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Diminuição da distância entre saber científico e eclesiástico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Amadurecimento da consciência ligada à civilização moderna.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:23",
+  "variantKey": "23",
+  "title": "Questão 23 - ENEM 2013",
+  "index": 23,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Quando ninguém duvida da existência de um outro mundo, a morte é uma passagem que deve ser celebrada entre parentes e vizinhos. O homem da Idade Média tem a convicção de não desaparecer completamente, esperando a ressurreição. Pois nada se detém e tudo continua na eternidade. A perda contemporânea do sentimento religioso fez da morte uma provação aterrorizante, um trampolim para as trevas e o desconhecido.\n\nDUBY, G. Ano 2000 na pista do nossos medos. São Paulo: Unesp, 1998 (adaptado).",
+  "alternativesIntroductionMarkdown": "Ao comparar as maneiras com que as sociedades têm lidado com a morte, o autor considera que houve um processo de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:23:A",
+      "letter": "A",
+      "textMarkdown": "Mercantilização das crenças religiosas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:23:B",
+      "letter": "B",
+      "textMarkdown": "Transformação das representações sociais.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:23:C",
+      "letter": "C",
+      "textMarkdown": "Disseminação do ateísmo nos países de maioria cristã.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:23:D",
+      "letter": "D",
+      "textMarkdown": "Diminuição da distância entre saber científico e eclesiástico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:23:E",
+      "letter": "E",
+      "textMarkdown": "Amadurecimento da consciência ligada à civilização moderna.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

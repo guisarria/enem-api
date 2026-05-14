@@ -1,43 +1,50 @@
 {
-    "title": "Questão 162 - ENEM 2015",
-    "index": 162,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Atendendo o pedido do arquiteto, o carpinteiro deverá produzir",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "105 peças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "120 peças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "210 peças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "243 peças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "420 peças.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2015:162",
+  "variantKey": "162",
+  "title": "Questão 162 - ENEM 2015",
+  "index": 162,
+  "year": 2015,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Atendendo o pedido do arquiteto, o carpinteiro deverá produzir",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2015:162:A",
+      "letter": "A",
+      "textMarkdown": "105 peças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:162:B",
+      "letter": "B",
+      "textMarkdown": "120 peças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:162:C",
+      "letter": "C",
+      "textMarkdown": "210 peças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:162:D",
+      "letter": "D",
+      "textMarkdown": "243 peças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:162:E",
+      "letter": "E",
+      "textMarkdown": "420 peças.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

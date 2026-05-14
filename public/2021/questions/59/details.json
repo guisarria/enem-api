@@ -1,43 +1,50 @@
 {
-    "title": "Questão 59 - ENEM 2021",
-    "index": 59,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, a longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando  \ncomo referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”\n\nMAIA, D.; MAIA, A. C. A utilização dos ditos populares e da observação do tempo para a climatologia escolar no ensino fundamental I1. GeoTextos, n. 1, jul. 2010 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O texto expõe a produção de um conhecimento que se constitui pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Técnica científica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Experiência perceptiva.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Negação das tradições.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Padronização das culturas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Uniformização das informações.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:59",
+  "variantKey": "59",
+  "title": "Questão 59 - ENEM 2021",
+  "index": 59,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, a longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando  \ncomo referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”\n\nMAIA, D.; MAIA, A. C. A utilização dos ditos populares e da observação do tempo para a climatologia escolar no ensino fundamental I1. GeoTextos, n. 1, jul. 2010 (adaptado).",
+  "alternativesIntroductionMarkdown": "O texto expõe a produção de um conhecimento que se constitui pela",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:59:A",
+      "letter": "A",
+      "textMarkdown": "Técnica científica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:59:B",
+      "letter": "B",
+      "textMarkdown": "Experiência perceptiva.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:59:C",
+      "letter": "C",
+      "textMarkdown": "Negação das tradições.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:59:D",
+      "letter": "D",
+      "textMarkdown": "Padronização das culturas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:59:E",
+      "letter": "E",
+      "textMarkdown": "Uniformização das informações.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

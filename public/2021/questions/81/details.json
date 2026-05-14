@@ -1,43 +1,50 @@
 {
-    "title": "Questão 81 - ENEM 2021",
-    "index": 81,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**Manifesto dos Pioneiros da Educação Nova – 1932**\n\nA Educação Nova, alargando a sua finalidade para além dos limites das classes, assume, com uma feição mais humana, a sua verdadeira função social, preparando-se para formar “a hierarquia democrática” pela “hierarquia das capacidades”, recrutadas em todos os grupos sociais, a que se abrem as mesmas oportunidades de educação. Ela tem, por objeto, organizar e desenvolver os meios de ação durável com o fim de “dirigir os desenvolvimentos natural e integral do ser humano em cada uma das etapas de seu crescimento”, de acordo com uma certa concepção do mundo.\n\nDisponível em: www.histedbr.fe.unicamp.br. Acesso em: 7 out. 2015.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Os autores do manifesto citado procuravam contrapor-se ao caráter oligárquico da sociedade brasileira. Nesse sentido, o trecho propõe uma relação necessária entre",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ensino técnico e mercado de trabalho.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Acesso à escola e valorização do mérito.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Ampliação de vagas e formação de gestores.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Disponibilidade de financiamento e pesquisa avançada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Remuneração de professores e extinção do analfabetismo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:81",
+  "variantKey": "81",
+  "title": "Questão 81 - ENEM 2021",
+  "index": 81,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**Manifesto dos Pioneiros da Educação Nova – 1932**\n\nA Educação Nova, alargando a sua finalidade para além dos limites das classes, assume, com uma feição mais humana, a sua verdadeira função social, preparando-se para formar “a hierarquia democrática” pela “hierarquia das capacidades”, recrutadas em todos os grupos sociais, a que se abrem as mesmas oportunidades de educação. Ela tem, por objeto, organizar e desenvolver os meios de ação durável com o fim de “dirigir os desenvolvimentos natural e integral do ser humano em cada uma das etapas de seu crescimento”, de acordo com uma certa concepção do mundo.\n\nDisponível em: www.histedbr.fe.unicamp.br. Acesso em: 7 out. 2015.",
+  "alternativesIntroductionMarkdown": "Os autores do manifesto citado procuravam contrapor-se ao caráter oligárquico da sociedade brasileira. Nesse sentido, o trecho propõe uma relação necessária entre",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:81:A",
+      "letter": "A",
+      "textMarkdown": "Ensino técnico e mercado de trabalho.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:81:B",
+      "letter": "B",
+      "textMarkdown": "Acesso à escola e valorização do mérito.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:81:C",
+      "letter": "C",
+      "textMarkdown": "Ampliação de vagas e formação de gestores.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:81:D",
+      "letter": "D",
+      "textMarkdown": "Disponibilidade de financiamento e pesquisa avançada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:81:E",
+      "letter": "E",
+      "textMarkdown": "Remuneração de professores e extinção do analfabetismo.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

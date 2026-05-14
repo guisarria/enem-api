@@ -1,43 +1,50 @@
 {
-    "title": "Questão 115 - ENEM 2019",
-    "index": 115,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O concreto utilizado na construção civil é um material formado por cimento misturado a areia, a brita e a água.\n\nA areia é normalmente extraída de leitos de rios e a brita, oriunda da fragmentação de rochas. Impactos ambientais gerados no uso do concreto estão associados à extração de recursos minerais e ao descarte indiscriminado desse material. Na tentativa de reverter esse quadro, foi proposta a utilização de concreto reciclado moído em substituição ao particulado rochoso graúdo na fabricação de novo concreto, obtendo um material com as mesmas propriedades que o anterior.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O benefício ambiental gerado nessa proposta é a redução do(a):",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Extração da brita.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Extração da areia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Consumo de água.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Consumo de concreto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Fabricação de cimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:115",
+  "variantKey": "115",
+  "title": "Questão 115 - ENEM 2019",
+  "index": 115,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O concreto utilizado na construção civil é um material formado por cimento misturado a areia, a brita e a água.\n\nA areia é normalmente extraída de leitos de rios e a brita, oriunda da fragmentação de rochas. Impactos ambientais gerados no uso do concreto estão associados à extração de recursos minerais e ao descarte indiscriminado desse material. Na tentativa de reverter esse quadro, foi proposta a utilização de concreto reciclado moído em substituição ao particulado rochoso graúdo na fabricação de novo concreto, obtendo um material com as mesmas propriedades que o anterior.",
+  "alternativesIntroductionMarkdown": "O benefício ambiental gerado nessa proposta é a redução do(a):",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:115:A",
+      "letter": "A",
+      "textMarkdown": "Extração da brita.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:115:B",
+      "letter": "B",
+      "textMarkdown": "Extração da areia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:115:C",
+      "letter": "C",
+      "textMarkdown": "Consumo de água.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:115:D",
+      "letter": "D",
+      "textMarkdown": "Consumo de concreto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:115:E",
+      "letter": "E",
+      "textMarkdown": "Fabricação de cimento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 150 - ENEM 2014",
-    "index": 150,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png)",
-    "files": [
-        "https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png"
-    ],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "25.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "33.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "42.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "45.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "49.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:150",
+  "variantKey": "150",
+  "title": "Questão 150 - ENEM 2014",
+  "index": 150,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png)",
+  "alternativesIntroductionMarkdown": "O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:",
+  "assets": [
+    {
+      "id": "2014:150:asset:0",
+      "path": "/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:150:A",
+      "letter": "A",
+      "textMarkdown": "25.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:150:B",
+      "letter": "B",
+      "textMarkdown": "33.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:150:C",
+      "letter": "C",
+      "textMarkdown": "42.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:150:D",
+      "letter": "D",
+      "textMarkdown": "45.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:150:E",
+      "letter": "E",
+      "textMarkdown": "49.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

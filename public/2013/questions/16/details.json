@@ -1,43 +1,50 @@
 {
-    "title": "Questão 16 - ENEM 2013",
-    "index": 16,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.\n\nSENNETT, R. **A corrosão do caráter:** consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Comparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "As tecnologias de informação sejam usadas para democratizar as relações laborais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "As estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Os procedimentos de terceirização sejam aprimorados pela qualificação profissional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "As organizações sindicais sejam fortalecidas com a valorização da especialização funcional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2013:16",
+  "variantKey": "16",
+  "title": "Questão 16 - ENEM 2013",
+  "index": 16,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.\n\nSENNETT, R. **A corrosão do caráter:** consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).",
+  "alternativesIntroductionMarkdown": "Comparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2013:16:A",
+      "letter": "A",
+      "textMarkdown": "As tecnologias de informação sejam usadas para democratizar as relações laborais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:16:B",
+      "letter": "B",
+      "textMarkdown": "As estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:16:C",
+      "letter": "C",
+      "textMarkdown": "Os procedimentos de terceirização sejam aprimorados pela qualificação profissional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:16:D",
+      "letter": "D",
+      "textMarkdown": "As organizações sindicais sejam fortalecidas com a valorização da especialização funcional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:16:E",
+      "letter": "E",
+      "textMarkdown": "Os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

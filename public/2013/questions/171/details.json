@@ -1,43 +1,50 @@
 {
-    "title": "Questão 171 - ENEM 2013",
-    "index": 171,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é a expressão que representa a relação entre X e Y",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "5X − 3Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "5X − 2Y + 10 = 0",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "3X − 3Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "3X − 2Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3X − 2Y + 10 = 0",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:171",
+  "variantKey": "171",
+  "title": "Questão 171 - ENEM 2013",
+  "index": 171,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual é a expressão que representa a relação entre X e Y",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:171:A",
+      "letter": "A",
+      "textMarkdown": "5X − 3Y + 15 = 0",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:171:B",
+      "letter": "B",
+      "textMarkdown": "5X − 2Y + 10 = 0",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:171:C",
+      "letter": "C",
+      "textMarkdown": "3X − 3Y + 15 = 0",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:171:D",
+      "letter": "D",
+      "textMarkdown": "3X − 2Y + 15 = 0",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:171:E",
+      "letter": "E",
+      "textMarkdown": "3X − 2Y + 10 = 0",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

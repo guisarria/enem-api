@@ -1,43 +1,50 @@
 {
-    "title": "Questão 88 - ENEM 2012",
-    "index": 88,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Nossa pele possui células que reagem à incidência de luz ultravioleta e produzem uma substância chamada melanina, responsável pela pigmentação da pele. Pensando em se bronzear, uma garota vestiu um biquíni, acendeu a luz de seu quarto e deitou-se exatamente abaixo da lâmpada incandescente. Após várias horas ela percebeu que não conseguiu resultado algum.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O bronzeamente não ocorreu porque a luz emitida pela lâmpada incandescente é de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Baixa intensidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Baixa frequência.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Um espectro contínuo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Amplitude inadequada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Curto comprimento de onda.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:88",
+  "variantKey": "88",
+  "title": "Questão 88 - ENEM 2012",
+  "index": 88,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Nossa pele possui células que reagem à incidência de luz ultravioleta e produzem uma substância chamada melanina, responsável pela pigmentação da pele. Pensando em se bronzear, uma garota vestiu um biquíni, acendeu a luz de seu quarto e deitou-se exatamente abaixo da lâmpada incandescente. Após várias horas ela percebeu que não conseguiu resultado algum.",
+  "alternativesIntroductionMarkdown": "O bronzeamente não ocorreu porque a luz emitida pela lâmpada incandescente é de",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:88:A",
+      "letter": "A",
+      "textMarkdown": "Baixa intensidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:88:B",
+      "letter": "B",
+      "textMarkdown": "Baixa frequência.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:88:C",
+      "letter": "C",
+      "textMarkdown": "Um espectro contínuo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:88:D",
+      "letter": "D",
+      "textMarkdown": "Amplitude inadequada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:88:E",
+      "letter": "E",
+      "textMarkdown": "Curto comprimento de onda.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

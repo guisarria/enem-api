@@ -1,43 +1,50 @@
 {
-    "title": "Questão 18 - ENEM 2013",
-    "index": 18,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como _Um príncipe em Nova York_ e _Ace Ventura: um maluco na África_; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação _O rei Leão_, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.\n\nLEIBOWITZ, E. **Filmes de Hollywood sobre África ficam no clichê**. Disponível em: http://noticias.uol.com.br. Acesso em 17 abr, 2010.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A história e a natureza.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O exotismo e as culturas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "A sociedade e a economia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O comércio e o ambiente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A diversidade e a política.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:18",
+  "variantKey": "18",
+  "title": "Questão 18 - ENEM 2013",
+  "index": 18,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como _Um príncipe em Nova York_ e _Ace Ventura: um maluco na África_; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação _O rei Leão_, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.\n\nLEIBOWITZ, E. **Filmes de Hollywood sobre África ficam no clichê**. Disponível em: http://noticias.uol.com.br. Acesso em 17 abr, 2010.",
+  "alternativesIntroductionMarkdown": "A produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:18:A",
+      "letter": "A",
+      "textMarkdown": "A história e a natureza.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:18:B",
+      "letter": "B",
+      "textMarkdown": "O exotismo e as culturas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:18:C",
+      "letter": "C",
+      "textMarkdown": "A sociedade e a economia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:18:D",
+      "letter": "D",
+      "textMarkdown": "O comércio e o ambiente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:18:E",
+      "letter": "E",
+      "textMarkdown": "A diversidade e a política.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

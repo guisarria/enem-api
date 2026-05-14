@@ -1,43 +1,50 @@
 {
-    "title": "Questão 36 - ENEM 2012",
-    "index": 36,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A partir dos anos 70, impõe-se um movimento de desconcentração da produção industrial, uma das manifestações do desdobramento da divisão territorial do trabalho no Brasil. A produção industrial torna-se mais complexa, estendendo-se, sobretudo, para novas áreas do Sul e para alguns pontos do Centro-Oeste, do Nordeste e do Norte.\n\nSANTOS, M.; SILVEIRA, M. L. **O Brasil**: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2002 (fragmento).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Um fator geográfico que contribui para o tipo de alteração da configuração territorial descrito no texto é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Obsolescência dos portos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Estatização de empresas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Eliminação de incentivos fiscais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Ampliação de políticas protecionistas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desenvolvimento dos meios de comunicação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2012:36",
+  "variantKey": "36",
+  "title": "Questão 36 - ENEM 2012",
+  "index": 36,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A partir dos anos 70, impõe-se um movimento de desconcentração da produção industrial, uma das manifestações do desdobramento da divisão territorial do trabalho no Brasil. A produção industrial torna-se mais complexa, estendendo-se, sobretudo, para novas áreas do Sul e para alguns pontos do Centro-Oeste, do Nordeste e do Norte.\n\nSANTOS, M.; SILVEIRA, M. L. **O Brasil**: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2002 (fragmento).",
+  "alternativesIntroductionMarkdown": "Um fator geográfico que contribui para o tipo de alteração da configuração territorial descrito no texto é:",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2012:36:A",
+      "letter": "A",
+      "textMarkdown": "Obsolescência dos portos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:36:B",
+      "letter": "B",
+      "textMarkdown": "Estatização de empresas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:36:C",
+      "letter": "C",
+      "textMarkdown": "Eliminação de incentivos fiscais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:36:D",
+      "letter": "D",
+      "textMarkdown": "Ampliação de políticas protecionistas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:36:E",
+      "letter": "E",
+      "textMarkdown": "Desenvolvimento dos meios de comunicação.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

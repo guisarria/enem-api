@@ -1,43 +1,50 @@
 {
-    "title": "Questão 159 - ENEM 2011",
-    "index": 159,
-    "year": 2011,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n) acrescido de um valor fixo de R$ 150  000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "100n + 350 = 120n + 150",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "100n + 150 = 120n + 350",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "100(n + 350) = 120(n + 150)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "100(n + 350 000) = 120(n + 150 000)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "350(n + 100 000) = 150(n + 120 000)",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:159",
+  "variantKey": "159",
+  "title": "Questão 159 - ENEM 2011",
+  "index": 159,
+  "year": 2011,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n) acrescido de um valor fixo de R$ 150  000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.",
+  "alternativesIntroductionMarkdown": "Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2011:159:A",
+      "letter": "A",
+      "textMarkdown": "100n + 350 = 120n + 150",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:159:B",
+      "letter": "B",
+      "textMarkdown": "100n + 150 = 120n + 350",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:159:C",
+      "letter": "C",
+      "textMarkdown": "100(n + 350) = 120(n + 150)",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:159:D",
+      "letter": "D",
+      "textMarkdown": "100(n + 350 000) = 120(n + 150 000)",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:159:E",
+      "letter": "E",
+      "textMarkdown": "350(n + 100 000) = 150(n + 120 000)",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,48 +1,79 @@
 {
-    "title": "Questão 118 - ENEM 2018",
-    "index": 118,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos ![](https://enem.dev/2018/questions/118/c3a08a34-5f0d-4c3b-b059-fd9e900a0058.png) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de uma posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de ![](https://enem.dev/2018/questions/118/49d99020-413d-488e-ac43-e1432472a2d3.png) a ![](https://enem.dev/2018/questions/118/323c4fa7-5454-4c32-9106-8d1661e599db.png), (temperaturas crescentes).\n\n![](https://enem.dev/2018/questions/118/16ce5a8c-32e1-4d14-8099-e826813bad45.png)",
-    "files": [
-        "https://enem.dev/2018/questions/118/c3a08a34-5f0d-4c3b-b059-fd9e900a0058.png",
-        "https://enem.dev/2018/questions/118/49d99020-413d-488e-ac43-e1432472a2d3.png",
-        "https://enem.dev/2018/questions/118/323c4fa7-5454-4c32-9106-8d1661e599db.png",
-        "https://enem.dev/2018/questions/118/16ce5a8c-32e1-4d14-8099-e826813bad45.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O deslocamento observado na distância média revela o fenômeno da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ionização.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Dilatação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Dissociação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Quebra de ligações covalentes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Formação de ligações metálicas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:118",
+  "variantKey": "118",
+  "title": "Questão 118 - ENEM 2018",
+  "index": 118,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos ![](/2018/questions/118/c3a08a34-5f0d-4c3b-b059-fd9e900a0058.png) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de uma posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de ![](/2018/questions/118/49d99020-413d-488e-ac43-e1432472a2d3.png) a ![](/2018/questions/118/323c4fa7-5454-4c32-9106-8d1661e599db.png), (temperaturas crescentes).\n\n![](/2018/questions/118/16ce5a8c-32e1-4d14-8099-e826813bad45.png)",
+  "alternativesIntroductionMarkdown": "O deslocamento observado na distância média revela o fenômeno da",
+  "assets": [
+    {
+      "id": "2018:118:asset:0",
+      "path": "/2018/questions/118/c3a08a34-5f0d-4c3b-b059-fd9e900a0058.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:118:asset:1",
+      "path": "/2018/questions/118/49d99020-413d-488e-ac43-e1432472a2d3.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:118:asset:2",
+      "path": "/2018/questions/118/323c4fa7-5454-4c32-9106-8d1661e599db.png",
+      "role": "context",
+      "position": 2,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:118:asset:3",
+      "path": "/2018/questions/118/16ce5a8c-32e1-4d14-8099-e826813bad45.png",
+      "role": "context",
+      "position": 3,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:118:A",
+      "letter": "A",
+      "textMarkdown": "Ionização.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:118:B",
+      "letter": "B",
+      "textMarkdown": "Dilatação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:118:C",
+      "letter": "C",
+      "textMarkdown": "Dissociação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:118:D",
+      "letter": "D",
+      "textMarkdown": "Quebra de ligações covalentes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:118:E",
+      "letter": "E",
+      "textMarkdown": "Formação de ligações metálicas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

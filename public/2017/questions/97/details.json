@@ -1,43 +1,50 @@
 {
-    "title": "Questão 97 - ENEM 2017",
-    "index": 97,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Reação do gás de cozinha com o sal, volatilizando gás cloro.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Emissão de fótons pelo sódio, excitado por causa da chama.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Produção de derivado amarelo, pela reação com o carboidrato.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Reação do gás de cozinha com a água, formando gás hidrogênio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Excitação das moléculas de proteínas, com formação de luz amarela.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:97",
+  "variantKey": "97",
+  "title": "Questão 97 - ENEM 2017",
+  "index": 97,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais.",
+  "alternativesIntroductionMarkdown": "Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:97:A",
+      "letter": "A",
+      "textMarkdown": "Reação do gás de cozinha com o sal, volatilizando gás cloro.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:97:B",
+      "letter": "B",
+      "textMarkdown": "Emissão de fótons pelo sódio, excitado por causa da chama.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:97:C",
+      "letter": "C",
+      "textMarkdown": "Produção de derivado amarelo, pela reação com o carboidrato.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:97:D",
+      "letter": "D",
+      "textMarkdown": "Reação do gás de cozinha com a água, formando gás hidrogênio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:97:E",
+      "letter": "E",
+      "textMarkdown": "Excitação das moléculas de proteínas, com formação de luz amarela.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

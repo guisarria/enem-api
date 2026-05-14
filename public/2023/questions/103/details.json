@@ -1,43 +1,50 @@
 {
-    "title": "Questão 103 - ENEM 2023",
-    "index": 103,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.\nQual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fruto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Esporo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Semente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Tubo polínico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Vaso condutor.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:103",
+  "variantKey": "103",
+  "title": "Questão 103 - ENEM 2023",
+  "index": 103,
+  "year": 2023,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.\nQual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:103:A",
+      "letter": "A",
+      "textMarkdown": "Fruto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:103:B",
+      "letter": "B",
+      "textMarkdown": "Esporo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:103:C",
+      "letter": "C",
+      "textMarkdown": "Semente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:103:D",
+      "letter": "D",
+      "textMarkdown": "Tubo polínico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:103:E",
+      "letter": "E",
+      "textMarkdown": "Vaso condutor.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

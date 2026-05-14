@@ -1,43 +1,50 @@
 {
-    "title": "Questão 90 - ENEM 2018",
-    "index": 90,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar^’.\n\nBOBBIO, N. **Teoria geral da política**. Rio de Janeiro: EIsevier, 2000 (adaptado)",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "As metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada no(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Justificação teísta do direito.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Rigidez da hierarquia de classe.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ênfase formalista na administração.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Protagonismo do Executivo no poder.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Centralidade do indivíduo na sociedade.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2018:90",
+  "variantKey": "90",
+  "title": "Questão 90 - ENEM 2018",
+  "index": 90,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar^’.\n\nBOBBIO, N. **Teoria geral da política**. Rio de Janeiro: EIsevier, 2000 (adaptado)",
+  "alternativesIntroductionMarkdown": "As metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada no(a)",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2018:90:A",
+      "letter": "A",
+      "textMarkdown": "Justificação teísta do direito.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:90:B",
+      "letter": "B",
+      "textMarkdown": "Rigidez da hierarquia de classe.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:90:C",
+      "letter": "C",
+      "textMarkdown": "Ênfase formalista na administração.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:90:D",
+      "letter": "D",
+      "textMarkdown": "Protagonismo do Executivo no poder.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:90:E",
+      "letter": "E",
+      "textMarkdown": "Centralidade do indivíduo na sociedade.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

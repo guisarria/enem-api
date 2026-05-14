@@ -1,43 +1,50 @@
 {
-    "title": "Questão 179 - ENEM 2017",
-    "index": 179,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,075",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "0,150",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "0,325",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "0,600",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "0,800",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:179",
+  "variantKey": "179",
+  "title": "Questão 179 - ENEM 2017",
+  "index": 179,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:179:A",
+      "letter": "A",
+      "textMarkdown": "0,075",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:179:B",
+      "letter": "B",
+      "textMarkdown": "0,150",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:179:C",
+      "letter": "C",
+      "textMarkdown": "0,325",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:179:D",
+      "letter": "D",
+      "textMarkdown": "0,600",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:179:E",
+      "letter": "E",
+      "textMarkdown": "0,800",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

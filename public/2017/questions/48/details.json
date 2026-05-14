@@ -1,43 +1,50 @@
 {
-    "title": "Questão 48 - ENEM 2017",
-    "index": 48,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A moralidade, Bentham exortava, não é uma questão de agradar a Deus, muito menos de fidelidade a regras abstratas. A moralidade é a tentativa de criar a maior quantidade de felicidade possível neste mundo. Ao decidir o que fazer, deveríamos, portanto, perguntar qual curso de conduta promoveria a maior quantidade de felicidade para todos aqueles que serão afetados.\n\nRACHELS, J. Os elementos dafilosofia moral. Barueri-SP: Manole, 2006.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Os parâmetros da ação indicados no texto estão em conformidade com uma",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fundamentação científica de viés positivista.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Convenção social de orientação normativa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Transgressão comportamental religiosa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Racionalidade de caráter pragmático.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Inclinação de natureza passional.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:48",
+  "variantKey": "48",
+  "title": "Questão 48 - ENEM 2017",
+  "index": 48,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A moralidade, Bentham exortava, não é uma questão de agradar a Deus, muito menos de fidelidade a regras abstratas. A moralidade é a tentativa de criar a maior quantidade de felicidade possível neste mundo. Ao decidir o que fazer, deveríamos, portanto, perguntar qual curso de conduta promoveria a maior quantidade de felicidade para todos aqueles que serão afetados.\n\nRACHELS, J. Os elementos dafilosofia moral. Barueri-SP: Manole, 2006.",
+  "alternativesIntroductionMarkdown": "Os parâmetros da ação indicados no texto estão em conformidade com uma",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2017:48:A",
+      "letter": "A",
+      "textMarkdown": "Fundamentação científica de viés positivista.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:48:B",
+      "letter": "B",
+      "textMarkdown": "Convenção social de orientação normativa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:48:C",
+      "letter": "C",
+      "textMarkdown": "Transgressão comportamental religiosa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:48:D",
+      "letter": "D",
+      "textMarkdown": "Racionalidade de caráter pragmático.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:48:E",
+      "letter": "E",
+      "textMarkdown": "Inclinação de natureza passional.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

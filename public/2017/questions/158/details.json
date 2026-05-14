@@ -1,43 +1,50 @@
 {
-    "title": "Questão 158 - ENEM 2017",
-    "index": 158,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O volume do monumento original, em metro cúbico, é de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "100",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "400",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "1600",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "6250",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "10000",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:158",
+  "variantKey": "158",
+  "title": "Questão 158 - ENEM 2017",
+  "index": 158,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.",
+  "alternativesIntroductionMarkdown": "O volume do monumento original, em metro cúbico, é de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:158:A",
+      "letter": "A",
+      "textMarkdown": "100",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:158:B",
+      "letter": "B",
+      "textMarkdown": "400",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:158:C",
+      "letter": "C",
+      "textMarkdown": "1600",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:158:D",
+      "letter": "D",
+      "textMarkdown": "6250",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:158:E",
+      "letter": "E",
+      "textMarkdown": "10000",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

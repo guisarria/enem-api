@@ -1,43 +1,50 @@
 {
-    "title": "Questão 27 - ENEM 2019",
-    "index": 27,
-    "year": 2019,
-    "language": null,
-    "discipline": "linguagens",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Educação para a saúde mediante programas de educação física escolar\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquirí-lo e construílo de forma indivi dua lizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\nGUEDES, D. P. Motriz, n. 1, 1999.\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A adesão a programas de lazer.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Opção por dietas balanceadas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Constituição de hábitos saudáveis.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Evasão de ambientes estressores.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Realização de atividades físicas regulares.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:27",
+  "variantKey": "27",
+  "title": "Questão 27 - ENEM 2019",
+  "index": 27,
+  "year": 2019,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Educação para a saúde mediante programas de educação física escolar\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquirí-lo e construílo de forma indivi dua lizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\nGUEDES, D. P. Motriz, n. 1, 1999.\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:27:A",
+      "letter": "A",
+      "textMarkdown": "A adesão a programas de lazer.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:27:B",
+      "letter": "B",
+      "textMarkdown": "Opção por dietas balanceadas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:27:C",
+      "letter": "C",
+      "textMarkdown": "Constituição de hábitos saudáveis.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:27:D",
+      "letter": "D",
+      "textMarkdown": "Evasão de ambientes estressores.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:27:E",
+      "letter": "E",
+      "textMarkdown": "Realização de atividades físicas regulares.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

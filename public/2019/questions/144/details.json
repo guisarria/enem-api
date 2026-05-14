@@ -1,45 +1,58 @@
 {
-    "title": "Questão 144 - ENEM 2019",
-    "index": 144,
-    "year": 2019,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\n![](https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png)",
-    "files": [
-        "https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O teste que apresentou maior quantidade de acertos foi o aplicado na",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Segunda-feira.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Terça-feira.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Quarta-feira.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Quinta-feira.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Sexta-feira.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:144",
+  "variantKey": "144",
+  "title": "Questão 144 - ENEM 2019",
+  "index": 144,
+  "year": 2019,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\n![](/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png)",
+  "alternativesIntroductionMarkdown": "O teste que apresentou maior quantidade de acertos foi o aplicado na",
+  "assets": [
+    {
+      "id": "2019:144:asset:0",
+      "path": "/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:144:A",
+      "letter": "A",
+      "textMarkdown": "Segunda-feira.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:144:B",
+      "letter": "B",
+      "textMarkdown": "Terça-feira.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:144:C",
+      "letter": "C",
+      "textMarkdown": "Quarta-feira.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:144:D",
+      "letter": "D",
+      "textMarkdown": "Quinta-feira.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:144:E",
+      "letter": "E",
+      "textMarkdown": "Sexta-feira.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

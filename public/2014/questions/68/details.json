@@ -1,43 +1,50 @@
 {
-    "title": "Questão 68 - ENEM 2014",
-    "index": 68,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mudou de sentido.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Sofreu reflexão total.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Atingiu o valor do ângulo limite.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Direcionou-se para a superfície de separação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aproximou-se da normal à superfície de separação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:68",
+  "variantKey": "68",
+  "title": "Questão 68 - ENEM 2014",
+  "index": 68,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.",
+  "alternativesIntroductionMarkdown": "Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:68:A",
+      "letter": "A",
+      "textMarkdown": "Mudou de sentido.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:68:B",
+      "letter": "B",
+      "textMarkdown": "Sofreu reflexão total.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:68:C",
+      "letter": "C",
+      "textMarkdown": "Atingiu o valor do ângulo limite.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:68:D",
+      "letter": "D",
+      "textMarkdown": "Direcionou-se para a superfície de separação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:68:E",
+      "letter": "E",
+      "textMarkdown": "Aproximou-se da normal à superfície de separação.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

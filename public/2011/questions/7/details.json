@@ -1,43 +1,50 @@
 {
-    "title": "Questão 7 - ENEM 2011",
-    "index": 7,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma empresa norte-americana de bioenergia está expandindo suas operações para o Brasil para explorar o mercado de pinhão manso. Com sede na Califórnia, a empresa desenvolveu sementes híbridas de pinhão manso, oleaginosa utilizada hoje na produção de biodiesel e de querosene de aviação.\n\nMAGOSSI, E. **O Estado de São Paulo.** 19 maio 2011 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A partir do texto, a melhoria agronômica das sementes de pinhão manso abre para o Brasil a oportunidade econômica de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ampliar as regiões produtoras pela adaptação do cultivo a diferentes condições climáticas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Beneficiar os pequenos produtores camponeses de óleo pela venda direta ao varejo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Abandonar a energia automotiva derivada do petróleo em favor de fontes alternativas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Baratear cultivos alimentares substituídos pelas culturas energéticas de valor econômico superior.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Reduzir o impacto ambiental pela não emissão de gases do efeito estufa para a atmosfera.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:7",
+  "variantKey": "7",
+  "title": "Questão 7 - ENEM 2011",
+  "index": 7,
+  "year": 2011,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma empresa norte-americana de bioenergia está expandindo suas operações para o Brasil para explorar o mercado de pinhão manso. Com sede na Califórnia, a empresa desenvolveu sementes híbridas de pinhão manso, oleaginosa utilizada hoje na produção de biodiesel e de querosene de aviação.\n\nMAGOSSI, E. **O Estado de São Paulo.** 19 maio 2011 (adaptado).",
+  "alternativesIntroductionMarkdown": "A partir do texto, a melhoria agronômica das sementes de pinhão manso abre para o Brasil a oportunidade econômica de",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2011:7:A",
+      "letter": "A",
+      "textMarkdown": "Ampliar as regiões produtoras pela adaptação do cultivo a diferentes condições climáticas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:7:B",
+      "letter": "B",
+      "textMarkdown": "Beneficiar os pequenos produtores camponeses de óleo pela venda direta ao varejo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:7:C",
+      "letter": "C",
+      "textMarkdown": "Abandonar a energia automotiva derivada do petróleo em favor de fontes alternativas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:7:D",
+      "letter": "D",
+      "textMarkdown": "Baratear cultivos alimentares substituídos pelas culturas energéticas de valor econômico superior.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:7:E",
+      "letter": "E",
+      "textMarkdown": "Reduzir o impacto ambiental pela não emissão de gases do efeito estufa para a atmosfera.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

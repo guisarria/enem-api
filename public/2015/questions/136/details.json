@@ -1,45 +1,58 @@
 {
-    "title": "Questão 136 - ENEM 2015",
-    "index": 136,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png)",
-    "files": [
-        "https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Quantas operações o investidor fez naquele dia?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "3",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "4",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "5",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "6",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "7",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:136",
+  "variantKey": "136",
+  "title": "Questão 136 - ENEM 2015",
+  "index": 136,
+  "year": 2015,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png)",
+  "alternativesIntroductionMarkdown": "Quantas operações o investidor fez naquele dia?",
+  "assets": [
+    {
+      "id": "2015:136:asset:0",
+      "path": "/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:136:A",
+      "letter": "A",
+      "textMarkdown": "3",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:136:B",
+      "letter": "B",
+      "textMarkdown": "4",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:136:C",
+      "letter": "C",
+      "textMarkdown": "5",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:136:D",
+      "letter": "D",
+      "textMarkdown": "6",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:136:E",
+      "letter": "E",
+      "textMarkdown": "7",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

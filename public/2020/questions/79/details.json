@@ -1,43 +1,50 @@
 {
-    "title": "Questão 79 - ENEM 2020",
-    "index": 79,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "“O fenômeno histórico conhecido como “tráfico de coolies” esteve associado diretamente ao período que vai do final da década de 1840 até o ano de 1874, quando milhares de chineses foram encaminhados principalmente para Cuba e Peru e muitos abusos no recrutamento de mão de obra foram identificados. O tráfico de coolies ou, em outros termos, o transporte por meios coativos de mão de obra de um lugar para outro, foi comparado ao tráfico africano de escravos por muitos periodistas e analistas do século XIX.”\n\n(SANTOS, M. A. Migrações e trabalho sob contato no século XIX.  \nHistória. n. 12, 2017.)",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A comparação mencionada no texto foi possível em razão da seguinte característica:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Oferta de contrato formal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Origem étnica dos grupos de trabalhadores.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Conhecimento das tarefas desenvolvidas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Controle opressivo das vidas dos indivíduos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Investimento requerido dos empregadores.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:79",
+  "variantKey": "79",
+  "title": "Questão 79 - ENEM 2020",
+  "index": 79,
+  "year": 2020,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "“O fenômeno histórico conhecido como “tráfico de coolies” esteve associado diretamente ao período que vai do final da década de 1840 até o ano de 1874, quando milhares de chineses foram encaminhados principalmente para Cuba e Peru e muitos abusos no recrutamento de mão de obra foram identificados. O tráfico de coolies ou, em outros termos, o transporte por meios coativos de mão de obra de um lugar para outro, foi comparado ao tráfico africano de escravos por muitos periodistas e analistas do século XIX.”\n\n(SANTOS, M. A. Migrações e trabalho sob contato no século XIX.  \nHistória. n. 12, 2017.)",
+  "alternativesIntroductionMarkdown": "A comparação mencionada no texto foi possível em razão da seguinte característica:",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2020:79:A",
+      "letter": "A",
+      "textMarkdown": "Oferta de contrato formal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:79:B",
+      "letter": "B",
+      "textMarkdown": "Origem étnica dos grupos de trabalhadores.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:79:C",
+      "letter": "C",
+      "textMarkdown": "Conhecimento das tarefas desenvolvidas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:79:D",
+      "letter": "D",
+      "textMarkdown": "Controle opressivo das vidas dos indivíduos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:79:E",
+      "letter": "E",
+      "textMarkdown": "Investimento requerido dos empregadores.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

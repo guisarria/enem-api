@@ -1,43 +1,50 @@
 {
-    "title": "Questão 100 - ENEM 2014",
-    "index": 100,
-    "year": 2014,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem.\n\nROSA, J. G. **Grande sertão: veredas**. Rio de Janeiro: Nova Fronteira, 1986.\n\nNo romance _Grande sertão: veredas_, o protagonista Riobaldo narra sua trajetória de jagunço.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A leitura do trecho permite identificar que o desabafo de Riobaldo se aproxima de um(a):",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Diário, por trazer lembranças pessoais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Fábula, por apresentar uma lição de moral.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Notícia, por informar sobre um acontecimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aforismo, por expor uma máxima em poucas palavras.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Crônica, por tratar de fatos do cotidiano.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2014",
+  "index": 100,
+  "year": 2014,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem.\n\nROSA, J. G. **Grande sertão: veredas**. Rio de Janeiro: Nova Fronteira, 1986.\n\nNo romance _Grande sertão: veredas_, o protagonista Riobaldo narra sua trajetória de jagunço.",
+  "alternativesIntroductionMarkdown": "A leitura do trecho permite identificar que o desabafo de Riobaldo se aproxima de um(a):",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:100:A",
+      "letter": "A",
+      "textMarkdown": "Diário, por trazer lembranças pessoais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:100:B",
+      "letter": "B",
+      "textMarkdown": "Fábula, por apresentar uma lição de moral.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:100:C",
+      "letter": "C",
+      "textMarkdown": "Notícia, por informar sobre um acontecimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:100:D",
+      "letter": "D",
+      "textMarkdown": "Aforismo, por expor uma máxima em poucas palavras.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:100:E",
+      "letter": "E",
+      "textMarkdown": "Crônica, por tratar de fatos do cotidiano.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 120 - ENEM 2019",
-    "index": 120,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\n![](https://enem.dev/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png)",
-    "files": [
-        "https://enem.dev/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A propriedade comum às estruturas que confere cor a esses compostos é a presença de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cadeia conjugada.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Cadeia ramificada.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Átomos de carbonos terciários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Ligações duplas de configuração cis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Átomos de carbonos de hibridação sp³.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:120",
+  "variantKey": "120",
+  "title": "Questão 120 - ENEM 2019",
+  "index": 120,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\n![](/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png)",
+  "alternativesIntroductionMarkdown": "A propriedade comum às estruturas que confere cor a esses compostos é a presença de",
+  "assets": [
+    {
+      "id": "2019:120:asset:0",
+      "path": "/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:120:A",
+      "letter": "A",
+      "textMarkdown": "Cadeia conjugada.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:120:B",
+      "letter": "B",
+      "textMarkdown": "Cadeia ramificada.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:120:C",
+      "letter": "C",
+      "textMarkdown": "Átomos de carbonos terciários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:120:D",
+      "letter": "D",
+      "textMarkdown": "Ligações duplas de configuração cis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:120:E",
+      "letter": "E",
+      "textMarkdown": "Átomos de carbonos de hibridação sp³.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

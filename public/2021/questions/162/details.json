@@ -1,45 +1,103 @@
 {
-    "title": "Questão 162 - ENEM 2021",
-    "index": 162,
-    "year": 2021,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).\n\n![](https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png)",
-    "files": [
-        "https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O gráfico que melhor representa essa relação é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2021/questions/162/41839cfc-4413-4111-b228-b6f835d314f6.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2021/questions/162/8e1d0658-17c6-447f-8852-a80221b9661f.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2021/questions/162/070fd147-aeb8-4211-9ace-d2ddecb2bc76.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2021/questions/162/a69d9997-7244-40d9-b945-11e7ac108a91.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2021/questions/162/b9498a83-138e-4d4e-8eb9-b9ec50dcf5f4.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:162",
+  "variantKey": "162",
+  "title": "Questão 162 - ENEM 2021",
+  "index": 162,
+  "year": 2021,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).\n\n![](/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png)",
+  "alternativesIntroductionMarkdown": "O gráfico que melhor representa essa relação é",
+  "assets": [
+    {
+      "id": "2021:162:asset:0",
+      "path": "/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2021:162:asset:1",
+      "path": "/2021/questions/162/41839cfc-4413-4111-b228-b6f835d314f6.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2021:162:asset:2",
+      "path": "/2021/questions/162/8e1d0658-17c6-447f-8852-a80221b9661f.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2021:162:asset:3",
+      "path": "/2021/questions/162/070fd147-aeb8-4211-9ace-d2ddecb2bc76.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2021:162:asset:4",
+      "path": "/2021/questions/162/a69d9997-7244-40d9-b945-11e7ac108a91.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2021:162:asset:5",
+      "path": "/2021/questions/162/b9498a83-138e-4d4e-8eb9-b9ec50dcf5f4.png",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:162:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2021:162:asset:1"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:162:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2021:162:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:162:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2021:162:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:162:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2021:162:asset:4"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:162:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2021:162:asset:5"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

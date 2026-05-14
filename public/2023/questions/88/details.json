@@ -1,43 +1,50 @@
 {
-    "title": "Questão 88 - ENEM 2023",
-    "index": 88,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício de violência.\n\nSANTOS, M. **Por uma outra globalização**: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Adoção do dumping comercial.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Fusão da função administrativa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Criação de holding empresarial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Limitação do mercado monopolista.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Modernização da produção industrial.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:88",
+  "variantKey": "88",
+  "title": "Questão 88 - ENEM 2023",
+  "index": 88,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício de violência.\n\nSANTOS, M. **Por uma outra globalização**: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.",
+  "alternativesIntroductionMarkdown": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2023:88:A",
+      "letter": "A",
+      "textMarkdown": "Adoção do dumping comercial.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:88:B",
+      "letter": "B",
+      "textMarkdown": "Fusão da função administrativa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:88:C",
+      "letter": "C",
+      "textMarkdown": "Criação de holding empresarial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:88:D",
+      "letter": "D",
+      "textMarkdown": "Limitação do mercado monopolista.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:88:E",
+      "letter": "E",
+      "textMarkdown": "Modernização da produção industrial.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

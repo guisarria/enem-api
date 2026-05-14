@@ -1,45 +1,58 @@
 {
-    "title": "Questão 56 - ENEM 2010",
-    "index": 56,
-    "year": 2010,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png)",
-    "files": [
-        "https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Pela circulação do magma no subsolo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Pelas erupções constantes dos vulcões.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Pelo sol que aquece as águas com radiação ultravioleta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Pela queima do carvão e combustível fósseis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Pelos detritos e cinzas vulcânicas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2010:56",
+  "variantKey": "56",
+  "title": "Questão 56 - ENEM 2010",
+  "index": 56,
+  "year": 2010,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png)",
+  "alternativesIntroductionMarkdown": "A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",
+  "assets": [
+    {
+      "id": "2010:56:asset:0",
+      "path": "/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2010:56:A",
+      "letter": "A",
+      "textMarkdown": "Pela circulação do magma no subsolo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2010:56:B",
+      "letter": "B",
+      "textMarkdown": "Pelas erupções constantes dos vulcões.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:56:C",
+      "letter": "C",
+      "textMarkdown": "Pelo sol que aquece as águas com radiação ultravioleta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:56:D",
+      "letter": "D",
+      "textMarkdown": "Pela queima do carvão e combustível fósseis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2010:56:E",
+      "letter": "E",
+      "textMarkdown": "Pelos detritos e cinzas vulcânicas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

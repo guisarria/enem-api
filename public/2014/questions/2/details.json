@@ -1,43 +1,50 @@
 {
-    "title": "Questão 2 - ENEM 2014",
-    "index": 2,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Sou uma pobre e velha mulher, Muito ignorante, que nem sabe ler. Mostraram-me na igreja da minha terra Um Paraíso com harpas pintado E o Inferno onde fervem almas danadas, Um enche-me de júbilo, o outro me aterra.\n\nVILLON, F. In: GOMBRICH, E. **História da arte**. Lisboa: LTC, 1999.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Os versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. Nesse contexto, as imagens eram usadas com o objetivo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Refinar o gosto dos cristãos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Incorporar ideais heréticos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Educar os fiéis através do olhar.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "O divulgar a genialidade dos artistas católicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Valorizar esteticamente os templos religiosos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:2",
+  "variantKey": "2",
+  "title": "Questão 2 - ENEM 2014",
+  "index": 2,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Sou uma pobre e velha mulher, Muito ignorante, que nem sabe ler. Mostraram-me na igreja da minha terra Um Paraíso com harpas pintado E o Inferno onde fervem almas danadas, Um enche-me de júbilo, o outro me aterra.\n\nVILLON, F. In: GOMBRICH, E. **História da arte**. Lisboa: LTC, 1999.",
+  "alternativesIntroductionMarkdown": "Os versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. Nesse contexto, as imagens eram usadas com o objetivo de",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2014:2:A",
+      "letter": "A",
+      "textMarkdown": "Refinar o gosto dos cristãos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:2:B",
+      "letter": "B",
+      "textMarkdown": "Incorporar ideais heréticos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:2:C",
+      "letter": "C",
+      "textMarkdown": "Educar os fiéis através do olhar.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:2:D",
+      "letter": "D",
+      "textMarkdown": "O divulgar a genialidade dos artistas católicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:2:E",
+      "letter": "E",
+      "textMarkdown": "Valorizar esteticamente os templos religiosos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

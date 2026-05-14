@@ -1,46 +1,65 @@
 {
-    "title": "Questão 162 - ENEM 2012",
-    "index": 162,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png)\n\nNeste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.\n\n![](https://enem.dev/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png)",
-    "files": [
-        "https://enem.dev/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png",
-        "https://enem.dev/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "2",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "3",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "5",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:162",
+  "variantKey": "162",
+  "title": "Questão 162 - ENEM 2012",
+  "index": 162,
+  "year": 2012,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png)\n\nNeste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.\n\n![](/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png)",
+  "alternativesIntroductionMarkdown": "Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?",
+  "assets": [
+    {
+      "id": "2012:162:asset:0",
+      "path": "/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2012:162:asset:1",
+      "path": "/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2012:162:A",
+      "letter": "A",
+      "textMarkdown": "1",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:162:B",
+      "letter": "B",
+      "textMarkdown": "2",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:162:C",
+      "letter": "C",
+      "textMarkdown": "3",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:162:D",
+      "letter": "D",
+      "textMarkdown": "4",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:162:E",
+      "letter": "E",
+      "textMarkdown": "5",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 43 - ENEM 2013",
-    "index": 43,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\n\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. **Folha de S. Paulo**, 2 dez. 2012.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Redução da utilização elétrica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ampliação do uso bioenergético.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Expansão das fontes renováveis.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Contenção da demanda urbano-industrial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Intensificação da dependência geotérmica.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:43",
+  "variantKey": "43",
+  "title": "Questão 43 - ENEM 2013",
+  "index": 43,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\n\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. **Folha de S. Paulo**, 2 dez. 2012.",
+  "alternativesIntroductionMarkdown": "A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:43:A",
+      "letter": "A",
+      "textMarkdown": "Redução da utilização elétrica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:43:B",
+      "letter": "B",
+      "textMarkdown": "Ampliação do uso bioenergético.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:43:C",
+      "letter": "C",
+      "textMarkdown": "Expansão das fontes renováveis.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:43:D",
+      "letter": "D",
+      "textMarkdown": "Contenção da demanda urbano-industrial.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:43:E",
+      "letter": "E",
+      "textMarkdown": "Intensificação da dependência geotérmica.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

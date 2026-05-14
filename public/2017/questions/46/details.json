@@ -1,43 +1,50 @@
 {
-    "title": "Questão 46 - ENEM 2017",
-    "index": 46,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "No império africano do Mali, no século XIV, Tombuctu foi centro de um comércio internacional onde tudo era negociado — sal, escravos, marfim etc. Havia também um grande comércio de livros de história, medicina, astronomia e matemática, além de grande concentração de estudantes. A importância cultural de Tombuctu pode ser percebida por meio de um velho provérbio: “O sal vem do norte, o ouro vem do sul, mas as palavras de Deus e os tesouros da sabedoria vêm de Tombuctu”.\n\nASSUMPÇÃO, J. E. **África: uma história a ser reescrita**. In: MACEDO, J. R. (Org.). Desvendando a história da África. Porto Alegre: UFRGS, 2008 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Uma explicação para o dinamismo dessa cidade e sua importância histórica no período mencionado era o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Isolamento geográfico do Saara ocidental.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Exploração intensiva de recursos naturais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Posição relativa nas redes de circulação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Tráfico transatlântico de mão de obra servil.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Competição econômica dos reinos da região.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:46",
+  "variantKey": "46",
+  "title": "Questão 46 - ENEM 2017",
+  "index": 46,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "No império africano do Mali, no século XIV, Tombuctu foi centro de um comércio internacional onde tudo era negociado — sal, escravos, marfim etc. Havia também um grande comércio de livros de história, medicina, astronomia e matemática, além de grande concentração de estudantes. A importância cultural de Tombuctu pode ser percebida por meio de um velho provérbio: “O sal vem do norte, o ouro vem do sul, mas as palavras de Deus e os tesouros da sabedoria vêm de Tombuctu”.\n\nASSUMPÇÃO, J. E. **África: uma história a ser reescrita**. In: MACEDO, J. R. (Org.). Desvendando a história da África. Porto Alegre: UFRGS, 2008 (adaptado).",
+  "alternativesIntroductionMarkdown": "Uma explicação para o dinamismo dessa cidade e sua importância histórica no período mencionado era o(a)",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2017:46:A",
+      "letter": "A",
+      "textMarkdown": "Isolamento geográfico do Saara ocidental.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:46:B",
+      "letter": "B",
+      "textMarkdown": "Exploração intensiva de recursos naturais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:46:C",
+      "letter": "C",
+      "textMarkdown": "Posição relativa nas redes de circulação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:46:D",
+      "letter": "D",
+      "textMarkdown": "Tráfico transatlântico de mão de obra servil.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:46:E",
+      "letter": "E",
+      "textMarkdown": "Competição econômica dos reinos da região.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

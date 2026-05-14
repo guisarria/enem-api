@@ -1,43 +1,50 @@
 {
-    "title": "Questão 80 - ENEM 2013",
-    "index": 80,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Dos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Aves.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Algas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Peixes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Insetos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Caranguejos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:80",
+  "variantKey": "80",
+  "title": "Questão 80 - ENEM 2013",
+  "index": 80,
+  "year": 2013,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.",
+  "alternativesIntroductionMarkdown": "Dos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:80:A",
+      "letter": "A",
+      "textMarkdown": "Aves.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:80:B",
+      "letter": "B",
+      "textMarkdown": "Algas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:80:C",
+      "letter": "C",
+      "textMarkdown": "Peixes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:80:D",
+      "letter": "D",
+      "textMarkdown": "Insetos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:80:E",
+      "letter": "E",
+      "textMarkdown": "Caranguejos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 109 - ENEM 2016",
-    "index": 109,
-    "year": 2016,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2016/questions/109/da4cc9c1-4c2d-4b3e-adda-738ad02b766c.png)\n\nDisponível em: www.paradapelavida.com.br. Acesso em: 15 nov. 2014.",
-    "files": [
-        "https://enem.dev/2016/questions/109/da4cc9c1-4c2d-4b3e-adda-738ad02b766c.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Nesse texto, a combinação de elementos verbais e não verbais configura-se como estratégia argumentativa para",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Manifestar a preocupação do governo com a segurança dos pedestres.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Associar a utilização do celular às ocorrências de atropelamento de crianças.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Orientar pedestres e motoristas quanto à utilização responsável do telefone móvel.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Influenciar o comportamento de motoristas em relação ao uso de celular no trânsito.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Alertar a população para os riscos da falta de atenção no trânsito das grandes cidades.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:109",
+  "variantKey": "109",
+  "title": "Questão 109 - ENEM 2016",
+  "index": 109,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/109/da4cc9c1-4c2d-4b3e-adda-738ad02b766c.png)\n\nDisponível em: www.paradapelavida.com.br. Acesso em: 15 nov. 2014.",
+  "alternativesIntroductionMarkdown": "Nesse texto, a combinação de elementos verbais e não verbais configura-se como estratégia argumentativa para",
+  "assets": [
+    {
+      "id": "2016:109:asset:0",
+      "path": "/2016/questions/109/da4cc9c1-4c2d-4b3e-adda-738ad02b766c.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2016:109:A",
+      "letter": "A",
+      "textMarkdown": "Manifestar a preocupação do governo com a segurança dos pedestres.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:109:B",
+      "letter": "B",
+      "textMarkdown": "Associar a utilização do celular às ocorrências de atropelamento de crianças.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:109:C",
+      "letter": "C",
+      "textMarkdown": "Orientar pedestres e motoristas quanto à utilização responsável do telefone móvel.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:109:D",
+      "letter": "D",
+      "textMarkdown": "Influenciar o comportamento de motoristas em relação ao uso de celular no trânsito.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:109:E",
+      "letter": "E",
+      "textMarkdown": "Alertar a população para os riscos da falta de atenção no trânsito das grandes cidades.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

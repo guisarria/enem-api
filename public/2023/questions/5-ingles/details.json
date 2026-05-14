@@ -1,43 +1,58 @@
 {
-    "title": "Questão 5 - ENEM 2023",
-    "index": 5,
-    "year": 2023,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/broken-image.svg)\n\nDisponivel em: www.cartoonstock.com. Acesso em: 25 out. 2021",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Criticar um padrão de vestimenta.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Destacar a falta de diversidade.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Indicar um modo de interação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Elogiar um modelo de organização.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Salientar o espírito de cooperação.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:5-ingles",
+  "variantKey": "5-ingles",
+  "title": "Questão 5 - ENEM 2023",
+  "index": 5,
+  "year": 2023,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/broken-image.svg)\n\nDisponivel em: www.cartoonstock.com. Acesso em: 25 out. 2021",
+  "alternativesIntroductionMarkdown": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+  "assets": [
+    {
+      "id": "2023:5-ingles:asset:0",
+      "path": "/broken-image.svg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2023:5-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Criticar um padrão de vestimenta.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:5-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Destacar a falta de diversidade.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:5-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Indicar um modo de interação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:5-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Elogiar um modelo de organização.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:5-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Salientar o espírito de cooperação.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

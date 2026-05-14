@@ -1,43 +1,50 @@
 {
-    "title": "Questão 98 - ENEM 2023",
-    "index": 98,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade impar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.\n\nDisponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ácidos necleicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Carboidratos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Proteínas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Vitaminas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Lipídios.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:98",
+  "variantKey": "98",
+  "title": "Questão 98 - ENEM 2023",
+  "index": 98,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade impar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.\n\nDisponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2023:98:A",
+      "letter": "A",
+      "textMarkdown": "Ácidos necleicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:98:B",
+      "letter": "B",
+      "textMarkdown": "Carboidratos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:98:C",
+      "letter": "C",
+      "textMarkdown": "Proteínas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:98:D",
+      "letter": "D",
+      "textMarkdown": "Vitaminas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:98:E",
+      "letter": "E",
+      "textMarkdown": "Lipídios.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

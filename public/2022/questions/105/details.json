@@ -1,43 +1,50 @@
 {
-    "title": "Questão 105 - ENEM 2022",
-    "index": 105,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:105",
+  "variantKey": "105",
+  "title": "Questão 105 - ENEM 2022",
+  "index": 105,
+  "year": 2022,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.",
+  "alternativesIntroductionMarkdown": "Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2022:105:A",
+      "letter": "A",
+      "textMarkdown": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:105:B",
+      "letter": "B",
+      "textMarkdown": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:105:C",
+      "letter": "C",
+      "textMarkdown": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:105:D",
+      "letter": "D",
+      "textMarkdown": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:105:E",
+      "letter": "E",
+      "textMarkdown": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 36 - ENEM 2014",
-    "index": 36,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png)",
-    "files": [
-        "https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Separação da Pangeia a partir do período Permiano.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Deslocamento de fraturas no período Triássico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Afastamento da Europa no período Jurássico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Formação do Atlântico Sul no período Cretáceo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Constituição de orogêneses no período Quaternário.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:36",
+  "variantKey": "36",
+  "title": "Questão 36 - ENEM 2014",
+  "index": 36,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png)",
+  "alternativesIntroductionMarkdown": "A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+  "assets": [
+    {
+      "id": "2014:36:asset:0",
+      "path": "/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:36:A",
+      "letter": "A",
+      "textMarkdown": "Separação da Pangeia a partir do período Permiano.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:36:B",
+      "letter": "B",
+      "textMarkdown": "Deslocamento de fraturas no período Triássico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:36:C",
+      "letter": "C",
+      "textMarkdown": "Afastamento da Europa no período Jurássico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:36:D",
+      "letter": "D",
+      "textMarkdown": "Formação do Atlântico Sul no período Cretáceo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:36:E",
+      "letter": "E",
+      "textMarkdown": "Constituição de orogêneses no período Quaternário.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

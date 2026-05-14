@@ -1,43 +1,96 @@
 {
-    "title": "Questão 153 - ENEM 2013",
-    "index": 153,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.\n\nHUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/153/34ca8439-c1eb-4c1b-85fa-47f889e16848.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/153/ad127eb1-01b2-4805-84d0-1e76fd73f986.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/153/6329c3a6-1980-48c6-9ba7-e67ae5bfe240.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/153/5c98fa2b-6a4a-4bef-bf66-7b418f8b0431.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/153/26be7b7d-a85f-4cc8-99c6-2ac12524ba80.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:153",
+  "variantKey": "153",
+  "title": "Questão 153 - ENEM 2013",
+  "index": 153,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.\n\nHUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).",
+  "alternativesIntroductionMarkdown": "Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:",
+  "assets": [
+    {
+      "id": "2013:153:asset:0",
+      "path": "/2013/questions/153/34ca8439-c1eb-4c1b-85fa-47f889e16848.png",
+      "role": "alternative",
+      "position": 0,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2013:153:asset:1",
+      "path": "/2013/questions/153/ad127eb1-01b2-4805-84d0-1e76fd73f986.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2013:153:asset:2",
+      "path": "/2013/questions/153/6329c3a6-1980-48c6-9ba7-e67ae5bfe240.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2013:153:asset:3",
+      "path": "/2013/questions/153/5c98fa2b-6a4a-4bef-bf66-7b418f8b0431.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2013:153:asset:4",
+      "path": "/2013/questions/153/26be7b7d-a85f-4cc8-99c6-2ac12524ba80.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:153:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:153:asset:0"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:153:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:153:asset:1"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:153:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:153:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:153:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:153:asset:3"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:153:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:153:asset:4"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

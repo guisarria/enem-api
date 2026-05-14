@@ -1,43 +1,50 @@
 {
-    "title": "Questão 166 - ENEM 2011",
-    "index": 166,
-    "year": 2011,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.\n\n**Época**.26 abr. 2010 (adaptado).\n\nSupondo que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "4 mil.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "9 mil.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "21 mil.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "35 mil.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "39 mil.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:166",
+  "variantKey": "166",
+  "title": "Questão 166 - ENEM 2011",
+  "index": 166,
+  "year": 2011,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.\n\n**Época**.26 abr. 2010 (adaptado).\n\nSupondo que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.",
+  "alternativesIntroductionMarkdown": "De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2011:166:A",
+      "letter": "A",
+      "textMarkdown": "4 mil.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:166:B",
+      "letter": "B",
+      "textMarkdown": "9 mil.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:166:C",
+      "letter": "C",
+      "textMarkdown": "21 mil.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:166:D",
+      "letter": "D",
+      "textMarkdown": "35 mil.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:166:E",
+      "letter": "E",
+      "textMarkdown": "39 mil.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

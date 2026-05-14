@@ -1,45 +1,58 @@
 {
-    "title": "Questão 89 - ENEM 2023",
-    "index": 89,
-    "year": 2023,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG)",
-    "files": [
-        "https://enem.dev/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Expandir o transporte marítimo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Incentivar os fluxos migratórios.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Monitorar as atividades vulcânicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Controlar as emissões de carbono.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Priorizar a utilização de termoelétricas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2023:89",
+  "variantKey": "89",
+  "title": "Questão 89 - ENEM 2023",
+  "index": 89,
+  "year": 2023,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG)",
+  "alternativesIntroductionMarkdown": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+  "assets": [
+    {
+      "id": "2023:89:asset:0",
+      "path": "/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2023:89:A",
+      "letter": "A",
+      "textMarkdown": "Expandir o transporte marítimo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:89:B",
+      "letter": "B",
+      "textMarkdown": "Incentivar os fluxos migratórios.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:89:C",
+      "letter": "C",
+      "textMarkdown": "Monitorar as atividades vulcânicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2023:89:D",
+      "letter": "D",
+      "textMarkdown": "Controlar as emissões de carbono.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2023:89:E",
+      "letter": "E",
+      "textMarkdown": "Priorizar a utilização de termoelétricas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

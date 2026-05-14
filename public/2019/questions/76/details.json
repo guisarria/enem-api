@@ -1,43 +1,50 @@
 {
-    "title": "Questão 76 - ENEM 2019",
-    "index": 76,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\n**ARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).**",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a):",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ideário nacional, que legitima as desigualdades sociais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Alienação ideológica, que justifica as ações individuais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Cosmologia religiosa, que sustenta as tradições hierárquicas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Segregação humana, que fundamenta os projetos biopolíticos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Enquadramento cultural, que favorece os comportamentos punitivos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:76",
+  "variantKey": "76",
+  "title": "Questão 76 - ENEM 2019",
+  "index": 76,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\n**ARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).**",
+  "alternativesIntroductionMarkdown": "A partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a):",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2019:76:A",
+      "letter": "A",
+      "textMarkdown": "Ideário nacional, que legitima as desigualdades sociais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:76:B",
+      "letter": "B",
+      "textMarkdown": "Alienação ideológica, que justifica as ações individuais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:76:C",
+      "letter": "C",
+      "textMarkdown": "Cosmologia religiosa, que sustenta as tradições hierárquicas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:76:D",
+      "letter": "D",
+      "textMarkdown": "Segregação humana, que fundamenta os projetos biopolíticos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:76:E",
+      "letter": "E",
+      "textMarkdown": "Enquadramento cultural, que favorece os comportamentos punitivos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

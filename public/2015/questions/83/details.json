@@ -1,43 +1,50 @@
 {
-    "title": "Questão 83 - ENEM 2015",
-    "index": 83,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Uma das características a que o texto se refere é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Reprodução por viviparidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Respiração pulmonar nos adultos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Regulação térmica por endotermia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Cobertura corporal delgada e altamente permeável.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Locomoção por membros anteriores e posteriores desenvolvidos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:83",
+  "variantKey": "83",
+  "title": "Questão 83 - ENEM 2015",
+  "index": 83,
+  "year": 2015,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.",
+  "alternativesIntroductionMarkdown": "Uma das características a que o texto se refere é a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2015:83:A",
+      "letter": "A",
+      "textMarkdown": "Reprodução por viviparidade.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:83:B",
+      "letter": "B",
+      "textMarkdown": "Respiração pulmonar nos adultos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:83:C",
+      "letter": "C",
+      "textMarkdown": "Regulação térmica por endotermia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:83:D",
+      "letter": "D",
+      "textMarkdown": "Cobertura corporal delgada e altamente permeável.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:83:E",
+      "letter": "E",
+      "textMarkdown": "Locomoção por membros anteriores e posteriores desenvolvidos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

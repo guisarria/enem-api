@@ -1,43 +1,50 @@
 {
-    "title": "Questão 21 - ENEM 2013",
-    "index": 21,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.\n\nBercito, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Surgimento de um país binacional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Fortalecimento de movimentos antissemitas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Esvaziamento de assentamentos judaicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Reconhecimento de uma autoridade jurídica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Estabelecimento de fronteiras nacionais.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:21",
+  "variantKey": "21",
+  "title": "Questão 21 - ENEM 2013",
+  "index": 21,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.\n\nBercito, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado).",
+  "alternativesIntroductionMarkdown": "O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2013:21:A",
+      "letter": "A",
+      "textMarkdown": "Surgimento de um país binacional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:21:B",
+      "letter": "B",
+      "textMarkdown": "Fortalecimento de movimentos antissemitas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:21:C",
+      "letter": "C",
+      "textMarkdown": "Esvaziamento de assentamentos judaicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:21:D",
+      "letter": "D",
+      "textMarkdown": "Reconhecimento de uma autoridade jurídica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:21:E",
+      "letter": "E",
+      "textMarkdown": "Estabelecimento de fronteiras nacionais.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

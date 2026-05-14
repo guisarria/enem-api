@@ -1,43 +1,50 @@
 {
-    "title": "Questão 100 - ENEM 2017",
-    "index": 100,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.\n\nMOUTINHO, S. **Coagulação acelerada.** Disponível em: http://cienciahoje.uol.com.br.  \nAcesso em: 19 fev. 2013 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual a doença cujos pacientes teriam melhora de seu estado de saúde com o uso desse material?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Filariose.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Hemofilia.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Aterosclerose.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Doença de Chagas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Síndrome da imunodeficiência adquirida.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2017",
+  "index": 100,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.\n\nMOUTINHO, S. **Coagulação acelerada.** Disponível em: http://cienciahoje.uol.com.br.  \nAcesso em: 19 fev. 2013 (adaptado).",
+  "alternativesIntroductionMarkdown": "Qual a doença cujos pacientes teriam melhora de seu estado de saúde com o uso desse material?",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:100:A",
+      "letter": "A",
+      "textMarkdown": "Filariose.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:100:B",
+      "letter": "B",
+      "textMarkdown": "Hemofilia.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:100:C",
+      "letter": "C",
+      "textMarkdown": "Aterosclerose.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:100:D",
+      "letter": "D",
+      "textMarkdown": "Doença de Chagas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:100:E",
+      "letter": "E",
+      "textMarkdown": "Síndrome da imunodeficiência adquirida.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

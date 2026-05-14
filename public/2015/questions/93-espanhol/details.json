@@ -1,45 +1,58 @@
 {
-    "title": "Questão 93 - ENEM 2015",
-    "index": 93,
-    "year": 2015,
-    "language": "espanhol",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg)\n\nDisponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).",
-    "files": [
-        "https://enem.dev/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A acessibilidade é um tema de relevância tanto na esfera pública quanto na esfera privada. No cartaz, a exploração desse tema destaca a importância de se",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Estimular os cadeirantes na superação de barreiras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Respeitar o estacionamento destinado a cadeirantes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Identificar as vagas reservadas aos cadeirantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Eliminar os obstáculos para o trânsito de cadeirantes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Facilitar a locomoção de cadeirantes em estacionamentos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2015:93-espanhol",
+  "variantKey": "93-espanhol",
+  "title": "Questão 93 - ENEM 2015",
+  "index": 93,
+  "year": 2015,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "contextMarkdown": "![](/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg)\n\nDisponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "A acessibilidade é um tema de relevância tanto na esfera pública quanto na esfera privada. No cartaz, a exploração desse tema destaca a importância de se",
+  "assets": [
+    {
+      "id": "2015:93-espanhol:asset:0",
+      "path": "/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2015:93-espanhol:A",
+      "letter": "A",
+      "textMarkdown": "Estimular os cadeirantes na superação de barreiras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-espanhol:B",
+      "letter": "B",
+      "textMarkdown": "Respeitar o estacionamento destinado a cadeirantes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2015:93-espanhol:C",
+      "letter": "C",
+      "textMarkdown": "Identificar as vagas reservadas aos cadeirantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-espanhol:D",
+      "letter": "D",
+      "textMarkdown": "Eliminar os obstáculos para o trânsito de cadeirantes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2015:93-espanhol:E",
+      "letter": "E",
+      "textMarkdown": "Facilitar a locomoção de cadeirantes em estacionamentos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

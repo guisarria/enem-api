@@ -1,43 +1,50 @@
 {
-    "title": "Questão 78 - ENEM 2013",
-    "index": 78,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.\n\nBRASIL. Brasil livre da rubéola: campanha nacional de vacinação para eliminação da rubéola. Brasília: Ministério da Saúde, 2009 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Considerando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Ficam mais expostos a esse vírus.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Transmitem o vírus a mulheres gestantes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Passam a infecção diretamente para o feto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Transferem imunidade às parceiras grávidas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "São mais suscetíveis a esse vírus que as mulheres.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:78",
+  "variantKey": "78",
+  "title": "Questão 78 - ENEM 2013",
+  "index": 78,
+  "year": 2013,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.\n\nBRASIL. Brasil livre da rubéola: campanha nacional de vacinação para eliminação da rubéola. Brasília: Ministério da Saúde, 2009 (adaptado).",
+  "alternativesIntroductionMarkdown": "Considerando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:78:A",
+      "letter": "A",
+      "textMarkdown": "Ficam mais expostos a esse vírus.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:78:B",
+      "letter": "B",
+      "textMarkdown": "Transmitem o vírus a mulheres gestantes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:78:C",
+      "letter": "C",
+      "textMarkdown": "Passam a infecção diretamente para o feto.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:78:D",
+      "letter": "D",
+      "textMarkdown": "Transferem imunidade às parceiras grávidas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:78:E",
+      "letter": "E",
+      "textMarkdown": "São mais suscetíveis a esse vírus que as mulheres.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

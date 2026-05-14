@@ -1,43 +1,50 @@
 {
-    "title": "Questão 61 - ENEM 2021",
-    "index": 61,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importante na tentativa de tomar o Rio de Janeiro um polo de serviços internacional, a “revitalização” urbana deveria deixar para trás uma paisagem geográfica que ainda recordava a cidade do início do século passado para abrir espaço, em seu lugar, à instalação de modernas torres comerciais, espaços de consumo e lazer inéditos e cerca de cem mil novos moradores, uma nova configuração socioespacial capaz de alçar a área portuária do Rio de Janeiro ao patamar dos _waterfronts_ de Baltimore, Barcelona e Buenos Aires.\n\nLACERDA, L; WERNECK. M; RIBEIRO, N. Cortiços de hoje na cidade do amanhã. **E-metropolis**, n. 30, set; 2017.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "As intervenções urbanas descritas derivam de um processo socioespacial que busca a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Intensificação da participação na competividade global.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Contenção da especulação no mercado imobiliário.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Democratização da habitação popular.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Valorização das funções tradicionais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Priorização da gestão participativa.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:61",
+  "variantKey": "61",
+  "title": "Questão 61 - ENEM 2021",
+  "index": 61,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importante na tentativa de tomar o Rio de Janeiro um polo de serviços internacional, a “revitalização” urbana deveria deixar para trás uma paisagem geográfica que ainda recordava a cidade do início do século passado para abrir espaço, em seu lugar, à instalação de modernas torres comerciais, espaços de consumo e lazer inéditos e cerca de cem mil novos moradores, uma nova configuração socioespacial capaz de alçar a área portuária do Rio de Janeiro ao patamar dos _waterfronts_ de Baltimore, Barcelona e Buenos Aires.\n\nLACERDA, L; WERNECK. M; RIBEIRO, N. Cortiços de hoje na cidade do amanhã. **E-metropolis**, n. 30, set; 2017.",
+  "alternativesIntroductionMarkdown": "As intervenções urbanas descritas derivam de um processo socioespacial que busca a",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:61:A",
+      "letter": "A",
+      "textMarkdown": "Intensificação da participação na competividade global.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:61:B",
+      "letter": "B",
+      "textMarkdown": "Contenção da especulação no mercado imobiliário.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:61:C",
+      "letter": "C",
+      "textMarkdown": "Democratização da habitação popular.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:61:D",
+      "letter": "D",
+      "textMarkdown": "Valorização das funções tradicionais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:61:E",
+      "letter": "E",
+      "textMarkdown": "Priorização da gestão participativa.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

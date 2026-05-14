@@ -1,43 +1,50 @@
 {
-    "title": "Questão 20 - ENEM 2014",
-    "index": 20,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.\n\nGIORGI, J. Muralha verde. **Folha de S. Paulo**, 20 maio 2013 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O projeto ambiental descrito proporciona a seguinte consequência regional imediata:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Facilita as trocas comerciais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Soluciona os conflitos fundiários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Restringe a diversidade biológica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Fomenta a atividade de pastoreio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Evita a expansão da desertificação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2014:20",
+  "variantKey": "20",
+  "title": "Questão 20 - ENEM 2014",
+  "index": 20,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.\n\nGIORGI, J. Muralha verde. **Folha de S. Paulo**, 20 maio 2013 (adaptado).",
+  "alternativesIntroductionMarkdown": "O projeto ambiental descrito proporciona a seguinte consequência regional imediata:",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2014:20:A",
+      "letter": "A",
+      "textMarkdown": "Facilita as trocas comerciais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:20:B",
+      "letter": "B",
+      "textMarkdown": "Soluciona os conflitos fundiários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:20:C",
+      "letter": "C",
+      "textMarkdown": "Restringe a diversidade biológica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:20:D",
+      "letter": "D",
+      "textMarkdown": "Fomenta a atividade de pastoreio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:20:E",
+      "letter": "E",
+      "textMarkdown": "Evita a expansão da desertificação.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

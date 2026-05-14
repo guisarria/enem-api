@@ -1,43 +1,50 @@
 {
-    "title": "Questão 171 - ENEM 2012",
-    "index": 171,
-    "year": 2012,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.\n\nDado: 1° equivale a 60’ e 1’ equivale a 60”.\n\nPAVARIN, G. Galileu, fev. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A representação angular da localização do vulcão com relação a sua longitude na forma decimal é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "124,02°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "124,05°.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "124,20°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "124,30°.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "124,50°.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:171",
+  "variantKey": "171",
+  "title": "Questão 171 - ENEM 2012",
+  "index": 171,
+  "year": 2012,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.\n\nDado: 1° equivale a 60’ e 1’ equivale a 60”.\n\nPAVARIN, G. Galileu, fev. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "A representação angular da localização do vulcão com relação a sua longitude na forma decimal é",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2012:171:A",
+      "letter": "A",
+      "textMarkdown": "124,02°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:171:B",
+      "letter": "B",
+      "textMarkdown": "124,05°.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:171:C",
+      "letter": "C",
+      "textMarkdown": "124,20°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:171:D",
+      "letter": "D",
+      "textMarkdown": "124,30°.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:171:E",
+      "letter": "E",
+      "textMarkdown": "124,50°.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

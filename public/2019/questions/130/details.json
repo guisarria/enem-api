@@ -1,43 +1,50 @@
 {
-    "title": "Questão 130 - ENEM 2019",
-    "index": 130,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma cozinheira colocou sal a mais no feijão que estava cozinhando. Para solucionar o problema, ela acrescentou batatas cruas e sem tempero dentro da panela. Quando terminou de cozinhá-lo, as batatas estavam salgadas, porque absorveram parte do caldo com excesso de sal. Finalmente, ela adicionou água para completar o caldo do feijão.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "O sal foi absorvido pelas batatas por:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Osmose, por envolver apenas o transporte do solvente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Fagocitose, porque o sal transportado é uma substância sólida.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Exocitose, uma vez que o sal foi transportado da água para a batata.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Pinocitose, porque o sal estava diluído na água quando foi transportado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Difusão, porque o transporte ocorreu a favor do gradiente de concentração.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2019:130",
+  "variantKey": "130",
+  "title": "Questão 130 - ENEM 2019",
+  "index": 130,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Uma cozinheira colocou sal a mais no feijão que estava cozinhando. Para solucionar o problema, ela acrescentou batatas cruas e sem tempero dentro da panela. Quando terminou de cozinhá-lo, as batatas estavam salgadas, porque absorveram parte do caldo com excesso de sal. Finalmente, ela adicionou água para completar o caldo do feijão.",
+  "alternativesIntroductionMarkdown": "O sal foi absorvido pelas batatas por:",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2019:130:A",
+      "letter": "A",
+      "textMarkdown": "Osmose, por envolver apenas o transporte do solvente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:130:B",
+      "letter": "B",
+      "textMarkdown": "Fagocitose, porque o sal transportado é uma substância sólida.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:130:C",
+      "letter": "C",
+      "textMarkdown": "Exocitose, uma vez que o sal foi transportado da água para a batata.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:130:D",
+      "letter": "D",
+      "textMarkdown": "Pinocitose, porque o sal estava diluído na água quando foi transportado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:130:E",
+      "letter": "E",
+      "textMarkdown": "Difusão, porque o transporte ocorreu a favor do gradiente de concentração.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

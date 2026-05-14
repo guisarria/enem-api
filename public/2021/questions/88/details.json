@@ -1,43 +1,50 @@
 {
-    "title": "Questão 88 - ENEM 2021",
-    "index": 88,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "É preciso usar de violência e rebater varonilmente os apetites dos sentidos sem atender ao que a carne quer ou não quer, mas trabalhando por sujeitá-la ao espírito, ainda que se revolte. Cumpre castigá-la e curvá-la à sujeição, a tal ponto que esteja disposta para tudo, sabendo  \ncontentar-se com pouco e deleitar-se com a simplicidade, sem resmungar por qualquer incômodo.\n\nKEMPIS, T. Imitação de Cristo. Petrópolis: Vozes, 2015",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual característica do ascetismo medieval é destacada no texto?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Exaltação do ritualismo litúrgico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Afirmação do pensamento racional.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Desqualificação da atividade laboral.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Condenação da alimentação impura.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desvalorização da materialidade corpórea.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2021:88",
+  "variantKey": "88",
+  "title": "Questão 88 - ENEM 2021",
+  "index": 88,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "É preciso usar de violência e rebater varonilmente os apetites dos sentidos sem atender ao que a carne quer ou não quer, mas trabalhando por sujeitá-la ao espírito, ainda que se revolte. Cumpre castigá-la e curvá-la à sujeição, a tal ponto que esteja disposta para tudo, sabendo  \ncontentar-se com pouco e deleitar-se com a simplicidade, sem resmungar por qualquer incômodo.\n\nKEMPIS, T. Imitação de Cristo. Petrópolis: Vozes, 2015",
+  "alternativesIntroductionMarkdown": "Qual característica do ascetismo medieval é destacada no texto?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2021:88:A",
+      "letter": "A",
+      "textMarkdown": "Exaltação do ritualismo litúrgico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:88:B",
+      "letter": "B",
+      "textMarkdown": "Afirmação do pensamento racional.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:88:C",
+      "letter": "C",
+      "textMarkdown": "Desqualificação da atividade laboral.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:88:D",
+      "letter": "D",
+      "textMarkdown": "Condenação da alimentação impura.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:88:E",
+      "letter": "E",
+      "textMarkdown": "Desvalorização da materialidade corpórea.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

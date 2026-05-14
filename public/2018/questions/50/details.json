@@ -1,46 +1,65 @@
 {
-    "title": "Questão 50 - ENEM 2018",
-    "index": 50,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png)\n\n![](https://enem.dev/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png)",
-    "files": [
-        "https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png",
-        "https://enem.dev/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Esse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Impacto do medo da corrida armamentista.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Democratização do acesso à escola pública.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Preconceito de gênero no transporte coletivo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Deflagração do movimento por igualdade civil.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Eclosão da rebeldia no comportamento juvenil.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:50",
+  "variantKey": "50",
+  "title": "Questão 50 - ENEM 2018",
+  "index": 50,
+  "year": 2018,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png)\n\n![](/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png)",
+  "alternativesIntroductionMarkdown": "Esse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
+  "assets": [
+    {
+      "id": "2018:50:asset:0",
+      "path": "/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:50:asset:1",
+      "path": "/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2018:50:A",
+      "letter": "A",
+      "textMarkdown": "Impacto do medo da corrida armamentista.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:50:B",
+      "letter": "B",
+      "textMarkdown": "Democratização do acesso à escola pública.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:50:C",
+      "letter": "C",
+      "textMarkdown": "Preconceito de gênero no transporte coletivo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:50:D",
+      "letter": "D",
+      "textMarkdown": "Deflagração do movimento por igualdade civil.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:50:E",
+      "letter": "E",
+      "textMarkdown": "Eclosão da rebeldia no comportamento juvenil.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

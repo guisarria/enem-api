@@ -1,43 +1,50 @@
 {
-    "title": "Questão 24 - ENEM 2019",
-    "index": 24,
-    "year": 2019,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Blues da piedade**\n\nVamos pedir piedade  \nSenhor, piedade  \nPra essa gente careta e covarde  \nVamos pedir piedade  \nSenhor, piedade  \nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:  \nUniversal Music, 2000 (fragmento).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Todo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Expositiva, por discorrer sobre um dado tema.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Narrativa, por apresentar uma cadeia de ações.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Injuntiva, por chamar o interlocutor à participação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Descritiva, por enumerar características de um personagem.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Argumentativa, por incitar o leitor a uma tomada de atitude.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:24",
+  "variantKey": "24",
+  "title": "Questão 24 - ENEM 2019",
+  "index": 24,
+  "year": 2019,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Blues da piedade**\n\nVamos pedir piedade  \nSenhor, piedade  \nPra essa gente careta e covarde  \nVamos pedir piedade  \nSenhor, piedade  \nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:  \nUniversal Music, 2000 (fragmento).",
+  "alternativesIntroductionMarkdown": "Todo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:24:A",
+      "letter": "A",
+      "textMarkdown": "Expositiva, por discorrer sobre um dado tema.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:24:B",
+      "letter": "B",
+      "textMarkdown": "Narrativa, por apresentar uma cadeia de ações.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:24:C",
+      "letter": "C",
+      "textMarkdown": "Injuntiva, por chamar o interlocutor à participação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:24:D",
+      "letter": "D",
+      "textMarkdown": "Descritiva, por enumerar características de um personagem.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:24:E",
+      "letter": "E",
+      "textMarkdown": "Argumentativa, por incitar o leitor a uma tomada de atitude.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

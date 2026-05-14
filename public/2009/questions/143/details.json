@@ -1,45 +1,58 @@
 {
-    "title": "Questão 143 - ENEM 2009",
-    "index": 143,
-    "year": 2009,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.\n\n![](https://enem.dev/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg)\n\nDisponível em: www.ibge.gov.br.",
-    "files": [
-        "https://enem.dev/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Considerando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "23.940.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "32.228.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "920.800.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "23.940.800.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "32.228.000.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:143",
+  "variantKey": "143",
+  "title": "Questão 143 - ENEM 2009",
+  "index": 143,
+  "year": 2009,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.\n\n![](/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg)\n\nDisponível em: www.ibge.gov.br.",
+  "alternativesIntroductionMarkdown": "Considerando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
+  "assets": [
+    {
+      "id": "2009:143:asset:0",
+      "path": "/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2009:143:A",
+      "letter": "A",
+      "textMarkdown": "23.940.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:143:B",
+      "letter": "B",
+      "textMarkdown": "32.228.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:143:C",
+      "letter": "C",
+      "textMarkdown": "920.800.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:143:D",
+      "letter": "D",
+      "textMarkdown": "23.940.800.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:143:E",
+      "letter": "E",
+      "textMarkdown": "32.228.000.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

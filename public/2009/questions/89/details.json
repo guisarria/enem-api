@@ -1,43 +1,50 @@
 {
-    "title": "Questão 89 - ENEM 2009",
-    "index": 89,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A mais profunda objeção que se faz à ideia da criação de uma cidade, como Brasília, é que o seu desenvolvimento não poderá jamais ser natural. É uma objeção muito séria, pois provém de uma concepção de vida fundamental: a de que a atividade social e cultural não pode ser uma construção. Esquecem-se, porém, aqueles que fazem tal crítica, que o Brasil, como praticamente toda a América, é criação do homem ocidental.\n\nPEDROSA, M. Utopia: obra de arte. **Vis – Revista do Programa de**  \n**Pós-graduação em Arte (UnB)**, Vol. 5, n. 1, 2006 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "As ideias apontadas no texto estão em oposição, porque",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A cultura dos povos é reduzida a exemplos esquemáticos que não encontram respaldo na história do Brasil ou da América.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "As cidades, na primeira afirmação, têm um papel mais fraco na vida social, enquanto a América é mostrada como um exemplo a ser evitado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A objeção inicial, de que as cidades não podem ser inventadas, é negada logo em seguida pelo exemplo utópico da colonização da América.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "A concepção fundamental da primeira afirmação defende a construção de cidades e a segunda mostra, historicamente, que essa estratégia acarretou sérios problemas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A primeira entende que as cidades devem ser organismos vivos, que nascem de forma espontânea, e a segunda mostra que há exemplos históricos que demonstram o contrário.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2009:89",
+  "variantKey": "89",
+  "title": "Questão 89 - ENEM 2009",
+  "index": 89,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A mais profunda objeção que se faz à ideia da criação de uma cidade, como Brasília, é que o seu desenvolvimento não poderá jamais ser natural. É uma objeção muito séria, pois provém de uma concepção de vida fundamental: a de que a atividade social e cultural não pode ser uma construção. Esquecem-se, porém, aqueles que fazem tal crítica, que o Brasil, como praticamente toda a América, é criação do homem ocidental.\n\nPEDROSA, M. Utopia: obra de arte. **Vis – Revista do Programa de**  \n**Pós-graduação em Arte (UnB)**, Vol. 5, n. 1, 2006 (adaptado).",
+  "alternativesIntroductionMarkdown": "As ideias apontadas no texto estão em oposição, porque",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2009:89:A",
+      "letter": "A",
+      "textMarkdown": "A cultura dos povos é reduzida a exemplos esquemáticos que não encontram respaldo na história do Brasil ou da América.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:89:B",
+      "letter": "B",
+      "textMarkdown": "As cidades, na primeira afirmação, têm um papel mais fraco na vida social, enquanto a América é mostrada como um exemplo a ser evitado.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:89:C",
+      "letter": "C",
+      "textMarkdown": "A objeção inicial, de que as cidades não podem ser inventadas, é negada logo em seguida pelo exemplo utópico da colonização da América.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:89:D",
+      "letter": "D",
+      "textMarkdown": "A concepção fundamental da primeira afirmação defende a construção de cidades e a segunda mostra, historicamente, que essa estratégia acarretou sérios problemas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:89:E",
+      "letter": "E",
+      "textMarkdown": "A primeira entende que as cidades devem ser organismos vivos, que nascem de forma espontânea, e a segunda mostra que há exemplos históricos que demonstram o contrário.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

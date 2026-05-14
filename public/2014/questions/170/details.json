@@ -1,45 +1,58 @@
 {
-    "title": "Questão 170 - ENEM 2014",
-    "index": 170,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png)\n\nEm seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.",
-    "files": [
-        "https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual é a medida, em centímetros, do lado da folha de papel usado na confecção do diploma?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Π d",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2π d",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "4π d",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "5π d",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "10π d",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:170",
+  "variantKey": "170",
+  "title": "Questão 170 - ENEM 2014",
+  "index": 170,
+  "year": 2014,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png)\n\nEm seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.",
+  "alternativesIntroductionMarkdown": "Qual é a medida, em centímetros, do lado da folha de papel usado na confecção do diploma?",
+  "assets": [
+    {
+      "id": "2014:170:asset:0",
+      "path": "/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:170:A",
+      "letter": "A",
+      "textMarkdown": "Π d",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:170:B",
+      "letter": "B",
+      "textMarkdown": "2π d",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:170:C",
+      "letter": "C",
+      "textMarkdown": "4π d",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:170:D",
+      "letter": "D",
+      "textMarkdown": "5π d",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:170:E",
+      "letter": "E",
+      "textMarkdown": "10π d",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

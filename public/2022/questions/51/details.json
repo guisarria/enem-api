@@ -1,43 +1,50 @@
 {
-    "title": "Questão 51 - ENEM 2022",
-    "index": 51,
-    "year": 2022,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, para identificar suas características global e em rede funda – mentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capa – cidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede  \nglobal de interação entre redes empresariais.\n\nCASTELLS, M. A sociedade em rede – a era da informação:  \neconomia, sociedade e cultura. São Paulo: Paz e Terra, 1999  \n(adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fabricação em série.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Ampliação de estoques.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Fragilização dos cartéis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Padronização de mercadorias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desterritorialização da produção.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2022:51",
+  "variantKey": "51",
+  "title": "Questão 51 - ENEM 2022",
+  "index": 51,
+  "year": 2022,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, para identificar suas características global e em rede funda – mentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capa – cidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede  \nglobal de interação entre redes empresariais.\n\nCASTELLS, M. A sociedade em rede – a era da informação:  \neconomia, sociedade e cultura. São Paulo: Paz e Terra, 1999  \n(adaptado).",
+  "alternativesIntroductionMarkdown": "Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2022:51:A",
+      "letter": "A",
+      "textMarkdown": "Fabricação em série.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:51:B",
+      "letter": "B",
+      "textMarkdown": "Ampliação de estoques.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:51:C",
+      "letter": "C",
+      "textMarkdown": "Fragilização dos cartéis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:51:D",
+      "letter": "D",
+      "textMarkdown": "Padronização de mercadorias.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:51:E",
+      "letter": "E",
+      "textMarkdown": "Desterritorialização da produção.",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

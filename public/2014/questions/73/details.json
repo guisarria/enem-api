@@ -1,43 +1,50 @@
 {
-    "title": "Questão 73 - ENEM 2014",
-    "index": 73,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Uma característica da mitocôndria que sustenta essa teoria é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Capacidade de produzir moléculas de ATP.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Presença de parede celular semelhante à de procariontes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:73",
+  "variantKey": "73",
+  "title": "Questão 73 - ENEM 2014",
+  "index": 73,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.",
+  "alternativesIntroductionMarkdown": "Uma característica da mitocôndria que sustenta essa teoria é a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2014:73:A",
+      "letter": "A",
+      "textMarkdown": "Capacidade de produzir moléculas de ATP.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:73:B",
+      "letter": "B",
+      "textMarkdown": "Presença de parede celular semelhante à de procariontes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:73:C",
+      "letter": "C",
+      "textMarkdown": "Presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:73:D",
+      "letter": "D",
+      "textMarkdown": "Capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:73:E",
+      "letter": "E",
+      "textMarkdown": "Presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

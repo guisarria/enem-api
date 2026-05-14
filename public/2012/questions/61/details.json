@@ -1,43 +1,50 @@
 {
-    "title": "Questão 61 - ENEM 2012",
-    "index": 61,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A eficiência das lâmpadas pode ser comparada utilizando a razão, considerada linear, entre a quantidade de luz produzida e o consumo. A quantidade de luz é medida pelo fluxo luminoso, cuja unidade é o lúmen (lm). O consumo está relacionado à potência elétrica da lâmpada que é medida em watt (W). Por exemplo, uma lâmpada incandescente de 40 W emite cerca de 600 lm, enquanto uma lâmpada fluorescente de 40 W emite cerca de 3 000 lm.\n\nDisponível em: http://tecnologia.terra.com.br. Acesso em: 29 fev. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A eficiência de uma lâmpada incandescente de 40 W é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Maior que a de uma lâmpada fluorescente de 8 W, que produz menor quantidade de luz.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Maior que a de uma lâmpada fluorescente de 40 W, que produz menor quantidade de luz.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Menor que a de uma lâmpada fluorescente de 8 W, que produz a mesma quantidade de luz.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Menor que a de uma lâmpada fluorescente de 40 W, pois consome maior quantidade de energia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Igual a de uma lâmpada fluorescente de 40 W, que consome a mesma quantidade de energia.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:61",
+  "variantKey": "61",
+  "title": "Questão 61 - ENEM 2012",
+  "index": 61,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A eficiência das lâmpadas pode ser comparada utilizando a razão, considerada linear, entre a quantidade de luz produzida e o consumo. A quantidade de luz é medida pelo fluxo luminoso, cuja unidade é o lúmen (lm). O consumo está relacionado à potência elétrica da lâmpada que é medida em watt (W). Por exemplo, uma lâmpada incandescente de 40 W emite cerca de 600 lm, enquanto uma lâmpada fluorescente de 40 W emite cerca de 3 000 lm.\n\nDisponível em: http://tecnologia.terra.com.br. Acesso em: 29 fev. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "A eficiência de uma lâmpada incandescente de 40 W é",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2012:61:A",
+      "letter": "A",
+      "textMarkdown": "Maior que a de uma lâmpada fluorescente de 8 W, que produz menor quantidade de luz.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:61:B",
+      "letter": "B",
+      "textMarkdown": "Maior que a de uma lâmpada fluorescente de 40 W, que produz menor quantidade de luz.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:61:C",
+      "letter": "C",
+      "textMarkdown": "Menor que a de uma lâmpada fluorescente de 8 W, que produz a mesma quantidade de luz.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:61:D",
+      "letter": "D",
+      "textMarkdown": "Menor que a de uma lâmpada fluorescente de 40 W, pois consome maior quantidade de energia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:61:E",
+      "letter": "E",
+      "textMarkdown": "Igual a de uma lâmpada fluorescente de 40 W, que consome a mesma quantidade de energia.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 124 - ENEM 2018",
-    "index": 124,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O petróleo é uma fonte de energia de baixo custo e de larga utilização como matéria-prima para uma grande variedade de produtos. É um óleo formado de várias substâncias de origem orgânica, em sua maioria hidrocarbonetos de diferentes massas molares.\n\nSão utilizadas técnicas de separação para obtenção dos componentes comercializáveis do petróleo.  \nAlém disso, para aumentar a quantidade de frações comercializáveis, otimizando o produto de origem fóssil, utiliza-se o processo de craqueamento.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O que ocorre nesse processo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Transformação das frações do petróleo em outras moléculas menores.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Reação de óxido-redução com transferência de elétrons entre as moléculas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Solubilização das frações do petróleo com a utilização de diferentes solventes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Decantação das moléculas com diferentes massas molares pelo uso de centrífugas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Separação dos diferentes componentes do petróleo em função de suas temperaturas de ebulição.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:124",
+  "variantKey": "124",
+  "title": "Questão 124 - ENEM 2018",
+  "index": 124,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "O petróleo é uma fonte de energia de baixo custo e de larga utilização como matéria-prima para uma grande variedade de produtos. É um óleo formado de várias substâncias de origem orgânica, em sua maioria hidrocarbonetos de diferentes massas molares.\n\nSão utilizadas técnicas de separação para obtenção dos componentes comercializáveis do petróleo.  \nAlém disso, para aumentar a quantidade de frações comercializáveis, otimizando o produto de origem fóssil, utiliza-se o processo de craqueamento.",
+  "alternativesIntroductionMarkdown": "O que ocorre nesse processo?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2018:124:A",
+      "letter": "A",
+      "textMarkdown": "Transformação das frações do petróleo em outras moléculas menores.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:124:B",
+      "letter": "B",
+      "textMarkdown": "Reação de óxido-redução com transferência de elétrons entre as moléculas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:124:C",
+      "letter": "C",
+      "textMarkdown": "Solubilização das frações do petróleo com a utilização de diferentes solventes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:124:D",
+      "letter": "D",
+      "textMarkdown": "Decantação das moléculas com diferentes massas molares pelo uso de centrífugas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:124:E",
+      "letter": "E",
+      "textMarkdown": "Separação dos diferentes componentes do petróleo em função de suas temperaturas de ebulição.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

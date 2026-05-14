@@ -1,43 +1,50 @@
 {
-    "title": "Questão 75 - ENEM 2014",
-    "index": 75,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cubo de batata em solução com pH = 9.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Pedaço de carne em solução com pH = 5.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Clara de ovo cozida em solução com pH = 9.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Porção de macarrão em solução com pH = 5.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Bolinha de manteiga em solução com pH = 9.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:75",
+  "variantKey": "75",
+  "title": "Questão 75 - ENEM 2014",
+  "index": 75,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:75:A",
+      "letter": "A",
+      "textMarkdown": "Cubo de batata em solução com pH = 9.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:75:B",
+      "letter": "B",
+      "textMarkdown": "Pedaço de carne em solução com pH = 5.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:75:C",
+      "letter": "C",
+      "textMarkdown": "Clara de ovo cozida em solução com pH = 9.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:75:D",
+      "letter": "D",
+      "textMarkdown": "Porção de macarrão em solução com pH = 5.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:75:E",
+      "letter": "E",
+      "textMarkdown": "Bolinha de manteiga em solução com pH = 9.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

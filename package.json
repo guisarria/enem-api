@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write \"**/*.{ts,tsx}\"",
+    "normalize-public-data": "node scripts/normalize-public-data.mjs",
+    "validate-public-data": "node scripts/validate-public-data.mjs",
     "docs": "cd docs && mintlify dev --port 3001"
   },
   "dependencies": {

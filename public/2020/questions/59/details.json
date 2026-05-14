@@ -1,43 +1,50 @@
 {
-    "title": "Questão 59 - ENEM 2020",
-    "index": 59,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Escudos antigos ou maciços cristalinos são blocos imensos de rochas antigas. Estes escudos são constituídos por rochas cristalinas (magmático-plutônicas), formadas em eras pré-cambrianas, ou por rochas metamórficas (material sedimentar) do Paleozoico. São resistentes, estáveis, porém bastante desgastadas. Correspondem a 36% da área territorial e dividem-se em duas grandes porções: o Escudo das Guianas (norte da Planície Amazônica) e o Escudo Brasileiro (porção centro-oriental brasileira).\n\nDisponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "As estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fontes de águas termais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Afloramentos de sal-gema.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Jazidas de minerais metálicos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Depósitos de calcário agrícola.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Reservas de combustível fóssil.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:59",
+  "variantKey": "59",
+  "title": "Questão 59 - ENEM 2020",
+  "index": 59,
+  "year": 2020,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Escudos antigos ou maciços cristalinos são blocos imensos de rochas antigas. Estes escudos são constituídos por rochas cristalinas (magmático-plutônicas), formadas em eras pré-cambrianas, ou por rochas metamórficas (material sedimentar) do Paleozoico. São resistentes, estáveis, porém bastante desgastadas. Correspondem a 36% da área territorial e dividem-se em duas grandes porções: o Escudo das Guianas (norte da Planície Amazônica) e o Escudo Brasileiro (porção centro-oriental brasileira).\n\nDisponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015.",
+  "alternativesIntroductionMarkdown": "As estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2020:59:A",
+      "letter": "A",
+      "textMarkdown": "Fontes de águas termais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:59:B",
+      "letter": "B",
+      "textMarkdown": "Afloramentos de sal-gema.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:59:C",
+      "letter": "C",
+      "textMarkdown": "Jazidas de minerais metálicos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:59:D",
+      "letter": "D",
+      "textMarkdown": "Depósitos de calcário agrícola.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:59:E",
+      "letter": "E",
+      "textMarkdown": "Reservas de combustível fóssil.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

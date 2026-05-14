@@ -1,43 +1,50 @@
 {
-    "title": "Questão 75 - ENEM 2020",
-    "index": 75,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Afirmar que a cartografia da época moderna integrou o processo de invenção da América por parte dos europeus significa que os conhecimentos dos ameríndios  \nsobre o território foram ignorados pela cartografia europeia ou que eles foram privados de sua representação territorial e da autoridade que seus conhecimentos tinham sobre o espaço.\n\n**OLIVEIRA, T. K.** Desconstruindo mapas, revelando espacializações: reflexões sobre o uso da cartografia em estudos sobre o Brasil colonial Revista Brasileira de Hlstória, n. 68. 2014. (adaptado.)",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Na análise contida no texto, a representação cartográfica da América foi marcada por",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Asserção da cultura dos nativos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Avanço dos estudos do ambiente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Afirmação das formas de dominação.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Exatidão da demarcação das regiões.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aprimoramento do conceito de fronteira.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:75",
+  "variantKey": "75",
+  "title": "Questão 75 - ENEM 2020",
+  "index": 75,
+  "year": 2020,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Afirmar que a cartografia da época moderna integrou o processo de invenção da América por parte dos europeus significa que os conhecimentos dos ameríndios  \nsobre o território foram ignorados pela cartografia europeia ou que eles foram privados de sua representação territorial e da autoridade que seus conhecimentos tinham sobre o espaço.\n\n**OLIVEIRA, T. K.** Desconstruindo mapas, revelando espacializações: reflexões sobre o uso da cartografia em estudos sobre o Brasil colonial Revista Brasileira de Hlstória, n. 68. 2014. (adaptado.)",
+  "alternativesIntroductionMarkdown": "Na análise contida no texto, a representação cartográfica da América foi marcada por",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2020:75:A",
+      "letter": "A",
+      "textMarkdown": "Asserção da cultura dos nativos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:75:B",
+      "letter": "B",
+      "textMarkdown": "Avanço dos estudos do ambiente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:75:C",
+      "letter": "C",
+      "textMarkdown": "Afirmação das formas de dominação.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:75:D",
+      "letter": "D",
+      "textMarkdown": "Exatidão da demarcação das regiões.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:75:E",
+      "letter": "E",
+      "textMarkdown": "Aprimoramento do conceito de fronteira.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

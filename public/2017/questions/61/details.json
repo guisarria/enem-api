@@ -1,43 +1,50 @@
 {
-    "title": "Questão 61 - ENEM 2017",
-    "index": 61,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A primeira Guerra do Golfo, genuinamente apoiada pelas Nações Unidas e pela comunidade internacional, assim como a reação imediata ao Onze de Setembro, demonstravam a força da posição dos Estados Unidos na era pós-soviética.\n\nHOBSBAWM, E. **Globalização, democracia e terrorismo**. São Paulo: Cia. das Letras, 2007.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Um aspecto que explica a força dos Estados Unidos, apontada pelo texto, reside no(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Poder de suas bases militares espalhadas ao redor do mundo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Alinhamento geopolítico da Rússia em relação aos EUA.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Política de expansionismo territorial exercida sobre Cuba.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Aliança estratégica com países produtores de petróleo, como Kuwait e Irã.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Incorporação da China à Organização do Tratado do Atlântico Norte (Otan).",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:61",
+  "variantKey": "61",
+  "title": "Questão 61 - ENEM 2017",
+  "index": 61,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A primeira Guerra do Golfo, genuinamente apoiada pelas Nações Unidas e pela comunidade internacional, assim como a reação imediata ao Onze de Setembro, demonstravam a força da posição dos Estados Unidos na era pós-soviética.\n\nHOBSBAWM, E. **Globalização, democracia e terrorismo**. São Paulo: Cia. das Letras, 2007.",
+  "alternativesIntroductionMarkdown": "Um aspecto que explica a força dos Estados Unidos, apontada pelo texto, reside no(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2017:61:A",
+      "letter": "A",
+      "textMarkdown": "Poder de suas bases militares espalhadas ao redor do mundo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:61:B",
+      "letter": "B",
+      "textMarkdown": "Alinhamento geopolítico da Rússia em relação aos EUA.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:61:C",
+      "letter": "C",
+      "textMarkdown": "Política de expansionismo territorial exercida sobre Cuba.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:61:D",
+      "letter": "D",
+      "textMarkdown": "Aliança estratégica com países produtores de petróleo, como Kuwait e Irã.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:61:E",
+      "letter": "E",
+      "textMarkdown": "Incorporação da China à Organização do Tratado do Atlântico Norte (Otan).",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

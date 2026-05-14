@@ -1,45 +1,103 @@
 {
-    "title": "Questão 146 - ENEM 2018",
-    "index": 146,
-    "year": 2018,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes – Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.  \n• A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.  \n• A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.  \n• Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.  \nCom base nesses dados, foram comparadas as distâncias ![](https://enem.dev/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png) percorridas pelas três equipes.",
-    "files": [
-        "https://enem.dev/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/146/1fb8607c-0374-442f-a914-d45118679f4f.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/146/9652da77-3886-44df-909f-c3a7f1cc66d7.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/146/94830fa5-25d8-499d-a527-501c1c28c8cb.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/146/03f32730-2de7-4b08-a122-d4dc42b8bcce.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2018/questions/146/f9dece31-c3d4-4018-adce-a72296ef5aaa.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:146",
+  "variantKey": "146",
+  "title": "Questão 146 - ENEM 2018",
+  "index": 146,
+  "year": 2018,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes – Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.  \n• A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.  \n• A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.  \n• Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.  \nCom base nesses dados, foram comparadas as distâncias ![](/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png) percorridas pelas três equipes.",
+  "alternativesIntroductionMarkdown": "A ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é",
+  "assets": [
+    {
+      "id": "2018:146:asset:0",
+      "path": "/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2018:146:asset:1",
+      "path": "/2018/questions/146/1fb8607c-0374-442f-a914-d45118679f4f.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2018:146:asset:2",
+      "path": "/2018/questions/146/9652da77-3886-44df-909f-c3a7f1cc66d7.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2018:146:asset:3",
+      "path": "/2018/questions/146/94830fa5-25d8-499d-a527-501c1c28c8cb.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2018:146:asset:4",
+      "path": "/2018/questions/146/03f32730-2de7-4b08-a122-d4dc42b8bcce.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2018:146:asset:5",
+      "path": "/2018/questions/146/f9dece31-c3d4-4018-adce-a72296ef5aaa.png",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2018:146:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:146:asset:1"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:146:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:146:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:146:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:146:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:146:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:146:asset:4"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:146:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2018:146:asset:5"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

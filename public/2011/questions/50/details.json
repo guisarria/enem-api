@@ -1,45 +1,58 @@
 {
-    "title": "Questão 50 - ENEM 2011",
-    "index": 50,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg)",
-    "files": [
-        "https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Benzeno.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Metano.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Glicose.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Octano.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Etanol.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:50",
+  "variantKey": "50",
+  "title": "Questão 50 - ENEM 2011",
+  "index": 50,
+  "year": 2011,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg)",
+  "alternativesIntroductionMarkdown": "Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?",
+  "assets": [
+    {
+      "id": "2011:50:asset:0",
+      "path": "/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2011:50:A",
+      "letter": "A",
+      "textMarkdown": "Benzeno.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:50:B",
+      "letter": "B",
+      "textMarkdown": "Metano.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:50:C",
+      "letter": "C",
+      "textMarkdown": "Glicose.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:50:D",
+      "letter": "D",
+      "textMarkdown": "Octano.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:50:E",
+      "letter": "E",
+      "textMarkdown": "Etanol.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 8 - ENEM 2009",
-    "index": 8,
-    "year": 2009,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais.\n\nRICARDO, B.; CAMPANILI, M. **Almanaque Brasil Socioambiental.** São Paulo: Instituto Socioambiental, 2007 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Em uma situação hipotética, optou-se por construir uma usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A poluição da água por metais da usina.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "A destruição do habitat de animais terrestres.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "O aumento expressivo na liberação de CO2 para a atmosfera.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O consumo não renovável de toda água que passa pelas turbinas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "O aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2009:8",
+  "variantKey": "8",
+  "title": "Questão 8 - ENEM 2009",
+  "index": 8,
+  "year": 2009,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais.\n\nRICARDO, B.; CAMPANILI, M. **Almanaque Brasil Socioambiental.** São Paulo: Instituto Socioambiental, 2007 (adaptado).",
+  "alternativesIntroductionMarkdown": "Em uma situação hipotética, optou-se por construir uma usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2009:8:A",
+      "letter": "A",
+      "textMarkdown": "A poluição da água por metais da usina.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:8:B",
+      "letter": "B",
+      "textMarkdown": "A destruição do habitat de animais terrestres.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2009:8:C",
+      "letter": "C",
+      "textMarkdown": "O aumento expressivo na liberação de CO2 para a atmosfera.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:8:D",
+      "letter": "D",
+      "textMarkdown": "O consumo não renovável de toda água que passa pelas turbinas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2009:8:E",
+      "letter": "E",
+      "textMarkdown": "O aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

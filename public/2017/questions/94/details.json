@@ -1,43 +1,50 @@
 {
-    "title": "Questão 94 - ENEM 2017",
-    "index": 94,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da planta absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas dos cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons. Nanotubos de carbono incrementam a fotossíntese de plantas.\n\nDisponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Utilização de água.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Absorção de fótons.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Formação de gás oxigênio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Proliferação dos cloroplastos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Captação de dióxido de carbono.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:94",
+  "variantKey": "94",
+  "title": "Questão 94 - ENEM 2017",
+  "index": 94,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da planta absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas dos cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons. Nanotubos de carbono incrementam a fotossíntese de plantas.\n\nDisponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).",
+  "alternativesIntroductionMarkdown": "O aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:94:A",
+      "letter": "A",
+      "textMarkdown": "Utilização de água.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:94:B",
+      "letter": "B",
+      "textMarkdown": "Absorção de fótons.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:94:C",
+      "letter": "C",
+      "textMarkdown": "Formação de gás oxigênio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:94:D",
+      "letter": "D",
+      "textMarkdown": "Proliferação dos cloroplastos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:94:E",
+      "letter": "E",
+      "textMarkdown": "Captação de dióxido de carbono.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

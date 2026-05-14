@@ -1,43 +1,50 @@
 {
-    "title": "Questão 111 - ENEM 2017",
-    "index": 111,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.\n\nMARCOLINO, B. **Sentinelas do mar.** Disponível em:  http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Os botos-cinza acumulam maior concentração dessas substâncias porque",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "São animais herbívoros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "São animais detritívoros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "São animais de grande porte.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Digerem o alimento lentamente",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Estão no topo da cadeia alimentar",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2017:111",
+  "variantKey": "111",
+  "title": "Questão 111 - ENEM 2017",
+  "index": 111,
+  "year": 2017,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.\n\nMARCOLINO, B. **Sentinelas do mar.** Disponível em:  http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "Os botos-cinza acumulam maior concentração dessas substâncias porque",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2017:111:A",
+      "letter": "A",
+      "textMarkdown": "São animais herbívoros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:111:B",
+      "letter": "B",
+      "textMarkdown": "São animais detritívoros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:111:C",
+      "letter": "C",
+      "textMarkdown": "São animais de grande porte.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:111:D",
+      "letter": "D",
+      "textMarkdown": "Digerem o alimento lentamente",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:111:E",
+      "letter": "E",
+      "textMarkdown": "Estão no topo da cadeia alimentar",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

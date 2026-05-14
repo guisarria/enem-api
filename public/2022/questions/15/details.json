@@ -1,45 +1,58 @@
 {
-    "title": "Questão 15 - ENEM 2022",
-    "index": 15,
-    "year": 2022,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
-    "files": [
-        "https://enem.dev/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Promover o uso adequado de campanhas publicitárias do governo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Divulgar o projeto sobre transparência da administração pública.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Responsabilizar o cidadão pelo controle dos gastos públicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Delegar a gestão de projetos de lei ao contribuinte.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Assegurar a fiscalização dos gastos públicos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:15",
+  "variantKey": "15",
+  "title": "Questão 15 - ENEM 2022",
+  "index": 15,
+  "year": 2022,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+  "alternativesIntroductionMarkdown": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
+  "assets": [
+    {
+      "id": "2022:15:asset:0",
+      "path": "/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2022:15:A",
+      "letter": "A",
+      "textMarkdown": "Promover o uso adequado de campanhas publicitárias do governo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:15:B",
+      "letter": "B",
+      "textMarkdown": "Divulgar o projeto sobre transparência da administração pública.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:15:C",
+      "letter": "C",
+      "textMarkdown": "Responsabilizar o cidadão pelo controle dos gastos públicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:15:D",
+      "letter": "D",
+      "textMarkdown": "Delegar a gestão de projetos de lei ao contribuinte.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:15:E",
+      "letter": "E",
+      "textMarkdown": "Assegurar a fiscalização dos gastos públicos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

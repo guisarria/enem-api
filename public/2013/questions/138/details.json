@@ -1,43 +1,96 @@
 {
-    "title": "Questão 138 - ENEM 2013",
-    "index": 138,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O coeficiente de melhora da alteração recomendada é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/5d194d75-3537-44ca-a717-a3a797eab3be.bmp",
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/a67a68da-6453-497a-8e78-0c33a1c20fb5.bmp",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/2854e931-9b7c-441c-9652-567df9eee479.bmp",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/aaa5d51e-8cdf-479e-bc3e-a1d2332e4d55.bmp",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/e3ac6ce3-9ba0-4cf0-b0d7-bdc11bca203c.bmp",
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:138",
+  "variantKey": "138",
+  "title": "Questão 138 - ENEM 2013",
+  "index": 138,
+  "year": 2013,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "O coeficiente de melhora da alteração recomendada é:",
+  "assets": [
+    {
+      "id": "2013:138:asset:0",
+      "path": "/2013/questions/138/5d194d75-3537-44ca-a717-a3a797eab3be.bmp",
+      "role": "alternative",
+      "position": 0,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2013:138:asset:1",
+      "path": "/2013/questions/138/a67a68da-6453-497a-8e78-0c33a1c20fb5.bmp",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2013:138:asset:2",
+      "path": "/2013/questions/138/2854e931-9b7c-441c-9652-567df9eee479.bmp",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2013:138:asset:3",
+      "path": "/2013/questions/138/aaa5d51e-8cdf-479e-bc3e-a1d2332e4d55.bmp",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2013:138:asset:4",
+      "path": "/2013/questions/138/e3ac6ce3-9ba0-4cf0-b0d7-bdc11bca203c.bmp",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2013:138:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:138:asset:0"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:138:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:138:asset:1"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:138:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:138:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:138:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:138:asset:3"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:138:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2013:138:asset:4"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

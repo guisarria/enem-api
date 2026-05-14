@@ -1,45 +1,103 @@
 {
-    "title": "Questão 85 - ENEM 2016",
-    "index": 85,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png)",
-    "files": [
-        "https://enem.dev/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png"
-    ],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Esse arranjo é representado esquematicamente por:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2016/questions/85/833fc836-0f12-40c2-9c58-7e388e19f961.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2016/questions/85/36cd457b-9a51-46ad-b1d2-9d001cfea3fb.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2016/questions/85/b9f7a6b9-8121-4c65-b09e-4edd8cd7686e.png",
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2016/questions/85/734af3d9-bff8-4170-87d8-173ed2430611.png",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2016/questions/85/1e609441-aae0-4ddc-b65f-a436905f8033.png",
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:85",
+  "variantKey": "85",
+  "title": "Questão 85 - ENEM 2016",
+  "index": 85,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png)",
+  "alternativesIntroductionMarkdown": "Esse arranjo é representado esquematicamente por:",
+  "assets": [
+    {
+      "id": "2016:85:asset:0",
+      "path": "/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2016:85:asset:1",
+      "path": "/2016/questions/85/833fc836-0f12-40c2-9c58-7e388e19f961.png",
+      "role": "alternative",
+      "position": 1,
+      "alternativeLetter": "A"
+    },
+    {
+      "id": "2016:85:asset:2",
+      "path": "/2016/questions/85/36cd457b-9a51-46ad-b1d2-9d001cfea3fb.png",
+      "role": "alternative",
+      "position": 2,
+      "alternativeLetter": "B"
+    },
+    {
+      "id": "2016:85:asset:3",
+      "path": "/2016/questions/85/b9f7a6b9-8121-4c65-b09e-4edd8cd7686e.png",
+      "role": "alternative",
+      "position": 3,
+      "alternativeLetter": "C"
+    },
+    {
+      "id": "2016:85:asset:4",
+      "path": "/2016/questions/85/734af3d9-bff8-4170-87d8-173ed2430611.png",
+      "role": "alternative",
+      "position": 4,
+      "alternativeLetter": "D"
+    },
+    {
+      "id": "2016:85:asset:5",
+      "path": "/2016/questions/85/1e609441-aae0-4ddc-b65f-a436905f8033.png",
+      "role": "alternative",
+      "position": 5,
+      "alternativeLetter": "E"
+    }
+  ],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:85:A",
+      "letter": "A",
+      "textMarkdown": null,
+      "assetIds": [
+        "2016:85:asset:1"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:85:B",
+      "letter": "B",
+      "textMarkdown": null,
+      "assetIds": [
+        "2016:85:asset:2"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:85:C",
+      "letter": "C",
+      "textMarkdown": null,
+      "assetIds": [
+        "2016:85:asset:3"
+      ],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:85:D",
+      "letter": "D",
+      "textMarkdown": null,
+      "assetIds": [
+        "2016:85:asset:4"
+      ],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:85:E",
+      "letter": "E",
+      "textMarkdown": null,
+      "assetIds": [
+        "2016:85:asset:5"
+      ],
+      "isCorrect": false
+    }
+  ]
 }

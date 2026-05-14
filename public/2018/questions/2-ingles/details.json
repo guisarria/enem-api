@@ -1,45 +1,58 @@
 {
-    "title": "Questão 2 - ENEM 2018",
-    "index": 2,
-    "year": 2018,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png)\n\nGLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado).",
-    "files": [
-        "https://enem.dev/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "No cartum, a crítica está no fato de a sociedade exigir do adolescente que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Se aposente prematuramente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Amadureça precocemente.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Estude aplicadamente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Se forme rapidamente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ouça atentamente.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:2-ingles",
+  "variantKey": "2-ingles",
+  "title": "Questão 2 - ENEM 2018",
+  "index": 2,
+  "year": 2018,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png)\n\nGLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado).",
+  "alternativesIntroductionMarkdown": "No cartum, a crítica está no fato de a sociedade exigir do adolescente que",
+  "assets": [
+    {
+      "id": "2018:2-ingles:asset:0",
+      "path": "/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:2-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Se aposente prematuramente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:2-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Amadureça precocemente.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:2-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Estude aplicadamente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:2-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Se forme rapidamente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:2-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Ouça atentamente.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

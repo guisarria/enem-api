@@ -1,45 +1,58 @@
 {
-    "title": "Questão 7 - ENEM 2016",
-    "index": 7,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**TEXTO I**\n\n![](https://enem.dev/2016/questions/7/6576ec6c-8680-4c1b-90c0-6c259bf29f52.jpg)\n\nTradução: “As mulheres do futuro farão da Lua um  \nlugar mais limpo para se viver”.\n\nDisponível em: www.propagandashistoricas.com.br. Acesso em: 16 out. 2015.\n\n**TEXTO II**\n\n**Metade da nova equipe da Nasa** **é composta por mulheres**\n\nAté hoje, cerca de 350 astronautas americanos já estiveram no espaço, enquanto as mulheres não chegam a ser um terço desse número. Após o anúncio da turma composta 50% por mulheres, alguns internautas escreveram comentários machistas e desrespeitosos sobre a escolha nas redes sociais.\n\nDisponível em: https//catracalivre com br. Acesso em 10 mar 2016",
-    "files": [
-        "https://enem.dev/2016/questions/7/6576ec6c-8680-4c1b-90c0-6c259bf29f52.jpg"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A comparação entre o anúncio publicitário de 1968 e a repercussão da notícia mostra a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Elitização da carreira científica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Qualificação da atividade doméstica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ambição de indústrias patrocinadoras.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Manutenção de estereótipos de gênero.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Equiparação de papeis nas relações familiares.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:7",
+  "variantKey": "7",
+  "title": "Questão 7 - ENEM 2016",
+  "index": 7,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**TEXTO I**\n\n![](/2016/questions/7/6576ec6c-8680-4c1b-90c0-6c259bf29f52.jpg)\n\nTradução: “As mulheres do futuro farão da Lua um  \nlugar mais limpo para se viver”.\n\nDisponível em: www.propagandashistoricas.com.br. Acesso em: 16 out. 2015.\n\n**TEXTO II**\n\n**Metade da nova equipe da Nasa** **é composta por mulheres**\n\nAté hoje, cerca de 350 astronautas americanos já estiveram no espaço, enquanto as mulheres não chegam a ser um terço desse número. Após o anúncio da turma composta 50% por mulheres, alguns internautas escreveram comentários machistas e desrespeitosos sobre a escolha nas redes sociais.\n\nDisponível em: https//catracalivre com br. Acesso em 10 mar 2016",
+  "alternativesIntroductionMarkdown": "A comparação entre o anúncio publicitário de 1968 e a repercussão da notícia mostra a",
+  "assets": [
+    {
+      "id": "2016:7:asset:0",
+      "path": "/2016/questions/7/6576ec6c-8680-4c1b-90c0-6c259bf29f52.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2016:7:A",
+      "letter": "A",
+      "textMarkdown": "Elitização da carreira científica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:7:B",
+      "letter": "B",
+      "textMarkdown": "Qualificação da atividade doméstica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:7:C",
+      "letter": "C",
+      "textMarkdown": "Ambição de indústrias patrocinadoras.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:7:D",
+      "letter": "D",
+      "textMarkdown": "Manutenção de estereótipos de gênero.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:7:E",
+      "letter": "E",
+      "textMarkdown": "Equiparação de papeis nas relações familiares.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

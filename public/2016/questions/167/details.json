@@ -1,43 +1,50 @@
 {
-    "title": "Questão 167 - ENEM 2016",
-    "index": 167,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "18",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "20",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "36",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "45",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "54",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:167",
+  "variantKey": "167",
+  "title": "Questão 167 - ENEM 2016",
+  "index": 167,
+  "year": 2016,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2016:167:A",
+      "letter": "A",
+      "textMarkdown": "18",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:167:B",
+      "letter": "B",
+      "textMarkdown": "20",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:167:C",
+      "letter": "C",
+      "textMarkdown": "36",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:167:D",
+      "letter": "D",
+      "textMarkdown": "45",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:167:E",
+      "letter": "E",
+      "textMarkdown": "54",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

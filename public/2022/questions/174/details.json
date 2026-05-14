@@ -1,43 +1,50 @@
 {
-    "title": "Questão 174 - ENEM 2022",
-    "index": 174,
-    "year": 2022,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "800",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "1200",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "2400",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4800",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "6400",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:174",
+  "variantKey": "174",
+  "title": "Questão 174 - ENEM 2022",
+  "index": 174,
+  "year": 2022,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+  "alternativesIntroductionMarkdown": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2022:174:A",
+      "letter": "A",
+      "textMarkdown": "800",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:174:B",
+      "letter": "B",
+      "textMarkdown": "1200",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:174:C",
+      "letter": "C",
+      "textMarkdown": "2400",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:174:D",
+      "letter": "D",
+      "textMarkdown": "4800",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:174:E",
+      "letter": "E",
+      "textMarkdown": "6400",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

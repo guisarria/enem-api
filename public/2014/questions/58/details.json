@@ -1,43 +1,50 @@
 {
-    "title": "Questão 58 - ENEM 2014",
-    "index": 58,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.\n\n_SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado)._",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A substância capaz de formar as estruturas mencionadas é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "C18H36.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "C17H33COONa.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "CH3 CH2 COONa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "CH3CH2CH2 COOH.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "CH3CH2CH2CH2OCH2CH2CH2CH3",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:58",
+  "variantKey": "58",
+  "title": "Questão 58 - ENEM 2014",
+  "index": 58,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.\n\n_SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado)._",
+  "alternativesIntroductionMarkdown": "A substância capaz de formar as estruturas mencionadas é",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2014:58:A",
+      "letter": "A",
+      "textMarkdown": "C18H36.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:58:B",
+      "letter": "B",
+      "textMarkdown": "C17H33COONa.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:58:C",
+      "letter": "C",
+      "textMarkdown": "CH3 CH2 COONa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:58:D",
+      "letter": "D",
+      "textMarkdown": "CH3CH2CH2 COOH.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:58:E",
+      "letter": "E",
+      "textMarkdown": "CH3CH2CH2CH2OCH2CH2CH2CH3",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

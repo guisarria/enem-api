@@ -1,43 +1,50 @@
 {
-    "title": "Questão 52 - ENEM 2013",
-    "index": 52,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Em viagens de avião, é solicitado aos passageiros o desligamento de todos o aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A propriedade das ondas emitidas que justifica o procedimento adotado é o fato de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Terem fases opostas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Serem ambas audíveis.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Terem intensidades inversas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Serem de mesma amplitude.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Terem frequências próximas",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "id": "2013:52",
+  "variantKey": "52",
+  "title": "Questão 52 - ENEM 2013",
+  "index": 52,
+  "year": 2013,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Em viagens de avião, é solicitado aos passageiros o desligamento de todos o aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.",
+  "alternativesIntroductionMarkdown": "A propriedade das ondas emitidas que justifica o procedimento adotado é o fato de",
+  "assets": [],
+  "correctAlternative": "E",
+  "alternatives": [
+    {
+      "id": "2013:52:A",
+      "letter": "A",
+      "textMarkdown": "Terem fases opostas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:52:B",
+      "letter": "B",
+      "textMarkdown": "Serem ambas audíveis.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:52:C",
+      "letter": "C",
+      "textMarkdown": "Terem intensidades inversas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:52:D",
+      "letter": "D",
+      "textMarkdown": "Serem de mesma amplitude.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:52:E",
+      "letter": "E",
+      "textMarkdown": "Terem frequências próximas",
+      "assetIds": [],
+      "isCorrect": true
+    }
+  ]
 }

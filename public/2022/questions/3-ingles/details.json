@@ -1,45 +1,58 @@
 {
-    "title": "Questão 3 - ENEM 2022",
-    "index": 3,
-    "year": 2022,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png)",
-    "files": [
-        "https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Nessa tirinha, o comportamento da mulher expressa",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Revolta com a falta de sorte",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Gosto pela prática da leitura",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Receio pelo futuro do casamento",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Entusiasmo com os livros de terror",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Rejeição ao novo tipo de residência",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2022:3-ingles",
+  "variantKey": "3-ingles",
+  "title": "Questão 3 - ENEM 2022",
+  "index": 3,
+  "year": 2022,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png)",
+  "alternativesIntroductionMarkdown": "Nessa tirinha, o comportamento da mulher expressa",
+  "assets": [
+    {
+      "id": "2022:3-ingles:asset:0",
+      "path": "/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2022:3-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Revolta com a falta de sorte",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:3-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Gosto pela prática da leitura",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2022:3-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Receio pelo futuro do casamento",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:3-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Entusiasmo com os livros de terror",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2022:3-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Rejeição ao novo tipo de residência",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,45 +1,58 @@
 {
-    "title": "Questão 100 - ENEM 2011",
-    "index": 100,
-    "year": 2011,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png)\n\nDisponível em: www.ccsp.com.br. Acesso em: 26 jul. 2010 (adaptado).",
-    "files": [
-        "https://enem.dev/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png"
-    ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O anúncio publicitário está intimamente ligado ao ideário de consumo quando sua função é vender um produto. No texto apresentado, utilizam-se elementos linguísticos e extralinguísticos para divulgar a atração “Noites do Terror”, de um parque de diversões. O entendimento da propaganda requer do leitor",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A identificação com o público-alvo a que se destina o anúncio.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "A avaliação da imagem como uma sátira às atrações de terror.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A atenção para a imagem da parte do corpo humano selecionada aleatoriamente.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O reconhecimento do intertexto entre a publicidade e um dito popular.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "A percepção do sentido literal da expressão “noites do terror”, equivalente à expressão “noites de terror”.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:100",
+  "variantKey": "100",
+  "title": "Questão 100 - ENEM 2011",
+  "index": 100,
+  "year": 2011,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png)\n\nDisponível em: www.ccsp.com.br. Acesso em: 26 jul. 2010 (adaptado).",
+  "alternativesIntroductionMarkdown": "O anúncio publicitário está intimamente ligado ao ideário de consumo quando sua função é vender um produto. No texto apresentado, utilizam-se elementos linguísticos e extralinguísticos para divulgar a atração “Noites do Terror”, de um parque de diversões. O entendimento da propaganda requer do leitor",
+  "assets": [
+    {
+      "id": "2011:100:asset:0",
+      "path": "/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2011:100:A",
+      "letter": "A",
+      "textMarkdown": "A identificação com o público-alvo a que se destina o anúncio.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:100:B",
+      "letter": "B",
+      "textMarkdown": "A avaliação da imagem como uma sátira às atrações de terror.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:100:C",
+      "letter": "C",
+      "textMarkdown": "A atenção para a imagem da parte do corpo humano selecionada aleatoriamente.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:100:D",
+      "letter": "D",
+      "textMarkdown": "O reconhecimento do intertexto entre a publicidade e um dito popular.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:100:E",
+      "letter": "E",
+      "textMarkdown": "A percepção do sentido literal da expressão “noites do terror”, equivalente à expressão “noites de terror”.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

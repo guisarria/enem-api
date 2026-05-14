@@ -1,46 +1,65 @@
 {
-    "title": "Questão 33 - ENEM 2013",
-    "index": 33,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg)\n\nMOREAUX, F.R. Proclamação da Independência. Disponível em: www.tvbrasil.org.br. Acesso em 14 jun. 2010. (Foto: Enem)\n\n![](https://enem.dev/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg)\n\nFERREZ, M. D. Pedro II. SCHWARCZ, L.M. As barbas do Imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia das Letras, 1998.",
-    "files": [
-        "https://enem.dev/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg",
-        "https://enem.dev/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "As imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Habilidade militar – riqueza pessoal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Liderança popular – estabilidade política.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Instabilidade econômica – herança europeia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Isolamento político – centralização do poder.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Nacionalismo exacerbado – inovação administrativa.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:33",
+  "variantKey": "33",
+  "title": "Questão 33 - ENEM 2013",
+  "index": 33,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "![](/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg)\n\nMOREAUX, F.R. Proclamação da Independência. Disponível em: www.tvbrasil.org.br. Acesso em 14 jun. 2010. (Foto: Enem)\n\n![](/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg)\n\nFERREZ, M. D. Pedro II. SCHWARCZ, L.M. As barbas do Imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia das Letras, 1998.",
+  "alternativesIntroductionMarkdown": "As imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:",
+  "assets": [
+    {
+      "id": "2013:33:asset:0",
+      "path": "/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2013:33:asset:1",
+      "path": "/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2013:33:A",
+      "letter": "A",
+      "textMarkdown": "Habilidade militar – riqueza pessoal.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:33:B",
+      "letter": "B",
+      "textMarkdown": "Liderança popular – estabilidade política.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:33:C",
+      "letter": "C",
+      "textMarkdown": "Instabilidade econômica – herança europeia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:33:D",
+      "letter": "D",
+      "textMarkdown": "Isolamento político – centralização do poder.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:33:E",
+      "letter": "E",
+      "textMarkdown": "Nacionalismo exacerbado – inovação administrativa.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 135 - ENEM 2019",
-    "index": 135,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Quando se considera a extrema velocidade com que a luz se espalha por todos os lados e que, quando vêm de diferentes lugares, mesmo totalmente opostos, os raios luminosos se atravessam uns aos outros sem se atrapalharem, compreende-se que, quando vemos um objeto luminoso, isso não poderia ocorrer pelo transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar; pois certamente isso repugna bastante a essas duas propriedades da luz, principalmente a última.\n\n**HUYGENS, C. in: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. Caderno de História e Filosofia da Ciência, supl. 4, 1986.**",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O texto contesta que concepção acerca do comportamento da luz?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A ideia defendida pelos gregos de que a luz era produzida pelos olhos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:135",
+  "variantKey": "135",
+  "title": "Questão 135 - ENEM 2019",
+  "index": 135,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Quando se considera a extrema velocidade com que a luz se espalha por todos os lados e que, quando vêm de diferentes lugares, mesmo totalmente opostos, os raios luminosos se atravessam uns aos outros sem se atrapalharem, compreende-se que, quando vemos um objeto luminoso, isso não poderia ocorrer pelo transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar; pois certamente isso repugna bastante a essas duas propriedades da luz, principalmente a última.\n\n**HUYGENS, C. in: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. Caderno de História e Filosofia da Ciência, supl. 4, 1986.**",
+  "alternativesIntroductionMarkdown": "O texto contesta que concepção acerca do comportamento da luz?",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:135:A",
+      "letter": "A",
+      "textMarkdown": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:135:B",
+      "letter": "B",
+      "textMarkdown": "O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:135:C",
+      "letter": "C",
+      "textMarkdown": "O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:135:D",
+      "letter": "D",
+      "textMarkdown": "A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:135:E",
+      "letter": "E",
+      "textMarkdown": "A ideia defendida pelos gregos de que a luz era produzida pelos olhos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

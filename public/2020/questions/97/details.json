@@ -1,43 +1,50 @@
 {
-    "title": "Questão 97 - ENEM 2020",
-    "index": 97,
-    "year": 2020,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:97",
+  "variantKey": "97",
+  "title": "Questão 97 - ENEM 2020",
+  "index": 97,
+  "year": 2020,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.",
+  "alternativesIntroductionMarkdown": "A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2020:97:A",
+      "letter": "A",
+      "textMarkdown": "Nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:97:B",
+      "letter": "B",
+      "textMarkdown": "Nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:97:C",
+      "letter": "C",
+      "textMarkdown": "Carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:97:D",
+      "letter": "D",
+      "textMarkdown": "Carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:97:E",
+      "letter": "E",
+      "textMarkdown": "Fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

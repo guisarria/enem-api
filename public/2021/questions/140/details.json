@@ -1,46 +1,65 @@
 {
-    "title": "Questão 140 - ENEM 2021",
-    "index": 140,
-    "year": 2021,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (_M_), conforme apresentado no quadro.\n\n![](https://enem.dev/2021/questions/140/cbdf6628-0ce6-4923-adc0-4a603e947ba4.jpg)\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\n![](https://enem.dev/2021/questions/140/8211832d-2fa2-4b4f-b408-002d118ffe73.png)",
-    "files": [
-        "https://enem.dev/2021/questions/140/cbdf6628-0ce6-4923-adc0-4a603e947ba4.jpg",
-        "https://enem.dev/2021/questions/140/8211832d-2fa2-4b4f-b408-002d118ffe73.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Nas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte a comissão de tipo",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "I.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "II.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "III.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "IV.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "V",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:140",
+  "variantKey": "140",
+  "title": "Questão 140 - ENEM 2021",
+  "index": 140,
+  "year": 2021,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (_M_), conforme apresentado no quadro.\n\n![](/2021/questions/140/cbdf6628-0ce6-4923-adc0-4a603e947ba4.jpg)\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\n![](/2021/questions/140/8211832d-2fa2-4b4f-b408-002d118ffe73.png)",
+  "alternativesIntroductionMarkdown": "Nas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte a comissão de tipo",
+  "assets": [
+    {
+      "id": "2021:140:asset:0",
+      "path": "/2021/questions/140/cbdf6628-0ce6-4923-adc0-4a603e947ba4.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    },
+    {
+      "id": "2021:140:asset:1",
+      "path": "/2021/questions/140/8211832d-2fa2-4b4f-b408-002d118ffe73.png",
+      "role": "context",
+      "position": 1,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2021:140:A",
+      "letter": "A",
+      "textMarkdown": "I.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:140:B",
+      "letter": "B",
+      "textMarkdown": "II.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:140:C",
+      "letter": "C",
+      "textMarkdown": "III.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:140:D",
+      "letter": "D",
+      "textMarkdown": "IV.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:140:E",
+      "letter": "E",
+      "textMarkdown": "V",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

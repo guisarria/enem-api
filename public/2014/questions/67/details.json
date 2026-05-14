@@ -1,45 +1,58 @@
 {
-    "title": "Questão 67 - ENEM 2014",
-    "index": 67,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png)",
-    "files": [
-        "https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:67",
+  "variantKey": "67",
+  "title": "Questão 67 - ENEM 2014",
+  "index": 67,
+  "year": 2014,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png)",
+  "alternativesIntroductionMarkdown": "Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
+  "assets": [
+    {
+      "id": "2014:67:asset:0",
+      "path": "/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2014:67:A",
+      "letter": "A",
+      "textMarkdown": "Manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:67:B",
+      "letter": "B",
+      "textMarkdown": "Manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:67:C",
+      "letter": "C",
+      "textMarkdown": "Diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:67:D",
+      "letter": "D",
+      "textMarkdown": "Diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:67:E",
+      "letter": "E",
+      "textMarkdown": "Aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

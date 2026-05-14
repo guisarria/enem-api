@@ -1,43 +1,50 @@
 {
-    "title": "Questão 39 - ENEM 2016",
-    "index": 39,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "**Pesca industrial provoca destruição na África**\n\nO súbito desaparecimento do bacalhau dos grandes cardumes da Terra Nova, no final do século XX – O que ninguém havia previsto -, teve o efeito de um eletrochoque planetário. Lançada pelos bascos no século XV, a pesca e depois a sobrepesca desse grande peixe de água fria levaram ao impensável. Ao Canadá o bacalhau nunca mais voltou. E o que Ocorreu no Atlântico Norte está acontecendo em outros mares. Os maiores navios do mundo seguem agora em direção ao sul, até os limites da Antártida, para competir pelos estoques remanescentes.\n\nMORA, J. S. Disponível em: www.diplomatique.com.br. Acesso em 14 jan. 2014.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O problema exposto no texto jornalístico relaciona-se à",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Insustentabilidade do modelo de produção e consumo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Fragilidade ecológica de ecossistemas costeiros.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Inviabilidade comercial dos produtos marinhos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Mudança natural nos Oceanos e mares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Vulnerabilidade social de áreas pobres.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:39",
+  "variantKey": "39",
+  "title": "Questão 39 - ENEM 2016",
+  "index": 39,
+  "year": 2016,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "**Pesca industrial provoca destruição na África**\n\nO súbito desaparecimento do bacalhau dos grandes cardumes da Terra Nova, no final do século XX – O que ninguém havia previsto -, teve o efeito de um eletrochoque planetário. Lançada pelos bascos no século XV, a pesca e depois a sobrepesca desse grande peixe de água fria levaram ao impensável. Ao Canadá o bacalhau nunca mais voltou. E o que Ocorreu no Atlântico Norte está acontecendo em outros mares. Os maiores navios do mundo seguem agora em direção ao sul, até os limites da Antártida, para competir pelos estoques remanescentes.\n\nMORA, J. S. Disponível em: www.diplomatique.com.br. Acesso em 14 jan. 2014.",
+  "alternativesIntroductionMarkdown": "O problema exposto no texto jornalístico relaciona-se à",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:39:A",
+      "letter": "A",
+      "textMarkdown": "Insustentabilidade do modelo de produção e consumo.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:39:B",
+      "letter": "B",
+      "textMarkdown": "Fragilidade ecológica de ecossistemas costeiros.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:39:C",
+      "letter": "C",
+      "textMarkdown": "Inviabilidade comercial dos produtos marinhos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:39:D",
+      "letter": "D",
+      "textMarkdown": "Mudança natural nos Oceanos e mares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:39:E",
+      "letter": "E",
+      "textMarkdown": "Vulnerabilidade social de áreas pobres.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 105 - ENEM 2019",
-    "index": 105,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Um teste de laboratório permite identificar alguns cátions metálicos ao introduzir uma pequena quantidade do material de interesse em uma chama de bico de Bunsen para, em seguida, observar a cor da luz emitida.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A cor observada é proveniente da emissão de radiação eletromagnética ao ocorrer a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mudança da fase sólida para a fase líquida do elemento metálico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Promoção dos elétrons que se encontram no estado fundamental de energia para níveis mais energéticos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:105",
+  "variantKey": "105",
+  "title": "Questão 105 - ENEM 2019",
+  "index": 105,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Um teste de laboratório permite identificar alguns cátions metálicos ao introduzir uma pequena quantidade do material de interesse em uma chama de bico de Bunsen para, em seguida, observar a cor da luz emitida.",
+  "alternativesIntroductionMarkdown": "A cor observada é proveniente da emissão de radiação eletromagnética ao ocorrer a",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2019:105:A",
+      "letter": "A",
+      "textMarkdown": "Mudança da fase sólida para a fase líquida do elemento metálico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:105:B",
+      "letter": "B",
+      "textMarkdown": "Combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:105:C",
+      "letter": "C",
+      "textMarkdown": "Diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:105:D",
+      "letter": "D",
+      "textMarkdown": "Transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:105:E",
+      "letter": "E",
+      "textMarkdown": "Promoção dos elétrons que se encontram no estado fundamental de energia para níveis mais energéticos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

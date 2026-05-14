@@ -1,43 +1,50 @@
 {
-    "title": "Questão 130 - ENEM 2011",
-    "index": 130,
-    "year": 2011,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**MANDIOCA — mais um presente da Amazônia**\n\n_Aipim_, _castelinha_, _macaxeira_, _maniva_, _maniveira_. As designações da _Manihot utilissima_ podem variar de região, no Brasil, mas uma delas deve ser levada em conta em todo o território nacional: pão-de-pobre — e por motivos óbvios.\n\nRica em fécula, a mandioca — uma planta rústica e nativa da Amazônia disseminada no mundo inteiro, especialmente pelos colonizadores portugueses — é a base de sustento de muitos brasileiros e o único alimento disponível para mais de 600 milhões de pessoas em vários pontos do planeta, e em particular em algumas regiões da África.\n\n**O melhor do Globo Rural**. Fev. 2005 (fragmento).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "De acordo com o texto, há no Brasil uma variedade de nomes para a Manihot utilissima, nome científico da mandioca. Esse fenômeno revela que",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Existem variedades regionais para nomear uma mesma espécie de planta.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Mandioca é nome específico para a espécie existente na região amazônica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "“pão-de-pobre” é designação específica para a planta da região amazônica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Os nomes designam espécies diferentes da planta, conforme a região.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A planta é nomeada conforme as particularidades que apresenta.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:130",
+  "variantKey": "130",
+  "title": "Questão 130 - ENEM 2011",
+  "index": 130,
+  "year": 2011,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**MANDIOCA — mais um presente da Amazônia**\n\n_Aipim_, _castelinha_, _macaxeira_, _maniva_, _maniveira_. As designações da _Manihot utilissima_ podem variar de região, no Brasil, mas uma delas deve ser levada em conta em todo o território nacional: pão-de-pobre — e por motivos óbvios.\n\nRica em fécula, a mandioca — uma planta rústica e nativa da Amazônia disseminada no mundo inteiro, especialmente pelos colonizadores portugueses — é a base de sustento de muitos brasileiros e o único alimento disponível para mais de 600 milhões de pessoas em vários pontos do planeta, e em particular em algumas regiões da África.\n\n**O melhor do Globo Rural**. Fev. 2005 (fragmento).",
+  "alternativesIntroductionMarkdown": "De acordo com o texto, há no Brasil uma variedade de nomes para a Manihot utilissima, nome científico da mandioca. Esse fenômeno revela que",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2011:130:A",
+      "letter": "A",
+      "textMarkdown": "Existem variedades regionais para nomear uma mesma espécie de planta.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:130:B",
+      "letter": "B",
+      "textMarkdown": "Mandioca é nome específico para a espécie existente na região amazônica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:130:C",
+      "letter": "C",
+      "textMarkdown": "“pão-de-pobre” é designação específica para a planta da região amazônica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:130:D",
+      "letter": "D",
+      "textMarkdown": "Os nomes designam espécies diferentes da planta, conforme a região.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:130:E",
+      "letter": "E",
+      "textMarkdown": "A planta é nomeada conforme as particularidades que apresenta.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

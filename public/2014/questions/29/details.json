@@ -1,43 +1,50 @@
 {
-    "title": "Questão 29 - ENEM 2014",
-    "index": 29,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.\n\n_GALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978._",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "No contexto da Revolução Científica do século XVII, assumir a posição de Galileu significava defender a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Continuidade do vínculo entre ciência e fé dominante na Idade Média.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Necessidade de o estudo linguístico ser acompanhado do exame matemático.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Oposição da nova física quantitativa aos pressupostos da filosofia escolástica.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Importância da independência da investigação científica pretendida pela Igreja.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Inadequação da matemática para elaborar uma explicação racional da natureza.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:29",
+  "variantKey": "29",
+  "title": "Questão 29 - ENEM 2014",
+  "index": 29,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.\n\n_GALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978._",
+  "alternativesIntroductionMarkdown": "No contexto da Revolução Científica do século XVII, assumir a posição de Galileu significava defender a",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2014:29:A",
+      "letter": "A",
+      "textMarkdown": "Continuidade do vínculo entre ciência e fé dominante na Idade Média.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:29:B",
+      "letter": "B",
+      "textMarkdown": "Necessidade de o estudo linguístico ser acompanhado do exame matemático.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:29:C",
+      "letter": "C",
+      "textMarkdown": "Oposição da nova física quantitativa aos pressupostos da filosofia escolástica.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:29:D",
+      "letter": "D",
+      "textMarkdown": "Importância da independência da investigação científica pretendida pela Igreja.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:29:E",
+      "letter": "E",
+      "textMarkdown": "Inadequação da matemática para elaborar uma explicação racional da natureza.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

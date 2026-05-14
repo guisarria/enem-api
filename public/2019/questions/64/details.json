@@ -1,43 +1,50 @@
 {
-    "title": "Questão 64 - ENEM 2019",
-    "index": 64,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A lenda diz que, em um belo dia ensolarado, Newton estava relaxando sob uma macieira. Pássaros gorjeavam em suas orelhas. Havia uma brisa gentil. Ele cochilou por alguns minutos. De repente, uma maçã caiu sobre a sua cabeça e ele acordou com um susto. Olhou para cima. “Com certeza um pássaro ou um esquilo derrubou a maçã da árvore”, supôs. Mas não havia pássaros ou esquilos na árvore por perto. Ele, então, pensou: “Apenas alguns minutos antes, a maçã estava pendurada na árvore. Nenhuma força externa fez ela cair. Deve haver alguma força subjacente que causa a queda das coisas para a terra”.\n\n**SILVA, C. C.; MARTINS, R A. Estudos de história e filosofia das ciências. São Paulo: Livraria da Física, 2006 (adaptado).**",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Em contraponto a uma interpretação idealizada, o texto aponta para a seguinte dimensão fundamental da ciência moderna:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Falsificação de teses.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Negação da observação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Proposição de hipóteses.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Contemplação da natureza.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Universalização de conclusões.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:64",
+  "variantKey": "64",
+  "title": "Questão 64 - ENEM 2019",
+  "index": 64,
+  "year": 2019,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A lenda diz que, em um belo dia ensolarado, Newton estava relaxando sob uma macieira. Pássaros gorjeavam em suas orelhas. Havia uma brisa gentil. Ele cochilou por alguns minutos. De repente, uma maçã caiu sobre a sua cabeça e ele acordou com um susto. Olhou para cima. “Com certeza um pássaro ou um esquilo derrubou a maçã da árvore”, supôs. Mas não havia pássaros ou esquilos na árvore por perto. Ele, então, pensou: “Apenas alguns minutos antes, a maçã estava pendurada na árvore. Nenhuma força externa fez ela cair. Deve haver alguma força subjacente que causa a queda das coisas para a terra”.\n\n**SILVA, C. C.; MARTINS, R A. Estudos de história e filosofia das ciências. São Paulo: Livraria da Física, 2006 (adaptado).**",
+  "alternativesIntroductionMarkdown": "Em contraponto a uma interpretação idealizada, o texto aponta para a seguinte dimensão fundamental da ciência moderna:",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2019:64:A",
+      "letter": "A",
+      "textMarkdown": "Falsificação de teses.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:64:B",
+      "letter": "B",
+      "textMarkdown": "Negação da observação.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:64:C",
+      "letter": "C",
+      "textMarkdown": "Proposição de hipóteses.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:64:D",
+      "letter": "D",
+      "textMarkdown": "Contemplação da natureza.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:64:E",
+      "letter": "E",
+      "textMarkdown": "Universalização de conclusões.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

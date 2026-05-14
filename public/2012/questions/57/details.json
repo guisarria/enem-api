@@ -1,43 +1,50 @@
 {
-    "title": "Questão 57 - ENEM 2012",
-    "index": 57,
-    "year": 2012,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Muitas espécies de plantas lenhosas são encontradas no cerrado brasileiro. Para a sobrevivência nas condições de longos períodos de seca e queimadas periódicas, próprias desse ecossistema, essas plantas desenvolveram estruturas muito peculiares.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "As estruturas adaptativas mais apropriadas para a sobrevivência desse grupo de plantas nas condições ambientais do referido ecossistema são:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cascas finas e sem sulcos ou fendas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Caules estreitos e retilíneos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Folhas estreitas e membranosas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Gemas apicais com densa pilosidade.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Raízes superficiais, em geral, aéreas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2012:57",
+  "variantKey": "57",
+  "title": "Questão 57 - ENEM 2012",
+  "index": 57,
+  "year": 2012,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Muitas espécies de plantas lenhosas são encontradas no cerrado brasileiro. Para a sobrevivência nas condições de longos períodos de seca e queimadas periódicas, próprias desse ecossistema, essas plantas desenvolveram estruturas muito peculiares.",
+  "alternativesIntroductionMarkdown": "As estruturas adaptativas mais apropriadas para a sobrevivência desse grupo de plantas nas condições ambientais do referido ecossistema são:",
+  "assets": [],
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "id": "2012:57:A",
+      "letter": "A",
+      "textMarkdown": "Cascas finas e sem sulcos ou fendas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:57:B",
+      "letter": "B",
+      "textMarkdown": "Caules estreitos e retilíneos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:57:C",
+      "letter": "C",
+      "textMarkdown": "Folhas estreitas e membranosas.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2012:57:D",
+      "letter": "D",
+      "textMarkdown": "Gemas apicais com densa pilosidade.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2012:57:E",
+      "letter": "E",
+      "textMarkdown": "Raízes superficiais, em geral, aéreas.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

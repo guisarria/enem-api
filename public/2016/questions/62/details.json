@@ -1,43 +1,50 @@
 {
-    "title": "Questão 62 - ENEM 2016",
-    "index": 62,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Em qual grupo de organismos ocorre essa transição?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Fitoplâncton.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Zooplâncton.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Moluscos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Crustáceos",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Peixes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:62",
+  "variantKey": "62",
+  "title": "Questão 62 - ENEM 2016",
+  "index": 62,
+  "year": 2016,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": null,
+  "alternativesIntroductionMarkdown": "Em qual grupo de organismos ocorre essa transição?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:62:A",
+      "letter": "A",
+      "textMarkdown": "Fitoplâncton.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:62:B",
+      "letter": "B",
+      "textMarkdown": "Zooplâncton.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:62:C",
+      "letter": "C",
+      "textMarkdown": "Moluscos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:62:D",
+      "letter": "D",
+      "textMarkdown": "Crustáceos",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:62:E",
+      "letter": "E",
+      "textMarkdown": "Peixes.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

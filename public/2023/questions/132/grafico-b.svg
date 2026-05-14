@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Gráfico B">
+  <defs>
+    <marker id="axis-b" markerHeight="8" markerWidth="8" orient="auto" refX="7" refY="4">
+      <path d="M0 0 8 4 0 8Z" fill="#111" />
+    </marker>
+    <marker id="arrow-b" markerHeight="8" markerWidth="8" orient="auto" refX="7" refY="4">
+      <path d="M0 0 8 4 0 8Z" fill="#c7252f" />
+    </marker>
+  </defs>
+  <rect width="320" height="240" fill="#fff" />
+  <path d="M60 205V24M60 205H286" fill="none" marker-end="url(#axis-b)" stroke="#111" stroke-width="2" />
+  <text x="6" y="22" font-family="Arial, sans-serif" font-size="20" font-style="italic">P</text>
+  <text x="28" y="22" font-family="Arial, sans-serif" font-size="16">(Pa)</text>
+  <text x="264" y="229" font-family="Arial, sans-serif" font-size="20" font-style="italic">T</text>
+  <text x="286" y="229" font-family="Arial, sans-serif" font-size="16">(K)</text>
+  <text x="20" y="90" font-family="Arial, sans-serif" font-size="18" font-style="italic">P₀</text>
+  <text x="91" y="225" font-family="Arial, sans-serif" font-size="18" font-style="italic">T</text>
+  <text x="219" y="225" font-family="Arial, sans-serif" font-size="18" font-style="italic">T₀</text>
+  <path d="M105 205V88M105 88H235M235 88V205" fill="none" stroke="#111" stroke-dasharray="2 4" stroke-width="2" />
+  <path d="M235 88H105" fill="none" marker-end="url(#arrow-b)" stroke="#c7252f" stroke-width="4" />
+  <circle cx="105" cy="88" r="4" fill="#c7252f" />
+  <circle cx="235" cy="88" r="4" fill="#c7252f" />
+</svg>

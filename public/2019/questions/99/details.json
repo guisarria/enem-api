@@ -1,43 +1,50 @@
 {
-    "title": "Questão 99 - ENEM 2019",
-    "index": 99,
-    "year": 2019,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo.\n\nLIMA, L. K. S. et. al. Utilização de resíduo oriundo da torrefação do café na agricultura em substituição à adubação convencional. **ACSA – Agropecuária Científica no Semi-Árido**, v. 10, n. 1, jan.-mar., 2014 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Esse resíduo contribui para a fertilidade do solo, pois",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Possibilita a reciclagem de carbono e nitrogênio.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Promove o deslocamento do alumínio, que é tóxico.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Melhora a compactação do solo por causa da presença de pectina.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "D eleva o pH do solo em função da degradação dos componentes do resíduo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2019:99",
+  "variantKey": "99",
+  "title": "Questão 99 - ENEM 2019",
+  "index": 99,
+  "year": 2019,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo.\n\nLIMA, L. K. S. et. al. Utilização de resíduo oriundo da torrefação do café na agricultura em substituição à adubação convencional. **ACSA – Agropecuária Científica no Semi-Árido**, v. 10, n. 1, jan.-mar., 2014 (adaptado).",
+  "alternativesIntroductionMarkdown": "Esse resíduo contribui para a fertilidade do solo, pois",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2019:99:A",
+      "letter": "A",
+      "textMarkdown": "Possibilita a reciclagem de carbono e nitrogênio.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2019:99:B",
+      "letter": "B",
+      "textMarkdown": "Promove o deslocamento do alumínio, que é tóxico.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:99:C",
+      "letter": "C",
+      "textMarkdown": "Melhora a compactação do solo por causa da presença de pectina.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:99:D",
+      "letter": "D",
+      "textMarkdown": "D eleva o pH do solo em função da degradação dos componentes do resíduo.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2019:99:E",
+      "letter": "E",
+      "textMarkdown": "Apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

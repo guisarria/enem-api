@@ -1,43 +1,50 @@
 {
-    "title": "Questão 8 - ENEM 2017",
-    "index": 8,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Mas assim que penetramos no universo da web, descobrimos que ele constitui não apenas um imenso “território” em expansão acelerada, mas que também oferece inúmeros “mapas”, filtros, seleções para ajudar o navegante a orientar-se. O melhor guia para a web é a própria web. Ainda que seja preciso ter a paciência  \nde explorá-la. Ainda que seja preciso arriscar-se a ficar perdido, aceitar “a perda de tempo” para familiarizar-se com esta terra estranha. Talvez seja preciso ceder por um instante a seu aspecto lúdico para descobrir, no desvio de um link, os sites que mais se aproximam de nossos interesses profissionais ou de nossas paixões e que poderão, portanto, alimentar da melhor maneira possível nossa jornada pessoal.\n\nLÉVY, P. Cibercultura. São Paulo: Editora 34, 1999.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O usuário iniciante sente-se não raramente desorientado no oceano de informações e possibilidades disponíveis na rede mundial de computadores. Nesse sentido, Pierre Lévy destaca como um dos principais aspectos da internet o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Espaço aberto para a aprendizagem.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Grande número de ferramentas de pesquisa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ausência de mapas ou guias explicativos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Infinito número de páginas virtuais",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Dificuldade de acesso aos sites de pesquisa.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:8",
+  "variantKey": "8",
+  "title": "Questão 8 - ENEM 2017",
+  "index": 8,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Mas assim que penetramos no universo da web, descobrimos que ele constitui não apenas um imenso “território” em expansão acelerada, mas que também oferece inúmeros “mapas”, filtros, seleções para ajudar o navegante a orientar-se. O melhor guia para a web é a própria web. Ainda que seja preciso ter a paciência  \nde explorá-la. Ainda que seja preciso arriscar-se a ficar perdido, aceitar “a perda de tempo” para familiarizar-se com esta terra estranha. Talvez seja preciso ceder por um instante a seu aspecto lúdico para descobrir, no desvio de um link, os sites que mais se aproximam de nossos interesses profissionais ou de nossas paixões e que poderão, portanto, alimentar da melhor maneira possível nossa jornada pessoal.\n\nLÉVY, P. Cibercultura. São Paulo: Editora 34, 1999.",
+  "alternativesIntroductionMarkdown": "O usuário iniciante sente-se não raramente desorientado no oceano de informações e possibilidades disponíveis na rede mundial de computadores. Nesse sentido, Pierre Lévy destaca como um dos principais aspectos da internet o(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2017:8:A",
+      "letter": "A",
+      "textMarkdown": "Espaço aberto para a aprendizagem.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:8:B",
+      "letter": "B",
+      "textMarkdown": "Grande número de ferramentas de pesquisa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:8:C",
+      "letter": "C",
+      "textMarkdown": "Ausência de mapas ou guias explicativos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:8:D",
+      "letter": "D",
+      "textMarkdown": "Infinito número de páginas virtuais",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:8:E",
+      "letter": "E",
+      "textMarkdown": "Dificuldade de acesso aos sites de pesquisa.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

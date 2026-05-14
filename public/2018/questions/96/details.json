@@ -1,43 +1,50 @@
 {
-    "title": "Questão 96 - ENEM 2018",
-    "index": 96,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apoiar e são insolúveis em água.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Esses ácidos atuam no processo de modo a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Hidrolisar os lipídios.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Agir como detergentes.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Tornar os lipídios anfifílicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Promover a secreção de lipases.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Estimular o trânsito intestinal dos lipídios.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:96",
+  "variantKey": "96",
+  "title": "Questão 96 - ENEM 2018",
+  "index": 96,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apoiar e são insolúveis em água.",
+  "alternativesIntroductionMarkdown": "Esses ácidos atuam no processo de modo a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2018:96:A",
+      "letter": "A",
+      "textMarkdown": "Hidrolisar os lipídios.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:96:B",
+      "letter": "B",
+      "textMarkdown": "Agir como detergentes.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:96:C",
+      "letter": "C",
+      "textMarkdown": "Tornar os lipídios anfifílicos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:96:D",
+      "letter": "D",
+      "textMarkdown": "Promover a secreção de lipases.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:96:E",
+      "letter": "E",
+      "textMarkdown": "Estimular o trânsito intestinal dos lipídios.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 31 - ENEM 2014",
-    "index": 31,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés 111. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.\n\nNOBLAT, R. Disponivel em: www.oglobo.com. Acesso em: 12 dez. 2012.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Lugar da memória na história nacional.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Caráter espontâneo das festas populares.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Lembrança da antiguidade da cultura local.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Triunfo da nação sobre os países africanos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Declínio do regime de monarquia absolutista.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2014:31",
+  "variantKey": "31",
+  "title": "Questão 31 - ENEM 2014",
+  "index": 31,
+  "year": 2014,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés 111. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.\n\nNOBLAT, R. Disponivel em: www.oglobo.com. Acesso em: 12 dez. 2012.",
+  "alternativesIntroductionMarkdown": "A constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2014:31:A",
+      "letter": "A",
+      "textMarkdown": "Lugar da memória na história nacional.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2014:31:B",
+      "letter": "B",
+      "textMarkdown": "Caráter espontâneo das festas populares.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:31:C",
+      "letter": "C",
+      "textMarkdown": "Lembrança da antiguidade da cultura local.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:31:D",
+      "letter": "D",
+      "textMarkdown": "Triunfo da nação sobre os países africanos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2014:31:E",
+      "letter": "E",
+      "textMarkdown": "Declínio do regime de monarquia absolutista.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

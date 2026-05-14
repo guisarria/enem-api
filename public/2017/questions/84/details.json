@@ -1,43 +1,50 @@
 {
-    "title": "Questão 84 - ENEM 2017",
-    "index": 84,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "O conceito de democracia, no pensamento de Habermas, é construído a partir de uma dimensão procedimental, calcada no discurso e na deliberação. A legitimidade democrática exige que o processo de tomada de decisões políticas ocorra a partir de uma ampla discussão pública, para somente então decidir. Assim, o caráter deliberativo corresponde a um processo coletivo de ponderação e análise, permeado pelo discurso, que antecede a decisão.\n\nVITALE, D. Jürgen Habermas, modernidade e democracia deliberativa. **Cadernos do CRH (UFBA)**, v. 19, 2006 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O conceito de democracia proposto por Jürgen Habermas pode favorecer processos de inclusão social. De acordo com o texto, é uma condição para que isso aconteça o(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Participação direta periódica do cidadão.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Debate livre e racional entre cidadãos e Estado.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Interlocução entre os poderes governamentais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Eleição de lideranças políticas com mandatos temporários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Controle do poder político por cidadãos mais esclarecidos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:84",
+  "variantKey": "84",
+  "title": "Questão 84 - ENEM 2017",
+  "index": 84,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "O conceito de democracia, no pensamento de Habermas, é construído a partir de uma dimensão procedimental, calcada no discurso e na deliberação. A legitimidade democrática exige que o processo de tomada de decisões políticas ocorra a partir de uma ampla discussão pública, para somente então decidir. Assim, o caráter deliberativo corresponde a um processo coletivo de ponderação e análise, permeado pelo discurso, que antecede a decisão.\n\nVITALE, D. Jürgen Habermas, modernidade e democracia deliberativa. **Cadernos do CRH (UFBA)**, v. 19, 2006 (adaptado).",
+  "alternativesIntroductionMarkdown": "O conceito de democracia proposto por Jürgen Habermas pode favorecer processos de inclusão social. De acordo com o texto, é uma condição para que isso aconteça o(a)",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:84:A",
+      "letter": "A",
+      "textMarkdown": "Participação direta periódica do cidadão.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:84:B",
+      "letter": "B",
+      "textMarkdown": "Debate livre e racional entre cidadãos e Estado.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:84:C",
+      "letter": "C",
+      "textMarkdown": "Interlocução entre os poderes governamentais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:84:D",
+      "letter": "D",
+      "textMarkdown": "Eleição de lideranças políticas com mandatos temporários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:84:E",
+      "letter": "E",
+      "textMarkdown": "Controle do poder político por cidadãos mais esclarecidos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

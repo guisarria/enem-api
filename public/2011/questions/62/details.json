@@ -1,45 +1,58 @@
 {
-    "title": "Questão 62 - ENEM 2011",
-    "index": 62,
-    "year": 2011,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg)",
-    "files": [
-        "https://enem.dev/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "C.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "N.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "P.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "CO2.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "PO43-.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2011:62",
+  "variantKey": "62",
+  "title": "Questão 62 - ENEM 2011",
+  "index": 62,
+  "year": 2011,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "![](/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg)",
+  "alternativesIntroductionMarkdown": "A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o",
+  "assets": [
+    {
+      "id": "2011:62:asset:0",
+      "path": "/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2011:62:A",
+      "letter": "A",
+      "textMarkdown": "C.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:62:B",
+      "letter": "B",
+      "textMarkdown": "N.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2011:62:C",
+      "letter": "C",
+      "textMarkdown": "P.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:62:D",
+      "letter": "D",
+      "textMarkdown": "CO2.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2011:62:E",
+      "letter": "E",
+      "textMarkdown": "PO43-.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

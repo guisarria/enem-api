@@ -1,43 +1,50 @@
 {
-    "title": "Questão 102 - ENEM 2016",
-    "index": 102,
-    "year": 2016,
-    "language": null,
-    "discipline": "linguagens",
-    "context": "**Mandinga** — Era a denominação que, no período das grandes navegações, os portugueses davam à costa ocidental da África. A palavra se tornou sinônimo de feitiçaria porque os exploradores lusitanos consideravam bruxos os africanos que ali habitavam – é que eles davam indicações sobre a existência de ouro na região. Em idioma nativo, _mandinga_ designava terra de feiticeiros. A palavra acabou virando sinônimo de feitiço, sortilégio.\n\nCOTRIM, M. **O pulo do gato 3**. São Paulo: Geração Editorial, 2009 (fragmento).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "No texto, evidencia-se que a construção do significado da palavra mandinga resulta de um(a)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Contexto sócio-histórico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Diversidade étnica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Descoberta geográfica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Apropriação religiosa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Contraste cultural.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2016:102",
+  "variantKey": "102",
+  "title": "Questão 102 - ENEM 2016",
+  "index": 102,
+  "year": 2016,
+  "discipline": "linguagens",
+  "language": null,
+  "contextMarkdown": "**Mandinga** — Era a denominação que, no período das grandes navegações, os portugueses davam à costa ocidental da África. A palavra se tornou sinônimo de feitiçaria porque os exploradores lusitanos consideravam bruxos os africanos que ali habitavam – é que eles davam indicações sobre a existência de ouro na região. Em idioma nativo, _mandinga_ designava terra de feiticeiros. A palavra acabou virando sinônimo de feitiço, sortilégio.\n\nCOTRIM, M. **O pulo do gato 3**. São Paulo: Geração Editorial, 2009 (fragmento).",
+  "alternativesIntroductionMarkdown": "No texto, evidencia-se que a construção do significado da palavra mandinga resulta de um(a)",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2016:102:A",
+      "letter": "A",
+      "textMarkdown": "Contexto sócio-histórico.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2016:102:B",
+      "letter": "B",
+      "textMarkdown": "Diversidade étnica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:102:C",
+      "letter": "C",
+      "textMarkdown": "Descoberta geográfica.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:102:D",
+      "letter": "D",
+      "textMarkdown": "Apropriação religiosa.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2016:102:E",
+      "letter": "E",
+      "textMarkdown": "Contraste cultural.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,50 @@
 {
-    "title": "Questão 41 - ENEM 2013",
-    "index": 41,
-    "year": 2013,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.\n\n_CUPANI, A. A tecnologia como problema filosófico: três enfoques. Scientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado)._",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Autores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2013:41",
+  "variantKey": "41",
+  "title": "Questão 41 - ENEM 2013",
+  "index": 41,
+  "year": 2013,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.\n\n_CUPANI, A. A tecnologia como problema filosófico: três enfoques. Scientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado)._",
+  "alternativesIntroductionMarkdown": "Autores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em",
+  "assets": [],
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "id": "2013:41:A",
+      "letter": "A",
+      "textMarkdown": "Expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:41:B",
+      "letter": "B",
+      "textMarkdown": "Oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:41:C",
+      "letter": "C",
+      "textMarkdown": "Ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2013:41:D",
+      "letter": "D",
+      "textMarkdown": "Explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2013:41:E",
+      "letter": "E",
+      "textMarkdown": "Explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

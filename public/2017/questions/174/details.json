@@ -1,45 +1,58 @@
 {
-    "title": "Questão 174 - ENEM 2017",
-    "index": 174,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": "![](https://enem.dev/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png)\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).",
-    "files": [
-        "https://enem.dev/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png"
-    ],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "8,1%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "8,0%",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "7,9%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "7,7%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "7,6%",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:174",
+  "variantKey": "174",
+  "title": "Questão 174 - ENEM 2017",
+  "index": 174,
+  "year": 2017,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "![](/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png)\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).",
+  "alternativesIntroductionMarkdown": "A mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
+  "assets": [
+    {
+      "id": "2017:174:asset:0",
+      "path": "/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:174:A",
+      "letter": "A",
+      "textMarkdown": "8,1%",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:174:B",
+      "letter": "B",
+      "textMarkdown": "8,0%",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:174:C",
+      "letter": "C",
+      "textMarkdown": "7,9%",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:174:D",
+      "letter": "D",
+      "textMarkdown": "7,7%",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:174:E",
+      "letter": "E",
+      "textMarkdown": "7,6%",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

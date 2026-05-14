@@ -1,43 +1,50 @@
 {
-    "title": "Questão 159 - ENEM 2021",
-    "index": 159,
-    "year": 2021,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "6,0",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "5,7",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "5,0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4,5",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "4,4",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2021:159",
+  "variantKey": "159",
+  "title": "Questão 159 - ENEM 2021",
+  "index": 159,
+  "year": 2021,
+  "discipline": "matematica",
+  "language": null,
+  "contextMarkdown": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.",
+  "alternativesIntroductionMarkdown": "Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+  "assets": [],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2021:159:A",
+      "letter": "A",
+      "textMarkdown": "6,0",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2021:159:B",
+      "letter": "B",
+      "textMarkdown": "5,7",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:159:C",
+      "letter": "C",
+      "textMarkdown": "5,0",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:159:D",
+      "letter": "D",
+      "textMarkdown": "4,5",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2021:159:E",
+      "letter": "E",
+      "textMarkdown": "4,4",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

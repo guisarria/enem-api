@@ -1,45 +1,58 @@
 {
-    "title": "Questão 2 - ENEM 2020",
-    "index": 2,
-    "year": 2020,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "![](https://enem.dev/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png)",
-    "files": [
-        "https://enem.dev/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Esteriotipar povos de certas culturas",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Discriminar hábitos de grupos minoritários",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Banir imigrantes de determinadas origens",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Julgar padrões de beleza de diversas etnias",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desvalorizar costumes de algumas sociedades.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2020:2-ingles",
+  "variantKey": "2-ingles",
+  "title": "Questão 2 - ENEM 2020",
+  "index": 2,
+  "year": 2020,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "contextMarkdown": "![](/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png)",
+  "alternativesIntroductionMarkdown": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+  "assets": [
+    {
+      "id": "2020:2-ingles:asset:0",
+      "path": "/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2020:2-ingles:A",
+      "letter": "A",
+      "textMarkdown": "Esteriotipar povos de certas culturas",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2020:2-ingles:B",
+      "letter": "B",
+      "textMarkdown": "Discriminar hábitos de grupos minoritários",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:2-ingles:C",
+      "letter": "C",
+      "textMarkdown": "Banir imigrantes de determinadas origens",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:2-ingles:D",
+      "letter": "D",
+      "textMarkdown": "Julgar padrões de beleza de diversas etnias",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2020:2-ingles:E",
+      "letter": "E",
+      "textMarkdown": "Desvalorizar costumes de algumas sociedades.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

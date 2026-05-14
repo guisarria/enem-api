@@ -1,45 +1,58 @@
 {
-    "title": "Questão 125 - ENEM 2018",
-    "index": 125,
-    "year": 2018,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Afigura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num flime para fotografia colorida, revelando três pontos.\n\n![](https://enem.dev/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png)",
-    "files": [
-        "https://enem.dev/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png"
-    ],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Observando os pontos luminosos revelados no flime, de baixo para cima, constatam-se as seguintes cores:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Vermelha, verde, azul.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Verde, vermelha, azul.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Azul, verde, vermelha.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Verde, azul, vermelha.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Azul, vermelha, verde.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2018:125",
+  "variantKey": "125",
+  "title": "Questão 125 - ENEM 2018",
+  "index": 125,
+  "year": 2018,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "contextMarkdown": "Afigura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num flime para fotografia colorida, revelando três pontos.\n\n![](/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png)",
+  "alternativesIntroductionMarkdown": "Observando os pontos luminosos revelados no flime, de baixo para cima, constatam-se as seguintes cores:",
+  "assets": [
+    {
+      "id": "2018:125:asset:0",
+      "path": "/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png",
+      "role": "context",
+      "position": 0,
+      "alternativeLetter": null
+    }
+  ],
+  "correctAlternative": "A",
+  "alternatives": [
+    {
+      "id": "2018:125:A",
+      "letter": "A",
+      "textMarkdown": "Vermelha, verde, azul.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2018:125:B",
+      "letter": "B",
+      "textMarkdown": "Verde, vermelha, azul.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:125:C",
+      "letter": "C",
+      "textMarkdown": "Azul, verde, vermelha.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:125:D",
+      "letter": "D",
+      "textMarkdown": "Verde, azul, vermelha.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2018:125:E",
+      "letter": "E",
+      "textMarkdown": "Azul, vermelha, verde.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }

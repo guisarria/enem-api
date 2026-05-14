@@ -1,43 +1,50 @@
 {
-    "title": "Questão 56 - ENEM 2017",
-    "index": 56,
-    "year": 2017,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Os maiores consumidores da infraestrutura logística para exportação no Brasil são os produtos a granel, dentre os quais se destacam o minério de ferro, petróleo e seus derivados e a soja, que, por possuírem baixo valor agregado, e por serem movimentados em grandes volumes, necessitam de uma infraestrutura de grande porte e baixos custos. No caso da soja, a infraestrutura deixa muito a desejar, resultando em enormes filas de navios, caminhões e trens, que, por ficarem grande parte do tempo ociosos nas filas, têm seu custo majorado, onerando fortemente o exportador, afetando sua margem de lucro e ameaçando nossa competitividade internacional.\n\nFLEURY, P F. **A infraestrutura e os desafios logísticos das exportações brasileiras.** Rio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "No contexto do início do século XXI, uma ação para solucionar os problemas logísticos da soja apresentados no texto seria a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Isenção de impostos de transportes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Construção de terminais atracadouros.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Diversificação dos parceiros comerciais.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Contratação de trabalhadores portuários.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Intensificação do policiamento das rodovias.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "id": "2017:56",
+  "variantKey": "56",
+  "title": "Questão 56 - ENEM 2017",
+  "index": 56,
+  "year": 2017,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "contextMarkdown": "Os maiores consumidores da infraestrutura logística para exportação no Brasil são os produtos a granel, dentre os quais se destacam o minério de ferro, petróleo e seus derivados e a soja, que, por possuírem baixo valor agregado, e por serem movimentados em grandes volumes, necessitam de uma infraestrutura de grande porte e baixos custos. No caso da soja, a infraestrutura deixa muito a desejar, resultando em enormes filas de navios, caminhões e trens, que, por ficarem grande parte do tempo ociosos nas filas, têm seu custo majorado, onerando fortemente o exportador, afetando sua margem de lucro e ameaçando nossa competitividade internacional.\n\nFLEURY, P F. **A infraestrutura e os desafios logísticos das exportações brasileiras.** Rio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).",
+  "alternativesIntroductionMarkdown": "No contexto do início do século XXI, uma ação para solucionar os problemas logísticos da soja apresentados no texto seria a",
+  "assets": [],
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "id": "2017:56:A",
+      "letter": "A",
+      "textMarkdown": "Isenção de impostos de transportes.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:56:B",
+      "letter": "B",
+      "textMarkdown": "Construção de terminais atracadouros.",
+      "assetIds": [],
+      "isCorrect": true
+    },
+    {
+      "id": "2017:56:C",
+      "letter": "C",
+      "textMarkdown": "Diversificação dos parceiros comerciais.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:56:D",
+      "letter": "D",
+      "textMarkdown": "Contratação de trabalhadores portuários.",
+      "assetIds": [],
+      "isCorrect": false
+    },
+    {
+      "id": "2017:56:E",
+      "letter": "E",
+      "textMarkdown": "Intensificação do policiamento das rodovias.",
+      "assetIds": [],
+      "isCorrect": false
+    }
+  ]
 }
